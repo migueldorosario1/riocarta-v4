@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "v1",
+  "source": "Governo do Estado do Rio de Janeiro; Agencia Brasil; acompanhamento institucional em 2026",
+  "criterio": "Governador atual em exercicio; sem votos diretos porque assumiu o mandato-tampao por sucessao institucional.",
+  "governador": {
+    "nome": "Ricardo Couto de Castro",
+    "slug": "ricardo-couto-de-castro",
+    "governador": "Ricardo Couto de Castro",
+    "partido": "Sem partido",
+    "votos": 0,
+    "totalVotosEstado": 0,
+    "percentualEstado": 0,
+    "situacao": "GOVERNADOR EM EXERCÍCIO",
+    "observacao": "Assumiu em 2026 sem votação direta para o mandato-tampão."
+  }
+}

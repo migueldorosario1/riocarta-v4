@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.astro/
+Backups/
+dist.bak*/
+logs/
+__pycache__/
+scripts/__pycache__/
+*.html
+*.log
+*.pyc
+.env
+.env*
+!.env.example

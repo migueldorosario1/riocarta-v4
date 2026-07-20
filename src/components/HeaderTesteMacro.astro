@@ -1,0 +1,158 @@
+---
+import logoImg from '../assets/logo-transparent.png';
+import { SITE_TITLE } from '../consts';
+import { Image } from 'astro:assets';
+
+const macroItems = [
+	{ label: 'Geral', slug: 'geral' },
+	{ label: 'Política', slug: 'politica' },
+	{ label: 'Lazer', slug: 'lazer' },
+	{ label: 'Segurança', slug: 'seguranca' },
+	{ label: 'Economia', slug: 'economia' },
+	{ label: 'Serviços', slug: 'servicos' },
+];
+---
+
+<header class="test-header">
+	<div class="test-header__inner">
+		<a href="/" class="test-header__logo" aria-label="Rio Carta">
+			<Image src={logoImg} alt={SITE_TITLE} width={280} height={120} class="test-header__logo-img" />
+		</a>
+
+		<div class="test-header__content">
+			<div class="test-header__topline">
+				<span>Portal de notícias do Rio de Janeiro</span>
+				<span>por Miguel do Rosário</span>
+			</div>
+
+			<nav class="test-header__macros" aria-label="Macroeditorias em teste">
+				{macroItems.map((item) => (
+					<a href={`/macro/${item.slug}`} data-testid={`macro-${item.slug}`}>{item.label}</a>
+				))}
+			</nav>
+
+			<nav class="test-header__links" aria-label="Menu secundário em teste">
+				<a href="/">Início</a>
+				<a href="/tags/rio-de-janeiro">Geonotícias</a>
+				<a href="/tags/politica-rj">Política RJ</a>
+				<a href="/tags/seguranca-publica">Segurança Pública</a>
+				<a href="/tags/cultura-carnaval">Cultura</a>
+				<a href="/tags/economia-rj">Economia RJ</a>
+			</nav>
+		</div>
+	</div>
+</header>
+
+<style>
+	.test-header {
+		background: #ffffff;
+		border-bottom: 1px solid rgba(22, 34, 51, 0.12);
+		box-shadow: 0 8px 24px rgba(22, 34, 51, 0.08);
+		color: #142033;
+	}
+
+	.test-header__inner {
+		width: min(1180px, calc(100% - 32px));
+		margin: 0 auto;
+		display: grid;
+		grid-template-columns: 220px minmax(0, 1fr);
+		gap: 24px;
+		align-items: center;
+		padding: 16px 0;
+	}
+
+	.test-header__logo {
+		display: block;
+		line-height: 0;
+	}
+
+	.test-header__logo-img {
+		width: 100%;
+		height: auto;
+		object-fit: contain;
+	}
+
+	.test-header__content {
+		min-width: 0;
+		display: grid;
+		gap: 10px;
+	}
+
+	.test-header__topline {
+		display: flex;
+		justify-content: space-between;
+		gap: 16px;
+		font-size: 0.88rem;
+		color: #4b5b72;
+	}
+
+	.test-header__topline span:first-child {
+		font-weight: 700;
+		text-transform: uppercase;
+	}
+
+	.test-header__macros,
+	.test-header__links {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+	}
+
+	.test-header__macros a,
+	.test-header__links a {
+		text-decoration: none;
+		white-space: nowrap;
+		border-radius: 6px;
+		transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+	}
+
+	.test-header__macros a {
+		background: #0b3a70;
+		color: #ffffff;
+		font-weight: 800;
+		font-size: 0.88rem;
+		padding: 8px 12px;
+	}
+
+	.test-header__macros a:hover {
+		background: #0f5fa8;
+	}
+
+	.test-header__links a {
+		color: #24354d;
+		border: 1px solid rgba(36, 53, 77, 0.18);
+		font-size: 0.82rem;
+		font-weight: 700;
+		padding: 7px 10px;
+	}
+
+	.test-header__links a:hover {
+		background: #f0f4f8;
+		border-color: rgba(15, 95, 168, 0.35);
+		color: #0b3a70;
+	}
+
+	@media (max-width: 760px) {
+		.test-header__inner {
+			grid-template-columns: 1fr;
+			gap: 12px;
+		}
+
+		.test-header__logo {
+			width: min(220px, 70vw);
+		}
+
+		.test-header__topline {
+			display: grid;
+			gap: 3px;
+			font-size: 0.8rem;
+		}
+
+		.test-header__macros,
+		.test-header__links {
+			overflow-x: auto;
+			flex-wrap: nowrap;
+			padding-bottom: 4px;
+		}
+	}
+</style>

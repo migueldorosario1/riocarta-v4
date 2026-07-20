@@ -1,0 +1,833 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import HeaderLink from './HeaderLink.astro';
+import logoImg from '../assets/logo-transparent.png';
+import { Image } from 'astro:assets';
+import { rioZones, rjRegions } from '../data/rjTaxonomy';
+import vereadoresRj from '../data/vereadores_rj.json';
+import parlamentaresRj from '../data/parlamentares_rj.json';
+import deputadosEstaduaisEleitosRj from '../data/deputados_estaduais_eleitos_rj_2022.json';
+import deputadosFederaisEleitosRj from '../data/deputados_federais_eleitos_rj_2022.json';
+import senadoresEleitosRj from '../data/senadores_eleitos_rj_2022.json';
+
+const pathname = Astro.url.pathname;
+const isHome = pathname === '/' || pathname === '/index.html';
+
+type Vereador = {
+	nome: string;
+	slug: string;
+	partido?: string;
+	numero?: string;
+};
+
+type CidadeVereadores = {
+	cidade: string;
+	cidadeSlug: string;
+	vereadores: Vereador[];
+};
+
+type Parlamentar = {
+	nome: string;
+	slug: string;
+	partido?: string;
+	urlOficial?: string;
+};
+
+type DeputadoEstadualEleito = {
+	nome: string;
+	slug: string;
+	partido: string;
+	numero: string;
+	votos: number;
+	percentualEstado: number;
+};
+
+type ParlamentarEleito = DeputadoEstadualEleito;
+
+const cidadesComVereadores = (vereadoresRj.cidades ?? []) as CidadeVereadores[];
+const vereadoresPorCidade = new Map(cidadesComVereadores.map((cidade) => [cidade.cidadeSlug, cidade.vereadores]));
+const limiteVereadoresMenu = 18;
+const deputadosEstaduais = (deputadosEstaduaisEleitosRj.deputados ?? []) as DeputadoEstadualEleito[];
+const deputadosFederais = (deputadosFederaisEleitosRj.deputadosFederais ?? []) as ParlamentarEleito[];
+const senadoresEleitos = (senadoresEleitosRj.senadores ?? []) as ParlamentarEleito[];
+const senadoresEmExercicio = (parlamentaresRj.senadores ?? []) as Parlamentar[];
+---
+
+<header class={`premium-header ${isHome ? 'header-home' : 'header-article'}`}>
+	<nav class="navbar">
+		<div class="header-left">
+			<a href="/" class="logo-link">
+				<Image src={logoImg} alt={SITE_TITLE} width={525} height={225} class="logo-img" />
+			</a>
+		</div>
+		<div class="header-right">
+			<div class="row-slogan">
+				<span class="slogan-main">Portal de notícias do Rio de Janeiro</span>
+				<span class="slogan-sub">por Miguel do Rosário</span>
+			</div>
+			<div class="row-menu">
+				<div class="nav-links">
+					<div class="nav-item dropdown">
+						<button class="dropbtn">Editorial <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+						<div class="dropdown-content">
+							<a href="/" class="submenu-title" style="text-decoration: none; display: block; font-weight: bold;">Capa do Site</a>
+							<a href="/quem-somos" class="submenu-title" style="text-decoration: none; display: block;">Quem Somos</a>
+							<a href="/editorial" class="submenu-title" style="text-decoration: none; display: block;">Linha Editorial</a>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Histórico <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/historico/2026">2026</a>
+									<a href="/historico/2025">2025</a>
+									<a href="/historico/2024">2024</a>
+									<a href="/historico/2023">2023</a>
+								</div>
+							</div>
+							<a href="/tags/opiniao-diaria" class="submenu-title" style="text-decoration: none; display: block;">Opinião diária</a>
+						</div>
+					</div>
+
+					<div class="nav-item dropdown">
+						<button class="dropbtn">Geonotícias <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+						<div class="dropdown-content">
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Rio Capital: zonas e bairros <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rioZones.map((zone) => (
+										<div class="submenu-section">
+											<a href={`/tags/${zone.slug}`} class="submenu-section-title">{zone.label}</a>
+											{zone.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Cidades por região <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<a href={`/tags/${region.slug}`} class="submenu-section-title">{region.label}</a>
+											{region.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Temas RJ <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/macro/politica">Política</a>
+									<a href="/macro/economia">Economia</a>
+									<a href="/macro/seguranca">Segurança</a>
+									<a href="/macro/lazer">Lazer</a>
+									<a href="/macro/servicos">Serviços</a>
+									<a href="/macro/geral">Geral</a>
+									<a href="/tags/transporte-mobilidade">Transporte e Mobilidade</a>
+									<a href="/tags/saude">Saúde</a>
+									<a href="/tags/educacao">Educação</a>
+								</div>
+							</div>
+							<a href="/tags/nacional" class="submenu-title" style="text-decoration: none; display: block;">Nacional</a>
+							<a href="/tags/geopolitica" class="submenu-title" style="text-decoration: none; display: block;">Internacional</a>
+							<a href="https://mapario.com.br/" target="_blank" rel="noopener noreferrer" class="submenu-title" style="text-decoration: none; border-top: 1px solid #eee; margin-top: 0.5rem; border-radius: 0 0 8px 8px; display: flex;">Mapa Rio <span class="badge">taxonomia ativa</span></a>
+						</div>
+					</div>
+
+					<div class="nav-item dropdown">
+						<button class="dropbtn">Outros <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+						<div class="dropdown-content">
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Serviços Úteis <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									<div class="submenu-section">
+										<span class="submenu-section-title">Saúde & Emergência</span>
+										<a href="/servicos/emergencia">Telefones (190, 192, 193)</a>
+										<a href="/servicos/hospitais">Hospitais Estaduais</a>
+										<a href="/servicos/upas">UPAs 24h</a>
+									</div>
+									<div class="submenu-section">
+										<span class="submenu-section-title">Segurança</span>
+										<a href="/servicos/delegacias/capital">DPs da Capital</a>
+										<a href="/servicos/delegacias/baixada">DPs da Baixada</a>
+										<a href="/servicos/delegacias/interior">DPs do Interior</a>
+										<a href="/servicos/delegacias/especializadas">DEAM e DEAT</a>
+									</div>
+									<div class="submenu-section">
+										<span class="submenu-section-title">Detran & Docs</span>
+										<a href="/servicos/detran/capital">Postos Capital</a>
+										<a href="/servicos/detran/interior">Postos Interior e Baixada</a>
+										<a href="/servicos/poupatempo">Fundação Leão XIII / Procon</a>
+									</div>
+									<div class="submenu-section">
+										<span class="submenu-section-title">Transportes</span>
+										<a href="/servicos/aeroportos">Aeroportos</a>
+										<a href="/servicos/rodoviarias">Rodoviárias</a>
+										<a href="/servicos/barcas">Barcas (CCR)</a>
+										<a href="/servicos/trens-metro">SuperVia e MetrôRio</a>
+									</div>
+									<div class="submenu-section">
+										<span class="submenu-section-title">Social & Educação</span>
+										<a href="/servicos/universidades">Universidades (UFRJ, UERJ, etc)</a>
+										<a href="/servicos/emprego">Agências SINE (Emprego)</a>
+										<a href="/servicos/assistencia">Assistência e Abrigos</a>
+									</div>
+								</div>
+							</div>
+							<a href="/tags/eleicoes-2026" class="submenu-title" style="text-decoration: none; display: block;">Eleições 2026</a>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Deputados Estaduais <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									<a href="/tags/deputados-estaduais" class="submenu-section-title">Lista completa por votação</a>
+									{deputadosEstaduais.map((deputado) => (
+										<a href={`/tags/${deputado.slug}`} class="parliament-link" title={`${deputado.nome} (${deputado.partido}) · ${deputado.votos.toLocaleString('pt-BR')} votos · ${deputado.percentualEstado.toFixed(2)}%`}>
+											<span class="parliament-name">{deputado.nome}</span>
+											<small class="parliament-meta">
+												{deputado.partido} · {deputado.votos.toLocaleString('pt-BR')} votos · {deputado.percentualEstado.toFixed(2)}%
+											</small>
+										</a>
+									))}
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Parlamentares Federais <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide submenu-content-parliament submenu-content-left">
+									<div class="submenu-section">
+										<a href="/tags/deputados-federais-rj" class="submenu-section-title">Deputados Federais por votação</a>
+										{deputadosFederais.map((deputado) => (
+											<a href={`/tags/${deputado.slug}`} class="parliament-link" title={`${deputado.nome} (${deputado.partido}) · ${deputado.votos.toLocaleString('pt-BR')} votos · ${deputado.percentualEstado.toFixed(2)}%`}>
+												<span class="parliament-name">{deputado.nome}</span>
+												<small class="parliament-meta">
+													{deputado.partido} · {deputado.votos.toLocaleString('pt-BR')} votos · {deputado.percentualEstado.toFixed(2)}%
+												</small>
+											</a>
+										))}
+									</div>
+									<div class="submenu-section">
+										<a href="/tags/senadores-rj" class="submenu-section-title">Senador eleito em 2022</a>
+										{senadoresEleitos.map((senador) => (
+											<a href={`/tags/${senador.slug}`} class="parliament-link" title={`${senador.nome} (${senador.partido}) · ${senador.votos.toLocaleString('pt-BR')} votos · ${senador.percentualEstado.toFixed(2)}%`}>
+												<span class="parliament-name">{senador.nome}</span>
+												<small class="parliament-meta">
+													{senador.partido} · {senador.votos.toLocaleString('pt-BR')} votos · {senador.percentualEstado.toFixed(2)}%
+												</small>
+											</a>
+										))}
+										<span class="submenu-section-title">Senadores em exercício</span>
+										{senadoresEmExercicio.map((senador) => (
+											<a href={`/tags/${senador.slug}`} title={`${senador.nome}${senador.partido ? ` (${senador.partido})` : ''}`}>
+												{senador.nome}
+											</a>
+										))}
+									</div>
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Câmaras de Vereadores <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide submenu-content-councils">
+									<div class="menu-instruction">
+										💡 Clique no nome da cidade para ter acesso a informações detalhadas sobre os vereadores.
+									</div>
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<span class="submenu-section-title">{region.label}</span>
+											{region.items.map((item) => {
+												const vereadores = vereadoresPorCidade.get(item.slug) ?? [];
+												return (
+													<div class="council-city">
+														<a href={`/tags/camara-${item.slug}`} class="council-city-link">{item.label}</a>
+														{vereadores.length > 0 && (
+															<div class="council-members">
+																{vereadores.slice(0, limiteVereadoresMenu).map((vereador) => (
+																	<a href={`/tags/${vereador.slug}`} title={`${vereador.nome}${vereador.partido ? ` (${vereador.partido})` : ''}`}>
+																		{vereador.nome}
+																	</a>
+																))}
+																{vereadores.length > limiteVereadoresMenu && (
+																	<a href={`/tags/camara-${item.slug}`} class="council-more">
+																		+{vereadores.length - limiteVereadoresMenu} vereadores
+																	</a>
+																)}
+															</div>
+														)}
+													</div>
+												);
+											})}
+										</div>
+									))}
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Prefeituras <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<span class="submenu-section-title">{region.label}</span>
+											{region.items.map((item) => <a href={`/tags/prefeitura-${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+							<a href="/tags/governo-do-estado" class="submenu-title" style="text-decoration: none; display: block;">Governo do Estado</a>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Cultura <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/tags/cultura-shows">Shows</a>
+									<a href="/tags/cultura-teatro">Teatro</a>
+									<a href="/tags/cultura-cinema">Cinema</a>
+									<a href="/tags/cultura-exposicoes">Exposições</a>
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Turismo <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<a href={`/tags/turismo-${region.slug}`} class="submenu-section-title">{region.label}</a>
+											{region.items.map((item) => <a href={`/tags/turismo-${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Bares <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<span class="submenu-section-title">{region.label}</span>
+											{region.items.map((item) => <a href={`/tags/bares-${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+			<div class="row-social">
+				<div class="social-links-header">
+					<a href="https://x.com/riocartanoticia" target="_blank" title="X"><svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+					<a href="https://www.instagram.com/riocartaoficial/" target="_blank" title="Instagram"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
+					<a href="https://www.facebook.com/riocartanoticia/?locale=pt_BR" target="_blank" title="Facebook"><svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="0"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
+				</div>
+			</div>
+		</div>
+	</nav>
+</header>
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Lora:ital,wght@1,500&family=Outfit:wght@500;600&display=swap');
+
+	.premium-header {
+		position: relative;
+		top: 0;
+		z-index: 1000;
+		background: rgba(255, 255, 255, 0.95);
+		backdrop-filter: blur(16px);
+		border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+		padding: 0.75rem 2rem;
+		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
+	}
+
+	.navbar {
+		display: grid;
+		grid-template-columns: auto 1fr;
+		align-items: stretch;
+		gap: 1.5rem;
+		max-width: 1400px;
+		margin: 0 auto;
+	}
+
+	.header-left {
+		display: flex;
+		align-items: stretch;
+	}
+
+	.logo-link {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		height: 100%;
+		min-height: 90px;
+		overflow: hidden;
+		position: relative;
+		flex-shrink: 0;
+	}
+
+	.logo-img {
+		height: 100%;
+		width: auto;
+		max-width: 210px;
+		object-fit: contain;
+	}
+
+	.header-right {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		gap: 0.5rem;
+		padding-left: 1.5rem;
+		border-left: 3px solid #eee;
+		min-height: 90px;
+	}
+
+	.row-slogan {
+		display: flex;
+		flex-direction: column;
+		gap: 0.1rem;
+	}
+
+	.slogan-main {
+		font-family: 'Montserrat', sans-serif;
+		font-size: 1.25rem;
+		font-weight: 800;
+		color: #111;
+		letter-spacing: -0.5px;
+		text-transform: uppercase;
+		line-height: 1.15;
+	}
+
+	.slogan-sub {
+		font-family: 'Lora', serif;
+		font-size: 1.05rem;
+		font-style: italic;
+		color: #d32f2f;
+		font-weight: 500;
+	}
+
+	.row-menu {
+		display: flex;
+		align-items: center;
+	}
+
+	.row-social {
+		display: flex;
+		align-items: center;
+	}
+
+	.badge {
+		font-size: 0.6rem;
+		background: #ff4757;
+		color: white;
+		padding: 2px 6px;
+		border-radius: 10px;
+		vertical-align: super;
+		margin-left: 4px;
+	}
+
+	.nav-links {
+		display: flex;
+		align-items: center;
+		gap: 2rem;
+	}
+
+	.nav-links :global(a) {
+		font-family: 'Outfit', sans-serif;
+		text-decoration: none;
+		color: #333;
+		font-weight: 600;
+		font-size: 1.25rem;
+		transition: color 0.2s;
+		padding: 0.5rem 0;
+		border-bottom: 2px solid transparent;
+	}
+
+	.nav-links :global(a:hover) {
+		color: #0052D4;
+	}
+
+	.nav-links :global(a.active) {
+		color: #0052D4;
+		border-bottom: 2px solid #0052D4;
+	}
+
+	.social-links-header {
+		display: flex;
+		gap: 1.25rem;
+		align-items: center;
+	}
+
+	.social-links-header a {
+		color: #555;
+		transition: color 0.2s, transform 0.2s;
+		display: flex;
+	}
+
+	.social-links-header a:hover {
+		color: #0052D4;
+		transform: translateY(-2px);
+	}
+
+	/* Dropdown Core */
+	.nav-item {
+		position: relative;
+	}
+
+	.dropbtn {
+		font-family: 'Outfit', sans-serif;
+		background: none;
+		border: none;
+		font-size: 1.25rem;
+		font-weight: 600;
+		color: #333;
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		gap: 0.3rem;
+		padding: 0.5rem 0;
+		transition: color 0.2s;
+	}
+
+	.dropbtn:hover {
+		color: #0052D4;
+	}
+
+	.dropdown-content {
+		visibility: hidden;
+		opacity: 0;
+		position: absolute;
+		top: 120%;
+		left: 50%;
+		transform: translateX(-50%) translateY(10px);
+		background: white;
+		min-width: 240px;
+		border-radius: 12px;
+		box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+		padding: 0.5rem;
+		transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+	}
+
+	/* Dropdown Hover apenas para Desktop */
+	@media (min-width: 769px) {
+		.dropdown:hover .dropdown-content {
+			visibility: visible;
+			opacity: 1;
+			transform: translateX(-50%) translateY(0);
+		}
+	}
+
+	/* Submenu Core */
+	.dropdown-submenu {
+		position: relative;
+		padding: 0.2rem;
+	}
+
+	.submenu-title {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 0.8rem 1rem;
+		color: #444;
+		font-weight: 500;
+		cursor: pointer;
+		border-radius: 8px;
+		transition: background 0.2s;
+	}
+
+	.submenu-title span {
+		font-size: 0.7em;
+		color: #aaa;
+	}
+
+	@media (min-width: 769px) {
+		.dropdown-submenu:hover .submenu-title {
+			background: #f4f7fb;
+			color: #0052D4;
+		}
+	}
+
+	.submenu-content {
+		visibility: hidden;
+		opacity: 0;
+		position: absolute;
+		top: 0;
+		left: 100%;
+		margin-left: 0.5rem;
+		background: white;
+		min-width: 200px;
+		max-height: 70vh;
+		overflow-y: auto;
+		border-radius: 12px;
+		box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+		padding: 0.5rem;
+		transform: translateX(10px);
+		transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+		z-index: 100;
+	}
+
+	.submenu-content-wide {
+		min-width: min(720px, 70vw);
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+		gap: 0.35rem 1rem;
+	}
+
+	.submenu-section {
+		padding: 0.35rem;
+		border-bottom: 1px solid #f0f2f5;
+	}
+
+	.submenu-section-title {
+		font-weight: 800;
+		color: #111 !important;
+		background: #f7f9fc;
+	}
+
+		.submenu-content-councils {
+			min-width: min(860px, 76vw);
+			grid-template-columns: repeat(2, minmax(260px, 1fr));
+		}
+
+		.menu-instruction {
+			grid-column: 1 / -1;
+			background: #f0f4f9;
+			border-left: 4px solid #0052D4;
+			padding: 0.6rem 0.8rem;
+			font-size: 0.85rem;
+			font-weight: 600;
+			color: #1e3a8a;
+			border-radius: 4px;
+			margin-bottom: 0.5rem;
+		}
+
+		.submenu-content-parliament {
+			width: min(720px, calc(100vw - 3rem));
+			min-width: 0;
+			grid-template-columns: minmax(300px, 1.8fr) minmax(220px, 1fr);
+		}
+
+		.submenu-content-left {
+			left: auto;
+			right: 100%;
+			margin-left: 0;
+			margin-right: 0.5rem;
+			transform: translateX(-10px);
+		}
+
+	.council-city {
+		padding: 0.25rem 0;
+	}
+
+	.council-city-link {
+		font-weight: 800 !important;
+		color: #222 !important;
+	}
+
+	.council-members {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 0.1rem 0.25rem;
+		padding: 0 0.35rem 0.45rem;
+	}
+
+	.council-members a {
+		font-size: 0.78rem;
+		line-height: 1.2;
+		padding: 0.35rem 0.45rem;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.council-members .council-more {
+		font-weight: 800;
+		color: #0052D4;
+	}
+
+	@media (min-width: 769px) {
+		.dropdown-submenu:hover .submenu-content {
+			visibility: visible;
+			opacity: 1;
+			transform: translateX(0);
+		}
+	}
+
+	.submenu-content a {
+		display: block;
+		padding: 0.7rem 1rem;
+		color: #555;
+		text-decoration: none;
+		border-radius: 6px;
+		font-size: 0.95rem;
+		transition: all 0.2s;
+	}
+
+	.submenu-content a:hover {
+		background: #f4f7fb;
+		color: #0052D4;
+		padding-left: 1.2rem;
+	}
+
+	.submenu-content a.parliament-link {
+		line-height: 1.25;
+	}
+
+	.parliament-name {
+		display: block;
+		font-weight: 700;
+	}
+
+	.parliament-meta {
+		display: block;
+		margin-top: 0.15rem;
+		color: #667085;
+		font-size: 0.76rem;
+		font-weight: 600;
+	}
+
+	/* Mobile Responsiveness */
+	@media (max-width: 768px) {
+		.premium-header {
+			padding: 0.5rem;
+		}
+		.header-article {
+			position: relative;
+		}
+		.navbar {
+			grid-template-columns: 1fr;
+			gap: 0.5rem;
+		}
+		.header-left {
+			justify-content: center;
+		}
+		.logo-link {
+			min-height: 55px;
+			width: 170px;
+			height: auto;
+		}
+		.logo-img {
+			max-width: 170px;
+		}
+		.header-right {
+			border-left: none;
+			border-top: 1px solid #eee;
+			padding-left: 0;
+			padding-top: 0.5rem;
+			min-height: auto;
+			align-items: center;
+		}
+		.row-slogan {
+			align-items: center;
+			text-align: center;
+		}
+		.slogan-main {
+			font-size: 1.05rem;
+		}
+		.slogan-sub {
+			font-size: 0.95rem;
+		}
+		.row-menu {
+			width: 100%;
+			justify-content: center;
+		}
+		.nav-links {
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 0.5rem;
+		}
+		.dropbtn {
+			font-size: 1rem;
+			padding: 0.3rem 0;
+		}
+		.row-social {
+			display: none;
+		}
+		.nav-item {
+			position: static;
+		}
+		.dropdown-content {
+			position: absolute;
+			top: 100%;
+			left: 0;
+			width: 100%;
+			margin-top: 0;
+			transform: none;
+			box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+			border: none;
+			border-top: 1px solid #eee;
+			border-radius: 0 0 12px 12px;
+			display: none;
+			box-sizing: border-box;
+			visibility: visible;
+			opacity: 1;
+		}
+		.dropdown.is-active > .dropdown-content {
+			display: block;
+			visibility: visible;
+			opacity: 1;
+		}
+		.dropdown-submenu .submenu-content {
+			position: static;
+			transform: none;
+			box-shadow: none;
+			border: none;
+			margin-left: 1rem;
+			border-left: 2px solid #eee;
+			border-radius: 0;
+			display: none;
+			visibility: visible;
+			opacity: 1;
+		}
+		.dropdown-submenu.is-active > .submenu-content {
+			display: block;
+		}
+		.submenu-content-wide {
+			display: block;
+			min-width: 100%;
+		}
+	}
+</style>
+
+<script>
+	const dropdowns = document.querySelectorAll('.dropdown');
+	dropdowns.forEach(dropdown => {
+		const btn = dropdown.querySelector('.dropbtn');
+		if (!btn) return;
+		btn.addEventListener('click', (e) => {
+			if (window.innerWidth <= 768) {
+				const isAnchor = e.target.tagName === 'A' || e.target.closest('a');
+				if (!isAnchor) {
+					e.preventDefault();
+					// Fecha os outros dropdowns principais
+					dropdowns.forEach(d => {
+					    if (d !== dropdown) d.classList.remove('is-active');
+					});
+					dropdown.classList.toggle('is-active');
+				}
+			}
+		});
+	});
+
+	const submenus = document.querySelectorAll('.dropdown-submenu');
+	submenus.forEach(submenu => {
+		const title = submenu.querySelector('.submenu-title');
+		if (!title) return;
+		title.addEventListener('click', (e) => {
+			if (window.innerWidth <= 768) {
+				const isAnchor = e.target.tagName === 'A' || e.target.closest('a');
+				if (!isAnchor) {
+					e.preventDefault();
+					// Fecha os outros submenus dentro do mesmo dropdown
+					const parent = submenu.closest('.dropdown-content');
+					if (parent) {
+					    parent.querySelectorAll('.dropdown-submenu').forEach(s => {
+					        if (s !== submenu) s.classList.remove('is-active');
+					    });
+					}
+					submenu.classList.toggle('is-active');
+				}
+			}
+		});
+	});
+
+	// Fechar ao clicar fora no mobile
+	document.addEventListener('click', (e) => {
+		if (window.innerWidth <= 768) {
+			const isDropdownClick = e.target.closest('.dropdown');
+			if (!isDropdownClick) {
+				document.querySelectorAll('.dropdown.is-active').forEach(d => {
+					d.classList.remove('is-active');
+				});
+			}
+		}
+	});
+</script>

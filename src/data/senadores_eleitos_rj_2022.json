@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "v1",
+  "source": "TSE votacao_candidato_munzona_2022_RJ.csv",
+  "criterio": "Senadores eleitos em 2022; percentual sobre total de votos nominais para senador no RJ.",
+  "total": 1,
+  "senadores": [
+    {
+      "nome": "Romário",
+      "slug": "romario",
+      "senador": "Romário de Souza Faria",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2384331,
+      "totalVotosEstado": 6595239,
+      "percentualEstado": 36.1523,
+      "situacao": "ELEITO"
+    }
+  ]
+}

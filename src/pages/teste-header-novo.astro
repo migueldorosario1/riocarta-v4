@@ -1,0 +1,127 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import HeaderTesteMacro from '../components/HeaderTesteMacro.astro';
+import { SITE_TITLE } from '../consts';
+
+const title = `Teste de header - ${SITE_TITLE}`;
+const description = 'Página isolada para validar o novo header do Rio Carta antes de qualquer mudança na produção.';
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={title} description={description} />
+		<meta name="robots" content="noindex,nofollow" />
+		<style>
+			body {
+				margin: 0;
+				background: #f6f8fb;
+				color: #172033;
+			}
+
+			main {
+				width: min(1180px, calc(100% - 32px));
+				margin: 0 auto;
+				padding: 32px 0 56px;
+			}
+
+			.test-note {
+				margin: 0 0 24px;
+				padding: 16px 18px;
+				border-left: 4px solid #0b3a70;
+				background: #ffffff;
+				color: #314158;
+				box-shadow: 0 8px 24px rgba(22, 34, 51, 0.06);
+			}
+
+			.preview-grid {
+				display: grid;
+				grid-template-columns: 1.4fr 1fr;
+				gap: 20px;
+			}
+
+			.preview-block {
+				background: #ffffff;
+				border: 1px solid rgba(22, 34, 51, 0.1);
+				border-radius: 8px;
+				padding: 20px;
+				box-shadow: 0 8px 24px rgba(22, 34, 51, 0.06);
+			}
+
+			.preview-block h1,
+			.preview-block h2 {
+				margin: 0 0 12px;
+				line-height: 1.12;
+			}
+
+			.preview-block h1 {
+				font-size: clamp(2rem, 5vw, 4rem);
+				max-width: 820px;
+			}
+
+			.preview-block h2 {
+				font-size: 1.2rem;
+			}
+
+			.preview-block p {
+				margin: 0 0 12px;
+				color: #4b5b72;
+				line-height: 1.55;
+			}
+
+			.sample-list {
+				display: grid;
+				gap: 10px;
+				margin: 16px 0 0;
+				padding: 0;
+				list-style: none;
+			}
+
+			.sample-list li {
+				padding: 12px;
+				border-radius: 6px;
+				background: #f0f4f8;
+				font-weight: 700;
+			}
+
+			@media (max-width: 800px) {
+				.preview-grid {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<HeaderTesteMacro />
+		<main>
+			<div class="test-note">
+				Página de teste isolada. Este header não substitui o header de produção e os botões ainda são apenas validação visual.
+			</div>
+
+			<section class="preview-grid" aria-label="Prévia da página com novo header">
+				<article class="preview-block">
+					<h1>Rio Carta testa novo cabeçalho com macroeditorias visíveis</h1>
+					<p>
+						A proposta organiza a navegação principal em seis portas de entrada: Geral, Política, Lazer, Segurança,
+						Economia e Serviços.
+					</p>
+					<p>
+						Depois da validação visual, o filtro real deve ser implementado em outro sprint usando metadados do Astro.
+					</p>
+				</article>
+
+				<aside class="preview-block">
+					<h2>Critérios do teste</h2>
+					<ul class="sample-list">
+						<li>Logo com boa presença no primeiro olhar</li>
+						<li>Botões cabem em desktop e mobile</li>
+						<li>Hierarquia clara entre macroeditorias e menu secundário</li>
+						<li>Nenhuma mudança no header vivo</li>
+					</ul>
+				</aside>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>

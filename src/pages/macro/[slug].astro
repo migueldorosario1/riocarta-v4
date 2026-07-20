@@ -1,0 +1,212 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { sortPostsWithSticky } from '../../utils/stickyPosts';
+
+const MACRO_LABELS: Record<string, { titulo: string; subtitulo: string; cor: string; icon: string }> = {
+	geral: {
+		titulo: 'Geral',
+		subtitulo: 'Notícias gerais do Rio',
+		cor: 'linear-gradient(135deg, #0052D4, #4364F7)',
+		icon: '📰',
+	},
+	politica: {
+		titulo: 'Política',
+		subtitulo: 'Política e poder no estado do Rio',
+		cor: 'linear-gradient(135deg, #141e30, #d32f2f)',
+		icon: '🏛️',
+	},
+	economia: {
+		titulo: 'Economia',
+		subtitulo: 'Finanças, mercado, negócios e indicadores',
+		cor: 'linear-gradient(135deg, #11998e, #38ef7d)',
+		icon: '💼',
+	},
+	seguranca: {
+		titulo: 'Segurança',
+		subtitulo: 'Polícia, defesa e segurança pública no Rio',
+		cor: 'linear-gradient(135deg, #232526, #414345)',
+		icon: '🚓',
+	},
+	lazer: {
+		titulo: 'Lazer',
+		subtitulo: 'Cultura, esporte, gastronomia e vida no Rio',
+		cor: 'linear-gradient(135deg, #ff5f6d, #ffc371)',
+		icon: '🎉',
+	},
+	servicos: {
+		titulo: 'Serviços',
+		subtitulo: 'Utilidade pública, avisos e editais',
+		cor: 'linear-gradient(135deg, #4b6cb7, #182848)',
+		icon: '🗂️',
+	},
+};
+
+export async function getStaticPaths() {
+	return [
+		{ params: { slug: 'geral' } },
+		{ params: { slug: 'politica' } },
+		{ params: { slug: 'economia' } },
+		{ params: { slug: 'seguranca' } },
+		{ params: { slug: 'lazer' } },
+		{ params: { slug: 'servicos' } },
+	];
+}
+
+const { slug } = Astro.params;
+const meta = MACRO_LABELS[slug ?? 'geral'] ?? MACRO_LABELS.geral;
+
+const allPosts = (await getCollection('blog')).filter((post) => !post.data.draft);
+const filteredPosts = allPosts.filter((post) => post.data.categoria_macro === slug);
+const sortedPosts = sortPostsWithSticky(filteredPosts);
+---
+
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<BaseHead title={`${meta.titulo} - Rio Carta`} description={meta.subtitulo} />
+		<style define:vars={{ accentColor: meta.cor }}>
+			main {
+				width: 960px;
+				margin: 0 auto;
+				max-width: calc(100% - 2em);
+			}
+			.macro-hero {
+				background: #f7f9fc;
+				border: 1px solid #e6eaf0;
+				border-radius: 20px;
+				padding: 4rem 2rem;
+				color: #1a1a1a;
+				text-align: center;
+				margin-bottom: 3rem;
+				box-shadow: 0 8px 24px rgba(20, 30, 48, 0.06);
+				position: relative;
+				overflow: hidden;
+			}
+			.macro-hero::before {
+				content: '';
+				position: absolute;
+				top: 0; left: 0; right: 0;
+				height: 5px;
+				background: var(--accentColor);
+			}
+			.macro-icon {
+				font-size: 5rem;
+				margin-bottom: 1rem;
+				filter: drop-shadow(0 6px 14px rgba(20, 30, 48, 0.15));
+			}
+			.macro-title {
+				font-size: 1.2rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 2px;
+				color: #555;
+				margin: 0 0 0.5rem 0;
+			}
+			.macro-subtitle {
+				font-size: 3.5rem;
+				font-weight: 800;
+				margin: 0;
+				line-height: 1.1;
+				color: #111;
+			}
+			.macro-counter {
+				margin: 1rem 0 0 0;
+				font-size: 1.1rem;
+				font-weight: 600;
+				color: #2c3e50;
+			}
+			ul {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 2rem;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			ul li {
+				width: calc(50% - 1rem);
+			}
+			ul li * {
+				text-decoration: none;
+				transition: 0.2s ease;
+			}
+			ul li img {
+				margin-bottom: 0.5rem;
+				border-radius: 12px;
+				width: 100%;
+			}
+			ul li a { display: block; }
+			.post-title {
+				margin: 0;
+				color: rgb(var(--black));
+				line-height: 1.2;
+				font-size: 1.5rem;
+				font-weight: 700;
+			}
+			.date {
+				margin: 0.5rem 0 0 0;
+				color: rgb(var(--gray));
+				font-size: 0.9rem;
+			}
+			ul li a:hover .post-title,
+			ul li a:hover .date {
+				color: #0052D4;
+			}
+			ul a:hover img {
+				box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+				transform: translateY(-5px);
+			}
+			.empty-state {
+				text-align: center;
+				font-size: 1.1rem;
+				color: rgb(var(--gray));
+				padding: 2rem;
+			}
+			@media (max-width: 720px) {
+				ul li { width: 100%; }
+				.macro-hero { padding: 3rem 1rem; border-radius: 0; }
+				.macro-subtitle { font-size: 2.5rem; }
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="macro-hero">
+				<div class="macro-icon">{meta.icon}</div>
+				<h3 class="macro-title">Editoria</h3>
+				<h1 class="macro-subtitle">{meta.titulo}</h1>
+				<p class="macro-counter">{sortedPosts.length} {sortedPosts.length === 1 ? 'matéria publicada' : 'matérias publicadas'}</p>
+			</div>
+
+			<section>
+				{sortedPosts.length ? (
+					<ul>
+						{sortedPosts.map((post) => (
+							<li>
+								<a href={`/blog/${post.id}/`}>
+									{post.data.heroImage && (
+										<img width="720" height="360" src={post.data.heroImage} alt="" />
+									)}
+									<h4 class="post-title">{post.data.title}</h4>
+									<p class="date">
+										<FormattedDate date={post.data.pubDate} />
+									</p>
+								</a>
+							</li>
+						))}
+					</ul>
+				) : (
+					<p class="empty-state">
+						A editoria está pronta. Em breve, matérias com a categoria <strong>{meta.titulo}</strong> aparecerão aqui automaticamente.
+					</p>
+				)}
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>

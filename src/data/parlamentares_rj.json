@@ -1,0 +1,808 @@
+{
+  "schemaVersion": "v1",
+  "updated": "2026-05-17",
+  "sources": {
+    "deputadosEstaduais": "https://www.alerj.rj.gov.br/Deputados/QuemSao",
+    "deputadosFederais": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaUf=RJ&ordem=ASC&ordenarPor=nome",
+    "senadores": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual?uf=RJ"
+  },
+  "totais": {
+    "deputadosEstaduais": 70,
+    "deputadosFederais": 46,
+    "senadores": 3
+  },
+  "deputadosEstaduais": [
+    {
+      "nome": "Alan Lopes",
+      "slug": "alan-lopes",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/505?Legislatura=20"
+    },
+    {
+      "nome": "Alexandre Knoploch",
+      "slug": "alexandre-knoploch",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/420?Legislatura=20"
+    },
+    {
+      "nome": "Anderson Moraes",
+      "slug": "anderson-moraes",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/422?Legislatura=20"
+    },
+    {
+      "nome": "Andre Correa",
+      "slug": "andre-correa",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/346?Legislatura=20"
+    },
+    {
+      "nome": "Arthur Monteiro",
+      "slug": "arthur-monteiro",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/501?Legislatura=20"
+    },
+    {
+      "nome": "Brazão",
+      "slug": "brazao",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/439?Legislatura=20"
+    },
+    {
+      "nome": "Bruno Dauaire",
+      "slug": "bruno-dauaire",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/377?Legislatura=20"
+    },
+    {
+      "nome": "Carla Machado",
+      "slug": "carla-machado",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/508?Legislatura=20"
+    },
+    {
+      "nome": "Carlinhos Bnh",
+      "slug": "carlinhos-bnh",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/494?Legislatura=20"
+    },
+    {
+      "nome": "Carlos Macedo",
+      "slug": "carlos-macedo",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/378?Legislatura=20"
+    },
+    {
+      "nome": "Carlos Minc",
+      "slug": "carlos-minc",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/310?Legislatura=20"
+    },
+    {
+      "nome": "Celia Jordão",
+      "slug": "celia-jordao",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/464?Legislatura=20"
+    },
+    {
+      "nome": "Chico Machado",
+      "slug": "chico-machado",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/417?Legislatura=20"
+    },
+    {
+      "nome": "Claudio Caiado",
+      "slug": "claudio-caiado",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/507?Legislatura=20"
+    },
+    {
+      "nome": "Dani Balbi",
+      "slug": "dani-balbi",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/484?Legislatura=20"
+    },
+    {
+      "nome": "Dani Monteiro",
+      "slug": "dani-monteiro",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/425?Legislatura=20"
+    },
+    {
+      "nome": "Danniel Librelon",
+      "slug": "danniel-librelon",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/426?Legislatura=20"
+    },
+    {
+      "nome": "Delegado Carlos Augusto",
+      "slug": "delegado-carlos-augusto",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/427?Legislatura=20"
+    },
+    {
+      "nome": "Dionisio Lins",
+      "slug": "dionisio-lins",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/291?Legislatura=20"
+    },
+    {
+      "nome": "Douglas Ruas",
+      "slug": "douglas-ruas",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/478?Legislatura=20"
+    },
+    {
+      "nome": "Dr. Deodalto",
+      "slug": "dr-deodalto",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/380?Legislatura=20"
+    },
+    {
+      "nome": "Dr. Pedro Ricardo",
+      "slug": "dr-pedro-ricardo",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/460?Legislatura=20"
+    },
+    {
+      "nome": "Elika Takimoto",
+      "slug": "elika-takimoto",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/481?Legislatura=20"
+    },
+    {
+      "nome": "Fábio Silva",
+      "slug": "fabio-silva",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/361?Legislatura=20"
+    },
+    {
+      "nome": "Felipinho Ravis",
+      "slug": "felipinho-ravis",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/490?Legislatura=20"
+    },
+    {
+      "nome": "Filipe Soares",
+      "slug": "filipe-soares",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/384?Legislatura=20"
+    },
+    {
+      "nome": "Filippe Poubel",
+      "slug": "filippe-poubel",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/429?Legislatura=20"
+    },
+    {
+      "nome": "Flavio Serafini",
+      "slug": "flavio-serafini",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/400?Legislatura=20"
+    },
+    {
+      "nome": "Franciane Motta",
+      "slug": "franciane-motta",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/430?Legislatura=20"
+    },
+    {
+      "nome": "Fred Pacheco",
+      "slug": "fred-pacheco",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/504?Legislatura=20"
+    },
+    {
+      "nome": "Giovani Ratinho",
+      "slug": "giovani-ratinho",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/431?Legislatura=20"
+    },
+    {
+      "nome": "Giselle Monteiro",
+      "slug": "giselle-monteiro",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/482?Legislatura=20"
+    },
+    {
+      "nome": "Guilherme Delaroli",
+      "slug": "guilherme-delaroli",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/479?Legislatura=20"
+    },
+    {
+      "nome": "Guilherme Schleder",
+      "slug": "guilherme-schleder",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/495?Legislatura=20"
+    },
+    {
+      "nome": "Gustavo Tutuca",
+      "slug": "gustavo-tutuca",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/374?Legislatura=20"
+    },
+    {
+      "nome": "India Armelau",
+      "slug": "india-armelau",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/485?Legislatura=20"
+    },
+    {
+      "nome": "Jair Bittencourt",
+      "slug": "jair-bittencourt",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/385?Legislatura=20"
+    },
+    {
+      "nome": "Jari Oliveira",
+      "slug": "jari-oliveira",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/476?Legislatura=20"
+    },
+    {
+      "nome": "Jorge Felippe Neto",
+      "slug": "jorge-felippe-neto",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/389?Legislatura=20"
+    },
+    {
+      "nome": "Julio Rocha",
+      "slug": "julio-rocha",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/500?Legislatura=20"
+    },
+    {
+      "nome": "Lilian Behring",
+      "slug": "lilian-behring",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/514?Legislatura=20"
+    },
+    {
+      "nome": "Lucinha",
+      "slug": "lucinha",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/326?Legislatura=20"
+    },
+    {
+      "nome": "Luiz Paulo",
+      "slug": "luiz-paulo",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/269?Legislatura=20"
+    },
+    {
+      "nome": "Marcelo Dino",
+      "slug": "marcelo-dino",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/435?Legislatura=20"
+    },
+    {
+      "nome": "Márcio Gualberto",
+      "slug": "marcio-gualberto",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/436?Legislatura=20"
+    },
+    {
+      "nome": "Marina do Mst",
+      "slug": "marina-do-mst",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/491?Legislatura=20"
+    },
+    {
+      "nome": "Martha Rocha",
+      "slug": "martha-rocha",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/390?Legislatura=20"
+    },
+    {
+      "nome": "Munir Neto",
+      "slug": "munir-neto",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/497?Legislatura=20"
+    },
+    {
+      "nome": "Prof Josemar",
+      "slug": "prof-josemar",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/502?Legislatura=20"
+    },
+    {
+      "nome": "Rafael Nobre",
+      "slug": "rafael-nobre",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/489?Legislatura=20"
+    },
+    {
+      "nome": "Rafael Picciani",
+      "slug": "rafael-picciani",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/344?Legislatura=20"
+    },
+    {
+      "nome": "Renan Jordy",
+      "slug": "renan-jordy",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/511?Legislatura=20"
+    },
+    {
+      "nome": "Renata Souza",
+      "slug": "renata-souza",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/441?Legislatura=20"
+    },
+    {
+      "nome": "Renato Machado",
+      "slug": "renato-machado",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/506?Legislatura=20"
+    },
+    {
+      "nome": "Renato Miranda",
+      "slug": "renato-miranda",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/488?Legislatura=20"
+    },
+    {
+      "nome": "Rodrigo Amorim",
+      "slug": "rodrigo-amorim",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/443?Legislatura=20"
+    },
+    {
+      "nome": "Rosenverg Reis",
+      "slug": "rosenverg-reis",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/343?Legislatura=20"
+    },
+    {
+      "nome": "Samuel Malafaia",
+      "slug": "samuel-malafaia",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/348?Legislatura=20"
+    },
+    {
+      "nome": "Sarah Poncio",
+      "slug": "sarah-poncio",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/515?Legislatura=20"
+    },
+    {
+      "nome": "Sergio Fernandes",
+      "slug": "sergio-fernandes",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/452?Legislatura=20"
+    },
+    {
+      "nome": "Thiago Gagliasso",
+      "slug": "thiago-gagliasso",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/480?Legislatura=20"
+    },
+    {
+      "nome": "Thiago Rangel",
+      "slug": "thiago-rangel",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/499?Legislatura=20"
+    },
+    {
+      "nome": "Tia Ju",
+      "slug": "tia-ju",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/395?Legislatura=20"
+    },
+    {
+      "nome": "Val Ceasa",
+      "slug": "val-ceasa",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/449?Legislatura=20"
+    },
+    {
+      "nome": "Valdecy da Saúde",
+      "slug": "valdecy-da-saude",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/450?Legislatura=20"
+    },
+    {
+      "nome": "Verônica Lima",
+      "slug": "veronica-lima",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/486?Legislatura=20"
+    },
+    {
+      "nome": "Vinicius Cozzolino",
+      "slug": "vinicius-cozzolino",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/483?Legislatura=20"
+    },
+    {
+      "nome": "Vitor Junior",
+      "slug": "vitor-junior",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/493?Legislatura=20"
+    },
+    {
+      "nome": "Yuri Moura",
+      "slug": "yuri-moura",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/503?Legislatura=20"
+    },
+    {
+      "nome": "Zeidan",
+      "slug": "zeidan",
+      "urlOficial": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/402?Legislatura=20"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "id": 178937,
+      "nome": "Altineu Côrtes",
+      "slug": "altineu-cortes",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+      "email": "dep.altineucortes@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg"
+    },
+    {
+      "id": 160512,
+      "nome": "Aureo Ribeiro",
+      "slug": "aureo-ribeiro",
+      "partido": "SOLIDARIEDADE",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/160512",
+      "email": "dep.aureoribeiro@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg"
+    },
+    {
+      "id": 220605,
+      "nome": "Bandeira de Mello",
+      "slug": "bandeira-de-mello",
+      "partido": "PV",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+      "email": "dep.bandeirademello@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg"
+    },
+    {
+      "id": 220612,
+      "nome": "Bebeto",
+      "slug": "bebeto",
+      "partido": "PP",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220612",
+      "email": "dep.bebeto@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg"
+    },
+    {
+      "id": 73701,
+      "nome": "Benedita da Silva",
+      "slug": "benedita-da-silva",
+      "partido": "PT",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
+      "email": "dep.beneditadasilva@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg"
+    },
+    {
+      "id": 204460,
+      "nome": "Carlos Jordy",
+      "slug": "carlos-jordy",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
+      "email": "dep.carlosjordy@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg"
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "slug": "chico-alencar",
+      "partido": "PSOL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/74171",
+      "email": "dep.chicoalencar@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg"
+    },
+    {
+      "id": 204462,
+      "nome": "Chris Tonietto",
+      "slug": "chris-tonietto",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204462",
+      "email": "dep.christonietto@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg"
+    },
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "slug": "dani-cunha",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220603",
+      "email": "dep.danicunha@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg"
+    },
+    {
+      "id": 204459,
+      "nome": "Daniela do Waguinho",
+      "slug": "daniela-do-waguinho",
+      "partido": "REPUBLICANOS",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204459",
+      "email": "dep.danieladowaguinho@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204459.jpg"
+    },
+    {
+      "id": 220602,
+      "nome": "Dimas Gadelha",
+      "slug": "dimas-gadelha",
+      "partido": "PT",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220602",
+      "email": "dep.dimasgadelha@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg"
+    },
+    {
+      "id": 204450,
+      "nome": "Doutor Luizinho",
+      "slug": "doutor-luizinho",
+      "partido": "PP",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+      "email": "dep.doutorluizinho@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg"
+    },
+    {
+      "id": 227991,
+      "nome": "Dr Flávio",
+      "slug": "dr-flavio",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/227991",
+      "email": "dep.drflavio@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg"
+    },
+    {
+      "id": 220614,
+      "nome": "Dr. Daniel Soranz",
+      "slug": "dr-daniel-soranz",
+      "partido": "PSD",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220614",
+      "email": "dep.dr.danielsoranz@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220614.jpg"
+    },
+    {
+      "id": 230765,
+      "nome": "Enfermeira Rejane",
+      "slug": "enfermeira-rejane",
+      "partido": "PCdoB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/230765",
+      "email": "dep.enfermeirarejane@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg"
+    },
+    {
+      "id": 220611,
+      "nome": "General Pazuello",
+      "slug": "general-pazuello",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220611",
+      "email": "dep.generalpazuello@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg"
+    },
+    {
+      "id": 204456,
+      "nome": "Gutemberg Reis",
+      "slug": "gutemberg-reis",
+      "partido": "MDB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204456",
+      "email": "dep.gutembergreis@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204456.jpg"
+    },
+    {
+      "id": 204444,
+      "nome": "Helio Lopes",
+      "slug": "helio-lopes",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204444",
+      "email": "dep.heliolopes@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204444.jpg"
+    },
+    {
+      "id": 234788,
+      "nome": "Heloísa Helena",
+      "slug": "heloisa-helena",
+      "partido": "REDE",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/234788",
+      "email": "dep.heloisahelena@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/234788.jpg"
+    },
+    {
+      "id": 141450,
+      "nome": "Hugo Leal",
+      "slug": "hugo-leal",
+      "partido": "PSD",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
+      "email": "dep.hugoleal@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg"
+    },
+    {
+      "id": 74848,
+      "nome": "Jandira Feghali",
+      "slug": "jandira-feghali",
+      "partido": "PCdoB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/74848",
+      "email": "dep.jandirafeghali@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/74848.jpg"
+    },
+    {
+      "id": 205550,
+      "nome": "Jorge Braz",
+      "slug": "jorge-braz",
+      "partido": "REPUBLICANOS",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/205550",
+      "email": "dep.jorgebraz@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/205550.jpg"
+    },
+    {
+      "id": 74253,
+      "nome": "Julio Lopes",
+      "slug": "julio-lopes",
+      "partido": "PP",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/74253",
+      "email": "dep.juliolopes@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg"
+    },
+    {
+      "id": 204457,
+      "nome": "Juninho do Pneu",
+      "slug": "juninho-do-pneu",
+      "partido": "PSDB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204457",
+      "email": "dep.juninhodopneu@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg"
+    },
+    {
+      "id": 74856,
+      "nome": "Laura Carneiro",
+      "slug": "laura-carneiro",
+      "partido": "PSD",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/74856",
+      "email": "dep.lauracarneiro@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg"
+    },
+    {
+      "id": 74858,
+      "nome": "Lindbergh Farias",
+      "slug": "lindbergh-farias",
+      "partido": "PT",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/74858",
+      "email": "dep.lindberghfarias@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg"
+    },
+    {
+      "id": 220616,
+      "nome": "Luciano Vieira",
+      "slug": "luciano-vieira",
+      "partido": "PSDB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220616",
+      "email": "dep.lucianovieira@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg"
+    },
+    {
+      "id": 204455,
+      "nome": "Luiz Lima",
+      "slug": "luiz-lima",
+      "partido": "NOVO",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204455",
+      "email": "dep.luizlima@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg"
+    },
+    {
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "slug": "marcelo-crivella",
+      "partido": "REPUBLICANOS",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220599",
+      "email": "dep.marcelocrivella@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220599.jpg"
+    },
+    {
+      "id": 160161,
+      "nome": "Marcelo Queiroz",
+      "slug": "marcelo-queiroz",
+      "partido": "PSDB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/160161",
+      "email": "dep.marceloqueiroz@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg"
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "slug": "marcos-soares",
+      "partido": "PSDB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/178943",
+      "email": "dep.marcossoares@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/178943.jpg"
+    },
+    {
+      "id": 220604,
+      "nome": "Marcos Tavares",
+      "slug": "marcos-tavares",
+      "partido": "PDT",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220604",
+      "email": "dep.marcostavares@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg"
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "slug": "max-lemos",
+      "partido": "UNIÃO",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220607",
+      "email": "dep.maxlemos@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220607.jpg"
+    },
+    {
+      "id": 220617,
+      "nome": "Murillo Gouvea",
+      "slug": "murillo-gouvea",
+      "partido": "PSDB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220617",
+      "email": "dep.murillogouvea@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg"
+    },
+    {
+      "id": 204441,
+      "nome": "Otoni de Paula",
+      "slug": "otoni-de-paula",
+      "partido": "PSD",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204441",
+      "email": "dep.otonidepaula@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204441.jpg"
+    },
+    {
+      "id": 220615,
+      "nome": "Pastor Henrique Vieira",
+      "slug": "pastor-henrique-vieira",
+      "partido": "PSOL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220615",
+      "email": "dep.pastorhenriquevieira@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg"
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "slug": "pedro-paulo",
+      "partido": "PSD",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/122158",
+      "email": "dep.pedropaulo@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/122158.jpg"
+    },
+    {
+      "id": 220606,
+      "nome": "Reimont",
+      "slug": "reimont",
+      "partido": "PT",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220606",
+      "email": "dep.reimont@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg"
+    },
+    {
+      "id": 221329,
+      "nome": "Ricardo Abrão",
+      "slug": "ricardo-abrao",
+      "partido": "PSDB",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/221329",
+      "email": "dep.ricardoabrao@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/221329.jpg"
+    },
+    {
+      "id": 220613,
+      "nome": "Roberto Monteiro Pai",
+      "slug": "roberto-monteiro-pai",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220613",
+      "email": "dep.robertomonteiropai@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220613.jpg"
+    },
+    {
+      "id": 178945,
+      "nome": "Rosangela Gomes",
+      "slug": "rosangela-gomes",
+      "partido": "REPUBLICANOS",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/178945",
+      "email": "dep.rosangelagomes@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg"
+    },
+    {
+      "id": 220618,
+      "nome": "Sargento Portugal",
+      "slug": "sargento-portugal",
+      "partido": "PODE",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220618",
+      "email": "dep.sargentoportugal@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg"
+    },
+    {
+      "id": 178946,
+      "nome": "Soraya Santos",
+      "slug": "soraya-santos",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/178946",
+      "email": "dep.sorayasantos@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/178946.jpg"
+    },
+    {
+      "id": 178947,
+      "nome": "Sóstenes Cavalcante",
+      "slug": "sostenes-cavalcante",
+      "partido": "PL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/178947",
+      "email": "dep.sostenescavalcante@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg"
+    },
+    {
+      "id": 204464,
+      "nome": "Talíria Petrone",
+      "slug": "taliria-petrone",
+      "partido": "PSOL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/204464",
+      "email": "dep.taliriapetrone@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg"
+    },
+    {
+      "id": 220598,
+      "nome": "Tarcísio Motta",
+      "slug": "tarcisio-motta",
+      "partido": "PSOL",
+      "urlOficial": "https://dadosabertos.camara.leg.br/api/v2/deputados/220598",
+      "email": "dep.tarcisiomotta@camara.leg.br",
+      "foto": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg"
+    }
+  ],
+  "senadores": [
+    {
+      "codigo": "5936",
+      "nome": "Carlos Portinho",
+      "slug": "carlos-portinho",
+      "partido": "PL",
+      "urlOficial": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5936",
+      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5936.jpg"
+    },
+    {
+      "codigo": "5894",
+      "nome": "Flávio Bolsonaro",
+      "slug": "flavio-bolsonaro",
+      "partido": "PL",
+      "urlOficial": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5894.jpg"
+    },
+    {
+      "codigo": "5322",
+      "nome": "Romário",
+      "slug": "romario",
+      "partido": "PL",
+      "urlOficial": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5322",
+      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5322.jpg"
+    }
+  ]
+}

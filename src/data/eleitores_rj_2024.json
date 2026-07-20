@@ -1,0 +1,650 @@
+{
+  "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2024.zip",
+  "criterio": "Soma de QT_APTOS de detalhe_votacao_munzona_2024_RJ.csv filtrando por CD_CARGO=11 e NR_TURNO=1",
+  "eleitorado": {
+    "itaborai": {
+      "municipio": "Itaboraí",
+      "municipioSlug": "itaborai",
+      "eleitores": 178787,
+      "comparecimento": 135601,
+      "abstencoes": 43186
+    },
+    "teresopolis": {
+      "municipio": "Teresópolis",
+      "municipioSlug": "teresopolis",
+      "eleitores": 132969,
+      "comparecimento": 98777,
+      "abstencoes": 34192
+    },
+    "rio-de-janeiro": {
+      "municipio": "Rio de Janeiro",
+      "municipioSlug": "rio-de-janeiro",
+      "eleitores": 5009373,
+      "comparecimento": 3477280,
+      "abstencoes": 1532093
+    },
+    "itaocara": {
+      "municipio": "Itaocara",
+      "municipioSlug": "itaocara",
+      "eleitores": 20026,
+      "comparecimento": 15901,
+      "abstencoes": 4125
+    },
+    "italva": {
+      "municipio": "Italva",
+      "municipioSlug": "italva",
+      "eleitores": 12146,
+      "comparecimento": 9801,
+      "abstencoes": 2345
+    },
+    "cardoso-moreira": {
+      "municipio": "Cardoso Moreira",
+      "municipioSlug": "cardoso-moreira",
+      "eleitores": 13308,
+      "comparecimento": 10988,
+      "abstencoes": 2320
+    },
+    "duque-de-caxias": {
+      "municipio": "Duque de Caxias",
+      "municipioSlug": "duque-de-caxias",
+      "eleitores": 674805,
+      "comparecimento": 515350,
+      "abstencoes": 159455
+    },
+    "cantagalo": {
+      "municipio": "Cantagalo",
+      "municipioSlug": "cantagalo",
+      "eleitores": 16094,
+      "comparecimento": 12909,
+      "abstencoes": 3185
+    },
+    "japeri": {
+      "municipio": "Japeri",
+      "municipioSlug": "japeri",
+      "eleitores": 77400,
+      "comparecimento": 61568,
+      "abstencoes": 15832
+    },
+    "macae": {
+      "municipio": "Macaé",
+      "municipioSlug": "macae",
+      "eleitores": 182529,
+      "comparecimento": 140291,
+      "abstencoes": 42238
+    },
+    "sao-goncalo": {
+      "municipio": "São Gonçalo",
+      "municipioSlug": "sao-goncalo",
+      "eleitores": 665181,
+      "comparecimento": 491211,
+      "abstencoes": 173970
+    },
+    "rio-das-flores": {
+      "municipio": "Rio das Flores",
+      "municipioSlug": "rio-das-flores",
+      "eleitores": 8970,
+      "comparecimento": 7492,
+      "abstencoes": 1478
+    },
+    "mage": {
+      "municipio": "Magé",
+      "municipioSlug": "mage",
+      "eleitores": 201611,
+      "comparecimento": 154912,
+      "abstencoes": 46699
+    },
+    "niteroi": {
+      "municipio": "Niterói",
+      "municipioSlug": "niteroi",
+      "eleitores": 410032,
+      "comparecimento": 307857,
+      "abstencoes": 102175
+    },
+    "itatiaia": {
+      "municipio": "Itatiaia",
+      "municipioSlug": "itatiaia",
+      "eleitores": 26965,
+      "comparecimento": 21620,
+      "abstencoes": 5345
+    },
+    "marica": {
+      "municipio": "Maricá",
+      "municipioSlug": "marica",
+      "eleitores": 172611,
+      "comparecimento": 137678,
+      "abstencoes": 34933
+    },
+    "miracema": {
+      "municipio": "Miracema",
+      "municipioSlug": "miracema",
+      "eleitores": 22879,
+      "comparecimento": 17777,
+      "abstencoes": 5102
+    },
+    "nova-iguacu": {
+      "municipio": "Nova Iguaçu",
+      "municipioSlug": "nova-iguacu",
+      "eleitores": 617657,
+      "comparecimento": 465064,
+      "abstencoes": 152593
+    },
+    "campos-dos-goytacazes": {
+      "municipio": "Campos dos Goytacazes",
+      "municipioSlug": "campos-dos-goytacazes",
+      "eleitores": 373543,
+      "comparecimento": 292251,
+      "abstencoes": 81292
+    },
+    "barra-do-pirai": {
+      "municipio": "Barra do Piraí",
+      "municipioSlug": "barra-do-pirai",
+      "eleitores": 70813,
+      "comparecimento": 52657,
+      "abstencoes": 18156
+    },
+    "tres-rios": {
+      "municipio": "Três Rios",
+      "municipioSlug": "tres-rios",
+      "eleitores": 125038,
+      "comparecimento": 93001,
+      "abstencoes": 32037
+    },
+    "trajano-de-moraes": {
+      "municipio": "Trajano de Moraes",
+      "municipioSlug": "trajano-de-moraes",
+      "eleitores": 9482,
+      "comparecimento": 8395,
+      "abstencoes": 1087
+    },
+    "bom-jesus-do-itabapoana": {
+      "municipio": "Bom Jesus do Itabapoana",
+      "municipioSlug": "bom-jesus-do-itabapoana",
+      "eleitores": 30213,
+      "comparecimento": 23374,
+      "abstencoes": 6839
+    },
+    "iguaba-grande": {
+      "municipio": "Iguaba Grande",
+      "municipioSlug": "iguaba-grande",
+      "eleitores": 30536,
+      "comparecimento": 24049,
+      "abstencoes": 6487
+    },
+    "carmo": {
+      "municipio": "Carmo",
+      "municipioSlug": "carmo",
+      "eleitores": 15064,
+      "comparecimento": 12254,
+      "abstencoes": 2810
+    },
+    "natividade": {
+      "municipio": "Natividade",
+      "municipioSlug": "natividade",
+      "eleitores": 13055,
+      "comparecimento": 10400,
+      "abstencoes": 2655
+    },
+    "valenca": {
+      "municipio": "Valença",
+      "municipioSlug": "valenca",
+      "eleitores": 58034,
+      "comparecimento": 41559,
+      "abstencoes": 16475
+    },
+    "porciuncula": {
+      "municipio": "Porciúncula",
+      "municipioSlug": "porciuncula",
+      "eleitores": 14651,
+      "comparecimento": 11323,
+      "abstencoes": 3328
+    },
+    "sao-joao-de-meriti": {
+      "municipio": "São João de Meriti",
+      "municipioSlug": "sao-joao-de-meriti",
+      "eleitores": 373602,
+      "comparecimento": 279990,
+      "abstencoes": 93612
+    },
+    "rio-bonito": {
+      "municipio": "Rio Bonito",
+      "municipioSlug": "rio-bonito",
+      "eleitores": 46133,
+      "comparecimento": 37272,
+      "abstencoes": 8861
+    },
+    "seropedica": {
+      "municipio": "Seropédica",
+      "municipioSlug": "seropedica",
+      "eleitores": 61634,
+      "comparecimento": 48923,
+      "abstencoes": 12711
+    },
+    "sao-sebastiao-do-alto": {
+      "municipio": "São Sebastião do Alto",
+      "municipioSlug": "sao-sebastiao-do-alto",
+      "eleitores": 8134,
+      "comparecimento": 7041,
+      "abstencoes": 1093
+    },
+    "mesquita": {
+      "municipio": "Mesquita",
+      "municipioSlug": "mesquita",
+      "eleitores": 138158,
+      "comparecimento": 105752,
+      "abstencoes": 32406
+    },
+    "engenheiro-paulo-de-frontin": {
+      "municipio": "Engenheiro Paulo de Frontin",
+      "municipioSlug": "engenheiro-paulo-de-frontin",
+      "eleitores": 11693,
+      "comparecimento": 9817,
+      "abstencoes": 1876
+    },
+    "sapucaia": {
+      "municipio": "Sapucaia",
+      "municipioSlug": "sapucaia",
+      "eleitores": 16825,
+      "comparecimento": 13484,
+      "abstencoes": 3341
+    },
+    "petropolis": {
+      "municipio": "Petrópolis",
+      "municipioSlug": "petropolis",
+      "eleitores": 245177,
+      "comparecimento": 174089,
+      "abstencoes": 71088
+    },
+    "mendes": {
+      "municipio": "Mendes",
+      "municipioSlug": "mendes",
+      "eleitores": 15908,
+      "comparecimento": 12264,
+      "abstencoes": 3644
+    },
+    "belford-roxo": {
+      "municipio": "Belford Roxo",
+      "municipioSlug": "belford-roxo",
+      "eleitores": 347207,
+      "comparecimento": 267977,
+      "abstencoes": 79230
+    },
+    "bom-jardim": {
+      "municipio": "Bom Jardim",
+      "municipioSlug": "bom-jardim",
+      "eleitores": 22845,
+      "comparecimento": 17895,
+      "abstencoes": 4950
+    },
+    "barra-mansa": {
+      "municipio": "Barra Mansa",
+      "municipioSlug": "barra-mansa",
+      "eleitores": 135848,
+      "comparecimento": 102980,
+      "abstencoes": 32868
+    },
+    "rio-das-ostras": {
+      "municipio": "Rio das Ostras",
+      "municipioSlug": "rio-das-ostras",
+      "eleitores": 101504,
+      "comparecimento": 77210,
+      "abstencoes": 24294
+    },
+    "guapimirim": {
+      "municipio": "Guapimirim",
+      "municipioSlug": "guapimirim",
+      "eleitores": 45159,
+      "comparecimento": 36014,
+      "abstencoes": 9145
+    },
+    "duas-barras": {
+      "municipio": "Duas Barras",
+      "municipioSlug": "duas-barras",
+      "eleitores": 10606,
+      "comparecimento": 9039,
+      "abstencoes": 1567
+    },
+    "cabo-frio": {
+      "municipio": "Cabo Frio",
+      "municipioSlug": "cabo-frio",
+      "eleitores": 172788,
+      "comparecimento": 130171,
+      "abstencoes": 42617
+    },
+    "paracambi": {
+      "municipio": "Paracambi",
+      "municipioSlug": "paracambi",
+      "eleitores": 34398,
+      "comparecimento": 27472,
+      "abstencoes": 6926
+    },
+    "armacao-dos-buzios": {
+      "municipio": "Armação dos Búzios",
+      "municipioSlug": "armacao-dos-buzios",
+      "eleitores": 36142,
+      "comparecimento": 27506,
+      "abstencoes": 8636
+    },
+    "angra-dos-reis": {
+      "municipio": "Angra dos Reis",
+      "municipioSlug": "angra-dos-reis",
+      "eleitores": 137275,
+      "comparecimento": 103130,
+      "abstencoes": 34145
+    },
+    "arraial-do-cabo": {
+      "municipio": "Arraial do Cabo",
+      "municipioSlug": "arraial-do-cabo",
+      "eleitores": 36527,
+      "comparecimento": 27960,
+      "abstencoes": 8567
+    },
+    "nilopolis": {
+      "municipio": "Nilópolis",
+      "municipioSlug": "nilopolis",
+      "eleitores": 131876,
+      "comparecimento": 100747,
+      "abstencoes": 31129
+    },
+    "nova-friburgo": {
+      "municipio": "Nova Friburgo",
+      "municipioSlug": "nova-friburgo",
+      "eleitores": 156323,
+      "comparecimento": 114556,
+      "abstencoes": 41767
+    },
+    "varre-sai": {
+      "municipio": "Varre-sai",
+      "municipioSlug": "varre-sai",
+      "eleitores": 9143,
+      "comparecimento": 7721,
+      "abstencoes": 1422
+    },
+    "sao-francisco-de-itabapoana": {
+      "municipio": "São Francisco de Itabapoana",
+      "municipioSlug": "sao-francisco-de-itabapoana",
+      "eleitores": 40689,
+      "comparecimento": 31900,
+      "abstencoes": 8789
+    },
+    "porto-real": {
+      "municipio": "Porto Real",
+      "municipioSlug": "porto-real",
+      "eleitores": 18853,
+      "comparecimento": 15745,
+      "abstencoes": 3108
+    },
+    "carapebus": {
+      "municipio": "Carapebus",
+      "municipioSlug": "carapebus",
+      "eleitores": 14412,
+      "comparecimento": 12275,
+      "abstencoes": 2137
+    },
+    "sao-jose-do-vale-do-rio-preto": {
+      "municipio": "São José do Vale do Rio Preto",
+      "municipioSlug": "sao-jose-do-vale-do-rio-preto",
+      "eleitores": 17532,
+      "comparecimento": 13571,
+      "abstencoes": 3961
+    },
+    "saquarema": {
+      "municipio": "Saquarema",
+      "municipioSlug": "saquarema",
+      "eleitores": 86791,
+      "comparecimento": 69082,
+      "abstencoes": 17709
+    },
+    "vassouras": {
+      "municipio": "Vassouras",
+      "municipioSlug": "vassouras",
+      "eleitores": 31318,
+      "comparecimento": 24013,
+      "abstencoes": 7305
+    },
+    "pinheiral": {
+      "municipio": "Pinheiral",
+      "municipioSlug": "pinheiral",
+      "eleitores": 19082,
+      "comparecimento": 15004,
+      "abstencoes": 4078
+    },
+    "mangaratiba": {
+      "municipio": "Mangaratiba",
+      "municipioSlug": "mangaratiba",
+      "eleitores": 46874,
+      "comparecimento": 35656,
+      "abstencoes": 11218
+    },
+    "macuco": {
+      "municipio": "Macuco",
+      "municipioSlug": "macuco",
+      "eleitores": 7438,
+      "comparecimento": 6420,
+      "abstencoes": 1018
+    },
+    "laje-do-muriae": {
+      "municipio": "Laje do Muriaé",
+      "municipioSlug": "laje-do-muriae",
+      "eleitores": 7713,
+      "comparecimento": 6494,
+      "abstencoes": 1219
+    },
+    "volta-redonda": {
+      "municipio": "Volta Redonda",
+      "municipioSlug": "volta-redonda",
+      "eleitores": 225626,
+      "comparecimento": 166394,
+      "abstencoes": 59232
+    },
+    "quissama": {
+      "municipio": "Quissamã",
+      "municipioSlug": "quissama",
+      "eleitores": 20097,
+      "comparecimento": 16725,
+      "abstencoes": 3372
+    },
+    "resende": {
+      "municipio": "Resende",
+      "municipioSlug": "resende",
+      "eleitores": 99023,
+      "comparecimento": 73871,
+      "abstencoes": 25152
+    },
+    "cachoeiras-de-macacu": {
+      "municipio": "Cachoeiras de Macacu",
+      "municipioSlug": "cachoeiras-de-macacu",
+      "eleitores": 47598,
+      "comparecimento": 37754,
+      "abstencoes": 9844
+    },
+    "queimados": {
+      "municipio": "Queimados",
+      "municipioSlug": "queimados",
+      "eleitores": 102150,
+      "comparecimento": 87111,
+      "abstencoes": 15039
+    },
+    "miguel-pereira": {
+      "municipio": "Miguel Pereira",
+      "municipioSlug": "miguel-pereira",
+      "eleitores": 24983,
+      "comparecimento": 19186,
+      "abstencoes": 5797
+    },
+    "sao-jose-de-uba": {
+      "municipio": "São José de Ubá",
+      "municipioSlug": "sao-jose-de-uba",
+      "eleitores": 7837,
+      "comparecimento": 6597,
+      "abstencoes": 1240
+    },
+    "pirai": {
+      "municipio": "Piraí",
+      "municipioSlug": "pirai",
+      "eleitores": 24053,
+      "comparecimento": 19297,
+      "abstencoes": 4756
+    },
+    "casimiro-de-abreu": {
+      "municipio": "Casimiro de Abreu",
+      "municipioSlug": "casimiro-de-abreu",
+      "eleitores": 36308,
+      "comparecimento": 28000,
+      "abstencoes": 8308
+    },
+    "tangua": {
+      "municipio": "Tanguá",
+      "municipioSlug": "tangua",
+      "eleitores": 26854,
+      "comparecimento": 22266,
+      "abstencoes": 4588
+    },
+    "cambuci": {
+      "municipio": "Cambuci",
+      "municipioSlug": "cambuci",
+      "eleitores": 12490,
+      "comparecimento": 10829,
+      "abstencoes": 1661
+    },
+    "comendador-levy-gasparian": {
+      "municipio": "Comendador Levy Gasparian",
+      "municipioSlug": "comendador-levy-gasparian",
+      "eleitores": 8379,
+      "comparecimento": 7199,
+      "abstencoes": 1180
+    },
+    "sao-joao-da-barra": {
+      "municipio": "São João da Barra",
+      "municipioSlug": "sao-joao-da-barra",
+      "eleitores": 42014,
+      "comparecimento": 34787,
+      "abstencoes": 7227
+    },
+    "santa-maria-madalena": {
+      "municipio": "Santa Maria Madalena",
+      "municipioSlug": "santa-maria-madalena",
+      "eleitores": 9404,
+      "comparecimento": 7877,
+      "abstencoes": 1527
+    },
+    "santo-antonio-de-padua": {
+      "municipio": "Santo Antônio de Pádua",
+      "municipioSlug": "santo-antonio-de-padua",
+      "eleitores": 34328,
+      "comparecimento": 26599,
+      "abstencoes": 7729
+    },
+    "itaguai": {
+      "municipio": "Itaguaí",
+      "municipioSlug": "itaguai",
+      "eleitores": 100590,
+      "comparecimento": 79620,
+      "abstencoes": 20970
+    },
+    "silva-jardim": {
+      "municipio": "Silva Jardim",
+      "municipioSlug": "silva-jardim",
+      "eleitores": 19993,
+      "comparecimento": 16012,
+      "abstencoes": 3981
+    },
+    "sao-pedro-da-aldeia": {
+      "municipio": "São Pedro da Aldeia",
+      "municipioSlug": "sao-pedro-da-aldeia",
+      "eleitores": 73690,
+      "comparecimento": 56216,
+      "abstencoes": 17474
+    },
+    "paraiba-do-sul": {
+      "municipio": "Paraíba do Sul",
+      "municipioSlug": "paraiba-do-sul",
+      "eleitores": 34970,
+      "comparecimento": 27006,
+      "abstencoes": 7964
+    },
+    "paraty": {
+      "municipio": "Paraty",
+      "municipioSlug": "paraty",
+      "eleitores": 35398,
+      "comparecimento": 27775,
+      "abstencoes": 7623
+    },
+    "paty-do-alferes": {
+      "municipio": "Paty do Alferes",
+      "municipioSlug": "paty-do-alferes",
+      "eleitores": 24460,
+      "comparecimento": 19804,
+      "abstencoes": 4656
+    },
+    "areal": {
+      "municipio": "Areal",
+      "municipioSlug": "areal",
+      "eleitores": 10372,
+      "comparecimento": 8504,
+      "abstencoes": 1868
+    },
+    "cordeiro": {
+      "municipio": "Cordeiro",
+      "municipioSlug": "cordeiro",
+      "eleitores": 17649,
+      "comparecimento": 14404,
+      "abstencoes": 3245
+    },
+    "aperibe": {
+      "municipio": "Aperibé",
+      "municipioSlug": "aperibe",
+      "eleitores": 10245,
+      "comparecimento": 8648,
+      "abstencoes": 1597
+    },
+    "araruama": {
+      "municipio": "Araruama",
+      "municipioSlug": "araruama",
+      "eleitores": 108199,
+      "comparecimento": 82554,
+      "abstencoes": 25645
+    },
+    "conceicao-de-macabu": {
+      "municipio": "Conceição de Macabu",
+      "municipioSlug": "conceicao-de-macabu",
+      "eleitores": 17978,
+      "comparecimento": 14284,
+      "abstencoes": 3694
+    },
+    "sumidouro": {
+      "municipio": "Sumidouro",
+      "municipioSlug": "sumidouro",
+      "eleitores": 15000,
+      "comparecimento": 12807,
+      "abstencoes": 2193
+    },
+    "sao-fidelis": {
+      "municipio": "São Fidélis",
+      "municipioSlug": "sao-fidelis",
+      "eleitores": 32264,
+      "comparecimento": 24719,
+      "abstencoes": 7545
+    },
+    "rio-claro": {
+      "municipio": "Rio Claro",
+      "municipioSlug": "rio-claro",
+      "eleitores": 15990,
+      "comparecimento": 12654,
+      "abstencoes": 3336
+    },
+    "itaperuna": {
+      "municipio": "Itaperuna",
+      "municipioSlug": "itaperuna",
+      "eleitores": 76807,
+      "comparecimento": 58291,
+      "abstencoes": 18516
+    },
+    "quatis": {
+      "municipio": "Quatis",
+      "municipioSlug": "quatis",
+      "eleitores": 11109,
+      "comparecimento": 9076,
+      "abstencoes": 2033
+    }
+  }
+}
