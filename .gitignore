@@ -34,4 +34,5 @@ pnpm-debug.log*
 .env*.local
 
 # R2 migration: ignore local hero images
-public/hero/*
+# V4-FIX 2026-07-21: heroes locais voltam a ser versionados
+# public/hero/*
