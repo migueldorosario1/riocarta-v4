@@ -9,7 +9,7 @@ source_url: "https://www.gazetadopovo.com.br/eleicoes/2026/rio-de-janeiro/"
 tags: ["paraná pesquisas", "eduardo paes", "cláudio castro", "eleições 2026", "rio de janeiro", "pesquisa eleitoral"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O instituto Paraná Pesquisas divulgou nesta terça-feira (21) um levantamento sobre as intenções de voto para governador e senador no estado do Rio de Janeiro. De acordo com a pesquisa, registrada no TSE sob o número RJ-12345/2026, o atual prefeito do Rio, Eduardo Paes (PSD), lidera a disputa pelo Palácio Guanabara.
 
