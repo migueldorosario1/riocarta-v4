@@ -8,6 +8,7 @@ source_name: "Mais uma semana com ações de prevenção às arboviroses"
 source_url: "https://prefeitura.rio/saude/mais-uma-semana-com-acoes-de-prevencao-as-arboviroses/"
 tags: ["dengue", "zika", "chikungunya", "arboviroses", "prevenção", "rio de janeiro"]
 lang: "pt-br"
+draft: true
 author: "Redação Rio Carta"
 draft: false
 ---
