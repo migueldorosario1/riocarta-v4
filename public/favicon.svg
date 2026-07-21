@@ -2,5 +2,7 @@
   <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#00C6FF"/><stop offset="1" stop-color="#0072FF"/></linearGradient></defs>
   <rect width="64" height="64" rx="14" fill="url(#g)"/>
-  <text x="32" y="38" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#ffffff" text-anchor="middle">RC</text><text x="32" y="53" font-family="Arial" font-size="10" font-weight="700" fill="rgba(255,255,255,0.9)" text-anchor="middle">RIO</text>
+  <path d="M14 42 Q24 22 32 22 Q42 22 50 42 Z" fill="#ffffff"/>
+  <path d="M10 48 Q18 44 24 48 Q30 52 38 48 Q46 44 54 48" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="47" cy="15" r="5" fill="#FFD200"/>
 </svg>
