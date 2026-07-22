@@ -1,5 +1,13 @@
 [
   {
+    "kicker": "Pesquisas",
+    "author": "Redação Rio Carta",
+    "title": "Quaest: Paes lidera com até 40% no RJ; Ruas tem no máximo 11%",
+    "url": "/blog/20260722-quaest-paes-lidera-com-ate-40-no-rj-ruas-tem-no-maximo-11/",
+    "hero": "/hero/20260722-quaest-paes-lidera-com-ate-40-no-rj-ruas-tem-no-maximo-11.jpg",
+    "description": "Nova pesquisa mostra Eduardo Paes disparado na corrida municipal do Rio; adversários patinam."
+  },
+  {
     "title": "ISP lança portal de dados abertos com estatísticas criminais do RJ",
     "description": "Instituto de Segurança Pública disponibiliza bases de dados de registros criminais e atividade policial do estado do Rio de Janeiro.",
     "url": "/blog/20260721-isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais/",
@@ -26,12 +34,5 @@
     "url": "/blog/20260721-juvrio-abre-3-5-mil-vagas-gratuitas-em-cursos-de-tecnologia/",
     "hero": "/hero/juvrio-abre-3-5-mil-vagas-gratuitas-em-cursos-de-tecnologia.jpg",
     "kicker": "Juvrio"
-  },
-  {
-    "title": "Mortes violentas no Rio ultrapassam 100 em 24h; veja cobertura da BandNews",
-    "description": "BandNews TV acompanha ao vivo o avanço de homicídios no estado do Rio. Imagens e atualizações minuto a minuto.",
-    "url": "/blog/20260721-mortes-violentas-no-rio-ultrapassam-100-em-24h-veja-cobertur/",
-    "hero": "/hero/youtube-GPZKxUg0NzA.jpg",
-    "kicker": "Violência"
   }
 ]
