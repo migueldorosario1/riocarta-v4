@@ -18,18 +18,18 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
 			main {
-				width: 960px;
+				width: min(1280px, calc(100% - 2em));
 			}
 			#news-list {
-				display: flex;
-				flex-wrap: wrap;
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 				gap: 2rem;
 				list-style-type: none;
 				margin: 0;
 				padding: 0;
 			}
 			#news-list li {
-				width: calc(50% - 1rem);
+				min-width: 0; /* evita overflow do conteúdo dentro do grid */
 			}
 			#news-list li * {
 				text-decoration: none;
@@ -90,13 +90,13 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 			.featured-voices { margin-bottom: 3rem; }
 			.fv-grid {
 				display: grid;
-				grid-template-columns: repeat(4, 1fr);
+				grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 				gap: 1.5rem;
 				list-style: none;
 				padding: 0;
 				margin: 0;
 			}
-			.fv-grid li:first-child { grid-column: span 4; }
+			.fv-grid li:first-child { grid-column: 1 / -1; }
 			.fv-card {
 				display: flex;
 				flex-direction: column;
@@ -164,6 +164,16 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 				.fv-grid li:first-child .fv-card { flex-direction: column; }
 				.fv-grid li:first-child .fv-img { width: 100%; }
 			}
+
+			/* tipografia fluida e quebra elegante (v3 layout desktop) */
+			.fv-title, .news-item .title, h4.title {
+				overflow-wrap: break-word;
+				hyphens: auto;
+			}
+			.fv-title { font-size: clamp(0.95rem, 0.85rem + 0.4vw, 1.1rem); }
+			.fv-grid li:first-child .fv-title { font-size: clamp(1.3rem, 1.1rem + 1vw, 1.8rem); }
+			.news-item .title, h4.title { font-size: clamp(1rem, 0.9rem + 0.5vw, 1.25rem); line-height: 1.25; }
+			.news-item img { width: 100%; height: auto; border-radius: 12px; }
 		</style>
 	</head>
 	<body>
