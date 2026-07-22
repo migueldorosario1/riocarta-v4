@@ -35,17 +35,7 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 				text-decoration: none;
 				transition: 0.2s ease;
 			}
-			#news-list li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			#news-list li:first-child img {
-				width: 100%;
-			}
-			#news-list li:first-child .title {
-				font-size: 2.369rem;
-			}
+			/* primeira notícia igual às demais (destaque grande fica na seção Destaques) */
 			#news-list li img {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
@@ -77,12 +67,7 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 					width: 100%;
 					text-align: center;
 				}
-				#news-list li:first-child {
-					margin-bottom: 0;
-				}
-				#news-list li:first-child .title {
-					font-size: 1.563em;
-				}
+
 			}
 
 
