@@ -60,9 +60,7 @@ const socialImageURL = new URL(imagePath, Astro.site ?? Astro.url).href;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={socialImageURL} />
 
-<!-- Google AdSense (menos agressivo: sem auto-ads na capa; formatos controlados no painel) -->
+<!-- Google AdSense (automático em todas as páginas; formatos ajustados no painel) -->
 <meta name="google-adsense-account" content="ca-pub-8991943608456423" />
-{!ehHome && (
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8991943608456423"
      crossorigin="anonymous"></script>
-)}
