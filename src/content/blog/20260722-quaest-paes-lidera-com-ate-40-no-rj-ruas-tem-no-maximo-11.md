@@ -2,8 +2,8 @@
 title: "Quaest: Paes lidera com até 40% no RJ; Ruas tem no máximo 11%"
 description: "Pesquisa Quaest mostra Eduardo Paes (PSD) com vantagem sobre Douglas Ruas (PL) em todos os cenários para o governo do RJ."
 pubDate: "2026-07-22"
-heroImage: "/hero/quaest-paes-lidera-com-ate-40-no-rj-ruas-tem-no-maximo-11.jpg"
-hero_credit: "Wikimedia Commons (CC BY 2.0) — Palácio do Planalto"
+heroImage: "/hero/20260722-quaest-paes-lidera-com-ate-40-no-rj-ruas-tem-no-maximo-11.jpg"
+hero_credit: "Wikimedia Commons (CC BY 3.0 br) — Unknown authorUnknown author"
 source_name: "Quaest: Paes lidera em todos os cenários na disputa pelo governo do RJ | G1"
 source_url: "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/04/27/quaest-governo-estado.ghtml"
 tags: ["pesquisa", "quaest", "eduardo paes", "douglas ruas", "governo do rj", "eleições 2026"]
