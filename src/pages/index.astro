@@ -20,7 +20,7 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 			main {
 				width: 960px;
 			}
-			ul {
+			#news-list {
 				display: flex;
 				flex-wrap: wrap;
 				gap: 2rem;
@@ -28,29 +28,29 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 				margin: 0;
 				padding: 0;
 			}
-			ul li {
+			#news-list li {
 				width: calc(50% - 1rem);
 			}
-			ul li * {
+			#news-list li * {
 				text-decoration: none;
 				transition: 0.2s ease;
 			}
-			ul li:first-child {
+			#news-list li:first-child {
 				width: 100%;
 				margin-bottom: 1rem;
 				text-align: center;
 			}
-			ul li:first-child img {
+			#news-list li:first-child img {
 				width: 100%;
 			}
-			ul li:first-child .title {
+			#news-list li:first-child .title {
 				font-size: 2.369rem;
 			}
-			ul li img {
+			#news-list li img {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
 			}
-			ul li a {
+			#news-list li a {
 				display: block;
 			}
 			.title {
@@ -62,25 +62,25 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 				margin: 0;
 				color: rgb(var(--gray));
 			}
-			ul li a:hover h4,
-			ul li a:hover .date {
+			#news-list li a:hover h4,
+			#news-list li a:hover .date {
 				color: rgb(var(--accent));
 			}
-			ul a:hover img {
+			#news-list a:hover img {
 				box-shadow: var(--box-shadow);
 			}
 			@media (max-width: 720px) {
-				ul {
+				#news-list {
 					gap: 0.5em;
 				}
-				ul li {
+				#news-list li {
 					width: 100%;
 					text-align: center;
 				}
-				ul li:first-child {
+				#news-list li:first-child {
 					margin-bottom: 0;
 				}
-				ul li:first-child .title {
+				#news-list li:first-child .title {
 					font-size: 1.563em;
 				}
 			}
@@ -175,12 +175,14 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 					{
 						destaques.map((d) => (
 							<li>
-								<a href={d.url} class="fv-card">
-									{d.hero && <img class="fv-img" src={d.hero} alt={d.title} loading="lazy" />}
-									<div class="fv-content">
-										<span class="fv-kicker">{d.kicker}</span>
-										<h3 class="fv-title">{d.title}</h3>
-										<p class="fv-desc">{d.description}</p>
+								<a href={d.url} class="fv-link">
+									<div class="fv-card">
+										{d.hero && <img class="fv-img" src={d.hero} alt={d.title} loading="lazy" />}
+										<div class="fv-content">
+											<span class="fv-kicker">{d.kicker}</span>
+											<h3 class="fv-title">{d.title}</h3>
+											<p class="fv-desc">{d.description}</p>
+										</div>
 									</div>
 								</a>
 							</li>
