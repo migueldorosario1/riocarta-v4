@@ -3,7 +3,7 @@ title: "Pai é preso em Nova Iguaçu por espancar filho de 3 anos após criança
 description: "Homem confessou agressão como 'correção'; criança foi resgatada pela mãe e exames confirmaram lesões. Prisão em flagrante na Baixada."
 pubDate: "2026-07-21"
 heroImage: "/hero/pai-e-preso-em-nova-iguacu-por-espancar-filho-de-3-anos-apos.jpg"
-hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Geoprofi Lars"
+hero_credit: "Wikimedia Commons (CC0) — Wilfredor"
 source_name: "Jornal Destaque Baixada"
 source_url: "https://www.jornaldestaquebaixada.com/"
 tags: ["violência infantil", "nova iguaçu", "baixada fluminense", "prisão", "maus-tratos", "polícia civil"]
