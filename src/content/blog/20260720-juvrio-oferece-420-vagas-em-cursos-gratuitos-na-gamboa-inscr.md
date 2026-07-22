@@ -2,6 +2,8 @@
 title: "JUVRio oferece 420 vagas em cursos gratuitos na Gamboa; inscrições até 3 de agosto"
 description: "Cursos de trancista, barbeiro, Libras e informática básica. Inscrições pelo portal Oportunidades Cariocas."
 pubDate: "2026-07-20"
+heroImage: "/hero/20260720-juvrio-oferece-420-vagas-em-cursos-gratuitos-na-gamboa-inscr.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Kambai Akau"
 source_name: "JUVRio abre inscrições para 420 vagas em cursos gratuitos na Casa da Juventude Centro"
 source_url: "https://prefeitura.rio/juventude/juvrio-abre-inscricoes-para-420-vagas-em-cursos-gratuitos-na-casa-da-juventude-centro/"
 tags: ["juvrio", "cursos gratuitos", "casa da juventude", "gamboa", "qualificação profissional", "oportunidades cariocas"]
