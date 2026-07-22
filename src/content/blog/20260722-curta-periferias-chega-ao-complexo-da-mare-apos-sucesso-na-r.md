@@ -2,6 +2,8 @@
 title: "Curta Periferias chega ao Complexo da Maré após sucesso na Rocinha"
 description: "Projeto da Prefeitura do Rio oferece formação gratuita em audiovisual para jovens de 15 a 35 anos. Inscrições até 28 de julho."
 pubDate: "2026-07-22"
+heroImage: "/hero/20260722-curta-periferias-chega-ao-complexo-da-mare-apos-sucesso-na-r.jpg"
+hero_credit: "Wikimedia Commons (CC0) — Wilfredor"
 source_name: "Após sucesso na Rocinha, projeto Curta Periferias chega ao Complexo da Maré"
 source_url: "https://prefeitura.rio/cidade/apos-sucesso-na-rocinha-projeto-curta-periferias-chega-ao-complexo-da-mare/"
 tags: ["curta periferias", "complexo da maré", "audiovisual", "prefeitura do rio", "formação", "cultura"]

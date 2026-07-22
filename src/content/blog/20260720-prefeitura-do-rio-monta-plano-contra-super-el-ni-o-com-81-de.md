@@ -2,6 +2,8 @@
 title: "Prefeitura do Rio monta plano contra super El Niño com 81% de chance"
 description: "Prefeitura apresentou ações integradas de 50 órgãos para enfrentar calor extremo e chuvas intensas previstas para o fim de 2026."
 pubDate: "2026-07-20"
+heroImage: "/hero/20260720-prefeitura-do-rio-monta-plano-contra-super-el-ni-o-com-81-de.jpg"
+hero_credit: "Wikimedia Commons (CC0) — Wilfredor"
 source_name: "Prefeitura do Rio apresenta ações para possível intensificação do El Niño"
 source_url: "https://prefeitura.rio/comlurb/prefeitura-do-rio-apresenta-acoes-para-possivel-intensificacao-do-el-nino/"
 tags: ["el niño", "prefeitura do rio", "mudanças climáticas", "calor extremo", "defesa civil", "obras de infraestrutura"]
