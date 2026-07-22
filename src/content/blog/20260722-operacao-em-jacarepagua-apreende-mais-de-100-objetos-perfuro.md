@@ -2,8 +2,8 @@
 title: "Operação em Jacarepaguá apreende mais de 100 objetos perfurocortantes"
 description: "Prefeitura do Rio desmonta 18 barracas usadas para tráfico e moradia; 103 armas brancas apreendidas."
 pubDate: "2026-07-22"
-heroImage: "/hero/operacao-em-jacarepagua-apreende-mais-de-100-objetos-perfuro.jpg"
-hero_credit: "Wikimedia Commons (CC BY 2.0) — Palácio do Planalto"
+heroImage: "/hero/20260722-operacao-em-jacarepagua-apreende-mais-de-100-objetos-perfuro.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 3.0) — EUDOXIO"
 source_name: "Ação de ordenamento apreende mais de 100  objetos perfurocortantes em Jacarepaguá"
 source_url: "https://prefeitura.rio/cidade/acao-de-ordenamento-apreende-mais-de-100-objetos-perfurocortantes-em-jacarepagua/"
 tags: ["ordenamento urbano", "jacarepaguá", "prefeitura do rio", "segurança pública", "apreensão de armas"]
