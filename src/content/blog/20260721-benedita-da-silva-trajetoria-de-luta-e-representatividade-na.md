@@ -2,7 +2,7 @@
 title: "Benedita da Silva: trajetória de luta e representatividade na Câmara"
 description: "Conheça a biografia da deputada federal Benedita da Silva (PT-RJ), com mais de 30 anos de mandato e atuação em direitos humanos, cultura e igualdade racial"
 pubDate: "2026-07-21"
-heroImage: "/hero/20260721-benedita-da-silva-trajetoria-de-luta-e-representatividade-na.jpg"
+heroImage: "/hero/benedita-da-silva-trajetoria-de-luta-e-representatividade-na.jpg"
 hero_credit: "Wikimedia Commons (CC BY 3.0) — Bruno Spada/Câmara dos Deputados"
 source_name: "Biografia do(a) Deputado(a) Federal Benedita da Silva - Portal da Câmara dos Deputados"
 source_url: "https://www.camara.leg.br/deputados/73701/biografia"

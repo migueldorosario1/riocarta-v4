@@ -2,7 +2,7 @@
 title: "ISP lança portal de dados abertos com estatísticas criminais do RJ"
 description: "Instituto de Segurança Pública disponibiliza bases de dados de registros criminais e atividade policial do estado do Rio de Janeiro."
 pubDate: "2026-07-21"
-heroImage: "/hero/20260721-isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais.jpg"
+heroImage: "/hero/isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais.jpg"
 hero_credit: "Wikimedia Commons (CC BY 2.0) — [www.flickr.com/photos/26912057@N02/ bisonlux]"
 source_name: "Dados Abertos - Instituto de Segurança Pública"
 source_url: "https://www.ispdados.rj.gov.br/"

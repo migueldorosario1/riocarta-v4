@@ -2,6 +2,7 @@
 title: "Vereador vistoria Fazenda Modelo após denúncias de maus-tratos"
 description: "Presidente da Comissão dos Direitos dos Animais da Câmara do Rio retorna à Fazenda Modelo para verificar condições de animais abrigados."
 pubDate: "2026-07-21"
+heroImage: "/hero/vereador-vistoria-fazenda-modelo-apos-denuncias-de-maus-trat.jpg"
 hero_credit: "Wikimedia Commons (CC BY-SA 2.5) — Governo do Estado do Rio de Janeiro = Centro de Estatísticas, Estudos e Pesquisa"
 source_name: "<![CDATA[ Colunas: Comissão dos Direitos dos Animais da Câmara do Rio volta à Fazenda Modelo ]]>"
 source_url: "https://odia.ig.com.br/colunas/e-o-bicho/2018/04/5530352-comissao-dos-direitos-dos-animais-da-camara-do-rio-volta-a-fazenda-modelo.html"
