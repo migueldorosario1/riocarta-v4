@@ -55,6 +55,9 @@ const vereadores = (cidadeVereadores?.vereadores ?? []) as any[];
 					<small style="display:block;font-size:0.75rem;color:#888;margin-top:0.15rem;">{v.votosNominaisValidos?.toLocaleString('pt-BR')} votos · {v.percentualMunicipio?.toFixed(1)}%</small>
 				</span>
 			))}
+			<div style="padding:0.45rem 0.6rem;font-size:0.68rem;color:#666;border-top:1px solid #eee;margin-top:0.35rem;line-height:1.25;background:#f9fafb;border-radius:4px;">
+				* O percentual equivale aos votos válidos do candidato sobre o total de votos válidos apurados na eleição no município.
+			</div>
 		</div>
 	</div>
 </div>
