@@ -3,7 +3,7 @@ title: "Atividades de Bem-Estar Animal Marcam Julho Dourado na Taquara"
 description: "Conselho Municipal de Favelas e Subprefeitura dos Grandes Complexos promovem ações em prol dos animais;"
 pubDate: "2026-07-27"
 heroImage: "/hero/atividades-de-bem-estar-animal-marcam-julho-dourado-na-taqua.jpg"
-hero_credit: "Photo by Leolo212 on Pixabay"
+hero_credit: "Photo by Bruno Galvão on Pexels"
 source_name: "Conselho Municipal de Favelas e Subprefeitura dos Grandes Complexos realizam atividades de bem-estar animal na Taquara"
 source_url: "https://prefeitura.rio/cidade/conselho-municipal-de-favelas-e-subprefeitura-dos-grandes-complexos-realizam-atividades-de-bem-estar-animal-na-taquara/"
 tags: ["bem-estar animal", "julho dourado", "taquara", "prevenção à raiva", "empreendedorismo"]
