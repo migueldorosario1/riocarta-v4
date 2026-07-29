@@ -3,7 +3,7 @@ title: "CET-Rio Implementa Operação de Tráfego ao Redor de São Januário par
 description: "Com interdições, painéis de mensagens variáveis e monitoramento, a CET-Rio busca segurança e fluidez no trânsito."
 pubDate: "2026-07-26"
 heroImage: "/hero/cet-rio-implementa-operacao-de-trafego-ao-redor-de-sao-janua.jpg"
-hero_credit: "Photo by heibe on Pixabay"
+hero_credit: "Photo by Bombeiros MT on Pexels"
 source_name: "Entorno da região de São Januário terá operação de trânsito da CET-Rio para Vasco x Mirassol"
 source_url: "https://prefeitura.rio/cet-rio/entorno-da-regiao-de-sao-januario-tera-operacao-de-transito-da-cet-rio-para-vasco-x-mirassol/"
 tags: ["trânsito", "cet-rio", "vasco", "mirassol", "estádio"]

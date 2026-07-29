@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:02:47Z"
 draft: true
 tags: ["rio-de-janeiro", "jacarepagua", "curicica", "zona-oeste", "policia-civil", "fiscalizacao", "saude-publica", "crime-contra-consumo", "rio-capital-zona-oeste", "sul-fluminense", "regiao-metropolitana", "jacare", "comunidade", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-policia-civil-fecha-fabrica-clandestina-de-salgados-em-jacarepagua.jpg"
+hero_credit: "Photo by Rodolfo Gaion on Pexels"
 ---
 Rio de Janeiro – Policiais civis da Delegacia do Consumidor fecharam, nesta terça-feira (12), uma fábrica clandestina de salgados que funcionava em Curicica, na região de Jacarepaguá, Zona Oeste do Rio de Janeiro. A ação contou com apoio de peritos do Instituto de Criminalística Carlos Éboli.
 

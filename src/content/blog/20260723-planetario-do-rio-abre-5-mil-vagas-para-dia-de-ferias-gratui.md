@@ -3,7 +3,7 @@ title: "Planetário do Rio abre 5 mil vagas para dia de férias gratuito para cr
 description: "Atividades gratuitas no Planetário da Gávea para crianças de 6 a 12 anos incluem sessões de cúpula, visita ao Museu do Universo e lançamento de foguete."
 pubDate: "2026-07-23"
 heroImage: "/hero/planetario-do-rio-abre-5-mil-vagas-para-dia-de-ferias-gratui.jpg"
-hero_credit: "Wikimedia Commons (CC BY 2.0) — Palácio do Planalto"
+hero_credit: "Photo by Marcio Ribeiro on Pexels"
 source_name: "Planetário do Rio inscreve para um dia de atividades nas férias"
 source_url: "https://g1.globo.com/rj/rio-de-janeiro/o-que-fazer-no-rio-de-janeiro/noticia/2018/07/23/planetario-do-rio-inscreve-para-um-dia-de-atividades-nas-ferias.ghtml"
 tags: ["planetário", "férias", "crianças", "gávea", "gratuito", "rio de janeiro"]

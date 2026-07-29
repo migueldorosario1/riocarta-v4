@@ -3,7 +3,7 @@ title: "Prefeitura do Rio leva ações contra dengue a mais 21 bairros na últim
 description: "Ação 'SVS na Rua' percorre 21 bairros entre 27 e 31 de julho. Mais de 6,5 milhões de vistorias já foram feitas em 2026."
 pubDate: "2026-07-28"
 heroImage: "/hero/prefeitura-do-rio-leva-acoes-contra-dengue-a-mais-21-bairros.jpg"
-hero_credit: "Photo by heibe on Pixabay"
+hero_credit: "Photo by Fernando Silva on Pexels"
 source_name: "Mais 21 bairros do rio recebem ações de prevenção às arboviroses"
 source_url: "https://prefeitura.rio/cidade/mais-21-bairros-do-rio-recebem-acoes-de-prevencao-as-arboviroses/"
 tags: ["dengue", "zika", "chikungunya", "prevenção", "prefeitura do rio", "saúde pública"]

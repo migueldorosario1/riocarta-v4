@@ -3,7 +3,7 @@ title: "Rio e Duque de Caxias integram Muralha Digital e assinam parceria em seg
 description: "As prefeituras assinam protocolo para fortalecer segurança com monitoramento e compartilhamento de informações."
 pubDate: "2026-07-27"
 heroImage: "/hero/rio-e-duque-de-caxias-integram-muralha-digital-e-assinam-par.jpg"
-hero_credit: "Photo by heibe on Pixabay"
+hero_credit: "Photo by 12019 on Pixabay"
 source_name: "Prefeituras do Rio e de Duque de Caxias firmam parceria inédita na segurança pública e inauguram primeira Muralha Digita"
 source_url: "https://prefeitura.rio/civitas/prefeituras-do-rio-e-de-duque-de-caxias-firmam-parceria-inedita-na-seguranca-publica-e-inauguram-primeira-muralha-digital-integrada/"
 tags: ["segurança pública", "rio de janeiro", "duque de caxias", "tecnologia", "muralha digital"]

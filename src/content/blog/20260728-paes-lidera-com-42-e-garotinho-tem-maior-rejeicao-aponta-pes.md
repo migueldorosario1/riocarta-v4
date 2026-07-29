@@ -3,7 +3,7 @@ title: "Paes lidera com 42% e Garotinho tem maior rejeição, aponta pesquisa"
 description: "Levantamento do O Dia mostra Eduardo Paes na frente para o Governo do RJ; segurança pública é tema prioritário para 66% dos eleitores."
 pubDate: "2026-07-28"
 heroImage: "/hero/paes-lidera-com-42-e-garotinho-tem-maior-rejeicao-aponta-pes.jpg"
-hero_credit: "Photo by heibe on Pixabay"
+hero_credit: "Photo by Vinícius Vieira ft on Pexels"
 source_name: "Eduardo Paes mantém liderança em pesquisa para o Governo do Estado | Rio de Janeiro | O Dia"
 source_url: "https://odia.ig.com.br/rio-de-janeiro/2026/07/7282999-eduardo-paes-mantem-lideranca-em-pesquisa-para-o-governo-do-estado.html"
 tags: ["eduardo paes", "pesquisa eleitoral", "governo do estado", "eleições 2026", "segurança pública", "rejeição"]

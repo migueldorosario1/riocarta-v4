@@ -3,7 +3,7 @@ title: "CET-Rio Implanta Medidas Especiais de Trânsito para a Corrida e Caminha
 description: "Evento no bairro de Irajá, Zona Norte, terá trânsito modificado das 6h às 10h."
 pubDate: "2026-07-26"
 heroImage: "/hero/cet-rio-implanta-medidas-especiais-de-transito-para-a-corrid.jpg"
-hero_credit: "Photo by heibe on Pixabay"
+hero_credit: "Photo by Rodolfo Gaion on Pexels"
 source_name: "CET-Rio altera trânsito em Irajá para a Corrida e Caminhada Rio Sem Parar"
 source_url: "https://prefeitura.rio/cet-rio/cet-rio-altera-transito-em-iraja-para-a-corrida-e-caminhada-rio-sem-parar/"
 tags: ["CET-Rio", "Irajá", "Zona Norte", "Corrida Rio Sem Parar", "Trânsito"]

@@ -3,7 +3,7 @@ title: "Prefeitura intensifica combate à dengue em 19 bairros do Rio"
 description: "Ação 'SVS na Rua' percorre bairros de terça a sexta; mais de 6 milhões de vistorias já foram feitas em 2026."
 pubDate: "2026-07-21"
 heroImage: "/hero/prefeitura-intensifica-combate-a-dengue-em-19-bairros-do-rio.jpg"
-hero_credit: "Wikimedia Commons (Public domain) — Juciê Gomes"
+hero_credit: "Photo by JoaoBOliver on Pixabay"
 source_name: "Mais uma semana com ações de prevenção às arboviroses"
 source_url: "https://prefeitura.rio/saude/mais-uma-semana-com-acoes-de-prevencao-as-arboviroses/"
 tags: ["dengue", "zika", "chikungunya", "arboviroses", "prevenção", "rio de janeiro"]

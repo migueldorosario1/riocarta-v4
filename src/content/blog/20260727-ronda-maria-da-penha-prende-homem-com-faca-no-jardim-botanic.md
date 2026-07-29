@@ -3,7 +3,7 @@ title: "Ronda Maria da Penha prende homem com faca no Jardim Botânico"
 description: "Guardas municipais do Grupamento de Ronda Maria da Penha prenderam homem por descumprir medida protetiva e ameaçar ex-companheira com faca no Jardim Botâni"
 pubDate: "2026-07-27"
 heroImage: "/hero/ronda-maria-da-penha-prende-homem-com-faca-no-jardim-botanic.jpg"
-hero_credit: "Photo by heibe on Pixabay"
+hero_credit: "Photo by Rcastro creative on Pexels"
 source_name: "Guardas municipais da Ronda Maria da Penha prendem homem por descumprimento de medida protetiva no Jardim Botânico"
 source_url: "https://prefeitura.rio/cidade/guardas-municipais-da-ronda-maria-da-penha-prendem-homem-por-descumprimento-de-medida-protetiva-no-jardim-botanico/"
 tags: ["ronda maria da penha", "guarda municipal", "violência contra a mulher", "jardim botânico", "prisão", "medida protetiva"]

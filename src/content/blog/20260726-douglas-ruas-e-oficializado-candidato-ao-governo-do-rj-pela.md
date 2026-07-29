@@ -3,7 +3,7 @@ title: "Douglas Ruas é oficializado candidato ao governo do RJ pela chapa do PL
 description: "Presidente da Alerj tenta se descolar de Cláudio Castro e transferir desaprovação de Lula a Eduardo Paes"
 pubDate: "2026-07-26"
 heroImage: "/hero/douglas-ruas-e-oficializado-candidato-ao-governo-do-rj-pela.jpg"
-hero_credit: "Photo by heibe on Pixabay"
+hero_credit: "Photo by Fabricio_Macedo_Photo on Pixabay"
 source_name: "Eleição no Rio: Douglas Ruas larga sem vice e tenta se descolar de Cláudio Castro | VEJA"
 source_url: "https://veja.abril.com.br/politica/eleicao-no-rio-douglas-ruas-larga-sem-vice-e-tenta-se-descolar-de-claudio-castro/"
 tags: ["eleições", "rio de janeiro", "douglas ruas", "cláudio castro", "eduardo paes"]

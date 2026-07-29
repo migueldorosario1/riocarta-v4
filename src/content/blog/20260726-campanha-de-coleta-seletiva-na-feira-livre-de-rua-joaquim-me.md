@@ -3,7 +3,7 @@ title: "Campanha de Coleta Seletiva na Feira Livre de Rua Joaquim Méier"
 description: "A Comlurb incentiva a separação de resíduos recicláveis na feira livre da Rua Joaquim Méier."
 pubDate: "2026-07-26"
 heroImage: "/hero/campanha-de-coleta-seletiva-na-feira-livre-de-rua-joaquim-me.jpg"
-hero_credit: "Photo by heibe on Pixabay"
+hero_credit: "Photo by Leolo212 on Pixabay"
 source_name: "Feira livre da Rua Joaquim Méier recebe campanha de incentivo à coleta seletiva da Comlurb"
 source_url: "https://prefeitura.rio/comlurb/feira-livre-da-rua-joaquim-meier-recebe-campanha-de-incentivo-a-coleta-seletiva-da-comlurb/"
 tags: ["comlurb", "coleta seletiva", "feira livre", "reciclagem", "joaquim méier"]

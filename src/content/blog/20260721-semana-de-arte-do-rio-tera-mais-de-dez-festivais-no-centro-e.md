@@ -3,7 +3,7 @@ title: "Semana de Arte do Rio terá mais de dez festivais no Centro em setembro"
 description: "De 16 a 27 de setembro, Centro do Rio recebe mais de dez festivais integrados pela 1ª Semana de Arte do Rio, com exposições, teatro, dança e cinema."
 pubDate: "2026-07-21"
 heroImage: "/hero/semana-de-arte-do-rio-tera-mais-de-dez-festivais-no-centro-e.jpg"
-hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Zola1999junior"
+hero_credit: "Photo by Leonhard_Niederwimmer on Pixabay"
 source_name: "Prefeitura do Rio lança Semana de Arte do Rio, que reunirá mais de dez festivais no Centro da cidade"
 source_url: "https://prefeitura.rio/cultura/prefeitura-do-rio-lanca-semana-de-arte-do-rio-que-reunira-mais-de-dez-festivais-no-centro-da-cidade/"
 tags: ["semana de arte do rio", "cultura", "centro do rio", "festivais", "prefeitura do rio", "eduardo cavaliere"]

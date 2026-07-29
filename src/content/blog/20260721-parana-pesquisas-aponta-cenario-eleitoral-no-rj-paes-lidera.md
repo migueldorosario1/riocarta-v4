@@ -3,7 +3,7 @@ title: "Paraná Pesquisas aponta cenário eleitoral no RJ; Paes lidera para gove
 description: "Pesquisa Paraná Pesquisas mostra intenções de voto para governador e senadores no Rio de Janeiro, com Eduardo Paes na frente."
 pubDate: "2026-07-21"
 heroImage: "/hero/parana-pesquisas-aponta-cenario-eleitoral-no-rj-paes-lidera.jpg"
-hero_credit: "Wikimedia Commons (CC BY 2.0) — Palácio do Planalto"
+hero_credit: "Photo by Rodrigo Menezes on Pexels"
 source_name: "Eleições 2026 no Rio de Janeiro: últimas notícias"
 source_url: "https://www.gazetadopovo.com.br/eleicoes/2026/rio-de-janeiro/"
 tags: ["paraná pesquisas", "eduardo paes", "cláudio castro", "eleições 2026", "rio de janeiro", "pesquisa eleitoral"]
