@@ -174,7 +174,7 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 									<div class="fv-card">
 										{d.hero && <img class="fv-img" src={d.hero} alt={d.title} loading="lazy" />}
 										<div class="fv-content">
-											<span class="fv-kicker">{d.kicker}</span>
+											{d.kicker && <span class="fv-kicker">{d.kicker}</span>}
 											<h3 class="fv-title">{d.title}</h3>
 											<p class="fv-desc">{d.description}</p>
 										</div>
