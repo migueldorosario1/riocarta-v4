@@ -1,38 +1,42 @@
 [
-  {
-    "kicker": "Pesquisas",
-    "author": "Redação Rio Carta",
-    "title": "Quaest: Paes lidera com até 40% no RJ; Ruas tem no máximo 11%",
-    "url": "/blog/20260722-quaest-paes-lidera-com-ate-40-no-rj-ruas-tem-no-maximo-11/",
-    "hero": "/hero/20260722-quaest-paes-lidera-com-ate-40-no-rj-ruas-tem-no-maximo-11.jpg",
-    "description": "Nova pesquisa mostra Eduardo Paes disparado na corrida municipal do Rio; adversários patinam."
-  },
-  {
-    "title": "ISP lança portal de dados abertos com estatísticas criminais do RJ",
-    "description": "Instituto de Segurança Pública disponibiliza bases de dados de registros criminais e atividade policial do estado do Rio de Janeiro.",
-    "url": "/blog/20260721-isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais/",
-    "hero": "/hero/isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais.jpg",
-    "kicker": "Isp"
-  },
-  {
-    "title": "Marinha retoma buscas por argentino desaparecido na Costa Verde",
-    "description": "Erwin Rosenthal sumiu enquanto velejava na Restinga da Marambaia. Veleiro foi encontrado à deriva; polícia investiga roubo.",
-    "url": "/blog/20260721-marinha-retoma-buscas-por-argentino-desaparecido-na-costa-ve/",
-    "hero": "/hero/marinha-retoma-buscas-por-argentino-desaparecido-na-costa-ve.jpg",
-    "kicker": "Marinha"
-  },
-  {
-    "title": "Semana de Arte do Rio terá mais de dez festivais no Centro em setembro",
-    "description": "De 16 a 27 de setembro, Centro do Rio recebe mais de dez festivais integrados pela 1ª Semana de Arte do Rio, com exposições, teatro, dança e cinema.",
-    "url": "/blog/20260721-semana-de-arte-do-rio-tera-mais-de-dez-festivais-no-centro-e/",
-    "hero": "/hero/semana-de-arte-do-rio-tera-mais-de-dez-festivais-no-centro-e.jpg",
-    "kicker": "Semana De Arte Do Rio"
-  },
-  {
-    "title": "JUVRio abre 3,5 mil vagas gratuitas em cursos de tecnologia e qualificação",
-    "description": "Inscrições vão até 10 de agosto para jovens de 15 a 29 anos. São 13 cursos em sete unidades da cidade.",
-    "url": "/blog/20260721-juvrio-abre-3-5-mil-vagas-gratuitas-em-cursos-de-tecnologia/",
-    "hero": "/hero/juvrio-abre-3-5-mil-vagas-gratuitas-em-cursos-de-tecnologia.jpg",
-    "kicker": "Juvrio"
-  }
+    {
+        "kicker": "",
+        "author": "Redação Rio Carta",
+        "title": "Benedita da Silva: trajetória de luta e representatividade na Câmara",
+        "url": "/blog/20260721-benedita-da-silva-trajetoria-de-luta-e-representatividade-na/",
+        "hero": "/hero/benedita-da-silva-trajetoria-de-luta-e-representatividade-na.jpg",
+        "description": "Conheça a biografia da deputada federal Benedita da Silva (PT-RJ), com mais de 30 anos de mandato e atuação em direitos humanos, cultura e igualdade racial"
+    },
+    {
+        "kicker": "",
+        "author": "Redação Rio Carta",
+        "title": "CET-Rio Implementa Medidas de Tráfego para Eco Run no Aterro",
+        "url": "/blog/20260726-cet-rio-implementa-medidas-de-trafego-para-eco-run-no-aterro/",
+        "hero": "/hero/cet-rio-implementa-medidas-de-trafego-para-eco-run-no-aterro.jpg",
+        "description": "A CET-Rio prepara operação de trânsito para a corrida Eco Run 4, com restrições na Avenida Infante Dom Henrique e na Avenida das Nações Unidas."
+    },
+    {
+        "kicker": "",
+        "author": "Redação Rio Carta",
+        "title": "Rio em Ordem apreende 78 cones que guardavam vagas públicas na Zona Sul",
+        "url": "/blog/20260802-rio-em-ordem-apreende-78-cones-que-guardavam-vagas-publicas/",
+        "hero": "/hero/rio-em-ordem-apreende-78-cones-que-guardavam-vagas-publicas.jpg",
+        "description": "Operação removeu cones que bloqueavam vagas públicas em Botafogo, Flamengo e Catete. Subprefeitura promete seguir com fiscalização."
+    },
+    {
+        "kicker": "",
+        "author": "Redação Rio Carta",
+        "title": "Maricá quintuplica passageiros offshore em dois anos",
+        "url": "/blog/smoke-202607110900-marica-quintuplica-passageiros-offshore-em-dois-anos/",
+        "hero": "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-marica-quintuplica-passageiros-offshore-em-dois-anos.jpg",
+        "description": "O Aeroporto de Maricá (RJ) consolidou-se como um polo logístico estratégico para a indústria offshore, com transporte aéreo de trabalhadores para unidades marítimas de produção de"
+    },
+    {
+        "kicker": "",
+        "author": "Redação Rio Carta",
+        "title": "Evento 'De Férias com o Patrimônio' celebra 40 anos do IRPH com atividades para crianças",
+        "url": "/blog/20260726-evento-de-ferias-com-o-patrimonio-celebra-40-anos-do-irph-co/",
+        "hero": "/hero/evento-de-ferias-com-o-patrimonio-celebra-40-anos-do-irph-co.jpg",
+        "description": "IRPH e Petrobras Futuros promovem programação gratuita com atividades educativas e culturais para crianças em comemoração aos 40 anos."
+    }
 ]
