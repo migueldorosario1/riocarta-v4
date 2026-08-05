@@ -8,6 +8,14 @@
         "description": "Conheça a biografia da deputada federal Benedita da Silva (PT-RJ), com mais de 30 anos de mandato e atuação em direitos humanos, cultura e igualdade racial"
     },
     {
+        "kicker": "Dados abertos",
+        "author": "Redação Rio Carta",
+        "title": "ISP lança portal de dados abertos com estatísticas criminais do RJ",
+        "url": "/blog/20260721-isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais/",
+        "hero": "/hero/isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais.jpg",
+        "description": "Instituto de Segurança Pública disponibiliza bases de dados de registros criminais e atividade policial do estado do Rio de Janeiro."
+    },
+    {
         "kicker": "Trânsito",
         "author": "Redação Rio Carta",
         "title": "CET-Rio Implementa Medidas de Tráfego para Eco Run no Aterro",
@@ -30,13 +38,5 @@
         "url": "/blog/smoke-202607110900-marica-quintuplica-passageiros-offshore-em-dois-anos/",
         "hero": "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-marica-quintuplica-passageiros-offshore-em-dois-anos.jpg",
         "description": "O Aeroporto de Maricá (RJ) consolidou-se como um polo logístico estratégico para a indústria offshore, com transporte aéreo de trabalhadores para unidades marítimas de produção de"
-    },
-    {
-        "kicker": "Dados abertos",
-        "author": "Redação Rio Carta",
-        "title": "ISP lança portal de dados abertos com estatísticas criminais do RJ",
-        "url": "/blog/20260721-isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais/",
-        "hero": "/hero/isp-lanca-portal-de-dados-abertos-com-estatisticas-criminais.jpg",
-        "description": "Instituto de Segurança Pública disponibiliza bases de dados de registros criminais e atividade policial do estado do Rio de Janeiro."
     }
 ]
