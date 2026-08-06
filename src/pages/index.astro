@@ -6,10 +6,27 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
-import destaques from '../data/destaques.json';
+import destaquesAll from '../data/destaques.json';
+import destaquesCfg from '../data/destaques_config.json';
 import { sortPostsWithSticky } from '../utils/stickyPosts';
 
-const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) => !post.data.draft));
+// Regras de Destaques (ordem Miguel, 2026-08-06):
+// 1) a seção só renderiza se estiver LIGADA no painel (destaques_config.json);
+//    desligada, a home mostra só os mais recentes na frente;
+// 2) destaque com mais de max_age_hours sai do topo (defesa em profundidade —
+//    o gerador ga4_destaques.py já filtra; aqui segura mesmo com JSON velho);
+// 3) destaque exibido no topo NÃO repete na lista de recentes embaixo.
+const _todosPosts = (await getCollection('blog')).filter((post) => !post.data.draft);
+const _horasMax = Number(destaquesCfg.max_age_hours ?? 48);
+const _maxAgeMs = _horasMax > 0 ? _horasMax * 3600_000 : Infinity;
+const _porUrl = new Map(_todosPosts.map((p) => [`/blog/${p.id}/`, p]));
+const destaques = (destaquesCfg.enabled === true ? destaquesAll : []).filter((d) => {
+	const p = _porUrl.get(d.url);
+	return p && Date.now() - new Date(p.data.pubDate).getTime() <= _maxAgeMs;
+});
+const _urlsDestaque = new Set(destaques.map((d) => d.url));
+
+const posts = sortPostsWithSticky(_todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/`)));
 ---
 
 <!doctype html>
@@ -186,6 +203,7 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 	<body>
 		<Header />
 		<main>
+			{destaques.length > 0 && (
 			<section class="featured-voices">
 				<h2 class="fv-section-title fv-mini">Destaques</h2>
 				<ul class="fv-grid">
@@ -207,6 +225,7 @@ const posts = sortPostsWithSticky((await getCollection('blog')).filter((post) =>
 					}
 				</ul>
 			</section>
+			)}
 			<section>
 				<ul id="news-list">
 					{
