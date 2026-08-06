@@ -2,8 +2,8 @@
 title: "Paes lidera com 48,6%; Benedita e Crivella à frente no Senado, diz Paraná Pesquisas"
 description: "Pesquisa Paraná Pesquisas mostra Eduardo Paes com 48,6% no 1º turno; Benedita e Crivella lideram para o Senado no RJ."
 pubDate: "2026-08-05"
-heroImage: "/hero/paes-lidera-com-48-6-benedita-e-crivella-a-frente-no-senado.jpg"
-hero_credit: "Photo by Bruno Scramgnon on Pexels"
+heroImage: "/hero/ouro_7891c94f7ccb1eb3-paes-lidera-com-48-6-benedita-.jpg"
+hero_credit: "Flickr oficial Eduardo Paes — uso editorial com crédito"
 source_name: "Os números do Paraná Pesquisas para governador e senadores no Rio de Janeiro"
 source_url: "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senador-rio-de-janeiro-julho-2026-2/"
 tags: ["paraná pesquisas", "eduardo paes", "benedita da silva", "senado", "governador", "eleições 2026"]

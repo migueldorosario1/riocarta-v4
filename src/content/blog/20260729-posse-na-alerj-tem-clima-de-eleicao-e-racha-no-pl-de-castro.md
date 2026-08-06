@@ -2,8 +2,8 @@
 title: "Posse na Alerj tem clima de eleição e racha no PL de Castro"
 description: "Deputados tomam posse para 13ª legislatura; disputa pela presidência opõe dois candidatos do PL, ambos secretários de Cláudio Castro."
 pubDate: "2026-07-29"
-heroImage: "/hero/posse-na-alerj-tem-clima-de-eleicao-e-racha-no-pl-de-castro.jpg"
-hero_credit: "Photo by Americo Vermelho on Pexels"
+heroImage: "/hero/ouro_40de6799944247a8-posse-na-alerj-tem-clima-de-el.jpg"
+hero_credit: "Flickr oficial Claudio Castro — uso editorial com crédito"
 source_name: "Deputados eleitos tomam posse na Alerj em meio a clima de eleição para presidente da casa, disputada por 2 parlamentares"
 source_url: "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/02/01/deputados-eleitos-tomam-posse-na-alerj.ghtml"
 tags: ["alerj", "posse", "cláudio castro", "pl", "rodrigo bacellar", "jair bittencourt"]

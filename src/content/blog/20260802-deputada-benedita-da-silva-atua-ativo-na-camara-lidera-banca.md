@@ -2,8 +2,8 @@
 title: "Deputada Benedita da Silva atua ativo na Câmara, lidera bancada e comissões"
 description: "PT-RJ destaca presença em plenário e emendas parlamentares focadas em cultura e igualdade"
 pubDate: "2026-08-02"
-heroImage: "/hero/deputada-benedita-da-silva-atua-ativo-na-camara-lidera-banca.jpg"
-hero_credit: "Photo by Douglas Mendes on Pexels"
+heroImage: "/hero/ouro_b4d1a7e25fec1c65-deputada-benedita-da-silva-atu.jpg"
+hero_credit: "Flickr oficial Benedita da Silva — uso editorial com crédito"
 source_name: "Deputada Federal Benedita da Silva - Portal da Câmara dos Deputados"
 source_url: "https://www.camara.leg.br/deputados/73701"
 tags: ["b Benedita da Silva", "Câmara dos Deputados", "PT-RJ", "comissões", "emendas parlamentares"]
