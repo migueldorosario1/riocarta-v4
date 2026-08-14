@@ -3,8 +3,8 @@ title: "Pesquisas para governador do RJ: Paes lidera com folga em todos os cená
 description: "Levantamentos de julho mostram Eduardo Paes (PSD) à frente no 1º e 2º turnos; Douglas Ruas e Garotinho disputam o segundo lugar."
 pubDate: "2026-08-13"
 heroImage: "/hero/pesquisas-para-governador-do-rj-paes-lidera-com-folga-em-tod.jpg"
-hero_credit: "Photo by larry penaloza on Pexels"
-hero_legenda: "Pesquisas para governador do RJ: Paes lidera com folga em todos os cenários"
+hero_credit: "Wikimedia Commons (CC BY-SA 2.0) — Lula Oficial/Planalto"
+hero_legenda: "Eduardo Paes (PSD), prefeito do Rio, na cerimônia de entrega da Ordem do Mérito Cultural (Palácio Capanema, 20/05/2025). Foto: Lula Oficial (CC BY-SA 2.0)."
 source_name: "O que dizem as últimas pesquisas para governador do RJ nas Eleições 2026"
 source_url: "https://noticias.uol.com.br/eleicoes/2026/08/10/o-que-dizem-as-ultimas-pesquisas-para-governador-de-rj-nas-eleicoes-2026.ghtm"
 tags: ["eduardo paes", "pesquisa eleitoral", "governador rj", "eleições 2026", "paraná pesquisas", "realtime big data"]
