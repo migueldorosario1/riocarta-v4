@@ -13,11 +13,12 @@ interface Props {
 	title: string;
 	description: string;
 	image?: ImageMetadata | string;
+	noindex?: boolean;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = FallbackImage } = Astro.props;
+const { title, description, image = FallbackImage, noindex = false } = Astro.props;
 const imagePath = typeof image === 'string' ? image : image.src;
 const socialImageURL = new URL(imagePath, Astro.site ?? Astro.url).href;
 ---
@@ -26,6 +27,7 @@ const socialImageURL = new URL(imagePath, Astro.site ?? Astro.url).href;
 <meta charset="utf-8" />
 <meta name="google-site-verification" content="FyTI67By834wmts7LsLxDgw4JJN-H4lZBpGSM3qG_YI" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
+{noindex && <meta name="robots" content="noindex,follow" />}
 <link rel="icon" type="image/png" href="/favicon.png" />
 <link rel="sitemap" href="/sitemap-index.xml" />
 <link

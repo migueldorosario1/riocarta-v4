@@ -10,7 +10,16 @@ import vercel from '@astrojs/vercel';
 export default defineConfig({
     site: 'https://www.riocarta.com',
     adapter: vercel(),
-    integrations: [mdx(), sitemap(), react()],
+        integrations: [
+        mdx(),
+        sitemap({
+            filter: (page) => {
+                const path = new URL(page).pathname;
+                return !/(^|\/)(tags|teste|preview|senadores|prefeituras)(\/|-|$)/.test(path);
+            },
+        }),
+        react(),
+    ],
     fonts: [
         {
             provider: fontProviders.local(),
