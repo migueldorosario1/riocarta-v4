@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cet-rio/cet-rio-inicia-nova-fase-do-programa
 tags: ["cet-rio", "educação para o trânsito", "campo grande", "mobilidade urbana", "segurança viária", "a caminho da escola"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A CET-Rio deu início a uma nova etapa do programa A Caminho da Escola 3.0, com ações realizadas nos dias 11 e 13 de agosto nas escolas municipais Tóquio e Ministro Alcides Carneiro, em Campo Grande, na Zona Oeste. A mobilização envolveu alunos, professores, pais, responsáveis e moradores em atividades educativas e culturais, como apresentações de dança, música e a peça teatral sobre trânsito A Caminho da Escola, além da distribuição de mudas.
 
