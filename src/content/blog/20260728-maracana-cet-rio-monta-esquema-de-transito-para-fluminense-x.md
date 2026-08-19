@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cet-rio/maracana-tera-esquema-de-transito-pa
 tags: ["cet-rio", "maracanã", "fluminense", "bahia", "trânsito", "interdições"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A CET-Rio, órgão da prefeitura do Rio, preparou um esquema especial de trânsito para o jogo entre Fluminense e Bahia, nesta quarta-feira (29), no Maracanã. A partida é válida pelo Campeonato Brasileiro e começa às 21h30.
 

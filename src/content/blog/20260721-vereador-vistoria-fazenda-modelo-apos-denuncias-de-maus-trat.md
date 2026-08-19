@@ -9,7 +9,7 @@ source_url: "https://odia.ig.com.br/colunas/e-o-bicho/2018/04/5530352-comissao-d
 tags: ["fazenda modelo", "direitos dos animais", "câmara do rio", "suipa", "luiz carlos ramos filho", "vistoria"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O presidente da Comissão dos Direitos dos Animais da Câmara Municipal do Rio, vereador Luiz Carlos Ramos Filho (Podemos), realizou uma nova vistoria na Fazenda Modelo na manhã desta sexta-feira (13). O objetivo é apurar denúncias sobre o funcionamento do abrigo municipal.
 

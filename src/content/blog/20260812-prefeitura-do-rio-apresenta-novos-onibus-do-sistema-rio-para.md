@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/transportes/prefeitura-apresenta-novos-onibu
 tags: ["sistema rio", "ônibus", "zona oeste", "prefeitura do rio", "transporte público", "eduardo cavaliere"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio apresentou, nesta quarta-feira (12/8), no Centro Administrativo São Sebastião (CASS), na Cidade Nova, os primeiros modelos de ônibus do Sistema RIO (Rede Integrada de Ônibus). Os veículos começam a operar ainda em agosto na Zona Oeste, beneficiando moradores de Santa Cruz, Sepetiba, Paciência, Cosmos, Inhoaíba e Campo Grande.
 

@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/forca-municipal/divisao-de-elite-da-guarda-m
 tags: ["força municipal", "guarda municipal", "jacarepaguá", "freguesia", "eduardo cavaliere", "segurança pública"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O prefeito do Rio, Eduardo Cavaliere, anunciou nesta terça-feira (11/08) a expansão do policiamento preventivo e ostensivo da Divisão de Elite da GM-Rio – Força Municipal para um novo perímetro: Freguesia e Jacarepaguá, na Zona Sudoeste. O anúncio foi feito durante reunião do CompStat Rio, e o policiamento na nova área terá início no domingo (16/08).
 

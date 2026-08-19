@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/conselho-municipal-de-favelas-e-subpr
 tags: ["bem-estar animal", "julho dourado", "taquara", "prevenção à raiva", "empreendedorismo"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 No âmbito de celebrações do Julho Dourado, a Prefeitura do Rio de Janeiro, através do Conselho Municipal de Favelas e da Subprefeitura dos Grandes Complexos, realizou um ciclo de atividades na Praça Colibri, na Taquara, no dia 25 de julho. Essas ações foram voltadas ao bem-estar animal, incluindo serviços de microchipagem e vacinação antirrábica para cães e gatos.
 

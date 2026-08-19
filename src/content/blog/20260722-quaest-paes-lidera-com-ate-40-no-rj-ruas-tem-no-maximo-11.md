@@ -9,7 +9,7 @@ source_url: "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/0
 tags: ["pesquisa", "quaest", "eduardo paes", "douglas ruas", "governo do rj", "eleições 2026"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Pesquisa Quaest divulgada nesta segunda-feira (27) mostra o ex-prefeito do Rio de Janeiro Eduardo Paes (PSD) com até 40% das intenções de voto e o deputado estadual Douglas Ruas (PL) com até 10% no 1º turno da disputa pelo governo do RJ, segundo g1.globo.com.
 

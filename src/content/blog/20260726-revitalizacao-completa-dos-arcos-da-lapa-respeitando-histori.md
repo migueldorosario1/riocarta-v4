@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/conservacao/arcos-da-lapa-ganham-revitalizac
 tags: ["Arcos da Lapa", "Revitalização", "Patrimônio Histórico", "Rio de Janeiro", "Cidade"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Os Arcos da Lapa, um dos principais símbolos da história e paisagem do Rio de Janeiro, passaram por uma revitalização completa, conforme [noticiado pela prefeitura.rio](https://prefeitura.rio/conservacao/arcos-da-lapa-ganham-revitalizacao-completa/). A intervenção incluiu a limpeza e pintura, além da recuperação da Praça Cardeal Câmara, com um investimento total de cerca de R$ 1,7 milhão. A obra foi executada pela Secretaria Municipal de Conservação e respeitou o tombamento do IPHAN, mantendo as características originais da estrutura.
 

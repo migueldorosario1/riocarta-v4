@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/noticias/estacao-caju-do-brt-transbrasil-ent
 tags: ["brt", "transbrasil", "estação caju", "eduardo cavaliere", "mobi-rio", "transporte"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O prefeito do Rio, Eduardo Cavaliere, inaugurou neste sábado (01/08) a estação Caju do BRT Transbrasil, ampliando as opções de deslocamento na região. Acompanhado da diretora-presidente da MOBI-Rio, Claudia Secin, e do secretário municipal de Transportes, Jorge Arraes, o prefeito deu início à operação do novo ponto de embarque e desembarque.
 

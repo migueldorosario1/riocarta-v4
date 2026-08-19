@@ -9,7 +9,7 @@ source_url: "https://odia.ig.com.br/rio-de-janeiro/2026/07/7282999-eduardo-paes-
 tags: ["eduardo paes", "pesquisa eleitoral", "governo do estado", "eleições 2026", "segurança pública", "rejeição"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Pesquisa divulgada pelo jornal O Dia neste domingo (28) confirma a liderança de Eduardo Paes (PSD) na corrida ao Palácio Guanabara. O ex-prefeito do Rio aparece com 42% das intenções de voto em dois cenários testados, mantendo vantagem sobre os demais concorrentes.
 

@@ -10,7 +10,7 @@ source_url: "https://www.terra.com.br/noticias/eleicoes/eleicoes-2026-quem-sao-o
 tags: ["eleições 2026", "governo do rio", "eduardo paes", "pesquisa quaest", "cláudio castro", "política rj"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O estado do Rio de Janeiro terá eleição direta em outubro de 2026, após a renúncia de Cláudio Castro. A disputa ao Palácio Guanabara já tem nomes definidos, e pesquisa recente aponta o ex-prefeito Eduardo Paes (PSD) como favorito.
 

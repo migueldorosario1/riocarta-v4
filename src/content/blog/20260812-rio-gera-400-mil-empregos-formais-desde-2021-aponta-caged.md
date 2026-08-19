@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cidade/quatrocentos-mil-novos-empregos-forma
 tags: ["empregos", "caged", "prefeitura do rio", "economia", "mercado de trabalho"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A cidade do Rio de Janeiro gerou 400 mil novos empregos formais entre janeiro de 2021 e junho de 2026. O número consta em levantamento da Prefeitura do Rio, com base no Cadastro Geral de Empregados e Desempregados (CAGED), do Ministério do Trabalho e Emprego (MTE).
 

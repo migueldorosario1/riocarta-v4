@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cet-rio/cet-rio-monta-operacao-de-transito-n
 tags: ["trânsito", "CET-Rio", "Eco Run", "Aterro do Flamengo", "Botafogo"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Este domingo, 26 de julho, a CET-Rio executará uma operação de trânsito na Avenida Infante Dom Henrique (Aterro do Flamengo) e na Avenida das Nações Unidas, na Enseada de Botafogo, em conjunto com a realização da corrida Eco Run 4. A competição, que promete atrair muitos esportistas e turistas, tem sua largada programada para as 7h no Aterro do Flamengo, localizado em frente ao Monumento aos Mortos da Segunda Guerra Mundial, e seguirá pelo percurso da área de lazer até a Enseada de Botafogo.
 

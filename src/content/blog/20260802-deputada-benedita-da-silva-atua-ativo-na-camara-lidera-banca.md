@@ -9,7 +9,7 @@ source_url: "https://www.camara.leg.br/deputados/73701"
 tags: ["b Benedita da Silva", "Câmara dos Deputados", "PT-RJ", "comissões", "emendas parlamentares"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Deputada federal Benedita da Silva (PT-RJ) tem se destacado em atividades parlamentares ao longo de 2026, com forte presença em plenário e atuação em diversas comissões. Natural de Rio de Janeiro, Benedita da Silva é a coordenadora-geral da Bancada Negra da Câmara dos Deputados desde 22 de dezembro de 2025, demonstrando liderança no ambiente político fluminense. 
 

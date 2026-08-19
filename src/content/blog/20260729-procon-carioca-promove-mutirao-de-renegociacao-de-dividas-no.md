@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/procon-carioca/procon-carioca-faz-mega-acao-
 tags: ["procon carioca", "renegociação de dívidas", "bangu shopping", "zona oeste", "consumidor", "mutirão"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Secretaria Municipal de Proteção e Defesa do Consumidor (Sedecon), por meio do Procon Carioca, realiza nesta quinta-feira (30/7) e sexta-feira (31/7) uma Mega Ação de Renegociação de Dívidas e Atendimento ao Consumidor. O evento ocorre no estacionamento do Bangu Shopping, na Zona Oeste do Rio, das 10h às 17h.
 

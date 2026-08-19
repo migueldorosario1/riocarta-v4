@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/guardas-municipais-da-ronda-maria-da-
 tags: ["ronda maria da penha", "guarda municipal", "violência contra a mulher", "jardim botânico", "prisão", "medida protetiva"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Guardas municipais do Grupamento de Ronda Maria da Penha prenderam um homem por descumprimento de medida protetiva e por ameaçar a ex-companheira com uma faca, no Jardim Botânico, no último sábado (25/07). A vítima, que já é assistida pela Ronda Maria da Penha, acionou as equipes e informou que o ex-companheiro estava em sua residência fazendo ameaças.
 

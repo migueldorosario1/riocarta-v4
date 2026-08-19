@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/desenvolvimento-economico-solidario/ecosol-c
 tags: ["economia solidária", "ses-rio", "thiago pereira", "ecosol conecta", "píer mauá", "política pública"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O Rio de Janeiro deu mais um passo para fortalecer a Economia Solidária como política pública. Realizado nesta quinta-feira (13), no Píer Mauá, o ECOSOL CONECTA 2026 — Resultados, Capacitação e Futuro reuniu mais de 200 pessoas entre colaboradores, instrutores, parceiros e participantes da Secretaria Especial de Economia Solidária (SES-Rio).
 

@@ -9,7 +9,7 @@ source_url: "https://www.alerj.rj.gov.br/"
 tags: ["alerj", "manutenção", "modernização", "lei de diretriz orçamentária", "transparência"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 As atividades de manutenção e melhoria na infraestrutura da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) ganham novo impetus nesta semana. Iniciada na sexta-feira (24/07), a conservação do auditório localizado no 21º andar da sede da Alerj é uma das principais ações em curso, de acordo com a alerj.rj.gov.br.
 

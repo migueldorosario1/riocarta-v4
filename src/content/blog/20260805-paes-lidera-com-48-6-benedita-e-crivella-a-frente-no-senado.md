@@ -9,7 +9,7 @@ source_url: "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-20
 tags: ["paraná pesquisas", "eduardo paes", "benedita da silva", "senado", "governador", "eleições 2026"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O instituto Paraná Pesquisas divulgou nesta sexta-feira (31) nova pesquisa de intenções de voto para governador e senador do Rio de Janeiro nas eleições de 2026. O levantamento, registrado no TSE sob o nº RJ-09303/2026, ouviu 1.600 eleitores entre 28 e 30 de julho, com margem de erro de 2,5 pontos percentuais e nível de confiança de 95%.
 

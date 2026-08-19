@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/regiao-portuaria-tera-interdicoes-par
 tags: ["circuitos dos elementos", "trânsito", "interdições", "região portuária", "evento"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio de Janeiro anunciou que haverá restrições de trânsito na Região Portuária devido à realização do evento 'Circuito dos Elementos Etapa Água'. O evento, que acontece neste domingo, 26 de julho, envolverá o bairros do Centro, Saúde e Gamboa, e exigirá uma operação especial de trânsito para garantir a segurança e fluidez durante a competição.
 

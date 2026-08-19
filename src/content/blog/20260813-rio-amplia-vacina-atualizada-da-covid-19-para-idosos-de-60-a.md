@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cidade/idosos-de-60-anos-ja-podem-tomar-vaci
 tags: ["vacina", "covid-19", "idosos", "rio de janeiro", "sms", "saúde"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Secretaria Municipal de Saúde do Rio de Janeiro (SMS) ampliou, na última quarta-feira (12/8), a vacinação atualizada contra a cepa LP.8.1 da covid-19 para idosos com 60 anos ou mais. A ampliação ocorre após o recebimento de um novo aporte de doses enviado pelo Ministério da Saúde (MS).
 

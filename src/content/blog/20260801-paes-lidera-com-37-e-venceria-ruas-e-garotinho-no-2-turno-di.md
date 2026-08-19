@@ -9,7 +9,7 @@ source_url: "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-20
 tags: ["eduardo paes", "pesquisa eleitoral", "real time big data", "governador rj", "senado rj", "eleições 2026"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O prefeito do Rio e pré-candidato ao governo estadual, Eduardo Paes (PSD), lidera a corrida pelo Palácio Guanabara com folga, segundo pesquisa Real Time Big Data divulgada nesta terça-feira (28). No cenário estimulado, Paes soma 37% das intenções de voto, contra 16% do vereador Douglas Ruas (PL) e 12% de Anthony Garotinho (Republicanos).
 

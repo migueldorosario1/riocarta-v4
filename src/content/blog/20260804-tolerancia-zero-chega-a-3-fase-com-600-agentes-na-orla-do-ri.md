@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/prefeitura-do-rio-e-forcas-de-seguran
 tags: ["tolerância zero", "orla do rio", "segurança pública", "copacabana", "crime organizado", "prefeitura do rio"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio e as forças de segurança do Estado anunciaram, nesta segunda-feira (03/08), a expansão do Programa Tolerância Zero nos bairros de Copacabana, Leme, Ipanema e Leblon. A nova fase amplia o efetivo e o raio de ação, com foco na segurança de quem usa a orla e no combate ao crime organizado.
 

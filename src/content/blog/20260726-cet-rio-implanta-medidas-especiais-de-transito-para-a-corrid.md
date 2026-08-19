@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cet-rio/cet-rio-altera-transito-em-iraja-par
 tags: ["CET-Rio", "Irajá", "Zona Norte", "Corrida Rio Sem Parar", "Trânsito"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Centro de Operações e Trânsito (CET-Rio) anunciou nesta sexta-feira (24/07) que realizará uma operação de trânsito especial no domingo (26/07), das 6h às 10h, devido à realização da Corrida e Caminhada Rio Sem Parar no bairro de Irajá, na Zona Norte do Rio de Janeiro.
 

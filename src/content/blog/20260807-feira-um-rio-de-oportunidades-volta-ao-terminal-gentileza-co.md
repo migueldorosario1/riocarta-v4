@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cidade/segunda-edicao-da-feira-um-rio-de-opo
 tags: ["feira de oportunidades", "terminal gentileza", "juventude", "emprego", "cursos gratuitos", "rio de janeiro"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A segunda edição da Feira 'Um Rio de Oportunidades' acontece no dia 11 de agosto, das 8h às 15h, no Terminal Gentileza, na Avenida Brasil, 165, em São Cristóvão. O evento, promovido pelo Decola Cria (GOYN Rio), Cedaps e CIEE Rio, tem como foco conectar jovens de 15 a 29 anos a oportunidades de trabalho, qualificação e desenvolvimento pessoal.
 

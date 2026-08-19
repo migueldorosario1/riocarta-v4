@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/forca-municipal/prefeitura-do-rio-inicia-for
 tags: ["força municipal", "guarda municipal", "eduardo cavaliere", "segurança pública", "rio de janeiro"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O prefeito do Rio de Janeiro, Eduardo Cavaliere, deu início, nesta sexta-feira (14/08), à formação da terceira turma da Divisão de Elite da Guarda Municipal – Força Municipal. A cerimônia de abertura aconteceu na Academia da corporação, instalada na sede da Superintendência da Polícia Rodoviária Federal (PRF), em Irajá, na Zona Norte.
 

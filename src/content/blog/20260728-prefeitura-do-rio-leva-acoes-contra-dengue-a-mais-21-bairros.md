@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/mais-21-bairros-do-rio-recebem-acoes-
 tags: ["dengue", "zika", "chikungunya", "prevenção", "prefeitura do rio", "saúde pública"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio, por meio da Secretaria Municipal de Saúde (SMS), dá continuidade nesta semana à ação 'SVS na Rua' de combate e prevenção às arboviroses — dengue, zika e chikungunya. Entre os dias 27 e 31 de julho, mais 21 bairros da cidade recebem as equipes de vistoria e orientação.
 

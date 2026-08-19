@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cidade/programa-corredores-de-excelencia-lev
 tags: ["zeladoria", "catete", "subprefeitura zona sul", "corredores de excelência", "prefeitura do rio"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Subprefeitura da Zona Sul, em parceria com a Gerência Executiva Local (GEL) Botafogo, deu início nesta semana a mais uma edição do Programa Corredores de Excelência, agora no bairro do Catete. A ação concentra equipes de diversos órgãos municipais na Rua Silveira Martins, entre as ruas do Catete e Bento Lisboa, com operação intensiva que segue até esta sexta-feira (14).
 

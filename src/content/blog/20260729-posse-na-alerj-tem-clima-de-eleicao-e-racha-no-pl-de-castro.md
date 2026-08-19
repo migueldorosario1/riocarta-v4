@@ -9,7 +9,7 @@ source_url: "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/02/01/deputados
 tags: ["alerj", "posse", "cláudio castro", "pl", "rodrigo bacellar", "jair bittencourt"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Os deputados eleitos para a 13ª Legislatura da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) tomaram posse nesta quarta-feira (1º), em sessão no Palácio Tiradentes, antiga sede da casa, segundo g1.globo.com.
 

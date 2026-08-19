@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/casa-civil/prefeitura-do-rio-e-ministerio-do
 tags: ["emprego", "empreendedorismo", "governo federal", "prefeitura do rio", "mei", "geração de renda"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio e o Governo Federal anunciaram a integração das plataformas Oportunidades Cariocas e Contrata+Brasil, com o objetivo de ampliar o acesso da população a oportunidades de empreendedorismo e geração de renda. A parceria foi definida em reunião nesta terça-feira (28/07) entre o prefeito Eduardo Cavaliere e o ministro do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte, Paulo Henrique Pereira, no Centro Administrativo São Sebastião (CASS), na Cidade Nova.
 

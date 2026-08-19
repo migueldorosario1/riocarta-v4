@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/acao-de-ordenamento-apreende-mais-de-
 tags: ["ordenamento urbano", "jacarepaguá", "prefeitura do rio", "segurança pública", "apreensão de armas"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio, por meio da Subprefeitura de Jacarepaguá e da Secretaria Municipal de Ordem Pública, realizou na manhã de terça-feira (21/07) uma operação de ordenamento urbano na Estrada dos Bandeirantes, embaixo do viaduto da Linha Amarela, na Gardênia Azul e na Avenida Antonieta Campos da Paz, no Pechincha.
 

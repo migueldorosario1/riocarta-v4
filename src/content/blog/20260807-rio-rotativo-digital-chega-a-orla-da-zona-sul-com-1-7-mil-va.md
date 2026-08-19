@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/noticias/prefeitura-amplia-rio-rotativo-digi
 tags: ["rio rotativo digital", "zona sul", "estacionamento", "prefeitura do rio", "mobilidade urbana"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio, por meio da Secretaria Municipal de Transportes (SMTR), amplia a partir da próxima segunda-feira (10/8) a operação do Rio Rotativo Digital na Zona Sul. A nova etapa abrange mais de 1,7 mil vagas na orla dos bairros do Leme, Copacabana, Ipanema e Leblon, com apoio de 80 guardadores credenciados.
 

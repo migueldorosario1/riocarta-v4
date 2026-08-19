@@ -3,8 +3,8 @@ title: "Força Municipal chega à Freguesia com policiamento contra roubos e fur
 description: "Força Municipal inicia patrulhamento na Freguesia, em Jacarepaguá, e amplia atuação para 13 perímetros na cidade."
 pubDate: "2026-08-16"
 heroImage: "/hero/forca-municipal-chega-a-freguesia-com-policiamento-contra-ro.jpg"
-hero_credit: "Photo by Roy Serafin on Pexels"
-hero_legenda: "Força Municipal chega à Freguesia com policiamento contra roubos e furtos"
+hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Virgílio Gomes"
+hero_legenda: "Antigo Matadouro Municipal . Projeto geral dos arquitetos António Couto Martins (1887-1970) e Miguel Simões Jacobetty Rosa (1901-1970), 1938 a 1940 Fotografia de Virgílio Gomes, 28 de março de 2023. Campo da Barca, Fregu"
 source_name: "Força Municipal inicia policiamento na região da Freguesia, em Jacarepaguá"
 source_url: "https://prefeitura.rio/forca-municipal/forca-municipal-inicia-policiamento-na-regiao-da-freguesia-em-jacarepagua/"
 tags: ["força municipal", "freguesia", "jacarepaguá", "policiamento", "segurança pública", "prefeitura do rio"]

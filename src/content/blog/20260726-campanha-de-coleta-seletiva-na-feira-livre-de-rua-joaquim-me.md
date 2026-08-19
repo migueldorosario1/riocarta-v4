@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/comlurb/feira-livre-da-rua-joaquim-meier-rec
 tags: ["comlurb", "coleta seletiva", "feira livre", "reciclagem", "joaquim méier"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 No dia 24 de julho de 2026, a Companhia Municipal de Limpeza Urbana (Comlurb) realizou uma campanha de incentivo à coleta seletiva na feira livre da Rua Joaquim Méier, no bairro Méier, conforme informado em seu site oficial. Esta campanha, que começou em março de 2023, tem sido implementada em locais de grande visibilidade em todas as áreas do município, focando em praças, praias e feiras livres, com a presença de equipes para divulgação e distribuição de panfletos informativos sobre o serviço de coleta seletiva.
 

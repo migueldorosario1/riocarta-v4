@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/campanha-de-vacinacao-antirrabica-com
 tags: ["vacinação", "antirrábica", "animais", "rio de janeiro", "saúde pública"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio dá início neste sábado (8/8) à Campanha Municipal de Vacinação Antirrábica. A primeira etapa atende bairros do Centro, Zona Sul, Ilha do Governador e Grande Tijuca, com 125 postos de vacinação funcionando das 9h às 17h.
 

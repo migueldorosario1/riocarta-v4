@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/acao-de-ordenamento-em-copacabana-rec
 tags: ["ordenamento", "copacabana", "entulho", "acessibilidade", "segurança"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Uma operação de ordenamento realizada na noite de quinta-feira e madrugada de sexta-feira na Copacabana resultou na recolha de três toneladas de entulho e na remoção de estruturas ilegais das calçadas. A ação foi coordenada pela Subprefeitura da Zona Sul em parceria com a Secretaria Municipal de Ordem Pública (SEOP) e a Gerência Executiva Local. 
 

@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cet-rio/transito-tera-alteracoes-na-regiao-d
 tags: ["cet-rio", "vasco", "são januário", "trânsito", "interdições", "sul-americana"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A CET-Rio preparou um esquema especial de trânsito para o jogo entre Vasco e Independiente Medellín, nesta quarta-feira (29/07), em São Januário. A partida é válida pela Copa Sul-Americana.
 

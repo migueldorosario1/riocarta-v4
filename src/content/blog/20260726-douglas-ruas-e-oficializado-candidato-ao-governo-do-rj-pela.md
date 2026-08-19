@@ -9,7 +9,7 @@ source_url: "https://veja.abril.com.br/politica/eleicao-no-rio-douglas-ruas-larg
 tags: ["eleições", "rio de janeiro", "douglas ruas", "cláudio castro", "eduardo paes"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 No contexto das eleições 2026 no Rio de Janeiro, Douglas Ruas, presidente da Assembleia Legislativa do Rio (Alerj) e filiado ao Partido Liberal (PL), foi oficializado como candidato ao governo estadual em uma convenção do partido. A chapa, no entanto, foi anunciada sem um vice, uma vez que Rogério Lisboa (PP), ex-prefeito de Nova Iguaçu, desistiu do cargo devido a dificuldades no acerto com a federação União-PP. 
 

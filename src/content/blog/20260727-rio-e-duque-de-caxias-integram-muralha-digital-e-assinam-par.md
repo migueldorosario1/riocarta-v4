@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/civitas/prefeituras-do-rio-e-de-duque-de-cax
 tags: ["segurança pública", "rio de janeiro", "duque de caxias", "tecnologia", "muralha digital"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Em um avanço na colaboração para fortalecer a segurança pública nos municípios do Rio de Janeiro e Duque de Caxias, uma parceria inédita foi assinada entre as prefeituras, na data de 25 de julho de 2026. A parceria, firmada pelos prefeitos Eduardo Cavaliere e Netinho Reis, estabelece protocolos seguros para a integração dos sistemas tecnológicos e para o compartilhamento de informações entre as centrais de inteligência das duas cidades, o que representa o primeiro intercâmbio de informações municipais voltado para a segurança pública.
 

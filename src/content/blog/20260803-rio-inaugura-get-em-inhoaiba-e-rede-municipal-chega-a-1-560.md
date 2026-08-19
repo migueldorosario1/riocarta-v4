@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/mais-um-get-e-inaugurado-na-cidade-ja
 tags: ["educação", "get", "inhoaíba", "eduardo cavaliere", "zona oeste", "rio de janeiro"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O prefeito do Rio, Eduardo Cavaliere, inaugurou neste domingo (02/08) mais um Ginásio Educacional Tecnológico (GET), em Inhoaíba, na Zona Oeste. Acompanharam a cerimônia o secretário municipal de Educação, Hugo Nepomuceno, e o secretário da Casa Civil, Leandro Matieli.
 

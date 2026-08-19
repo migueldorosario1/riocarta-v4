@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cidade/prefeitura-do-rio-e-aws-firmam-acordo
 tags: ["aws", "startups", "inovação", "prefeitura do rio", "tecnologia", "rio.ia"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio, por meio da Secretaria de Ciência, Tecnologia e Inovação (SMCT), e a Amazon Web Services (AWS) anunciaram, na sexta-feira (7/8), durante o Rio Innovation Week, a assinatura de um memorando de entendimento para impulsionar o ecossistema de inovação da cidade. A iniciativa prevê até R$ 20,5 milhões em créditos de nuvem pelo programa AWS Activate.
 

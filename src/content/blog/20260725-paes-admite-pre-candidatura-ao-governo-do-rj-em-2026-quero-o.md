@@ -9,7 +9,7 @@ source_url: "https://oglobo.globo.com/politica/noticia/2026/01/18/paes-admite-qu
 tags: ["eduardo paes", "eleições 2026", "governo do rio", "pré-candidatura", "psd", "santo antônio de pádua"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O prefeito do Rio, Eduardo Paes (PSD), admitiu pela primeira vez de forma explícita que será candidato ao governo do estado em 2026. A declaração ocorreu no sábado (18/1) durante visita a Santo Antônio de Pádua, no Noroeste Fluminense.
 

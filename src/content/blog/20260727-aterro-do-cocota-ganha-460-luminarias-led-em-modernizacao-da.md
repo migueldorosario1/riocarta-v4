@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/aterro-do-cocota-ganha-nova-iluminaca
 tags: ["aterro do cocotá", "ilha do governador", "iluminação led", "rioluz", "luz maravilha", "parque poeta manuel bandeira"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A RioLuz concluiu a modernização da iluminação pública do Parque Poeta Manuel Bandeira, o Aterro do Cocotá, na Ilha do Governador. A intervenção instalou cerca de 460 luminárias LED, 190 projetores para quadras esportivas e pista de skate, além de mais de dois quilômetros de cabos subterrâneos, segundo a prefeitura.rio.
 

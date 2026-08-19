@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cgm/cet-rio-anuncia-as-interdicoes-programad
 tags: ["cet-rio", "interdições", "túnel rebouças", "túnel santa bárbara", "elevado das bandeiras", "trânsito"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A CET-Rio anunciou uma série de interdições programadas para a noite desta segunda-feira (10/08) e madrugada de terça-feira (11/08) em importantes vias do Rio. Os bloqueios atingem o Túnel Rebouças, os túneis Zuzu Angel e Acústico Rafael Mascarenhas, o Elevado das Bandeiras e o Túnel Santa Bárbara, sempre no período noturno para reduzir o impacto no trânsito.
 

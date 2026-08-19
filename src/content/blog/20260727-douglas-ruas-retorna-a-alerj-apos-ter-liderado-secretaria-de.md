@@ -9,7 +9,7 @@ source_url: "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/478"
 tags: ["douglas ruas", "alerj", "secretaria de estado das cidades", "infraestrutura", "desenvolvimento regional"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Douglas Ruas dos Santos, de 37 anos, bacharel em Direito e pós-graduado em Gestão Pública, é um servidor concursado da Polícia Civil do Estado do Rio de Janeiro. Filho do Capitão Nelson, prefeito de São Gonçalo, e de Dona Marinete, Douglas está casado com Mariana Barbosa e é pai de Miguel. Segundo alerj.rj.gov.br, antes de se tornar deputado, Douglas já fora subsecretário de Trabalho em São Gonçalo e superintendente regional do Instituto Estadual do Ambiente (INEA).
 

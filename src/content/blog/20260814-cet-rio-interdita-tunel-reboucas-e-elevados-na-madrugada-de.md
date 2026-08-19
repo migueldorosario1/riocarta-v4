@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cidade/cet-rio-anuncia-as-interdicoes-progra
 tags: ["cet-rio", "túnel rebouças", "elevados", "interdição", "trânsito", "zona sul"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A CET-Rio anunciou interdições programadas para a madrugada deste sábado (15/08) no Túnel Rebouças e nos Elevados Engenheiro Freyssinet e Rufino Pizarro, na Zona Sul do Rio. Os bloqueios começam ainda na noite desta sexta-feira (14/08) e visam serviços de manutenção.
 

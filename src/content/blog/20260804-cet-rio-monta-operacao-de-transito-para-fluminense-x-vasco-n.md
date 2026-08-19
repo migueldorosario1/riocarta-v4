@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cet-rio/cet-rio-altera-no-transito-no-maraca
 tags: ["cet-rio", "maracanã", "fluminense", "vasco", "trânsito", "copa do brasil"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A CET-Rio prepara uma operação especial de trânsito para o clássico entre Fluminense e Vasco, nesta quarta-feira (05/08), pela Copa do Brasil. A partida está marcada para as 21h30, no estádio do Maracanã, e deve atrair grande público.
 

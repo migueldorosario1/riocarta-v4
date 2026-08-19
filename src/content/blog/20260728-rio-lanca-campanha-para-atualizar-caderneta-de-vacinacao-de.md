@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/saude/rio-inicia-campanha-de-atualizacao-da-
 tags: ["vacinação", "crianças", "adolescentes", "campanha", "rio de janeiro", "sms"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Secretaria Municipal de Saúde (SMS) do Rio de Janeiro anunciou, nesta terça-feira (28), a campanha de atualização da caderneta de vacinação voltada para crianças e adolescentes menores de 15 anos. A mobilização ocorrerá entre os dias 3 de agosto e 1º de setembro, integrando uma ação nacional coordenada pelo Ministério da Saúde para recuperar as coberturas vacinais, que vêm caindo nos últimos anos.
 

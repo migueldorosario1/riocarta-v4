@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/noticias/rio-celebra-dez-anos-dos-jogos-olim
 tags: ["jogos olímpicos", "parque olímpico", "legado olímpico", "prefeitura do rio", "esporte", "educação"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio deu continuidade, neste sábado (08/08), às comemorações pelos dez anos dos Jogos Olímpicos e Paralímpicos de 2016. A celebração ocorreu no Ginásio Educacional Olímpico (GEO) Isabel Salgado, no Parque Olímpico da Barra, com oficinas esportivas e homenagens a atletas que participaram das competições na cidade.
 

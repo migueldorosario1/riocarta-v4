@@ -9,7 +9,7 @@ source_url: "https://www.ispdados.rj.gov.br/"
 tags: ["isp", "dados abertos", "segurança pública", "rio de janeiro", "transparência"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O Instituto de Segurança Pública (ISP) colocou no ar o portal ISPDados, uma plataforma de dados abertos que reúne estatísticas criminais e de atividade policial do estado do Rio de Janeiro. A ferramenta permite acesso a registros de ocorrência lavrados nas delegacias da Polícia Civil, além de informações complementares da Polícia Militar.
 

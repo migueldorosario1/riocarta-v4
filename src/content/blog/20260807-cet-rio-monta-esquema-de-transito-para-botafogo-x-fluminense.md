@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cidade/cet-rio-altera-transito-no-entorno-do
 tags: ["cet-rio", "transito", "botafogo", "fluminense", "nilton santos", "engenho de dentro"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A CET-Rio vai implantar uma operação especial de trânsito neste sábado (08/08) para o clássico entre Botafogo e Fluminense, válido pelo Campeonato Brasileiro. A partida está marcada para as 21h no Estádio Nilton Santos, em Engenho de Dentro, na Zona Norte do Rio.
 

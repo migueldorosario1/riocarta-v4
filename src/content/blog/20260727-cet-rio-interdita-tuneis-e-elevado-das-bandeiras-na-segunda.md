@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cet-rio/cet-rio-anuncia-interdicoes-programa
 tags: ["cet-rio", "interdições", "túneis", "elevado das bandeiras", "trânsito", "rio de janeiro"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A CET-Rio anunciou interdições programadas em túneis e no Elevado das Bandeiras para a noite desta segunda-feira (27/07) e madrugada de terça-feira (28/07). Os bloqueios são para serviços de manutenção e revitalização.
 

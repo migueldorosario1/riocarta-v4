@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cultura/prefeitura-do-rio-lanca-semana-de-ar
 tags: ["semana de arte do rio", "cultura", "centro do rio", "festivais", "prefeitura do rio", "eduardo cavaliere"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O prefeito Eduardo Cavaliere apresentou no sábado (18/07) a primeira Semana de Arte do Rio, que vai reunir mais de dez festivais e iniciativas artísticas da cidade. O evento, coordenado pela Secretaria Municipal de Cultura, ocorre entre 16 e 27 de setembro de 2026, com programação espalhada por espaços públicos e privados do Centro. O lançamento foi no Teatro Carlos Gomes, com a presença do secretário Lucas Padilha, produtores e artistas, segundo a prefeitura.rio.
 

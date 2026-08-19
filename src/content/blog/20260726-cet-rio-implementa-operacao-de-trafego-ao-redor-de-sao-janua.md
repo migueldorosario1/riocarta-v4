@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cet-rio/entorno-da-regiao-de-sao-januario-te
 tags: ["trânsito", "cet-rio", "vasco", "mirassol", "estádio"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Este sábado, 25 de julho, a Companhia de Engenharia de Tráfego do Rio de Janeiro (CET-Rio) realizará uma operação de trânsito na região de São Januário, no bairro Vasco da Gama, em decorrência do jogo entre o Vasco e o Mirassol, às 20h30 no estádio São Januário. As interdições ao trânsito de veículos começarão às 14h30, de acordo com a prefeitura.rio.
 

@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/noticias/rio-celebra-dez-anos-dos-jogos-olim
 tags: ["olimpiadas", "legado", "eduardo cavaliere", "museu do amanha", "rio 2016", "prefeitura do rio"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A cidade do Rio de Janeiro celebra nesta quarta-feira (05/08) os dez anos dos Jogos Olímpicos e Paralímpicos de 2016. A data marca não apenas a memória do evento, mas a consolidação de um legado que segue em expansão, segundo balanço divulgado pela prefeitura.rio.
 

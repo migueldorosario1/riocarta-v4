@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/cet-rio/cet-rio-monta-operacao-especial-para
 tags: ["cet-rio", "maracanã", "fluminense", "libertadores", "trânsito", "rio de janeiro"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Companhia de Engenharia de Tráfego do Rio de Janeiro (CET-Rio) vai montar uma operação especial de trânsito nesta terça-feira (11/08) para o jogo entre Fluminense e Independiente Rivadavia, pela Libertadores, às 19h, no Maracanã. As interdições começam às 17h, mas a proibição de estacionamento em algumas vias vale desde as 10h.
 

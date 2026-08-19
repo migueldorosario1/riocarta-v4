@@ -9,7 +9,7 @@ source_url: "https://g1.globo.com/rj/rio-de-janeiro/o-que-fazer-no-rio-de-janeir
 tags: ["planetário", "férias", "crianças", "gávea", "gratuito", "rio de janeiro"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O Planetário do Rio, na Gávea, Zona Sul, está com inscrições abertas para o programa 'Um Dia de Férias no Planetário'. São 5 mil vagas gratuitas destinadas a crianças de 6 a 12 anos, segundo o g1.globo.com.
 

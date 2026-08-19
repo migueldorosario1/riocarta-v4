@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/cidade/rede-do-conexao-brt-ganha-linha-ligan
 tags: ["brazil", "rio de janeiro", "transporte público", "brt", "mobi-rio"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 O Rio de Janeiro avança em sua rede de transporte público com a inauguração da linha 54 do Conexão BRT, uma iniciativa que reforça a integração de bairros como a Barra da Tijuca e Jacarepaguá com o sistema BRT. O prefeito Eduardo Cavaliere acompanhou a operação inicial na manhã deste sábado, 25 de julho, destacando os esforços para um transporte mais eficaz e integrado na cidade.
 

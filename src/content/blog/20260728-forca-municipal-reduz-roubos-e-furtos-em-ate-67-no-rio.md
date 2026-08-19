@@ -9,7 +9,7 @@ source_url: "https://prefeitura.rio/forca-municipal/prefeitura-do-rio-apresenta-
 tags: ["força municipal", "gm-rio", "roubos", "furtos", "eduardo cavaliere", "isp"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 A Prefeitura do Rio apresentou, nesta terça-feira (28/07), durante a reunião do CompStat Rio, os indicadores de redução dos índices de roubos e furtos em sete perímetros de atuação da Divisão de Elite da GM-Rio – Força Municipal. De acordo com a prefeitura.rio, os dados do Instituto de Segurança Pública (ISP) apontam queda nos registros de roubos e furtos de aparelhos celulares e a pedestres nas áreas atendidas pelo efetivo.
 

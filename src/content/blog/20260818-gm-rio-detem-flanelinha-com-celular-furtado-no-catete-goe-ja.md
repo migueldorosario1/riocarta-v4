@@ -10,7 +10,7 @@ source_url: "https://prefeitura.rio/gm/guardas-municipais-detem-guardador-de-car
 tags: ["gm-rio", "catete", "flanelinhas", "seguranca-publica", "goe", "feira-da-gloria"]
 lang: "pt-br"
 author: "Redação Rio Carta"
-draft: false
+draft: true
 ---
 Guardas municipais do Grupamento de Operações Especiais (GOE) detiveram, no último domingo (16/08), um guardador de carros de 30 anos flagrado com um celular com registro de furto. A ação ocorreu na Rua do Catete, durante patrulhamento preventivo com foco na segurança urbana e viária nas vias do entorno da Feira da Glória.
 
