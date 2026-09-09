@@ -1,10 +1,10 @@
 ---
-title: "Eleições 2026 no RJ: Dezesseis Candidatos Disputam Duas Vagas no Senado Federal"
+title: "Eleições 2026 no RJ: dezesseis candidatos disputam duas vagas no Senado Federal"
 description: "Duas vagas para o Senado Federal estão em disputa nas eleições 2026. Conheça os 16 candidatos ao Senado pelo RJ."
 pubDate: "2026-09-08"
 heroImage: "/hero/eleicoes-2026-no-rj-dezesseis-candidatos-disputam-duas-vagas.jpg"
-hero_credit: "Aécio Neves - Senador via Openverse (by)"
-hero_legenda: "Eleições 2026 no RJ: Dezesseis Candidatos Disputam Duas Vagas no Senado Federal"
+hero_credit: "Congresso Nacional em Brasília, sede do Senado Federal — Fotos produzidas pelo Senado via Wikimedia Commons (CC BY 2.0)"
+hero_legenda: "Congresso Nacional em Brasília: as duas vagas do RJ no Senado serão decididas no 1º turno de 4 de outubro"
 source_name: "Candidatos ao Senado pelo RJ 2026: veja quem disputa as duas vagas | G1"
 source_url: "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/16/quem-sao-os-candidatos-ao-senado-pelo-rj-nas-eleicoes-de-2026.ghtml"
 tags: ["senato", "eleições 2026", "rio de janeiro", "política RJ", "mandato"]
