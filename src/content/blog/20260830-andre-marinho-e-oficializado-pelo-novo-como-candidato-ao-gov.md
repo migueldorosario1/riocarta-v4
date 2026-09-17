@@ -3,7 +3,7 @@ title: "André Marinho é oficializado pelo Novo como candidato ao governo do Ri
 description: "Partido Novo escolheu o candidato à governador do Rio de Janeiro e anunciou chapa completa para as eleições 2026."
 pubDate: "2026-08-30"
 heroImage: "/hero/andre-marinho-e-oficializado-pelo-novo-como-candidato-ao-gov.jpg"
-hero_credit: "Imagem conceitual gerada por IA (Ideogram)"
+hero_credit: "Elder Ibanhez / Wikimedia Commons CC BY-SA 4.0"
 hero_legenda: "André Marinho é oficializado pelo Novo como candidato ao governo do Rio"
 source_name: "André Marinho é oficializado pelo Novo ao governo do Rio | G1"
 source_url: "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/07/27/novo-oficializa-andre-marinho-como-candidato-ao-governo-do-rio.ghtml"
