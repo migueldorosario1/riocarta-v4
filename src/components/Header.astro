@@ -1,5 +1,6 @@
 ---
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import BannerMoka from './BannerMoka.astro';
 import HeaderLink from './HeaderLink.astro';
 import logoImg from '../assets/logo-transparent.png';
 import { Image } from 'astro:assets';
@@ -54,6 +55,7 @@ const senadoresEmExercicio = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 ---
 
 <header class={`premium-header ${isHome ? 'header-home' : 'header-article'}`}>
+	<BannerMoka />
 	<nav class="navbar">
 		<div class="header-left">
 			<a href="/" class="logo-link">
