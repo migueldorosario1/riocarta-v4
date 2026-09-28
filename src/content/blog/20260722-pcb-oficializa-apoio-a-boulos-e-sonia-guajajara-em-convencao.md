@@ -8,6 +8,7 @@ tags: ["pcb", "guilherme boulos", "sônia guajajara", "tarcísio motta", "psol",
 lang: "pt-br"
 author: "Redação Rio Carta"
 draft: false
+heroImage: "/hero/20260722-pcb-oficializa-apoio-a-boulos-e-sonia-guajajara-em-convencao.jpg"
 ---
 O Partido Comunista Brasileiro (PCB) realizou sua convenção nacional na noite desta sexta-feira (20), no Centro do Rio de Janeiro, para formalizar o apoio político à pré-candidatura de Guilherme Boulos e Sônia Guajajara, da chapa do PSOL, à Presidência da República, segundo o g1.globo.com.
 

@@ -8,6 +8,7 @@ tags: ["fiscalização", "botafogo", "multas", "calçadas", "vigilância sanitá
 lang: "pt-br"
 author: "Redação Rio Carta"
 draft: false
+heroImage: "/hero/20260722-fiscalizacao-em-botafogo-multa-bares-e-restaurantes-em-r-38.jpg"
 ---
 Uma operação de fiscalização em bares e restaurantes de Botafogo, realizada entre a noite de terça-feira e a madrugada desta quarta-feira (22/07), resultou em R$ 38.246,18 em multas. A ação foi coordenada pela Subprefeitura da Zona Sul, com apoio da Secretaria Municipal de Ordem Pública (SEOP), do Instituto Municipal de Vigilância Sanitária (IVISA-Rio) e da Gerência Executiva Local (GEL) do bairro.
 

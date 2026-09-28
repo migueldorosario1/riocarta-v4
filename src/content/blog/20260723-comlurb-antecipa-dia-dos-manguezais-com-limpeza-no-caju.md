@@ -8,6 +8,7 @@ tags: ["comlurb", "manguezais", "caju", "limpeza", "mario moscatelli", "baía de
 lang: "pt-br"
 author: "Redação Rio Carta"
 draft: false
+heroImage: "/hero/20260723-comlurb-antecipa-dia-dos-manguezais-com-limpeza-no-caju.jpg"
 ---
 A Comlurb vai antecipar a comemoração do Dia Internacional para a Conservação do Ecossistema de Manguezais, celebrado em 26 de julho, com uma operação de limpeza na área de mangues da Península do Caju, na Zona Portuária. A ação ocorre na quinta-feira, dia 23, no entorno da Estação de Tratamento de Esgoto (ETE) Alegria, operada pela concessionária Águas do Rio, com supervisão do biólogo Mário Moscatelli.
 

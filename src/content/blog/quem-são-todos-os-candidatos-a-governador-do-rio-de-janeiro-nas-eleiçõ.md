@@ -8,6 +8,7 @@ tags: ["riocarta"]
 lang: "pt-br"
 author: "Redação Rio Carta"
 draft: false
+heroImage: "/hero/quem-são-todos-os-candidatos-a-governador-do-rio-de-janeiro-nas-eleiçõ.jpg"
 ---
 
 O portal JOTA Info divulgou a relação de todos os candidatos ao cargo de governador do Rio de Janeiro nas eleições de 2026. A publicação reúne os nomes que disputarão o comando do Poder Executivo fluminense no próximo pleito.

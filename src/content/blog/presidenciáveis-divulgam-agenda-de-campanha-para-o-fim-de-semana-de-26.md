@@ -8,6 +8,7 @@ tags: ["riocarta"]
 lang: "pt-br"
 author: "Redação Rio Carta"
 draft: false
+heroImage: "/hero/presidenciáveis-divulgam-agenda-de-campanha-para-o-fim-de-semana-de-26.jpg"
 ---
 
 A Agência Brasil divulgou a agenda dos presidenciáveis para este fim de semana, sábado e domingo, dias 26 e 27.
