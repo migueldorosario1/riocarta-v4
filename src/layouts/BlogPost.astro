@@ -9,6 +9,7 @@ import Interlinks from '../components/Interlinks.astro';
 import SocialShare from '../components/SocialShare.astro';
 import OpenComments from '../components/OpenComments.jsx';
 import NewsletterMailchimp from '../components/NewsletterMailchimp.astro';
+import BannerMoka from '../components/BannerMoka.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
@@ -141,7 +142,6 @@ const categorySlug =
 	'rio-de-janeiro';
 const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categorySlug);
 const isOpinion = tags.some((tag) => tag === 'opiniao-diaria' || tag.startsWith('colunista-'));
-import BannerMoka from '../components/BannerMoka.astro';
 ---
 
 <html lang="pt-BR">
