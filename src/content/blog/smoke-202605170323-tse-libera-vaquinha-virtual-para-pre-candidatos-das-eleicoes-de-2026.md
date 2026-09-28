@@ -5,6 +5,7 @@ pubDate: "2026-05-17T03:24:16Z"
 draft: true
 tags: ["rio-de-janeiro", "eleicoes", "crowdfunding", "tse", "politica-rj", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-tse-libera-vaquinha-virtual-para-pre-candidatos-das-eleicoes-de-2026.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A partir desta sexta-feira (15), pré-candidatos das Eleições Gerais de 2026 já podem começar a arrecadar recursos para campanhas por meio do financiamento coletivo, conhecido como “vaquinha virtual” ou crowdfunding. A medida foi liberada pela Justiça Eleitoral e permite que cidadãos façam doações online para apoiar candidaturas e partidos políticos antes do início oficial da campanha.
 

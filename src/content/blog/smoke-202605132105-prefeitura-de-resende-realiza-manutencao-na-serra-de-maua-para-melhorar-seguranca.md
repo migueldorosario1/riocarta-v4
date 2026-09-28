@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "serra-de-maua", "visconde-de-maua", "rj-163", "prefeitura-de-resende", "manutencao", "seguranca", "turismo", "regiao-serrana", "sul-fluminense", "regiao-metropolitana", "serrana", "problemas-estruturais"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132105-prefeitura-de-resende-realiza-manutencao-na-serra-de-maua-para-melhorar-seguranca.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 RESENDE

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2748_53483331499_3fba77d31e_o.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil pode registrar até 4,2 milhões de casos de dengue em 2024'
 pubDate: 2024-02-01 05:06:00

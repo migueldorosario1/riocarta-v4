@@ -5,6 +5,7 @@ pubDate: "2026-05-15T20:10:44Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "jazz", "blues", "festival", "cultura", "estado", "lagoa", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605152007-rio-das-ostras-recebe-atracoes-ineditas-durante-festival-gratuito-de-jazz-e-blues-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Entre os dias 4 e 7 de junho, durante o feriadão de Corpus Christi, Rio das Ostras volta a ocupar posição de destaque no cenário internacional da música instrumental com a realização da 22ª edição do Rio das Ostras Jazz & Blues Festival.

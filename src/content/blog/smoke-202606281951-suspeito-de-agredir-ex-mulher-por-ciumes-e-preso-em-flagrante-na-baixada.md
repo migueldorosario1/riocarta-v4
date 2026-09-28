@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:54:00Z"
 draft: false
 tags: ["rio-de-janeiro", "baixada-fluminense", "nova-iguacu", "violencia-domestica", "lei-maria-da-penha", "regiao-metropolitana", "capital-estado", "penha", "baixada", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281951-suspeito-de-agredir-ex-mulher-por-ciumes-e-preso-em-flagrante-na-baixada.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

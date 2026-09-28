@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:02:29Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-fairmont-rio-entra-para-lista-dos-500-melhores-hoteis-do-mundo-da-travel-leisure.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Fairmont Rio de Janeiro Copacabana foi incluído na lista dos 500 melhores hotéis do mundo divulgada pela revista norte-americana Travel + Leisure em sua edição de maio. O hotel é o único representante do Rio de Janeiro no ranking internacional e figura ao lado de outros dois empreendimentos brasileiros, ambos localizados em São Paulo.
 

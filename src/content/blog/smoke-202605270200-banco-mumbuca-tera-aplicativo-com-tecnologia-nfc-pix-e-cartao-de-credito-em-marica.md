@@ -5,6 +5,7 @@ pubDate: "2026-05-27T02:00:24Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605270200-banco-mumbuca-tera-aplicativo-com-tecnologia-nfc-pix-e-cartao-de-credito-em-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Maricá vai apresentar na próxima terça-feira (26), aniversário da cidade, uma nova tecnologia que promete transformar a forma como comerciantes recebem pagamentos através da moeda social do município. O Banco Mumbuca lança oficialmente o Mumbuca Pay, sistema que funcionará como uma “maquininha digital” integrada ao celular.
 

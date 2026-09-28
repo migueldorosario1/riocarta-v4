@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:08Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "banco-de-alimentos", "seguranca-alimentar", "instituicoes-sociais", "sul-fluminense", "sul-fluminense-costa-verde", "comunidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-programa-de-volta-redonda-garante-alimentos-para-instituicoes-sociais.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Volta Redonda – Para muitas instituições sociais de Volta Redonda, a chegada semanal de alimentos representa mais do que abastecer a despensa: significa garantir acolhimento, dignidade e a continuidade do atendimento prestado a centenas de pessoas.

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "seguranca-publica", "sul-fluminense-costa-verde", "comunidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-suspeito-de-gerenciar-trafico-do-bom-pastor-e-preso-em-barra-mansa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Barra Mansa – Dois homens, de 28 e 31 anos, e uma mulher de 19 anos foram presos durante uma operação conjunta da Polícia Civil e da Polícia Militar na localidade do Lazaredo, no bairro Bom Pastor, em Barra Mansa.

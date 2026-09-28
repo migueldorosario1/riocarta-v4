@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4306_imagem-2.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula anuncia reajuste em benefícios para servidores públicos'
 pubDate: 2024-04-25 10:09:04

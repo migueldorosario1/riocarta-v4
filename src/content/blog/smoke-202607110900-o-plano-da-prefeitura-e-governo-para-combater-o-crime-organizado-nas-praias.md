@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "ipanema", "leblon", "leme", "zona-sul", "prefeitura", "governo", "seguranca", "crime-organizado", "praias", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-o-plano-da-prefeitura-e-governo-para-combater-o-crime-organizado-nas-praias.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Programa Tolerância Zero visa acabar com a distribuição, estrutura e venda de produtos ilegais na orla a partir de ações conjuntas entre poderes
 

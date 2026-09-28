@@ -5,6 +5,7 @@ pubDate: "2026-05-15T15:21:58Z"
 category: ["Pol\u00edtica"]
 tags: ["ci\u00eancia", "faperj", "dani-balbi", "alerj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/deputada-prop-e-13-bolsa-para-pesquisadores-da-faperj-e-amplia-agenda-de-direitos-para-p-s-graduandos-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 author: "Redação"
 categoria_macro: politica
 ---

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:24:18Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "museu-do-amanha", "exposicao", "arte", "rio-capital-centro", "capital", "regiao-serrana", "cordeiro"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290023-humanos-e-softwares-inspiram-criacoes-de-artistas-nacionais-e-estrangeiros.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Depois de passar por Lisboa, São Paulo e Ceará, coletiva que acende o debate sobre as mudanças climáticas chega ao Museu do Amanhã
 

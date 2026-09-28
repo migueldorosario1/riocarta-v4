@@ -5,6 +5,7 @@ pubDate: "2026-05-21T20:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "ressaca", "alerta-marinha", "guaratiba", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212023-marinha-emite-alerta-de-ressaca-com-ondas-de-ate-3-metros-no-litoral-de-marica-rj.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Marinha do Brasil emitiu novo alerta de ressaca para o litoral fluminense, com previsão de ondas que podem chegar a 3 metros de altura. O aviso é válido a partir desta quinta-feira e acende sinal de atenção especial para Maricá, cujos 46 quilômetros de orla estão entre os trechos mais vulneráveis do estado.
 

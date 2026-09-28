@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:26:07Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "niteroi-metropolitana", "alemao", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-praia-de-niteroi-recebe-manifestacao-pro-palestina-neste-domingo-17.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Praia de Icaraí, em Niterói, receberá neste domingo (17) uma manifestação em defesa da paz na Palestina e em memória da Nakba, episódio que marcou o deslocamento em massa de palestinos durante a criação do Estado de Israel. O ato está marcado para as 10h, com concentração prevista a partir das 9h, em frente à Igreja São Judas Tadeu.
 

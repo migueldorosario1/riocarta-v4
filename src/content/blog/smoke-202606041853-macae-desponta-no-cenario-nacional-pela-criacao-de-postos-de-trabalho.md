@@ -5,6 +5,7 @@ pubDate: "2026-06-04T18:56:25Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "norte-fluminense", "norte-noroeste-fluminense", "estado", "regiao-metropolitana", "lagoa", "joa", "duque-de-caxias", "nova-iguacu", "niteroi", "itaborai", "araruama", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606041853-macae-desponta-no-cenario-nacional-pela-criacao-de-postos-de-trabalho.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Macaé firma-se como referência em todo o país na criação de empregos com registro formal e obteve saldo positivo de 1. 648 novas vagas em 2026, conforme informações do Cadastro Geral de Empregados e Desempregados (Caged), vinculado ao Ministério do Trabalho e Emprego.
 

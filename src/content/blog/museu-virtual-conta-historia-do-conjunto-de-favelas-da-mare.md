@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1479_image-2.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Museu virtual conta história do conjunto de favelas da Maré'
 pubDate: 2023-10-02 11:17:40

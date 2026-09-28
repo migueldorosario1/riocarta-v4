@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:04:03Z"
 draft: true
 tags: ["rio-de-janeiro", "itaguai", "baixada-fluminense", "furto-de-cabos", "light", "regiao-metropolitana", "capital-estado", "nova-iguacu", "centro-do-rio", "sepetiba", "complexo", "baixada", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-furto-de-cabos-na-light-em-itaguai-gera-r-200-mil-em-prejuizos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

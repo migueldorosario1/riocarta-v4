@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "rocinha", "vidigal", "cruzada-sao-sebastiao", "rio-open", "tenis", "projetos-sociais", "leilao", "rio-favelas-e-comunidades", "capital", "sul-fluminense-costa-verde", "paraty", "lagoa", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-rede-oficial-do-rio-open-vai-a-leilao-para-apoiar-projetos-sociais-de-tenis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 O Rio Open e a Play For a Cause anunciaram o leilão de uma rede oficial usada nas quadras do torneio nas edições de 2022, 2023, 2024 e 2025. O item está disponível na plataforma da Play For a Cause, com lance inicial de R$ 5.

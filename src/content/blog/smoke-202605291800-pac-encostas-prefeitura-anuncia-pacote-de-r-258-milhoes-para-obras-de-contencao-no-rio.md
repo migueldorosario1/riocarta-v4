@@ -5,6 +5,7 @@ pubDate: "2026-05-29T18:01:21Z"
 draft: false
 tags: ["rio-de-janeiro", "tijuca", "jacarepagua", "vila-valqueire", "acari", "jardim-maravilha", "penha", "copacabana", "lins-de-vasconcelos", "tomas-coelho", "vaz-lobo", "contencao-encostas", "pac-encostas", "prefeitura-do-rio"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605291800-pac-encostas-prefeitura-anuncia-pacote-de-r-258-milhoes-para-obras-de-contencao-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio apresentou, nesta quarta-feira (20), um pacote de obras voltadas à contenção de encostas e prevenção de desastres naturais em diferentes regiões da cidade. As intervenções fazem parte do PAC Encostas, programa realizado em parceria com o governo federal, que prevê R$ 258 milhões em investimentos nesta etapa.
 

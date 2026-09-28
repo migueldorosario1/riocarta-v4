@@ -5,6 +5,7 @@ pubDate: "2026-05-20T23:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "alemao", "mare", "rocinha", "seguranca-publica", "serrana", "regiao-metropolitana", "complexo-do-alemao", "penha", "favela", "comunidade", "complexo", "petropolis", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202323-maioria-dos-moradores-do-alemao-mare-e-rocinha-sao-contra-operacoes-policiais-diz-pesquisa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A maioria dos moradores do Complexo do Alemão, Complexo da Penha, da Maré e Rocinha é contra as operações policiais nas comunidades. A percepção sobre as incursões policiais nas favelas do Rio de Janeiro é majoritariamente negativa, e até mesmo os que apoiam dizem que há excessos e ilegalidades por parte da polícia.
 

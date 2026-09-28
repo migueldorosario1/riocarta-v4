@@ -5,6 +5,7 @@ pubDate: "2026-06-29T17:23:23Z"
 draft: false
 tags: ["rio-de-janeiro", "detran-rj", "exame-toxicologico", "cnh", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291723-exame-toxicologico-para-carteira-de-motorista-passa-a-ser-obrigatorio-a-partir-desta-segunda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Começa a valer, a partir desta segunda-feira (29), a exigência de exame toxicológico para quem pretende tirar a primeira Carteira Nacional de Habilitação (CNH) nas categorias A e B no estado do Rio. A nova regra, adotada pelo Detran-RJ, passa a ser obrigatória para candidatos que iniciarem o processo de habilitação a partir desta data.
 

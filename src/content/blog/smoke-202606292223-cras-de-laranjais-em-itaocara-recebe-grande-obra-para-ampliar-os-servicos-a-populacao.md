@@ -5,6 +5,7 @@ pubDate: "2026-06-29T22:23:28Z"
 draft: false
 tags: ["rio-de-janeiro", "itaocara", "laranjais", "cras", "assistencia-social", "norte-noroeste-fluminense", "comunidade", "noroeste-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292223-cras-de-laranjais-em-itaocara-recebe-grande-obra-para-ampliar-os-servicos-a-populacao.jpg"
+hero_credit: "Fons Heijnsbroek / Wikimedia Commons (CC0)"
 ---
 O Centro de Referência de Assistência Social (CRAS) de Laranjais, distrito de Itaocara, está passando por obras de melhoria. A reforma tem como objetivo oferecer mais conforto à população e ampliar os serviços disponibilizados aos moradores da região.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:31Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "centro", "livro", "poesia", "cultura", "jose-messias-xavier", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "leme", "sao-goncalo", "itaborai", "paraty"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-jornalista-lanca-terceiro-livro-a-fome-de-tudo-no-proximo-sabado-16-em-niteroi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Jornalista lança terceiro livro, 'A fome de tudo', no próximo sábado (16) em Niterói

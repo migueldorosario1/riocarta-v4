@@ -5,6 +5,7 @@ pubDate: "2026-05-27T22:01:09Z"
 draft: false
 tags: ["rio-de-janeiro", "camara-municipal", "educacao", "autismo", "acessibilidade", "capital", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605272200-escolas-da-rede-municipal-terao-espacos-de-acomodacao-sensorial-para-alunos-autistas-e-neuroatip.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Câmara do Rio aprovou, em 2ª discussão, durante a sessão extraordinária desta quarta-feira (20), um substitutivo ao PL 730/2025 para a criação de Espaços de Acomodação Sensorial nas escolas rede municipal, para alunos com Transtorno do Espectro Autista (TEA) e neuroatípicos.
 

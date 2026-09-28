@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3217_Screenshot-2023-02-26-15.21.50.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Herdeiros da cúpula do Jogo do Bicho do Rio dominam Carnaval com fichas limpas'
 pubDate: 2024-02-15 08:14:05

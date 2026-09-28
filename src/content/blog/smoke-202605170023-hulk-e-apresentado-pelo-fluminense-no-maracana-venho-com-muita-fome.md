@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "fluminense", "hulk", "rio-capital-centro", "serrana", "regiao-serrana", "petropolis", "maracana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-hulk-e-apresentado-pelo-fluminense-no-maracana-venho-com-muita-fome.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O atacante Hulk foi apresentado oficialmente pelo Fluminense neste sábado, antes da partida contra o São Paulo, no Maracanã, pela 16ª rodada do Brasileirão. O jogador de 39 anos recebeu do presidente Mattheus Montenegro a camisa, sem numeração, do time e concedeu entrevista coletiva antes de subir ao gramado e, no microfone, saudar a torcida.
 

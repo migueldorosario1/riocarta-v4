@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp508_Marc_Ferrez_-_IMS_0072430cx098-08-1-compressed.jpg"
+hero_credit: "Frans Post / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Apresento a vocês, Rio Carta!'
 pubDate: 2023-06-21 11:07:27

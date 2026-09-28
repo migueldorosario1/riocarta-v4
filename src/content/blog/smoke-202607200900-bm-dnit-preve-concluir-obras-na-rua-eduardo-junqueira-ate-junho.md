@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:01:44Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "obras", "dnit", "prefeitura", "sul-fluminense-costa-verde", "vista-alegre", "comunidade", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-bm-dnit-preve-concluir-obras-na-rua-eduardo-junqueira-ate-junho.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Barra Mansa – As obras de pavimentação da Rua Eduardo Junqueira, no Centro de Barra Mansa, devem ser concluídas até o dia 10 de junho, segundo o Departamento Nacional de Infraestrutura de Transportes (DNIT). O novo asfaltamento ocorre após a ampliação e modernização da rede de drenagem da via.
 

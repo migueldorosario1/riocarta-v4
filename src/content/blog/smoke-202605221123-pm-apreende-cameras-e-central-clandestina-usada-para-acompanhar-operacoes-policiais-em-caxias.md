@@ -5,6 +5,7 @@ pubDate: "2026-05-22T11:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "seguranca-publica", "regiao-metropolitana", "politica-rj", "comunidade", "baixada", "mage", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221123-pm-apreende-cameras-e-central-clandestina-usada-para-acompanhar-operacoes-policiais-em-caxias.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A descoberta de um sistema clandestino de monitoramento usado por criminosos para acompanhar ações policiais chamou atenção em Duque de Caxias, na Baixada Fluminense. Agentes do 15º BPM localizaram nesta quinta-feira (21) câmeras instaladas em diferentes pontos da comunidade do Pantanal, além de uma central de vigilância ilegal montada dentro de um condomínio da região.
 

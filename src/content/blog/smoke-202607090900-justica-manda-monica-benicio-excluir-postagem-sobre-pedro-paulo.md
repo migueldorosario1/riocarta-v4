@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:02:38Z"
 draft: true
 tags: ["rio-de-janeiro", "justica-eleitoral", "monica-benicio", "pedro-paulo", "psol", "psd", "eleicoes-2026", "politica-rj", "macae-norte-fluminense", "regiao-metropolitana", "mage", "norte-fluminense", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-justica-manda-monica-benicio-excluir-postagem-sobre-pedro-paulo.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Decisão liminar da Justiça Eleitoral do Rio determina retirada de publicações em até 24 horas, sob pena de multa diária de R$ 10 mil
 

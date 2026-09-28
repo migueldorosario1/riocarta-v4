@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:02Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "barra-da-tijuca", "politica-rj", "seguranca-publica", "capital", "regiao-metropolitana", "tijuca", "manguinhos", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151405-bolsonarista-claudio-castro-e-alvo-da-pf-em-operacao-que-apreendeu-r-500-mil-em-caixas-de-sapato.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Federal entrou na casa do policial civil Maxwell Moraes Fernandes nesta sexta-feira (15) e encontrou uma cena que parece roteiro de série: R$ 500 mil em dinheiro vivo, empilhados dentro de caixas de sapato.

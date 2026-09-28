@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:08Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "baixada-litoranea", "estudante-desaparecida", "ossada", "policia-civil", "dna", "regiao-dos-lagos", "capital-estado", "regiao-metropolitana", "mage", "baixada", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-policia-encontra-ossada-humana-em-rio-das-ostras-dna-pode-identificar-estudante-desaparecida.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Rio

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7296_image-33.png"
+hero_credit: "Autor não informado / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'A hora e a vez do Ministério de Segurança Pública!'
 pubDate: 2025-10-30 09:01:00

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T21:24:32Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "sul-fluminense-costa-verde", "macae-norte-fluminense", "regiao-dos-lagos", "norte-fluminense", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-rio-das-ostras-tera-cursos-gratuitos-de-ia-na-semana-do-mei-do-sebrae.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), em parceria com a Prefeitura de Rio das Ostras, prepara uma série de cursos de capacitação para a Semana do Microempreendedor Individual (MEI), que acontece entre os dias 26 e 28 desse mês.
 

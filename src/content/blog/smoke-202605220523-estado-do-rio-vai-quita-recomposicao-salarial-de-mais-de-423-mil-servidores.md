@@ -5,6 +5,7 @@ pubDate: "2026-05-22T05:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "servidores", "recomposicao-salarial", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220523-estado-do-rio-vai-quita-recomposicao-salarial-de-mais-de-423-mil-servidores.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O governo do Estado do Rio de Janeiro confirmou oficialmente a quitação das duas parcelas restantes da recomposição salarial acumulada no período entre 2017 e 2021. A medida beneficia diretamente mais de 423 mil servidores públicos, incluindo ativos, inativos e pensionistas, sendo formalizada por meio de decreto no Diário Oficial.
 

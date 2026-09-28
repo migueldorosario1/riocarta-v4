@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:07:25Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "seguranca-publica", "sao-cristovao", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-suspeito-de-assediar-e-ameacar-estudantes-e-preso-pela-pm-em-praca-de-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Um homem foi preso pela Polícia Militar na tarde de quinta-feira (14) suspeito de assediar, ofender e ameaçar estudantes na Praça de São Cristóvão, em Cabo Frio. O caso aconteceu por volta das 14h, em um dos principais pontos de embarque de ônibus da cidade, que concentra grande circulação de moradores e alunos da rede pública.

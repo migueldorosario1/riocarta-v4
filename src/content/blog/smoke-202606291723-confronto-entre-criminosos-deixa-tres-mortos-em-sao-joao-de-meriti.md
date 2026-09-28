@@ -5,6 +5,7 @@ pubDate: "2026-06-29T17:27:04Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-joao-de-meriti", "parque-barreto", "baixada-fluminense", "seguranca", "regiao-metropolitana", "capital-estado", "joa", "baixada", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291723-confronto-entre-criminosos-deixa-tres-mortos-em-sao-joao-de-meriti.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

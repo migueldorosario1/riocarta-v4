@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:29Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "educacao", "sao-goncalo-itaborai", "regiao-metropolitana", "colegio", "favela", "itaborai", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-projeto-geracao-de-sons-abre-novo-polo-no-jardim-catarina-com-apoio-de-empresa-internacional.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Iniciativa do Instituto Brasileiro de Música e Educação (IBME), oferece empréstimo de instrumentos e bolsas para jovens de 8 a 19 anos
 

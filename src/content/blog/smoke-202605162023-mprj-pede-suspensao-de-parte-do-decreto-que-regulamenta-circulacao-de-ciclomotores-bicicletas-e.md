@@ -5,6 +5,7 @@ pubDate: "2026-05-16T20:24:13Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte-mobilidade", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "tijuca", "zona-norte", "sao-goncalo", "itaborai", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-mprj-pede-suspensao-de-parte-do-decreto-que-regulamenta-circulacao-de-ciclomotores-bicicletas-e.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 De acordo com a ACP, a prefeitura não pode alterar classificações de veículos definidas pela legislação federal de trânsito, que seguem normas do Conselho Nacional de Trânsito (Contran)
 

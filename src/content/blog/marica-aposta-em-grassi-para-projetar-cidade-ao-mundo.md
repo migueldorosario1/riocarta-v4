@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7158_Imagem-do-WhatsApp-de-2025-09-18-as-16.30.00_03348dbc.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá aposta em Grassi para projetar cidade ao mundo'
 pubDate: 2025-09-18 16:56:42

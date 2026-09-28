@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:01:54Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "ipiaas", "turismo", "evento", "encontro-land-rover", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "pirai", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-barra-do-pirai-ii-encontro-regional-de-land-rover-acontece-em-junho-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA DO PIRAÍ
 

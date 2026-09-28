@@ -5,6 +5,7 @@ pubDate: "2026-06-29T19:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "saneamento", "audiencia-publica", "pm-sb", "regiao-metropolitana", "problemas-estruturais", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291923-saneamento-de-marica-audiencias-publicas-em-julho-apresentam-metas-e-plano-de-acoes-do-pmsb-ente.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A revisão do Plano Municipal de Saneamento Básico de Maricá (PMSB-Maricá) chega à reta final com duas audiências públicas marcadas para os dias 1º e 2 de julho, no Auditório do Banco Mumbuca, no Centro. Os encontros vão apresentar as etapas de Prognóstico e Plano de Ações, com os objetivos, as metas e os programas previstos para universalizar o saneamento na cidade.
 

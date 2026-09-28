@@ -4,6 +4,7 @@ description: " O senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidênc
 pubDate: "2026-05-14T03:38:57Z"
 tags: ["nacional"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/fl-vio-bolsonaro-admite-que-procurou-vorcaro-para-pedir-recursos-de-filme.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 author: "Miguel do Rosário"
 categoria_macro: geral
 ---

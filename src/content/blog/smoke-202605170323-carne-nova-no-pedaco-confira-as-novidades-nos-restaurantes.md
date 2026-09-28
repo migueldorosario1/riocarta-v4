@@ -5,6 +5,7 @@ pubDate: "2026-05-17T03:24:15Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-serrana", "cordeiro", "ipanema", "leblon"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-carne-nova-no-pedaco-confira-as-novidades-nos-restaurantes.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 De cortes argentinos a novidades em rodízio, casas engrandecem o menu com pedidas especiais
 

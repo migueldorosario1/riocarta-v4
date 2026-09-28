@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:02:47Z"
 draft: true
 tags: ["rio-de-janeiro", "tj-rj", "justica", "remocao-juizes", "politica-rj", "regiao-metropolitana", "joa", "saquarema", "itaperuna", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-orgao-especial-do-tj-rj-vota-remocao-de-juizes-com-48-vagas-abertas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro realizará na próxima segunda-feira (18), às 13h, a votação para remoção de juízes em diferentes comarcas do estado. Ao todo, foram disponibilizadas 48 vagas para magistrados da capital e do interior.
 

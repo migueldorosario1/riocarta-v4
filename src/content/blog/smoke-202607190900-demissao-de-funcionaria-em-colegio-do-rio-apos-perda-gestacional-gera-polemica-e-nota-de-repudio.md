@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:01:17Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-sul", "colegio-andrews", "demissao", "perda-gestacional", "polemica", "rio-capital-zona-sul-e-grande-tijuca", "capital", "estacio", "colegio", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-demissao-de-funcionaria-em-colegio-do-rio-apos-perda-gestacional-gera-polemica-e-nota-de-repudio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma nota de repúdio assinada por ex-alunos do Colégio Andrews, tradicional instituição da Zona Sul do Rio, vem gerando repercussão após a demissão de uma orientadora educacional em 2025, ocorrida meses depois de uma perda gestacional. O documento, que circula entre pais de diferentes escolas da cidade, acusa a instituição de ter adotado uma postura “insensível e discriminatória” diante do caso.
 

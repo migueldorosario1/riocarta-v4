@@ -5,6 +5,7 @@ pubDate: "2026-05-21T16:06:22Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "pl", "politica-rj", "capital", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211306-pl-ja-discute-tirar-claudio-castro-do-palanque-apos-operacao-da-pf.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

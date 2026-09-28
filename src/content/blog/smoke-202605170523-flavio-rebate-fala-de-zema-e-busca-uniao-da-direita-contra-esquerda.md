@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:29Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-flavio-rebate-fala-de-zema-e-busca-uniao-da-direita-contra-esquerda.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O senador Flávio Bolsonaro (PL-RJ) classificou como precipitada a postura de Romeu Zema sobre mensagens vazadas envolvendo o empresário Daniel Vorcaro. Em Brasília, neste 15 maio 2026, o parlamentar defendeu a lisura no financiamento de documentário sobre seu pai e reforçou a necessidade de união no campo conservador.
 

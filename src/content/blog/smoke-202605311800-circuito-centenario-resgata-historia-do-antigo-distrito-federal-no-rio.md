@@ -5,6 +5,7 @@ pubDate: "2026-05-31T18:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-centro", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "centro-do-rio", "alemao", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605311800-circuito-centenario-resgata-historia-do-antigo-distrito-federal-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O lançamento do Circuito Centenário do Antigo Distrito Federal abriu, na quinta-feira (14), uma programação gratuita que resgata a memória política, cultural e arquitetônica do Centro do Rio de Janeiro. O projeto continua nesta segunda-feira (18), com uma visita guiada pelas ruas históricas da antiga capital federal, reunindo especialistas e público em um percurso que revisita marcos da República brasileira.
 

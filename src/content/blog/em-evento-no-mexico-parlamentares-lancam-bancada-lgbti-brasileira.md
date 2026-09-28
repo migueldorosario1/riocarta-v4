@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp897_image-77.png"
+hero_credit: "Deb Haaland / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Em evento no México, parlamentares lançam Bancada LGBTI+ Brasileira'
 pubDate: 2023-07-26 16:29:58

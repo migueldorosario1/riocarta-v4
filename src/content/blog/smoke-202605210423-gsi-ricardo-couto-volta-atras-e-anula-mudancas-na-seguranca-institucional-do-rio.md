@@ -5,6 +5,7 @@ pubDate: "2026-05-21T04:24:06Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "politica-rj", "regiao-metropolitana", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210423-gsi-ricardo-couto-volta-atras-e-anula-mudancas-na-seguranca-institucional-do-rio-qwen.jpg"
+hero_credit: "UnknownUnknown / Wikimedia Commons (Public domain)"
 ---
 O governador em exercício do Rio de Janeiro, Ricardo Couto, decidiu suspender uma ampla reformulação administrativa no Gabinete de Segurança Institucional do Estado do Rio de Janeiro (GSI-RJ). Publicado no Diário Oficial desta segunda-feira (18), o Decreto nº 50.
 

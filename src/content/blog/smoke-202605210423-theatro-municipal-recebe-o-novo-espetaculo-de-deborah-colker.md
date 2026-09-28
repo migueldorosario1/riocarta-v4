@@ -5,6 +5,7 @@ pubDate: "2026-05-21T04:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "cultura", "cultura-carnaval", "capital", "regiao-metropolitana", "joa", "baixada", "mesquita", "mage", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210423-theatro-municipal-recebe-o-novo-espetaculo-de-deborah-colker.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Coreógrafa revisita obras emblemáticas em dois atos no Rio.
 

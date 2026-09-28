@@ -5,6 +5,7 @@ pubDate: "2026-05-22T00:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "ipanema", "rocha", "mesquita", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220023-as-sancoes-ao-homem-autointitulado-justiceiro-de-copacabana.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 William Correia é apontado pelo Ministério Público como fundador e chefe do grupo “Anjos da Guarda Vigilância Comunitária” (AGVC)
 

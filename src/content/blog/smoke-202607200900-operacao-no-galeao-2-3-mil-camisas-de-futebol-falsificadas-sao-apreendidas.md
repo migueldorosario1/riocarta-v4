@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:04:00Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "zona-norte", "operacao-policial", "apreensao", "camisas-falsificadas", "receita-federal", "policia-civil", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "galeao", "seguranca-publica", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-operacao-no-galeao-2-3-mil-camisas-de-futebol-falsificadas-sao-apreendidas-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

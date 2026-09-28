@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:01:08Z"
 draft: true
 tags: ["rio-de-janeiro", "penha-circular", "zona-norte", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "penha", "favela", "comunidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-critical-urban-park-in-rio-de-janeiros-north-zone-is-at-risk-of-disappearing-after-decades-of-go-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 This article is part of a series created in partnership with the Behner Stiefel Center for Brazilian Studies at San Diego State University, to produce articles for the Digital Brazil Project on environmental justice in the favelas through RioOnWatch. Ary Barroso Park is an important green recreational space and the only park dedicated to serving the Leopoldina region in Rio de Janeiro’s North Zone.
 

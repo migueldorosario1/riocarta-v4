@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:20Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "carnaval", "cidade-do-samba", "uniao-de-marica", "regiao-metropolitana", "cultura-carnaval", "vila-isabel", "mage", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-capitao-guimaraes-exalta-uniao-de-marica-se-o-quesito-barracao-fosse-julgado-seria-nota-10-e-hor.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Na noite desta sexta-feira, durante o evento de lançamento do enredo da União de Maricá para o Carnaval 2027, realizado na Cidade do Samba, o ex-presidente da Liesa e presidente de honra da Vila Isabel, Capitão Guimarães, exaltou a infraestrutura da agremiação. Em um discurso enfático, ele defendeu que a estrutura montada pela escola deveria servir de exemplo para todo o Rio de Janeiro.
 

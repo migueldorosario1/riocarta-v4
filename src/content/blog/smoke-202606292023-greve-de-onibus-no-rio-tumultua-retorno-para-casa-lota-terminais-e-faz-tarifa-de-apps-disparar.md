@@ -5,6 +5,7 @@ pubDate: "2026-06-29T20:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "centro", "greve-onibus", "mobilidade-urbana", "terminal-gentileza", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "paciencia", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292023-greve-de-onibus-no-rio-tumultua-retorno-para-casa-lota-terminais-e-faz-tarifa-de-apps-disparar.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A greve dos rodoviários no Rio de Janeiro, iniciada à meia-noite desta segunda-feira, já afetava o deslocamento pela manhã e agravou o cenário no retorno para casa. No início da tarde, quem saiu mais cedo do trabalho, por causa do fim de expediente antecipado devido ao jogo do Brasil na Copa do Mundo, encontrou ônibus escassos e pontos de parada tomados por filas extensas.
 

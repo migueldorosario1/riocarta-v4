@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:03:20Z"
 draft: true
 tags: ["rio-de-janeiro", "transporte", "mobilidade", "transporte-mobilidade", "capital", "regiao-metropolitana", "tijuca", "ilha-do-governador", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-primeira-linha-de-onibus-que-nao-aceita-pagamento-em-dinheiro-comeca-a-circular-no-rio.jpg"
+hero_credit: "Jonas.Feitosa / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 A linha de ônibus 634 (Bananal–Saens Peña) começou a operar neste domingo (17/05) sob responsabilidade da MOBI-Rio e se tornou a primeira da cidade do Rio de Janeiro a funcionar sem aceitar pagamento em dinheiro.
 

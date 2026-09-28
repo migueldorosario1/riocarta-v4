@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:18Z"
 draft: true
 tags: ["rio-de-janeiro", "eduardo-paes", "tre-rj", "politica-eleitoral", "politica-rj", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-justica-mantem-postagens-de-eduardo-paes-contra-adversarios-nas-redes-sociais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 TRE-RJ derruba liminar e afasta acusação de propaganda eleitoral antecipada negativa feita pelo PL
 

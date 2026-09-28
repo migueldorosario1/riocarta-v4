@@ -5,6 +5,7 @@ pubDate: "2026-06-29T19:26:15Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "alerj", "deputado-vitor-junior", "politica-rj", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-deputado-abre-consulta-publica-para-criar-estatuto-das-maes-e-familias-atipicas.jpg"
+hero_credit: "AnikaMeyer / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

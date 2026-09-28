@@ -5,6 +5,7 @@ pubDate: "2026-05-16T20:24:26Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-pedras", "jacarepagua", "itanhanga", "rio-capital-zona-oeste", "politica-rj", "leme", "zona-norte", "bras-de-pina", "jacare", "zona-oeste", "anil", "taquara", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-projeto-na-camara-propoe-transformar-rio-das-pedras-em-bairro-oficial-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Câmara do Rio começou a analisar um projeto que propõe transformar Rio das Pedras em bairro oficial da cidade. O texto, apresentado pelo vereador Marcelo Diniz (PSD) nesta semana, prevê a criação da nova divisão administrativa a partir do desmembramento de áreas atualmente vinculadas aos bairros de Jacarepaguá e Itanhangá, na Zona Oeste.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:34:44Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "guarani", "parque-burle", "alagamento", "chuva", "escolas", "regiao-metropolitana", "mage", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-chuva-forte-provoca-alagamentos-em-escolas-e-ruas-de-cabo-frio-nesta-quarta-feira-20.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A forte chuva que atinge Cabo Frio na manhã desta quarta-feira (20) tem provocado transtornos em diferentes pontos da cidade, incluindo alagamentos em unidades escolares e vias públicas.
 

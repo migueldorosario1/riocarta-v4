@@ -5,6 +5,7 @@ pubDate: "2026-06-28T22:26:47Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "empregos", "construcao-civil", "desenvolvimento", "regiao-dos-lagos", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282223-com-obras-iniciadas-maraey-ja-movimenta-mercado-de-trabalho-em-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 À frente dessa etapa está a Craft Engenharia. O gerente de obras da empresa, Hélio Sapucaia, que também é morador de Maricá, afirmou em entrevista ao Maricá Info que a contratação de trabalhadores da cidade é uma prioridade neste início de operação.
 

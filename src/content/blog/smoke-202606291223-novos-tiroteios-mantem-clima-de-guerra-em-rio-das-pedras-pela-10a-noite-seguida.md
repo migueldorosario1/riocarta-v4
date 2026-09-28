@@ -5,6 +5,7 @@ pubDate: "2026-06-29T12:24:32Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-pedras", "muzema", "areal", "itanhanga", "barra-da-tijuca", "zona-oeste", "rio-capital-zona-oeste", "capital-estado", "sul-fluminense-costa-verde", "tijuca", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291223-novos-tiroteios-mantem-clima-de-guerra-em-rio-das-pedras-pela-10a-noite-seguida.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio. Novos tiroteios mantêm clima de guerra em Rio das Pedras pela 10ª noite seguida.
 

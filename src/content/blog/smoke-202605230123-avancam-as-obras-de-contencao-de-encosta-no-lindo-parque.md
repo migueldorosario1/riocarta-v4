@@ -5,6 +5,7 @@ pubDate: "2026-05-23T01:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "lindo-parque", "contencao-encosta", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605230123-avancam-as-obras-de-contencao-de-encosta-no-lindo-parque.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Intervenções incluem urbanização, drenagem e pavimentação
 

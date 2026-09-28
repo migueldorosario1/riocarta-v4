@@ -5,6 +5,7 @@ pubDate: "2026-05-13T03:31:09Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "plano-estrategico", "transicao-economica", "inovacao", "tecnologia", "prefeitura-de-niteroi", "rodrigo-neves", "niteroi-sao-goncalo-metropolitana", "estado", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130030-plano-niteroi-que-queremos-2050-traca-transicao-economica-da-cidade.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Chamado de “Niterói que Queremos 2050”, o novo plano estratégico lançado pela prefeitura de Niterói aposta em inovação, diminuição das desigualdades, mobilidade e aumento da qualidade de vida para remodelar o município. O planejamento contou com a participação de mais de 14 mil moradores de Niterói, por meio de consulta pública online e também em levantamentos presenciais.

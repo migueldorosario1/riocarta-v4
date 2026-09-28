@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3492_advogado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! Advogado é morto a tiros em frente a sede da OAB no Centro do Rio'
 pubDate: 2024-02-26 19:32:59

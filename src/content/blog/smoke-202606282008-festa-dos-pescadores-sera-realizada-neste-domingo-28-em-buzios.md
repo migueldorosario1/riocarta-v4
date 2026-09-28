@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:12:58Z"
 draft: false
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "pescadores", "festa-dos-pescadores", "cultura", "manguinhos", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-festa-dos-pescadores-sera-realizada-neste-domingo-28-em-buzios.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria de Pesca e Esportes Náuticos de Búzios realiza neste domingo (28) a Festa dos Pescadores 2026. O evento reúne atividades esportivas, cerimônia de homenagens, procissão marítima, apresentações musicais e almoço voltado aos pescadores.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-14T01:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "banco-master", "estado", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-base-do-governo-critica-flavio-por-pedido-a-vorcaro-para-financiar-filme.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O pedido do senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidência, para o dono do Banco Master, Daniel Vorcaro ajudar a financiar filme biográfico sobre o ex-presidente Jair Bolsonaro foi criticado por vários deputados, principalmente da base do governo, durante sessão nesta quarta-feira (13).

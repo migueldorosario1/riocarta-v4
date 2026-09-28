@@ -5,6 +5,7 @@ pubDate: "2026-06-29T17:24:01Z"
 draft: true
 tags: ["rio-de-janeiro", "vicente-de-carvalho", "zona-norte", "copa-do-mundo", "concurso", "decoracao", "rocinha", "santa-cruz", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "paqueta", "santo-cristo", "vila-isabel"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-rua-mais-decorada-para-a-copa-veja-quem-levou-o-premio-de-r-50-mil.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

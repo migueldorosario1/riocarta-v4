@@ -5,6 +5,7 @@ pubDate: "2026-05-21T01:23:21Z"
 draft: false
 tags: ["rio-de-janeiro", "clima", "tempo-instavel", "temporais", "enchentes", "seguranca-publica", "norte-noroeste-fluminense", "regiao-metropolitana", "noroeste-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210123-semana-sera-marcada-por-tempo-instavel-na-regiao.jpg"
+hero_credit: "NPS Photo / Emily Mesner / Wikimedia Commons (Public domain)"
 ---
 A semana será marcada por tempo bastante instável no estado do Rio de Janeiro. Segundo a Climatempo, combinação entre a atuação de uma frente fria sobre o oceano, áreas de baixa pressão atmosférica e a circulação de ventos úmidos vindos do mar favorecem a formação de nuvens carregadas sobre grande parte do território fluminense.
 

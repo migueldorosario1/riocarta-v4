@@ -5,6 +5,7 @@ pubDate: "2026-05-16T04:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "policial-civil", "operacao-sem-refino", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "manguinhos", "sao-goncalo", "itaborai", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160423-operacao-da-pf-apreende-mais-de-r-500-mil-em-dinheiro-vivo-na-casa-de-policial-civil.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Valor foi encontrado durante cumprimento de mandado da Operação Sem Refino, que investiga esquema bilionário de fraudes tributárias

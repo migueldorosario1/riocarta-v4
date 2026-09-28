@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7032_IMG-20250731-WA0044.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Observatório das Metrópoles discute desenvolvimento Urbano sustentável'
 pubDate: 2025-07-31 14:12:20

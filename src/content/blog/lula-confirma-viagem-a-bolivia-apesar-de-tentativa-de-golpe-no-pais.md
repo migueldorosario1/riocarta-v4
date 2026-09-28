@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4708_imagem-7.webp"
+hero_credit: "Wilson Dias/ABr / Wikimedia Commons (CC BY 3.0 br)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula confirma viagem à Bolívia apesar de tentativa de golpe no país'
 pubDate: 2024-06-27 06:33:04

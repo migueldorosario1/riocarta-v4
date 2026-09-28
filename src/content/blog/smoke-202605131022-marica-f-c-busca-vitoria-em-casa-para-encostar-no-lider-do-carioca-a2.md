@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:32Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "sao-goncalo", "carioca-a2", "futebol", "esporte", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "ramos", "joa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-marica-f-c-busca-vitoria-em-casa-para-encostar-no-lider-do-carioca-a2.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Notícias de Maricá

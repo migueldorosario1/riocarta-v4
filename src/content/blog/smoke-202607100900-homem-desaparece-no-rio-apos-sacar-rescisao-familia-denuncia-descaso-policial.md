@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:35Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "colubande", "santo-cristo", "desaparecimento", "seguranca-publica", "niteroi-sao-goncalo-metropolitana", "capital-estado", "regiao-metropolitana", "bancarios", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-homem-desaparece-no-rio-apos-sacar-rescisao-familia-denuncia-descaso-policial.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

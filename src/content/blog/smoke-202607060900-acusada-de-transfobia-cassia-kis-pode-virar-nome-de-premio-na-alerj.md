@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:01:18Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "zona-oeste", "regiao-metropolitana"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-acusada-de-transfobia-cassia-kis-pode-virar-nome-de-premio-na-alerj.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A repercussão envolvendo acusações de transfobia contra a atriz Cássia Kis continuam agitando o cenário político fluminense. Em meio ao debate provocado pelo caso, a Assembleia Legislativa do Rio de Janeiro (Alerj) começou a analisar um projeto que cria o prêmio “Defesa das Mulheres Fluminenses – Defensora das Mulheres – Cássia Kis”.
 

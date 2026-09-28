@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:26:40Z"
 draft: true
 tags: ["rio-de-janeiro", "linha-amarela", "barra", "fundao", "lamsa", "fiscalizacao", "transporte", "transporte-mobilidade", "capital", "leme", "mare", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290023-linha-amarela-via-sem-lei.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

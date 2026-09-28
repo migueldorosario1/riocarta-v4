@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:27:12Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-cristovao", "cultura", "bioparque", "rio-capital-zona-norte", "capital", "jardim-botanico", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290023-bioparque-do-rio-recebe-mostra-que-homenageia-silvio-santos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Chega ao Rio a ‘Caravana do Silvinho’ para uma temporada especial no BioParque do Rio, entre os dias 1º e 31 de julho. A parada ganha um significado ainda mais simbólico por acontecer justamente na cidade onde nasceu Silvio Santos, um dos maiores comunicadores da história da televisão brasileira e inspiração para o projeto.
 

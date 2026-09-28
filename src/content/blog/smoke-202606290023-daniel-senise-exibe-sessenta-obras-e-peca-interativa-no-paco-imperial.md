@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:23:06Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "copacabana", "cultura", "exposicao", "rio-capital-centro", "capital", "regiao-metropolitana", "queimados", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290023-daniel-senise-exibe-sessenta-obras-e-peca-interativa-no-paco-imperial.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -5,6 +5,7 @@ pubDate: "2026-07-08T20:35:02Z"
 category: ["Pol\u00edtica", "UFRJ"]
 tags: ["ditadura", "ufrj", "dani-balbi", "franklin-martins", "stuart-angel", "hildegard-angel"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/ufrj-homenageia-stuart-angel-com-diploma-p-stumo-e-reafirma-compromisso-com-a-mem-ria.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 author: "Redação"
 ---
 

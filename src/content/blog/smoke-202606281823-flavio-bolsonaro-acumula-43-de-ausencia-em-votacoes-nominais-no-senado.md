@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:25:21Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "senado", "ausencias", "politica-rj", "regiao-metropolitana", "leme", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-flavio-bolsonaro-acumula-43-de-ausencia-em-votacoes-nominais-no-senado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidência da República, figura entre os parlamentares que mais deixaram de registrar voto em deliberações nominais do Senado Federal em 2026. Levantamento baseado nos registros oficiais da Casa mostra que o senador não participou de 43% das 49 votações nominais realizadas até 22 de junho, percentual que o coloca empatado com outros quatro parlamentares na quinta posição do ranking de ausências.
 

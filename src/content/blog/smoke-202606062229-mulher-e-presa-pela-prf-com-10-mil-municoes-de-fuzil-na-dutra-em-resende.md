@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:32:01Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "sul-fluminense", "dutra", "prf", "municoes", "seguranca", "sul-fluminense-costa-verde", "capital-estado", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-mulher-e-presa-pela-prf-com-10-mil-municoes-de-fuzil-na-dutra-em-resende.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

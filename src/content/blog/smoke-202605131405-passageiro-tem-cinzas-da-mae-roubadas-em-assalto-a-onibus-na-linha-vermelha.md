@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "linha-vermelha", "sao-joao-de-meriti", "assalto", "onibus", "seguranca-publica", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "joa", "mage", "regiao-dos-lagos", "campos", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-passageiro-tem-cinzas-da-mae-roubadas-em-assalto-a-onibus-na-linha-vermelha.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Rio

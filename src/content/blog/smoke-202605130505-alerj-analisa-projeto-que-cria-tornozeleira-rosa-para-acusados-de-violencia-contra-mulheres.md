@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "violencia-contra-mulher", "tornozeleira-rosa", "projeto-de-lei", "politica-rj", "regiao-metropolitana", "leme", "penha", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-alerj-analisa-projeto-que-cria-tornozeleira-rosa-para-acusados-de-violencia-contra-mulheres.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Assembleia Legislativa do Rio de Janeiro (Alerj) começou a analisar um projeto de lei que propõe a criação da chamada “tornozeleira rosa” para homens acusados ou condenados por violência doméstica, violência de gênero e outras agressões contra mulheres.

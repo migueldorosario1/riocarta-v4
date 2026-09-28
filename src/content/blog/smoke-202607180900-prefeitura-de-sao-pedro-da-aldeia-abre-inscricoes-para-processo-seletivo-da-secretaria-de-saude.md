@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:03:12Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "saude", "regiao-dos-lagos", "leme", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-prefeitura-de-sao-pedro-da-aldeia-abre-inscricoes-para-processo-seletivo-da-secretaria-de-saude.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de São Pedro da Aldeia está com inscrições abertas para o Processo Seletivo Simplificado Público nº 001/2026, destinado à formação de cadastro de reserva e ao preenchimento de vagas em diversos cargos da Secretaria Municipal de Saúde (SESAU). Clique aqui para acessar o Edital de Abertura.
 

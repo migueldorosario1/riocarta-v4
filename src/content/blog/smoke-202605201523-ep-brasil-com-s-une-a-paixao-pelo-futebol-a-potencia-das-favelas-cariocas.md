@@ -5,6 +5,7 @@ pubDate: "2026-05-20T15:23:20Z"
 draft: false
 tags: ["rio-de-janeiro", "lapa", "zona-oeste", "cultura-carnaval", "favelas-comunidades", "regiao-metropolitana", "paciencia", "favela", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201523-ep-brasil-com-s-une-a-paixao-pelo-futebol-a-potencia-das-favelas-cariocas.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Faltando 23 dias para a Copa do Mundo, o hub criativo Estude o Funk lança nesta quarta-feira, dia 20 de maio, o EP “Brasil com S”. O projeto musical, nascido no coração da Lapa, na Fundição Progresso, chega ao mercado sob o selo FundiSom e com distribuição global pela Universal Music, prometendo ser a banda sonora oficial das celebrações e dos encontros de adeptos da Seleção Brasileira.
 

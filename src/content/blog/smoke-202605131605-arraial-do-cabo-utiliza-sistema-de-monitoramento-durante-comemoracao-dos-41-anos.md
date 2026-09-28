@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:38Z"
 draft: true
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "seguranca-publica", "monitoramento", "sistema-anjo", "aniversario-cidade", "penha", "transporte-mobilidade", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131605-arraial-do-cabo-utiliza-sistema-de-monitoramento-durante-comemoracao-dos-41-anos.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 As comemorações pelos 41 anos de emancipação político-administrativa de Arraial do Cabo contarão com ações na área de segurança pública. Durante os dias de festa, a Prefeitura utilizará o Sistema ANJO (Assistente de Notificação para Justiça e Ordem), plataforma municipal de monitoramento com câmeras de reconhecimento facial e acompanhamento em tempo real.

@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:14Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "rocha", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-disparada-na-conta-de-luz-faz-moradores-de-marica-abracarem-tecnologia-de-energia-solar.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O aumento no valor da conta de luz, somado às quedas frequentes no fornecimento de energia, tem mudado a rotina de moradores de Maricá. Diante desse cenário, cada vez mais pessoas passaram a buscar alternativas fora do modelo tradicional, e a energia solar deixou de ser apenas uma tendência para se tornar realidade para aliviar o orçamento e trazer mais previsibilidade ao consumo doméstico.
 

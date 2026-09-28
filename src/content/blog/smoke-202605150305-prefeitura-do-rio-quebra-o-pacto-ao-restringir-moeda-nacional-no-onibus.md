@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "prefeitura-do-rio", "onibus", "moeda-nacional", "jae", "transporte-mobilidade", "niteroi-metropolitana", "regiao-metropolitana", "baixada", "niteroi", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-prefeitura-do-rio-quebra-o-pacto-ao-restringir-moeda-nacional-no-onibus.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A decisão da Prefeitura do Rio de Janeiro de extinguir totalmente o pagamento em dinheiro vivo dentro dos ônibus municipais, prevista para entrar em vigor no dia 30 de maio, representa um novo e perigoso capítulo de desrespeito às normas superiores que regem o nosso país. Sob o comando da atual gestão municipal, a capital fluminense agora impõe o uso exclusivo de sistemas eletrônicos como o Jaé, ignorando de forma deliberada que o Real é a moeda oficial de curso forçado em todo o território nacional.

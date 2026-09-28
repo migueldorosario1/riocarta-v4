@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3609_thammy-e-ratinho-foto-instagram-sbt-720x480-1.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Thammy Miranda abandona programa do Ratinho após comentários transfóbicos do apresentador'
 pubDate: 2024-03-01 15:19:35

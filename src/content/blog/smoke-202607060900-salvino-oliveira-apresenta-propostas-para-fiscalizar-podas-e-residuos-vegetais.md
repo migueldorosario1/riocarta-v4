@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:03:12Z"
 draft: false
 tags: ["rio-de-janeiro", "camara-municipal", "arborizacao-urbana", "poda", "residuos-vegetais", "salvino-oliveira", "politica-rj", "capital", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-salvino-oliveira-apresenta-propostas-para-fiscalizar-podas-e-residuos-vegetais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Câmara Municipal do Rio de Janeiro recebeu dois projetos de lei que miram a gestão da arborização urbana da cidade. As propostas, apresentadas pelo vereador Salvino Oliveira, tratam da transparência nas podas, cortes e remoções de árvores em áreas públicas e da retirada dos resíduos vegetais deixados após esses serviços.
 

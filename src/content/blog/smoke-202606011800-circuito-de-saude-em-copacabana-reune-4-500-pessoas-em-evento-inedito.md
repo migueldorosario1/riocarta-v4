@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:03:08Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-circuito-de-saude-em-copacabana-reune-4-500-pessoas-em-evento-inedito.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Últimas Notícias
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-22T04:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "turismo", "economia", "cultura-carnaval", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220423-turismo-internacional-no-rio-cresce-18-1-e-bate-recorde-em-2026.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio de Janeiro registrou aumento de 18,1% na chegada de turistas internacionais nos primeiros quatro meses de 2026. Foram 1.
 

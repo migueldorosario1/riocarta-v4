@@ -5,6 +5,7 @@ pubDate: "2026-06-28T22:26:05Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-fidelis", "campos-dos-goytacazes", "norte-noroeste-fluminense", "campos", "noroeste-fluminense", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282223-familia-pede-doacao-de-sangue-com-urgencia-para-moradora-de-sao-fidelis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Familiares e amigos estão mobilizando uma campanha para arrecadar doações de sangue em favor de Elena Maria Rangel Tavares, sogra do pastor Hermínio Pandino, de São Fidélis. Ela precisa, com urgência, de doações de qualquer tipo sanguíneo.
 

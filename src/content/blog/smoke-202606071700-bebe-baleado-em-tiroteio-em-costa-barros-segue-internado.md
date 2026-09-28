@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:04:01Z"
 draft: true
 tags: ["rio-de-janeiro", "costa-barros", "zona-norte", "rio-capital-zona-norte", "politica-rj", "realengo", "comunidade", "complexo", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-bebe-baleado-em-tiroteio-em-costa-barros-segue-internado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O bebê de 1 ano e 3 meses baleado durante um tiroteio entre criminosos de facções rivais em Costa Barros, na Zona Norte do Rio, permanece internado no CTI pediátrico do Hospital Municipal Albert Schweitzer, em Realengo. Segundo a direção da unidade, o estado de saúde da criança é estável após passar por cirurgia para retirada de um projétil das costas.
 

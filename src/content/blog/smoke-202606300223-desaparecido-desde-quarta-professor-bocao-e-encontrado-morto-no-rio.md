@@ -5,6 +5,7 @@ pubDate: "2026-06-30T02:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-conrado", "rocinha", "surfe", "desaparecimento-corpo", "professor-bocao", "rio-capital-zona-sul-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "tijuca", "ramos", "comunidade", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300223-desaparecido-desde-quarta-professor-bocao-e-encontrado-morto-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 José Ricardo era fundador da Escola de Surfe de São Conrado
 

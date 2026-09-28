@@ -5,6 +5,7 @@ pubDate: "2026-05-20T02:23:25Z"
 draft: false
 tags: ["rio-de-janeiro", "saude", "governo-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200223-governo-do-estado-articula-acoes-para-acelerar-consultas-e-cirurgias-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Cooperação entre Secretaria de Saúde e Governo Federal busca ampliar atendimentos especializados e reduzir o tempo de espera da população
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:41Z"
 draft: true
 tags: ["rio-de-janeiro", "porto-real", "sul-fluminense", "colinas", "abastecimento-agua", "qualidade-agua", "sul-fluminense-costa-verde", "comunidade", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-moradores-de-porto-real-denunciam-pessima-qualidade-da-agua-e-problemas-de-abastecimento.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 PORTO REAL

@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:36Z"
 draft: true
 tags: ["rio-de-janeiro", "petrpolis", "regiao-serrana", "serrana", "petropolis", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-sem-avancos-do-plano-de-contingencia-prefeitura-enfrenta-risco-de-nova-paralisacao-na-turp.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O novo estado de greve decretado pelos rodoviários da Turp voltou a pressionar a Prefeitura de Petrópolis sobre o Plano de Contingência prometido como solução para o transporte público. Apesar de a CPTrans afirmar, desde junho de 2025, que trabalha em medidas para reorganizar o sistema, o governo municipal ainda não informou quais etapas já avançaram e alguns prazos já estão vencidos.
 

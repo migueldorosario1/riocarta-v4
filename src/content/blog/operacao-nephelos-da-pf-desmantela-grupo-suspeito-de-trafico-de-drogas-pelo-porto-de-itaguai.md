@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1945_whatsapp-image-2023-11-14-at-09.26.34.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação Nephelos da PF desmantela grupo suspeito de tráfico de drogas pelo porto de Itaguaí'
 pubDate: 2023-11-14 13:00:00

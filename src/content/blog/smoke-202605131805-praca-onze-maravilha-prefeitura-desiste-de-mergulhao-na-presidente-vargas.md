@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "presidente-vargas", "praca-onze", "urbanismo", "prefeitura-do-rio", "rio-capital-centro", "capital", "santo-cristo", "problemas-estruturais", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-praca-onze-maravilha-prefeitura-desiste-de-mergulhao-na-presidente-vargas.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Praça Onze Maravilha: prefeitura desiste de mergulhão na Presidente Vargas

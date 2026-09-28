@@ -5,6 +5,7 @@ pubDate: "2026-06-29T15:24:34Z"
 draft: true
 tags: ["rio-de-janeiro", "quatis", "sul-fluminense", "seguranca-publica", "crime", "adolescente", "sul-fluminense-costa-verde", "volta-redonda", "resende", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-adolescente-e-morto-a-tiros-e-outro-fica-ferido-em-quatis.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

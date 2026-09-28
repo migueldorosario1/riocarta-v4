@@ -5,6 +5,7 @@ pubDate: "2026-05-21T21:23:13Z"
 draft: false
 tags: ["rio-de-janeiro", "prefeitura-do-rio", "leis-urbanisticas", "puxadinhos", "ministerio-publico", "politica-rj", "norte-noroeste-fluminense", "campos", "problemas-estruturais", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212123-mp-vai-a-justica-para-derrubar-leis-da-prefeitura-do-rio-que-flexibilizam-puxadinhos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Ministério Público do Rio (MPRJ) entrou na Justiça para tentar suspender os efeitos de duas leis urbanísticas da Prefeitura do Rio que flexibilizam regras para legalização e ampliação de construções na cidade, incluindo os chamados “puxadinhos” em imóveis residenciais e comerciais. A ação foi ajuizada nesta quinta-feira (21) pelo procurador-geral de Justiça, Antonio José Campos Moreira.
 

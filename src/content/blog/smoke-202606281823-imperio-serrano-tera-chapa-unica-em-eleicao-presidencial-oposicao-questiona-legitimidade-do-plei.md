@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:27:21Z"
 draft: false
 tags: ["rio-de-janeiro", "imperio-serrano", "madureira", "zona-norte", "carnaval", "eleicao", "rio-capital-zona-norte", "cultura-carnaval", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-imperio-serrano-tera-chapa-unica-em-eleicao-presidencial-oposicao-questiona-legitimidade-do-plei.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O processo eleitoral do Império Serrano ganhou mais um capítulo nesta semana. O prazo para inscrição de chapas visando a eleição presidencial da escola, marcada para o próximo domingo, dia 28 de junho, foi encerrado com apenas uma candidatura registrada.
 

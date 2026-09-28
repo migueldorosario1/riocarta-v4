@@ -5,6 +5,7 @@ pubDate: "2026-05-13T11:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "ze-garoto", "reciclagem", "sustentabilidade", "evento", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-tudo-pronto-para-a-semana-internacional-da-reciclagem-na-praca-ze-garoto.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Evento promovido pela Prefeitura de São Gonçalo terá início nesta quinta-feira (14)

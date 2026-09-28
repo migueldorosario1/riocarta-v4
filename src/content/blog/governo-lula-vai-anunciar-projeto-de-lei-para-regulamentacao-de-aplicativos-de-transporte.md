@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3629_imagem-1.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula vai anunciar Projeto de Lei para regulamentação de aplicativos de transporte'
 pubDate: 2024-03-04 12:36:30

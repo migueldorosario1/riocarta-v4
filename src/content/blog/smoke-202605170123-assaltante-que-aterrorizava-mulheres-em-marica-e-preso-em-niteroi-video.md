@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:23:32Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "marica", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-assaltante-que-aterrorizava-mulheres-em-marica-e-preso-em-niteroi-video.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil prendeu na madrugada deste sábado (16) em Niterói um assaltante investigado por diversos roubos cometidos em Maricá e em regiões adjacentes.
 

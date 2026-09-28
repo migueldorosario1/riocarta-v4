@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:00:10Z"
 draft: true
 tags: ["rio-de-janeiro", "jardim-america", "zona-norte", "educacao", "capital", "portuguesa", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-curso-preparatorio-da-faetec-no-rio-aceita-oleo-usado-como-forma-de-pagamento.gif"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Escola Técnica Estadual Juscelino Kubitschek, da Faetec, localizada no Jardim América, Zona Norte do Rio, encontrou uma forma de unir educação e sustentabilidade em um único projeto. A unidade oferece um curso preparatório gratuito para jovens da região, mas, em vez de mensalidade em dinheiro, os alunos contribuem com óleo de cozinha usado.
 

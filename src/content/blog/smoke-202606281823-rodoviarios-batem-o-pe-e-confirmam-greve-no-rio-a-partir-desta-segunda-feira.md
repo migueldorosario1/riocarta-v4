@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:25:42Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "onibus", "rocha-miranda", "zona-norte", "transporte-mobilidade", "capital-estado", "regiao-metropolitana", "rocha", "santa-cruz", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-rodoviarios-batem-o-pe-e-confirmam-greve-no-rio-a-partir-desta-segunda-feira.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Motoristas de ônibus do Rio de Janeiro entram em greve a partir da meia-noite desta segunda-feira (29), após o Sindicato dos Rodoviários convocar assembleia geral para as 18h desta tarde, na sede da entidade, na Rua Otaviano, 404, em Rocha Miranda, Zona Norte.
 

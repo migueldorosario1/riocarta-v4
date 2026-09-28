@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4086_image-3-e1712536920812.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Livro “Direito à cidade no Rio de Janeiro” será lançado no Corecon-RJ nesta segunda-feira (08/04)'
 pubDate: 2024-04-07 21:42:17

@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:01:26Z"
 draft: true
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "futebol", "serie-c", "campeonato-carioca", "macae-norte-fluminense", "regiao-metropolitana", "mage", "joa", "itaborai", "cabo-frio", "saquarema", "campos"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-buzios-vence-fora-de-casa-e-larga-na-frente-nas-quartas-da-serie-c.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Esporte Búzios vence fora de casa e larga na frente nas quartas da Série C Publicado em 07/07/2026 - 17:43 Escrito por Victor P. Viana O Búzios venceu o Rio Barra por 1 a 0, em Xerém, e levou vantagem para o jogo de volta das quartas de final da Série C Estadual.
 

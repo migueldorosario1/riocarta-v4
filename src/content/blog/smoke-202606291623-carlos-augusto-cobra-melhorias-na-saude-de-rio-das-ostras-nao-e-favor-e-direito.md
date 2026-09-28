@@ -5,6 +5,7 @@ pubDate: "2026-06-29T16:28:22Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "saude", "regiao-dos-lagos", "macae-norte-fluminense", "penha", "norte-fluminense", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291623-carlos-augusto-cobra-melhorias-na-saude-de-rio-das-ostras-nao-e-favor-e-direito.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O prefeito Carlos Augusto (PL) foi duro em sua participação na 15ª Conferência Municipal de Saúde, realizada nesse sábado, 27, na Escola Municipal Francisco de Assis Medeiros Rangel, no Parque Zabulão.
 

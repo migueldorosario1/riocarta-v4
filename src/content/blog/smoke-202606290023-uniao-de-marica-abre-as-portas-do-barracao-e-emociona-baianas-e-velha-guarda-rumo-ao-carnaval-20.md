@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:23:40Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "cidade-do-samba", "uniao-de-marica", "carnaval-2027", "cultura-carnaval", "regiao-metropolitana", "leme", "comunidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290023-uniao-de-marica-abre-as-portas-do-barracao-e-emociona-baianas-e-velha-guarda-rumo-ao-carnaval-20.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A União de Maricá recebeu, na manhã do último sábado, a visita especial de toda a ala de baianas e da velha guarda ao barracão da escola, na Cidade do Samba, no Rio. Os integrantes tiveram a oportunidade de conhecer de perto o espaço onde está sendo preparado o desfile para o Carnaval 2027.
 

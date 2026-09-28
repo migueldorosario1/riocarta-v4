@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:49:14Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "centro", "zona-sul", "seguranca-publica", "sul-fluminense", "regiao-metropolitana", "comunidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-policia-civil-prende-falso-taxista-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio de Janeiro – Policiais civis da 10ª DP (Botafogo) prenderam, nesta quinta-feira (14), um homem suspeito de integrar uma quadrilha especializada em golpes contra passageiros de táxi na Zona Sul do Rio de Janeiro. O acusado foi localizado na Avenida Rio Branco, no Centro da capital.
 

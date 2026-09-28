@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:03:42Z"
 draft: true
 tags: ["rio-de-janeiro", "norte-noroeste-fluminense", "alerj", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "baixada", "niteroi", "serrana", "noroeste-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-douglas-ruas-lidera-na-alerj-e-libera-65-milhoes-ao-norte-e-noroeste-fluminense.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Assembleia Legislativa do Estado do Rio de Janeiro aprovou e executa medidas de apoio financeiro a municípios atingidos por fortes chuvas, com a destinação total de 65 milhões de reais para ações emergenciais, assistência social e recuperação de infraestrutura urbana e rural no estado.
 

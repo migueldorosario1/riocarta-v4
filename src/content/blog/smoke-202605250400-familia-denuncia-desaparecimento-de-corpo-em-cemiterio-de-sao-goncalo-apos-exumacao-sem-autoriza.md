@@ -5,6 +5,7 @@ pubDate: "2026-05-25T04:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "sao-goncalo-itaborai", "leme", "itaborai", "marica", "seguranca-publica", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605250400-familia-denuncia-desaparecimento-de-corpo-em-cemiterio-de-sao-goncalo-apos-exumacao-sem-autoriza.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O caso é apurado pela 72ª DP
 

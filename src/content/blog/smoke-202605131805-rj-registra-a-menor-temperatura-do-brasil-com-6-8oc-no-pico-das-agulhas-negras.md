@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:37Z"
 draft: true
 tags: ["rio-de-janeiro", "pico-das-agulhas-negras", "parque-nacional-do-itatiaia", "clima", "temperatura", "recorde", "regiao-serrana", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-rj-registra-a-menor-temperatura-do-brasil-com-6-8oc-no-pico-das-agulhas-negras.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 O Pico das Agulhas Negras, no Parque Nacional do Itatiaia, registrou nesta terça-feira (12/05) a menor temperatura de todo o Brasil. Os termômetros chegaram a impressionantes -6,8ºC durante a madrugada, segundo medições da WS Consultoria Climatológica em parceria com o Instituto Nacional de Meteorologia (Inmet).

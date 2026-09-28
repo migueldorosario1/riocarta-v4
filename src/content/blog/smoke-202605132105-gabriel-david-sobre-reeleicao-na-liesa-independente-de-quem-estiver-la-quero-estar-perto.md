@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:29Z"
 draft: true
 tags: ["rio-de-janeiro", "liesa", "carnaval", "gabriel-david", "cultura-e-carnaval-rj", "cultura-carnaval", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132105-gabriel-david-sobre-reeleicao-na-liesa-independente-de-quem-estiver-la-quero-estar-perto.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Em entrevista ao podcast Setor Sul, o presidente da Liga Independente das Escolas de Samba (Liesa), Gabriel David, abriu o jogo sobre os rumos da gestão do carnaval carioca, as fofocas de bastidores e os planos para os próximos anos. Com foco total no Carnaval de 2027, ele minimizou as discussões sobre reeleição e reforçou a importância de manter o modelo de negócio que tem profissionalizado a festa.

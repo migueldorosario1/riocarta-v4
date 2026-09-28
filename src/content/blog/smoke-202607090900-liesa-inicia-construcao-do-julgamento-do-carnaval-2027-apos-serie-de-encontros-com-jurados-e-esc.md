@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:01:36Z"
 draft: false
 tags: ["rio-de-janeiro", "carnaval", "liesa", "julgamento", "cultura-carnaval", "regiao-metropolitana", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-liesa-inicia-construcao-do-julgamento-do-carnaval-2027-apos-serie-de-encontros-com-jurados-e-esc.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 No início do mês passado, a Liga Independente das Escolas de Samba do Rio de Janeiro (Liesa) promoveu uma série de simpósios voltados ao aprimoramento do processo de julgamento dos desfiles do Grupo Especial. Os encontros reuniram os julgadores que atuaram no Carnaval 2026 e representantes das escolas de samba para discutir propostas de atualização do Manual do Julgador, além de buscar maior clareza nos critérios de avaliação para os próximos carnavais.
 

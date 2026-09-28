@@ -5,6 +5,7 @@ pubDate: "2026-05-20T11:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201123-shopping-vira-palco-de-briga-politica-e-tumulto-em-niteroi.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O embate político em torno do uso de banheiros por pessoas trans ganhou novos contornos em Niterói nesta terça-feira (19), após uma mobilização no Plaza Shopping terminar em confusão, uso de spray de pimenta e versões conflitantes entre os vereadores Benny Briolly e Douglas Gomes.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1895_1_whatsapp_image_2023_11_10_at_16_37_33-31104684.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vídeo mostra assessores discutindo após a morte do Vereador'
 pubDate: 2023-11-11 10:25:00

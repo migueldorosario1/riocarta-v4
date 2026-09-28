@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:03:15Z"
 draft: false
 tags: ["rio-de-janeiro", "seropedica", "baixada-fluminense", "complexo-da-penha", "zona-norte", "regiao-metropolitana", "sul-fluminense", "penha", "comunidade", "complexo", "baixada", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-policia-civil-e-prf-apreendem-carga-de-cocaina-avaliada-em-r-3-milhoes.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Estado do Rio – Policiais civis da Delegacia de Repressão a Entorpecentes da Baixada Fluminense (DRE-BF), em ação conjunta com a Polícia Rodoviária Federal (PRF), apreenderam nesta sexta-feira (15), uma carga de 50 quilos de cocaína avaliada em mais de R$ 3 milhões. A droga seria destinada ao Complexo da Penha, na Zona Norte do Rio de Janeiro, e pertenceria à facção criminosa Comando Vermelho.
 

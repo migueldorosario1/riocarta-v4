@@ -5,6 +5,7 @@ pubDate: "2026-05-16T21:24:33Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "sul-fluminense-costa-verde", "regiao-metropolitana", "sao-goncalo", "sampaio", "joa", "nova-iguacu", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-marica-f-c-busca-vitoria-em-casa-para-subir-na-tabela-do-campeonato-brasileiro-serie-d.jpeg"
+hero_credit: "YoTuT / Wikimedia Commons (CC BY 2.0)"
 ---
 O Maricá Futebol Clube volta a campo neste sábado (16), às 17h, para enfrentar o XV de Piracicaba no Estádio Municipal João Saldanha, pela sétima rodada do Campeonato Brasileiro Série D. O confronto pode recolocar o Tsunami no G-4 do Grupo A14 da competição nacional.
 

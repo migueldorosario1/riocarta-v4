@@ -5,6 +5,7 @@ pubDate: "2026-05-21T17:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "capital", "regiao-metropolitana", "mage", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211723-o-raio-x-das-inconsistencias-fiscais-e-politicas-do-projeto-mandrake-dark-horse.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A produção do longa-metragem “Dark Horse”, cinebiografia do ex-presidente Jair Bolsonaro (PL), enfrenta uma escalada de crises após dados oficiais da Agência Nacional do Cinema (Ancine) revelarem que a produtora responsável pela obra, a Go Up Entertainment, nunca lançou nenhum filme no mercado nacional ou internacional. A empresa é de propriedade da jornalista Karina Ferreira da Gama.
 

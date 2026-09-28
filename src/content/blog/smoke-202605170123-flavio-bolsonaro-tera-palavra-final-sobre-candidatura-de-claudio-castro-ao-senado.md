@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:25:22Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "eleicoes", "regiao-metropolitana", "leme", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-flavio-bolsonaro-tera-palavra-final-sobre-candidatura-de-claudio-castro-ao-senado.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A possível candidatura do ex-governador Cláudio Castro ao Senado Federal pelo Partido Liberal ganhou novos obstáculos nos bastidores da política fluminense após a operação realizada pela Polícia Federal nesta sexta-feira (15). Integrantes da legenda avaliam que o cenário se tornou mais delicado para o ex-chefe do Executivo estadual, embora o nome dele ainda não tenha sido oficialmente descartado da disputa de 2026.
 

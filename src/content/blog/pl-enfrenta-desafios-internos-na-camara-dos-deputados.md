@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5378_imagem-91.webp"
+hero_credit: "Wilson Dias/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)"
 description: "Matéria arquivada do Rio Carta"
 title: 'PL enfrenta desafios internos na Câmara dos Deputados'
 pubDate: 2024-09-23 19:53:14

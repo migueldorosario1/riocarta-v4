@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:01:14Z"
 draft: true
 tags: ["rio-de-janeiro", "bolsa-familia", "assistencia-social", "politica-rj", "capital", "regiao-metropolitana", "leme", "joa", "duque-de-caxias", "nova-iguacu", "belford-roxo", "sao-joao-de-meriti", "mesquita", "sao-goncalo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-bolsa-familia-paga-mais-de-1-4-milhao-de-familias-no-rio-em-maio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mais de 1,4 milhão de famílias do Estado do Rio de Janeiro começam a receber o Bolsa Família de maio a partir desta segunda-feira (18/05). Ao todo, 1.
 

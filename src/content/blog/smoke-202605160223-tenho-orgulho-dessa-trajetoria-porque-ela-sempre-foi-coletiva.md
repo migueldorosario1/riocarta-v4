@@ -5,6 +5,7 @@ pubDate: "2026-05-16T02:24:03Z"
 draft: false
 tags: ["rio-de-janeiro", "salvino-oliveira", "psd", "camara-municipal", "politica-rj", "capital", "regiao-metropolitana", "leme", "colegio", "cidade-de-deus", "favela", "comunidade", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160223-tenho-orgulho-dessa-trajetoria-porque-ela-sempre-foi-coletiva.jpeg"
+hero_credit: "Panachy / Wikimedia Commons (CC BY-SA 4.0)"
 categoria_macro: politica
 ---
 Vereador pelo PSD, Salvino Oliveira fala sobre sua origem na periferia, polêmicas recentes e projetos em debate na Câmara do Rio

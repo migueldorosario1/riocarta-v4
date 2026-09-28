@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "teresopolis", "regiao-serrana", "alerj", "violencia-politica", "vereadora", "politica-rj", "regiao-metropolitana", "seguranca-publica", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132005-caso-de-vereadora-ameacada-em-teresopolis-provoca-reacao-da-alerj-e-cobranca-por-investigacao.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Assembleia Legislativa do Rio de Janeiro (Alerj) vai propor à Polícia Civil a abertura de uma investigação sobre as supostas ameaças de morte sofridas pela vereadora de Teresópolis Professora Amanda (Republicanos).

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1977_105066205-17-11-2023-rio-de-janeiro-rj-falta-de-luz-na-rocinha-mulher-com-varios-filhos-ta.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rocinha às Escuras Moradores enfrentam oito dias sem luz'
 pubDate: 2023-11-18 14:20:00

@@ -5,6 +5,7 @@ pubDate: "2026-05-20T17:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-serrana", "petropolis", "itaipava", "capital", "bonsucesso", "serrana", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201723-unita-entrega-a-eduardo-paes-plano-com-prioridades-para-itaipava.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O pré-candidato ao Governo do Estado, Eduardo Paes (PSD), recebeu nesta terça-feira, 19 de maio, um documento com reivindicações para Itaipava, distrito de Petrópolis, na Região Serrana. A agenda foi entregue pela Unita — Unidos por Itaipava durante encontro com empresários e lideranças políticas em Pedro do Rio.
 

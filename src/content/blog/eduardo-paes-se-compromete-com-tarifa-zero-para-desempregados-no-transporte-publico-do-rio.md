@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5111_image-2.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes se compromete com Tarifa Zero para desempregados no transporte público do Rio'
 pubDate: 2024-09-06 09:13:12

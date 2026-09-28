@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:01:14Z"
 draft: true
 tags: ["rio-de-janeiro", "complexo-da-mare", "zona-norte", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "mare", "rocha", "favela", "comunidade", "complexo", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-eco-ableism-in-favelas-people-with-disabilities-and-atypical-families-speak-out-about-challenges-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 This article is part of a series created in partnership with the Behner Stiefel Center for Brazilian Studies at San Diego State University, to produce articles for the Digital Brazil Project on environmental justice in the favelas through RioOnWatch. The favelas of Complexo da Maré, in Rio de Janeiro’s North Zone, are one of the city’s areas most affected by extreme heat, having become a major heat island.
 

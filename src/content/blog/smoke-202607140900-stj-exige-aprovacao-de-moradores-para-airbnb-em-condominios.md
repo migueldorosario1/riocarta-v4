@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:04:55Z"
 draft: true
 tags: ["rio-de-janeiro", "stj", "airbnb", "condominios", "legislacao", "vereador-pedro-duarte", "politica-rj", "capital-estado", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-stj-exige-aprovacao-de-moradores-para-airbnb-em-condominios-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

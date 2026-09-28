@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:14Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "jiu-jitsu", "esportes", "macae-norte-fluminense", "cabo-frio", "norte-fluminense", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-saquarema-sediara-mais-uma-etapa-do-circuito-mineirinho-de-jiu-jitsu-costa-do-sol.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Circuito Mineirinho Costa do Sol de Jiu-Jistu volta para Saquarema para sua 3ª etapa, que acontece nos próximos dias 8 e 9 de agosto, reunindo competidores pré-mirim, mirim, infantil, infanto-juvenil, juvenil, adulto e master.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-21T20:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "ilha-das-cobras", "rio-capital-centro", "politica-rj", "centro-do-rio", "joa", "complexo", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212023-o-tunel-secreto-enterrado-no-centro-do-rio-que-quase-ninguem-sabe-que-existe.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Bem ali no coração da Baía de Guanabara, a menos de 200 metros do centro histórico do Rio, existe uma ilha que guarda em suas entranhas dois túneis coloniais portugueses, uma cela onde Tiradentes passou três anos esperando a morte, uma fortaleza que mudou de nome quatro vezes e uma história de quatro séculos que começa com cobras venenosas, passa por holandeses invasores e termina numa batalha brancaleônica na Guiana Francesa contra tropas de Napoleão Bonaparte. A Ilha das Cobras, sede da Fortaleza de São José e do Museu do Corpo de Fuzileiros Navais, é um dos sítios históricos mais legais do país, e, pra variar, a grande maioria dos cariocas e simpatizantes jamais pôs os pés lá.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:24:17Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "educacao", "acessibilidade", "museu", "regiao-metropolitana", "capital-porto", "baixada", "mage", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-a-experiencia-do-museu-no-rio-de-janeiro-que-tornou-seu-planetario-acessivel-para-cegos-e-surdos.png"
+hero_credit: "Limbo@MX C / Wikimedia Commons (CC BY 2.5)"
 ---
 Museus de ciência costumam afirmar que são espaços para todos. Mas o que significa, no dia a dia, garantir que todas as pessoas, incluindo surdos e cegos, possam participar das experiências oferecidas?
 

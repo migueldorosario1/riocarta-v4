@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3869_imagem-22.jpg"
+hero_credit: "David E. Lucas / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saiba quem é a médica acusada de dar falso diagnóstico de câncer em dezenas de pessoas'
 pubDate: 2024-03-19 09:15:59

@@ -5,6 +5,7 @@ pubDate: "2026-05-21T12:23:09Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "arraial-do-cabo", "sao-pedro-da-aldeia", "meio-ambiente", "comunidade", "problemas-estruturais", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211223-regiao-dos-lagos-leva-proposta-inedita-de-preservacao-ambiental-para-encontro-internacional-em-b.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Região dos Lagos participa, até sexta-feira (22), do XII Seminário Brasileiro e VII Encontro Latino-americano sobre Áreas Protegidas e Inclusão Social (Sapis e Elapis), realizado na Universidade de Brasília (UnB).
 

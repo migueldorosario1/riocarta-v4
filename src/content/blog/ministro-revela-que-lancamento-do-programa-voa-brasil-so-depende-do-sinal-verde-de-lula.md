@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3855_imagem.jpg-5.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro revela que lançamento do programa Voa Brasil só depende do sinal verde de Lula'
 pubDate: 2024-03-19 09:05:29

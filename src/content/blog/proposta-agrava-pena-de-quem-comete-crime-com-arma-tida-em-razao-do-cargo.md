@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2854_imagem-3.jpg"
+hero_credit: "Petty Officer 3rd Class Joshua Nistas / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Proposta agrava pena de quem comete crime com arma tida em razão do cargo'
 pubDate: 2024-02-02 05:30:00

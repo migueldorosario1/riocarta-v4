@@ -5,6 +5,7 @@ pubDate: "2026-06-29T01:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "problemas-estruturais", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290123-marica-prepara-grande-festa-para-a-torcida-com-shows-e-teloes-para-brasil-x-japao-nesta-segunda.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os moradores de Maricá terão mais um motivo para vestir a camisa da Seleção Brasileira nesta segunda-feira (29). Além da programação especial da Esquina da Copa, com transmissão em telões e atrações musicais, a Prefeitura decretou ponto facultativo nas repartições públicas municipais em razão da partida entre Brasil e Japão, válida pelas oitavas de final da Copa do Mundo de 2026.
 

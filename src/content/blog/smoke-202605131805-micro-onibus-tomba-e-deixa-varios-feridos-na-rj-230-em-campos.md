@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "norte-noroeste-fluminense", "rj-230", "acidente", "transporte-publico", "campos", "bom-jesus", "noroeste-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-micro-onibus-tomba-e-deixa-varios-feridos-na-rj-230-em-campos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Um micro-ônibus que atua no transporte público de Campos tombou na tarde desta quarta-feira (13) em um trecho rural da RJ-230. O acidente aconteceu na localidade de Espírito Santinho, na região do distrito de Santo Eduardo.

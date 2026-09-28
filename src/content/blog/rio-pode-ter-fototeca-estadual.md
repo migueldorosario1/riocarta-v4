@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp388_image-14.png"
+hero_credit: "Internet Archive Book Images / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio pode ter Fototeca estadual'
 pubDate: 2023-06-19 21:33:40

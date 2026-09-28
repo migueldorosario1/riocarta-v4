@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2778_imagem-8.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Embarcação do clã Bolsonaro desaparece durante operação da PF em Angra dos Reis'
 pubDate: 2024-01-31 08:38:26

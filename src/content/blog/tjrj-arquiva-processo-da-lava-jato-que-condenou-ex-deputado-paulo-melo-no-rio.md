@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:38Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "lava-jato", "paulo-melo", "edson-albertassi", "tjrj", "politica-rj", "regiao-dos-lagos", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/tjrj-arquiva-processo-da-lava-jato-que-condenou-ex-deputado-paulo-melo-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O Tribunal de Justiça do Rio de Janeiro (TJRJ) arquivou o processo da Lava Jato que havia condenado o ex-presidente da Assembleia Legislativa do Rio (Alerj), Paulo Melo, a 12 anos e 10 meses de prisão pelos crimes de corrupção passiva e organização criminosa. A decisão do Órgão Especial do TJRJ também beneficiou o ex-deputado Edson Albertassi e atendeu a um pedido do Ministério Público do Estado do Rio de Janeiro.

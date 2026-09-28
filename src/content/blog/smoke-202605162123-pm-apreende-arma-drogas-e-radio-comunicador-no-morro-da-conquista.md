@@ -5,6 +5,7 @@ pubDate: "2026-05-16T21:24:39Z"
 draft: false
 tags: ["rio-de-janeiro", "santo-agostinho", "seguranca-publica", "sul-fluminense", "sul-fluminense-costa-verde", "volta-redonda", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-pm-apreende-arma-drogas-e-radio-comunicador-no-morro-da-conquista.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

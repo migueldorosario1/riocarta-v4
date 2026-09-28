@@ -5,6 +5,7 @@ pubDate: "2026-06-29T18:24:40Z"
 draft: true
 tags: ["rio-de-janeiro", "lapa", "botafogo", "zona-sul", "bares", "copa-do-mundo", "rio-capital-centro", "capital-estado", "regiao-metropolitana", "ipanema", "ramos", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-onde-ver-o-jogo-do-brasil-na-copa-5-bares-no-rio-para-uma-torcida-inesquecivel.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

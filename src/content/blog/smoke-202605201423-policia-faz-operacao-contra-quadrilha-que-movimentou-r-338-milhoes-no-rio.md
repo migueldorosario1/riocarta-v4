@@ -5,6 +5,7 @@ pubDate: "2026-05-20T14:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "zona-norte", "seguranca-publica", "rio-capital-barra-recreio-jacarepagua", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201423-policia-faz-operacao-contra-quadrilha-que-movimentou-r-338-milhoes-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil realiza, nesta quarta-feira (20), a operação “Tarja Oculta” para desmontar uma quadrilha suspeita de lavar dinheiro, clonar cartões e aplicar golpes milionários no Rio. Segundo as investigações, o grupo movimentou mais de R$ 338 milhões, entre 2017 e 2022.
 

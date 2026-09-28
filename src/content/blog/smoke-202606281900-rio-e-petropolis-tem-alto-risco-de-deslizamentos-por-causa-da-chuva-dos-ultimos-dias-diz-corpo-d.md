@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:03:44Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "rocinha", "regiao-serrana", "seguranca-publica", "capital-porto", "regiao-metropolitana", "zona-norte", "zona-oeste", "baixada", "niteroi", "sao-goncalo", "serrana", "rio-das-ostras"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281900-rio-e-petropolis-tem-alto-risco-de-deslizamentos-por-causa-da-chuva-dos-ultimos-dias-diz-corpo-d.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O município do Rio de Janeiro e a cidade de Petrópolis, na Região Serrana, estão em alerta devido ao alto risco de deslizamentos causado pelo acumulado de chuvas nos últimos quatro dias, segundo o Corpo de Bombeiros. De acordo com dados do Centro Estadual de Monitoramento e Alerta de Desastres Naturais (Cemaden-RJ), a capital carioca registrou o segundo maior índice pluviométrico do estado nas últimas 24 horas, ficando atrás apenas de Petrópolis, onde a mínima chegou a 8°C.
 

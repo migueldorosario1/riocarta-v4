@@ -5,6 +5,7 @@ pubDate: "2026-06-30T03:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "caju", "agua-santa", "zona-norte", "qualificacao-profissional", "favela-mundo", "geracao-de-renda", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "sampaio", "joa", "favela", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300323-projeto-a-arte-gerando-renda-encerra-inscricao-para-cursos-de-qualificacao-profissional-em-julho.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A qualificação profissional do projeto A Arte Gerando Renda, idealizado pela ONG Favela Mundo, continua com inscrições abertas até quarta-feira, dia 1° de julho. Os cursos são gratuitos e contam com 400 vagas destinadas à jovens e adultos.
 

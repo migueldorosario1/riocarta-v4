@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:56:05Z"
 draft: false
 tags: ["rio-de-janeiro", "cambuci", "zona-norte", "seguranca-publica", "rio-capital-zona-norte", "norte-noroeste-fluminense", "noroeste-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281951-homem-que-dizia-ser-policial-e-detido-com-pistolas-de-airsoft-e-camisa-de-falso-soldado-da-pm-em.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um homem, 33 anos, foi levado para a delegacia após denúncias de que o mesmo estaria se passando por policial militar em Cambuci. Segundo o 36º BPM, o suspeito foi abordado após denúncias de que o mesmo estaria utilizando a falsa identidade de policial e portando arma de fogo.
 

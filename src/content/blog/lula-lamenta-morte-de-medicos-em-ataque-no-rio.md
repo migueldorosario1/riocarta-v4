@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1506_psol-independencia-governo-lula-samia-bonfim.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'LULA LAMENTA MORTE DE MÉDICOS EM ATAQUE NO RIO'
 pubDate: 2023-10-05 17:34:39

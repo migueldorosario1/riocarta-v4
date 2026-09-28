@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:25:38Z"
 draft: true
 tags: ["rio-de-janeiro", "banheiros-publicos", "politica-rj", "capital", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-rio-esta-entre-as-piores-cidades-turisticas-do-mundo-para-encontrar-banheiros-publicos.jpg"
+hero_credit: "UnknownUnknown / Wikimedia Commons (Public domain)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

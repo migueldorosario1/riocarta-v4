@@ -5,6 +5,7 @@ pubDate: "2026-06-28T21:23:06Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "transporte-publico", "trt-1", "transporte-mobilidade", "capital", "regiao-metropolitana"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-justica-manda-manter-50-da-frota-de-onibus-durante-greve-dos-rodoviarios-no-rio-nesta-segunda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

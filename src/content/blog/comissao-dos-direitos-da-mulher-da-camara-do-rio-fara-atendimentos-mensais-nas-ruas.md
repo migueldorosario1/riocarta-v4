@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp437_image-18.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Comissão dos Direitos da Mulher da Câmara do Rio fará atendimentos mensais nas ruas'
 pubDate: 2023-06-19 22:31:55

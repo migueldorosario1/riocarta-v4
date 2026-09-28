@@ -5,6 +5,7 @@ pubDate: "2026-05-21T10:24:32Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "presidente-vargas", "sambodromo", "marcha-para-jesus", "rio-capital-centro", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "estacio", "zona-sul", "botafogo", "praca-da-bandeira", "cavalcanti"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211023-marcha-para-jesus-tera-esquema-especial-de-transito-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A 19ª edição da Marcha para Jesus, que acontece neste sábado (23), contará com um esquema especial de trânsito, organizado pela Prefeitura do Rio. O evento acontece das 14h às 23h, e promete reunir cerca de 300 mil fiéis com o tema ‘O poder da decisão’.
 

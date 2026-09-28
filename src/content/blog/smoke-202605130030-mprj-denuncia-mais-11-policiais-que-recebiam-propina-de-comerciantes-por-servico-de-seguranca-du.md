@@ -5,6 +5,7 @@ pubDate: "2026-05-13T03:30:58Z"
 draft: false
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "corrupcao", "policia-militar", "mprj", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "sao-goncalo", "itaborai", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130030-mprj-denuncia-mais-11-policiais-que-recebiam-propina-de-comerciantes-por-servico-de-seguranca-du.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 MPRJ denuncia mais 11 policiais que recebiam propina de comerciantes por serviço de segurança durante o expediente

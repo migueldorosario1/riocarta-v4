@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-joao-da-barra", "norte-noroeste-fluminense", "educacao", "cultura", "biblioteca", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "joa", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-biblioteca-do-ciep-265-e-reinaugurada-com-acervo-historico-em-sao-joao-da-barra.jpg"
+hero_credit: "Michael D Beckwith / Wikimedia Commons (CC0)"
 categoria_macro: politica
 ---
 A Prefeitura de São João da Barra reinaugurou a biblioteca do Ciep-265 Municipalizado Professora Gladys Teixeira, ampliando significativamente o acesso dos alunos da rede municipal ao conhecimento. O espaço revitalizado, que funciona de segunda a sexta-feira, das 13h às 17h, recebeu o nome da professora, escritora e historiadora sanjoanense Tania Nogueira de Aquino.

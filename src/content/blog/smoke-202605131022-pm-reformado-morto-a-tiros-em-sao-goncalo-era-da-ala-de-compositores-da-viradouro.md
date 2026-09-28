@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:21Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "engenho-pequeno", "pm-reformado", "homicidio", "viradouro", "regiao-metropolitana", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "niteroi", "itaborai", "seguranca-publica", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-pm-reformado-morto-a-tiros-em-sao-goncalo-era-da-ala-de-compositores-da-viradouro.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O subtenente reformado da Polícia Militar Antônio Lourenço, de 69 anos, conhecido por amigos e familiares como “Orelha”, morto a tiros na tarde de segunda-feira (11), na Rua Valdir dos Santos, no bairro Engenho Pequeno, em São Gonçalo, na Região Metropolitana do Rio, além de ser muito conhecido na região, era integrante da Escola de Samba Unidos do Viradouro. Segundo testemunhas, a vítima ainda tentou fugir do criminoso antes de ser atingida.

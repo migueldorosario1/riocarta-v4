@@ -5,6 +5,7 @@ pubDate: "2026-05-20T12:23:48Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "zona-norte", "rio-capital-zona-oeste", "capital-estado", "regiao-metropolitana", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201223-operacao-mira-esquema-de-lavagem-de-dinheiro-que-movimentou-r-338-milhoes-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

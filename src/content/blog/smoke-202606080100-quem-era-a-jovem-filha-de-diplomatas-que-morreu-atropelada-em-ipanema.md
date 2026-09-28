@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:02:02Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "gavea", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-quem-era-a-jovem-filha-de-diplomatas-que-morreu-atropelada-em-ipanema.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

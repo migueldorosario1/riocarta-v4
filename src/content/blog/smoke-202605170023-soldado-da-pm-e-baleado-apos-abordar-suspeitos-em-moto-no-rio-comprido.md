@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:51Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-comprido", "seguranca-publica", "capital-estado", "regiao-serrana", "petropolis", "estacio", "sao-cristovao", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-soldado-da-pm-e-baleado-apos-abordar-suspeitos-em-moto-no-rio-comprido.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

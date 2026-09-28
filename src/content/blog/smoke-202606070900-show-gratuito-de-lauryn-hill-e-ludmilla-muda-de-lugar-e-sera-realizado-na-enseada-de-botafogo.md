@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:00:11Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "ipanema", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-show-gratuito-de-lauryn-hill-e-ludmilla-muda-de-lugar-e-sera-realizado-na-enseada-de-botafogo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O aguardado show gratuito de Lauryn Hill, Wyclef Jean e Ludmilla no Rio teve o local alterado e agora acontecerá na Enseada de Botafogo. O evento, que inicialmente seria realizado em Ipanema, teve a mudança anunciada nesta terça-feira (19/05) pelos organizadores do Global Citizen Live: Rio de Janeiro.
 

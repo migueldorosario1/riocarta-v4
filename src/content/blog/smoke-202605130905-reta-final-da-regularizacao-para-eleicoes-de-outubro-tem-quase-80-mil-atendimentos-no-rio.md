@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "tre-rj", "eleicoes", "cadastro-eleitoral", "politica-rj", "macae-norte-fluminense", "norte-noroeste-fluminense", "macae", "norte-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130905-reta-final-da-regularizacao-para-eleicoes-de-outubro-tem-quase-80-mil-atendimentos-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Terminou na última semana o prazo para atualização do cadastro eleitoral visando as eleições gerais que acontecem no próximo mês de outubro, quando serão eleitos presidente, governadores, deputados estaduais e federais e senadores.

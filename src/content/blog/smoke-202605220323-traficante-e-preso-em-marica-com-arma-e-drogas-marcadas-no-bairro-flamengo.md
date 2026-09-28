@@ -5,6 +5,7 @@ pubDate: "2026-05-22T03:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "flamengo", "trafico", "regiao-dos-lagos", "capital-estado", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220323-traficante-e-preso-em-marica-com-arma-e-drogas-marcadas-no-bairro-flamengo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

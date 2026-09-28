@@ -5,6 +5,7 @@ pubDate: "2026-06-29T13:26:08Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "incendio", "lancha", "ilha-do-japones", "macae-norte-fluminense", "regiao-metropolitana", "mage", "norte-fluminense", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-fogo-atinge-lancha-de-luxo-e-causas-ainda-sao-investigadas-em-cabo-frio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

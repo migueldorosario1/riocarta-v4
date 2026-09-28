@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:24:29Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "seguranca-publica", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "sao-goncalo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-niteroi-registra-menor-indice-de-roubos-de-rua-desde-2003-aponta-observatorio-de-seguranca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A cidade de Niterói registrou queda nos índices de criminalidade durante o mês de abril deste ano, segundo dados divulgados pelo Observatório de Segurança do município. Entre os indicadores apresentados, os roubos de rua tiveram redução de 50% em comparação com o mesmo período do ano passado e atingiram o menor patamar da série histórica iniciada em 2003.
 

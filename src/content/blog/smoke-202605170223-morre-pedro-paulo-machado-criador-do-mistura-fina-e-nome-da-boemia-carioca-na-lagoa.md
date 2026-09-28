@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "lagoa", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "caju", "joa", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-morre-pedro-paulo-machado-criador-do-mistura-fina-e-nome-da-boemia-carioca-na-lagoa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Morreu o arquiteto Pedro Paulo Machado, criador do Mistura Fina, tradicional casa de gastronomia e música que marcou a boemia carioca na Lagoa Rodrigo de Freitas entre 1992 e 2007. Ele tinha 75 anos.
 

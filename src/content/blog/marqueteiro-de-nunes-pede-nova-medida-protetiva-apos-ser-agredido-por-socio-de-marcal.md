@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5495_imagem-120.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marqueteiro de Nunes pede nova medida protetiva após ser agredido por sócio de Marçal'
 pubDate: 2024-09-26 15:47:18

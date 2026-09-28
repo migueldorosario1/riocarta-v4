@@ -5,6 +5,7 @@ pubDate: "2026-05-13T06:05:11Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "industria-do-aco", "gustavo-tutuca", "politica-rj", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-tutuca-destaca-importancia-da-lei-do-aco-durante-encontro-em-volta-redonda.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 VOLTA REDONDA

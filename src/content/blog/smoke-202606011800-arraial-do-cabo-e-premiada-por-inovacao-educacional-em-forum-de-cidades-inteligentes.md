@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:00:12Z"
 draft: true
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "educacao", "inovacao", "regiao-metropolitana", "leme", "teresopolis"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-arraial-do-cabo-e-premiada-por-inovacao-educacional-em-forum-de-cidades-inteligentes.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O município de Arraial do Cabo foi um dos destaques do Fórum de Cidades Digitais e Inteligentes da Região dos Lagos, realizado nesta quinta-feira (21), em Teresópolis. A cidade recebeu o prêmio “Prefeito Inovador”, reconhecimento concedido pelos avanços promovidos na área de tecnologias educacionais.
 

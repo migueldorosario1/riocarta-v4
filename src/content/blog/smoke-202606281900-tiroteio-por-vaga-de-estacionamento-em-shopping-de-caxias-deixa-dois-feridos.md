@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:08:01Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "shopping-outlet-premium", "tiroteio", "policia-militar", "regiao-metropolitana-duque-de-caxias", "capital-estado", "regiao-metropolitana", "estacio", "baixada", "mage", "campos", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281900-tiroteio-por-vaga-de-estacionamento-em-shopping-de-caxias-deixa-dois-feridos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

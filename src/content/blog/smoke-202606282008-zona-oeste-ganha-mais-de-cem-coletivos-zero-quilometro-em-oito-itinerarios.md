@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:13:06Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-oeste", "onibus", "mobilidade", "santa-cruz", "campo-grande", "realengo", "bangu", "rio-capital-zona-oeste", "estado", "regiao-metropolitana", "leme", "tijuca", "cascadura"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282008-zona-oeste-ganha-mais-de-cem-coletivos-zero-quilometro-em-oito-itinerarios.jpg"
+hero_credit: "Mohpreme / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

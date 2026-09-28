@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2022_image-27.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'PESQUISA NO RIO TARCÍSIO, MARCELO, MARTHA, OTONI, DANI BALBI, RAMAGEM E DUARTE EMPATADOS EM 2. LUGAR; PAES LIDERA'
 pubDate: 2023-11-24 17:08:29

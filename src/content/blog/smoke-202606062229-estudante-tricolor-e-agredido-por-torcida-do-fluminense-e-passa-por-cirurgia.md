@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:30:42Z"
 draft: false
 tags: ["rio-de-janeiro", "tijuca", "zona-norte", "seguranca-publica", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "maracana", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-estudante-tricolor-e-agredido-por-torcida-do-fluminense-e-passa-por-cirurgia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:26Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "vacina", "pneumonia", "meningite", "saude", "regiao-dos-lagos", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-criancas-de-ate-5-anos-ja-podem-receber-nova-vacina-contra-pneumonia-e-meningite-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 As crianças de até 5 anos de idade já podem receber a nova vacina Pneumo 20 nas unidades da Atenção Básica de Saúde de Cabo Frio. O imunizante, que acaba de ser incorporado ao Calendário Nacional de Vacinação, amplia a proteção contra doenças graves, como pneumonia e meningite.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2963_lula-7-940x627-1.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula lidera o páreo de 2026 em plena pesquisa encomendada pelo PL'
 pubDate: 2024-02-05 08:58:35

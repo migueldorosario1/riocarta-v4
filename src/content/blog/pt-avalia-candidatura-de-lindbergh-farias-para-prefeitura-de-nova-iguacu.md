@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1032_image-12.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT avalia candidatura de Lindbergh Farias para prefeitura de Nova Iguaçu'
 pubDate: 2023-08-06 13:13:57

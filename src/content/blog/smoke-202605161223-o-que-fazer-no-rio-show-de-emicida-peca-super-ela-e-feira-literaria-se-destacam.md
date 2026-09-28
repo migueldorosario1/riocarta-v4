@@ -5,6 +5,7 @@ pubDate: "2026-05-16T12:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "lapa", "baixada", "niteroi", "cultura-carnaval", "politica-rj", "regiao-metropolitana", "estacio", "santa-teresa", "gloria", "madureira", "joa", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161223-o-que-fazer-no-rio-show-de-emicida-peca-super-ela-e-feira-literaria-se-destacam.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O fim de semana no Rio chega recheado de atrações para todos os gostos, espalhadas entre palcos da capital, Baixada e Niterói. Tem grandes nomes da música brasileira e internacional, rodas de samba, festivais independentes, teatro para crianças e adultos, além de exposições que passeiam entre arte contemporânea, memória e identidade.

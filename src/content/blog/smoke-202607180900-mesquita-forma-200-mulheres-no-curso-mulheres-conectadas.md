@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:03:03Z"
 draft: true
 tags: ["rio-de-janeiro", "mesquita", "baixada-fluminense", "inclusao-digital", "mulheres", "capacitacao", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-mesquita-forma-200-mulheres-no-curso-mulheres-conectadas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Mesquita realizou a formatura do curso Mulheres Conectadas na quinta-feira 7 de maio, na Praça da Telemar, no Centro, encerrando ciclo de capacitação em inclusão digital voltado a mulheres do município. O projeto teve cinco semanas de aulas em unidade móvel adaptada, cinco bairros e alcançando 200 mulheres com ensino de informática básica.
 

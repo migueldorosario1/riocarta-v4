@@ -5,6 +5,7 @@ pubDate: "2026-06-29T15:24:13Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "pedra-do-macaco", "acidente", "trilha", "regiao-metropolitana", "regiao-dos-lagos", "niteroi", "penha", "rocha", "complexo", "mage", "araruama", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-homem-cai-de-penhasco-ao-tentar-descer-apos-foto-em-trilha-de-marica-e-morre.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

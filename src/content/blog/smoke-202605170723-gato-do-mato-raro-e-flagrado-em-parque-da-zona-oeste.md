@@ -5,6 +5,7 @@ pubDate: "2026-05-17T07:23:13Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "rio-capital-zona-oeste", "capital", "regiao-metropolitana", "mage", "realengo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170723-gato-do-mato-raro-e-flagrado-em-parque-da-zona-oeste.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O flagrante mais recente do gato-do-mato-pequeno (Leopardus guttulus), captado por uma das câmeras camufladas, virou símbolo de um levantamento inédito da fauna silvestre no núcleo Piraquara do Parque Estadual da Pedra Branca, na Zona Oeste do Rio. A informação foi divulgada pelo “Blog do Ancelmo”.
 

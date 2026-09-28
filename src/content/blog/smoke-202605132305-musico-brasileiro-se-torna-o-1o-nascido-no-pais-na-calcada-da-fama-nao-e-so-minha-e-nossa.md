@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:26Z"
 draft: false
 tags: ["rio-de-janeiro", "iraja", "zona-norte", "cultura", "musica", "paulinho-da-costa", "calcada-da-fama", "rio-capital-zona-norte", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-musico-brasileiro-se-torna-o-1o-nascido-no-pais-na-calcada-da-fama-nao-e-so-minha-e-nossa.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O percussionista brasileiro Paulinho da Costa recebeu nesta quarta-feira (13) uma estrela na Hollywood Walk of Fame (Calçada da Fama), em Los Angeles, e se tornou a primeira pessoa nascida no Brasil a integrar a tradicional calçada dedicada a nomes da indústria do entretenimento. A cerimônia ocorreu na Vine Street, próxima ao prédio da Capitol Records, e foi transmitida ao vivo pelo site oficial da organização.

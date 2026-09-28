@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:50:53Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "copa-do-mundo", "shows-gratuitos", "arena-copacabana", "rio-capital-zona-sul-e-grande-tijuca", "capital-estado", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-arena-copacabana-rio-ganha-espaco-gigante-para-ver-copa-e-shows-gratuitos-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

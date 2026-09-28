@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:35:49Z"
 draft: false
 tags: ["rio-de-janeiro", "santa-cruz", "zona-oeste", "protecao-animal", "prefeitura", "resgate", "rio-capital-zona-oeste", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "ramos", "guaratiba", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-caes-abandonados-em-imovel-com-sujeira-e-lixo-sao-resgatados-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Quinze cães que viviam em condições insalubres dentro de uma residência em Santa Cruz, na Zona Oeste do Rio, foram resgatados nesta quarta-feira (20). Os animais estavam em meio à sujeira, fezes, urina e grande acúmulo de lixo.
 

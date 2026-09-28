@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:16:26Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "historia", "cultura-carnaval", "capital-porto", "regiao-metropolitana", "joa", "alemao", "nova-friburgo", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-livro-sobre-dom-pedro-ii-relanca-luz-sobre-a-coroa-imperial-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O recente lançamento do livro Entre Nova Friburgo e a Corte: Ernst Hasenclever e a coroação de D. Pedro II não apenas revela ao público um testemunho inédito sobre um dos momentos marcantes da história do Brasil, como também recoloca em evidência a Coroa Imperial, a mais importante joia do patrimônio nacional.
 

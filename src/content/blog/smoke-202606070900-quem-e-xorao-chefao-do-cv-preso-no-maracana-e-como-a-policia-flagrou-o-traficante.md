@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:01:53Z"
 draft: true
 tags: ["rio-de-janeiro", "maracana", "zona-norte", "seguranca-publica", "trafico-drogas", "comando-vermelho", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "rocinha", "complexo-do-alemao", "favela", "comunidade", "complexo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-quem-e-xorao-chefao-do-cv-preso-no-maracana-e-como-a-policia-flagrou-o-traficante.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

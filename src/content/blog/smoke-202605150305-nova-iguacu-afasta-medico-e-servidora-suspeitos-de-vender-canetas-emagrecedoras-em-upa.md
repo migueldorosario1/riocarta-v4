@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "upa", "saude", "ministerio-publico", "regiao-metropolitana", "capital", "baixada", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-nova-iguacu-afasta-medico-e-servidora-suspeitos-de-vender-canetas-emagrecedoras-em-upa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Um médico e uma servidora pública foram afastados de suas funções na UPA Patrícia Marinho, em Nova Iguaçu, na Baixada Fluminense, sob a acusação de comercializar e aplicar ilegalmente o medicamento Mounjaro dentro da unidade de saúde. A medida foi determinada pela 2ª Vara Criminal de Nova Iguaçu e cumprida na tarde desta quinta-feira (14), durante uma operação do Ministério Público do Rio de Janeiro (MPRJ) que incluiu mandados de busca e apreensão na própria UPA e em endereços ligados aos investigados.

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4782_imagem-10.webp"
+hero_credit: "Cyro A. Silva from Rio de Janeiro, Brasil / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'PL oficializa Ramagem como candidato à Prefeitura do Rio'
 pubDate: 2024-07-22 15:32:24

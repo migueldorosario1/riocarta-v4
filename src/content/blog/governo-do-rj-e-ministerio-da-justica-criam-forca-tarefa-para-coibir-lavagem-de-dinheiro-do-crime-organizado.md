@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1699_upload-00013112-1-.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo do RJ e Ministério da Justiça criam força-tarefa para coibir lavagem de dinheiro do crime organizado'
 pubDate: 2023-10-25 17:03:00

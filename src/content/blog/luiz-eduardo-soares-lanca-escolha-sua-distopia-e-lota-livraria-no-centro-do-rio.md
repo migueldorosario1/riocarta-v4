@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7075_Screenshot_20250825-223714_Instagram.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Luiz Eduardo Soares lança “Escolha sua Distopia” e lota livraria no Centro do Rio'
 pubDate: 2025-08-25 22:52:22

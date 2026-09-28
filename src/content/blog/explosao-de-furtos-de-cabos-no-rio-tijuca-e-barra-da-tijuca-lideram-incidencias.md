@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2287_policiais-evitaram-roubo-de-cabos-92354_800x450.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Explosão de furtos de cabos no rio Tijuca e Barra da Tijuca lideram incidências'
 pubDate: 2024-01-04 13:30:00

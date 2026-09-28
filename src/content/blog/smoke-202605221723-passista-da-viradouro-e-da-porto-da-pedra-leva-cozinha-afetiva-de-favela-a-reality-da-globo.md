@@ -5,6 +5,7 @@ pubDate: "2026-05-22T17:23:24Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "carnaval", "gastronomia", "empreendedorismo", "regiao-metropolitana", "cultura-carnaval", "joa", "favela", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221723-passista-da-viradouro-e-da-porto-da-pedra-leva-cozinha-afetiva-de-favela-a-reality-da-globo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A passista da Unidos do Viradouro e da Unidos do Porto da Pedra, Arianna Marçal, a Ari, é uma das participantes de Cozinha de Favela: Prontos para Brilhar, docu-reality que estreia no dia 23 de maio, na TV Globo Rio, com exibição também pelo Globoplay. Moradora do Morro do Girassol, em Colubandê, São Gonçalo, Ari construiu sua trajetória entre dois universos que se cruzam diariamente em sua rotina: o Carnaval e a gastronomia.
 

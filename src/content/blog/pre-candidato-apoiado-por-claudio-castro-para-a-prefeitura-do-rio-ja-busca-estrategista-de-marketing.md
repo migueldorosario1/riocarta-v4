@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp79_Captura-de-tela-de-2023-06-11-22-24-53.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pré-candidato apoiado por Cláudio Castro para a prefeitura do Rio já busca estrategista de marketing'
 pubDate: 2023-06-11 17:25:06

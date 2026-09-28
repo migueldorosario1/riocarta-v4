@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:23:17Z"
 draft: false
 tags: ["rio-de-janeiro", "morro-dos-macacos", "zona-norte", "rio-capital-zona-norte", "capital", "sul-fluminense-costa-verde", "mendes", "vila-isabel", "comunidade", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-praca-ze-do-caroco-e-revitalizada-e-vira-area-de-lazer-no-morro-dos-macacos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A comunidade do Morro dos Macacos, em Vila Isabel, na Zona Norte do Rio, ganhou neste sábado (16) uma nova área de convivência e lazer com a entrega da Praça Zé do Caroço. A inauguração reuniu moradores, lideranças comunitárias e representantes políticos em uma manhã com samba, serviços gratuitos e homenagens.
 

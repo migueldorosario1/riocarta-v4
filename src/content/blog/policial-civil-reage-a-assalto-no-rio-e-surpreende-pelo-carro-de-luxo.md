@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2419_WhatsApp-Image-2024-01-12-at-22.23.54.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Policial Civil reage a assalto no Rio e surpreende pelo carro de luxo'
 pubDate: 2024-01-12 22:24:09

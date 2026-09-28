@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "ipva", "governo-rj", "secretaria-de-fazenda", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-r-8-milhoes-de-debitos-do-ipva-2026-fluminense-sao-parcelados-no-cartao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Dados da Secretaria de Estado de Fazenda do Rio de Janeiro indicam que cerca de 15 mil débitos do IPVA 2026 foram parcelados no cartão de crédito, totalizando mais de 8 milhões de reais em pagamentos realizados nos últimos 3 meses. O modelo permite o uso de empresas credenciadas pela pasta estadual, com possibilidade de parcelamento em até 24 vezes, segundo informações oficiais.

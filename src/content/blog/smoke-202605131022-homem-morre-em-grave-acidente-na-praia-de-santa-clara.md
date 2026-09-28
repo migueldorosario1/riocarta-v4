@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:33Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-francisco-de-itabapoana", "norte-noroeste-fluminense", "acidente", "rj-196", "regiao-metropolitana", "mage", "campos", "noroeste-fluminense", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-homem-morre-em-grave-acidente-na-praia-de-santa-clara.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Um homem, identificado como Daivison Silva, de 36 anos, morreu em um grave acidente ocorrido na noite deste domingo (10) na Praia de Santa Clara, em São Francisco de Itabapoana. A colisão frontal entre duas motos aconteceu no trecho urbano da RJ-196.

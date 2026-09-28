@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:01:29Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "tamoios", "regiao-dos-lagos", "botafogo", "jacare", "joa", "seguranca-publica", "transporte-mobilidade", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-camara-de-cabo-frio-debate-castracao-animal-transporte-em-tamoios-e-seguranca-viaria.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A sessão desta quinta-feira (14) na Câmara Municipal de Cabo Frio foi marcada por debates sobre proteção animal, mobilidade urbana em Tamoios e segurança viária no segundo distrito. Os vereadores também realizaram a eleição para a nova vice-presidência da Casa Legislativa.
 

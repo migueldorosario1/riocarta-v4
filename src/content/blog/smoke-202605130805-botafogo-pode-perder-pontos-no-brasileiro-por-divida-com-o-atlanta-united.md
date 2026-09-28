@@ -5,6 +5,7 @@ pubDate: "2026-05-13T11:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "futebol", "divida", "brasileirao", "rio-capital-zona-sul-e-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-botafogo-pode-perder-pontos-no-brasileiro-por-divida-com-o-atlanta-united.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Botafogo pode perder pontos no Brasileiro por dívida com o Atlanta United

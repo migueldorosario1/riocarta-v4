@@ -5,6 +5,7 @@ pubDate: "2026-05-22T15:24:24Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-pedras", "zona-oeste", "comunicacao-comunitaria", "rio-capital-zona-oeste", "favelas-comunidades", "regiao-metropolitana", "rocinha", "tijuca", "mare", "favela", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221523-comunicacao-e-potencia-o-impacto-da-agencia-lume-em-rio-das-pedras.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Assim como o querido Voz das Comunidades, o Rio de Janeiro conta com outras vitais iniciativas de jornalismo de impacto comunitário. O Fala Roça atua na Rocinha, e o Maré de Notícias ecoa a voz do Conjunto de Favelas da Maré.
 

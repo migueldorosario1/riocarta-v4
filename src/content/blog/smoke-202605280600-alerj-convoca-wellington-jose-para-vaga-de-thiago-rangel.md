@@ -5,6 +5,7 @@ pubDate: "2026-05-28T06:01:38Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "wellington-jose", "thiago-rangel", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "zona-norte", "colegio", "ricardo-de-albuquerque", "niteroi", "sao-goncalo", "itaborai", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605280600-alerj-convoca-wellington-jose-para-vaga-de-thiago-rangel.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A convocação foi divulgada em Diário Oficial nesta sexta-feira (22)
 

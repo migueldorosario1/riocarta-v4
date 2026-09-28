@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2196_image_processing20221004-835-1uosybz.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sigilos de Cláudio Castro quebrados em investigação da PF'
 pubDate: 2023-12-20 15:34:29

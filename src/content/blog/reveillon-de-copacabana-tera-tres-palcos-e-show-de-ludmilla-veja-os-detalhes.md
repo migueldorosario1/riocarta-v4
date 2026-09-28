@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1877_1666802963sem-titulo-2.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Réveillon de Copacabana terá três palcos e show de Ludmilla; veja os detalhes'
 pubDate: 2023-11-09 13:00:00

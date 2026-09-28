@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:22Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "ressaca", "marinha", "araruama", "arraial-do-cabo", "armacao-dos-buzios", "cabo-frio", "iguaba-grande", "sao-pedro-da-aldeia", "campos-dos-goytacazes", "norte-fluminense", "alerta-meteorologico", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-marinha-alerta-para-ressaca-com-ondas-de-ate-3-metros-no-litoral-da-regiao-dos-lagos.webp"
+hero_credit: "MongeNajera / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A Marinha do Brasil emitiu um alerta de ressaca para o litoral do estado do Rio de Janeiro, incluindo cidades da Região dos Lagos, devido à passagem de uma frente fria que pode provocar ondas de até 3 metros de altura até o meio-dia de quarta-feira (13).

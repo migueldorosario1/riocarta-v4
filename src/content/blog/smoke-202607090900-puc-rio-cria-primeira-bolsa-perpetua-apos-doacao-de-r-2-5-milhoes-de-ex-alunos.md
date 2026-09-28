@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:01:28Z"
 draft: false
 tags: ["rio-de-janeiro", "gavea", "puc-rio", "educacao", "doacao", "rio-capital-zona-sul-grande-tijuca", "capital-porto", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-puc-rio-cria-primeira-bolsa-perpetua-apos-doacao-de-r-2-5-milhoes-de-ex-alunos.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A PUC-Rio oficializou nesta quinta-feira (2/7) a criação da primeira bolsa perpétua da história da universidade, a partir de uma doação de R$ 2,5 milhões feita pelo casal de ex-alunos Belkiss Ferraz de Castro e Carlos Infante de Castro. O valor será destinado ao Fundo Patrimonial da instituição e permitirá financiar, de forma contínua, estudantes de baixa renda em cursos das áreas de Ciência, Tecnologia, Engenharia e Matemática (STEM).
 

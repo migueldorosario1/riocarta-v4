@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:25:57Z"
 draft: true
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "norte-fluminense", "saude", "sus", "norte-noroeste-fluminense", "politica-rj", "anil", "campos", "barra-mansa", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-indio-da-costa-leva-a-campos-turne-nacional-de-livro-sobre-o-sus.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

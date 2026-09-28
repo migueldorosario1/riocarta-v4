@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6347_images-2025-01-07T151412.418.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Crescimento econômico do Brasil em 2024 superou expectativas, diz Haddad'
 pubDate: 2025-01-07 15:17:22

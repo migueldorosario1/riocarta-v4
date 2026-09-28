@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "gastos-publicos", "auditoria", "sul-fluminense", "regiao-metropolitana", "colegio", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-comissao-da-alerj-vai-auditar-despesas-dos-tres-poderes-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Estado do Rio – A tensão entre a Assembleia Legislativa do Estado do Rio de Janeiro e o governador em exercício do Rio, Ricardo Couto, ganhou um novo capítulo nesta terça-feira (12), com a criação de uma Comissão Especial para Contenção de Gastos Públicos. A medida foi anunciada pelo presidente da Casa, Douglas Ruas, durante pronunciamento no plenário.

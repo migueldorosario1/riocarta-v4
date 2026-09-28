@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:54Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "servicos-assistidos-por-animais", "regulamentacao", "politica-rj", "regiao-metropolitana", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131605-servicos-assistidos-por-animais-ganham-regulamentacao-no-rj.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O uso de animais em atividades terapêuticas, educacionais e de apoio psicossocial poderá passar a seguir regras específicas no Estado do Rio de Janeiro. A Assembleia Legislativa do Rio (Alerj) aprovou em segunda discussão, nesta quarta-feira (13), o Projeto de Lei 4.

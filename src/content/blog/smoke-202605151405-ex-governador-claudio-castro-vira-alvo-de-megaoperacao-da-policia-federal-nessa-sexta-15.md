@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:03Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "policia-federal", "operacao-sem-refino", "barra-da-tijuca", "politica-rj", "macae-norte-fluminense", "norte-noroeste-fluminense", "macae", "tijuca", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151405-ex-governador-claudio-castro-vira-alvo-de-megaoperacao-da-policia-federal-nessa-sexta-15.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O ex-governador do Rio, Cláudio Castro (PL), virou alvo da Polícia Federal (PF) na manhã dessa sexta-feira, 15, em uma operação que cumpre 17 mandados de busca e apreensão contra ele e o empresário Ricardo Magro, dona da refinaria Refit.

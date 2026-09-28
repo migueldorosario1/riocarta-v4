@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3704_20240310150328_56f3a6cf-a3c1-42eb-90b7-e73c07c169b2.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pernambucana consegue primeiro registro de intersexo do Brasil'
 pubDate: 2024-03-11 09:05:50

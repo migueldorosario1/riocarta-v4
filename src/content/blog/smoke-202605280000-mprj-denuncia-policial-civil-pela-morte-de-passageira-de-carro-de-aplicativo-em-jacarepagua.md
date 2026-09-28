@@ -5,6 +5,7 @@ pubDate: "2026-05-28T00:00:19Z"
 draft: false
 tags: ["rio-de-janeiro", "jacarepagua", "zona-sul", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "jacare", "pechincha", "sao-goncalo", "itaborai", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605280000-mprj-denuncia-policial-civil-pela-morte-de-passageira-de-carro-de-aplicativo-em-jacarepagua.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Frede Uilson Souza de Jesus atirou em direção a um carro de aplicativo após discussão de trânsito
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T22:24:35Z"
 draft: true
 tags: ["rio-de-janeiro", "rocinha", "cultura-carnaval", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-companhia-de-danca-da-rocinha-luta-contra-o-tempo-para-representar-o-brasil-na-europa-saiba-como.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A distância entre as vielas da Rocinha e os palcos de prestígio da Itália é de quase 10 mil quilômetros, mas para as bailarinas da Cia Livre de Dança, esse caminho começou a ser trilhado muito antes do embarque. Selecionada para participar do Prêmio MAB, em julho de 2026, a companhia vive hoje o auge do reconhecimento artístico e, ao mesmo tempo, o reflexo do abandono estrutural que atinge projetos culturais em áreas de favela.
 

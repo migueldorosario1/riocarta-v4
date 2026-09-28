@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:00:16Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "thiago-rangel", "wellington-jose", "ricardo-de-albuquerque", "zona-norte", "politica-rj", "regiao-metropolitana", "seguranca-publica", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-alerj-convoca-wellington-jose-para-vaga-de-thiago-rangel-apos-decisao-do-stf.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Assembleia Legislativa do Rio de Janeiro (Alerj) convocou oficialmente Wellington José (União Brasil) para assumir a vaga do deputado estadual Thiago Rangel (Avante), afastado do cargo e preso desde o início do mês durante a quarta fase da Operação Unha e Carne, da Polícia Federal.
 

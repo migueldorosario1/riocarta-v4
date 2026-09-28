@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2173_governo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Calendário de Pagamentos de Servidores do Rio para 2024 Inclui Datas do 13º Salário'
 pubDate: 2023-12-18 18:00:00

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "quissama", "norte-noroeste-fluminense", "agroindustria", "avicultura", "producao-de-ovos", "agricultura-familiar", "prefeitura-de-quissama", "macae-norte-fluminense", "macae", "norte-fluminense", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-quissama-avalia-projeto-para-fortalecer-cadeia-produtiva-de-ovos-no-municipio.jpg"
+hero_credit: "USDAgov / Wikimedia Commons (Public domain)"
 categoria_macro: politica
 ---
 O poder público de Quissamã esteve reunido com avicultores do município na última terça-feira (12). Na pauta, as partes discutiram a possibilidade de implantação de uma agroindústria voltada para a produção de ovos na cidade.

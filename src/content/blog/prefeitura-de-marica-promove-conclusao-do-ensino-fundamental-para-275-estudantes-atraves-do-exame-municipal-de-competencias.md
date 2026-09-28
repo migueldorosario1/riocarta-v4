@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7531_image-17.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá promove conclusão do ensino fundamental para 275 estudantes através do Exame Municipal de Competências'
 pubDate: 2025-12-04 14:03:46

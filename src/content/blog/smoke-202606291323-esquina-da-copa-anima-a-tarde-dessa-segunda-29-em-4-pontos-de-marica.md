@@ -5,6 +5,7 @@ pubDate: "2026-06-29T13:24:34Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "copa-do-mundo", "evento", "regiao-metropolitana", "macae-norte-fluminense", "mare", "ramos", "norte-fluminense", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-esquina-da-copa-anima-a-tarde-dessa-segunda-29-em-4-pontos-de-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

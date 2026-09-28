@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3510_imagem.jpg-6.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Malafaia ataca a imprensa, diz que tem grana pra financiar atos golpistas e implora para ser preso'
 pubDate: 2024-02-27 09:28:09

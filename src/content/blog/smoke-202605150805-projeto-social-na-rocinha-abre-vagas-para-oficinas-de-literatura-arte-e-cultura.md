@@ -5,6 +5,7 @@ pubDate: "2026-05-15T11:05:40Z"
 draft: true
 tags: ["rio-de-janeiro", "rocinha", "zona-sul", "projeto-social", "cultura", "educacao", "infancia", "rio-favelas-e-comunidades", "capital", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150805-projeto-social-na-rocinha-abre-vagas-para-oficinas-de-literatura-arte-e-cultura.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Cerca de 100 crianças e adolescentes da Rocinha, na Zona Sul do Rio, participam há um ano do projeto “Cultura para Convivência e Fortalecimento de Vínculos”, iniciativa da Casa Maria de Nazaré que utiliza literatura, arte e atividades culturais como ferramentas de desenvolvimento social e educacional. Agora, o projeto abriu 20 novas vagas para o segundo semestre.

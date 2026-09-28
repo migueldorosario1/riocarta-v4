@@ -5,6 +5,7 @@ pubDate: "2026-05-15T11:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "vestibular-cederj", "ensino-superior-gratuito", "fundacao-cecierj", "secretaria-de-estado-de-ciencia-tecnologia-e-inovacao", "politica-rj", "capital", "sul-fluminense-costa-verde", "paraty", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150805-ultima-semana-de-inscricoes-para-o-vestibular-cederj-7-505-vagas-para-as-universidades-publicas.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Fundação Cecierj, vinculada à Secretaria de Estado de Ciência, Tecnologia e Inovação, entra na última semana de inscrições para o Vestibular Cederj 2026. 2, que podem ser feitas até 17 de maio.

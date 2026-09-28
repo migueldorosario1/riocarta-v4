@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7647_darcy-brizola-400x274-1.jpg"
+hero_credit: "Wilfredor / Wikimedia Commons (CC0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'O Rio de Janeiro e a batalha de 2026'
 pubDate: 2026-02-06 12:04:08

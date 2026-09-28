@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:01:10Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-joao-de-meriti", "linha-vermelha", "assalto-onibus", "seguranca-publica", "baixada-fluminense", "capital", "regiao-metropolitana", "joa", "mage", "arraial-do-cabo", "regiao-dos-lagos", "campos", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-passageiro-tem-cinzas-da-mae-roubadas-durante-assalto-a-onibus-na-linha-vermelha.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Passageiros de um ônibus de turismo foram assaltados na Linha Vermelha, na altura de São João de Meriti, no sábado (09/05). Três criminosos armados invadiram o coletivo armados com pistolas e fuzis.
 

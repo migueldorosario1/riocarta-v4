@@ -5,6 +5,7 @@ pubDate: "2026-05-31T14:00:13Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "seguranca-publica", "politica-rj", "regiao-metropolitana", "zona-oeste", "senador-camara", "comunidade", "baixada", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605311400-pm-encontra-fuzis-escondidos-em-bunker-na-baixada-fluminense.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Militar apreendeu dois fuzis e grande quantidade de drogas durante uma operação realizada na Comunidade do Lixão, em Duque de Caxias, na Baixada Fluminense, na manhã desta segunda-feira (18).
 

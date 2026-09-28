@@ -5,6 +5,7 @@ pubDate: "2026-06-04T18:03:36Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "sapucai", "carnaval", "escolas-de-samba", "cultura-carnaval", "seguranca-publica", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606041800-rio-carnaval-lanca-album-inedito-com-os-esquentas-das-escolas-de-samba-da-sapucai.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio Carnaval leva para as plataformas digitais um dos momentos mais emblemáticos da Sapucaí. No próximo dia 5 de junho, será lançado o álbum Esquentas Rio Carnaval 2026 (Ao Vivo), projeto inédito que reúne os sambas interpretados pelas escolas de samba nos minutos que antecedem seus desfiles oficiais.
 

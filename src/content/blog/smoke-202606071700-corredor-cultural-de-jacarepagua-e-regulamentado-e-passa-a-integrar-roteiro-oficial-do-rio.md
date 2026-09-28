@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:04:07Z"
 draft: true
 tags: ["rio-de-janeiro", "jacarepagua", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "jacare", "taquara", "problemas-estruturais", "saude", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-corredor-cultural-de-jacarepagua-e-regulamentado-e-passa-a-integrar-roteiro-oficial-do-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio regulamentou o Corredor Cultural de Jacarepaguá, na Zona Sudoeste, e oficializou a inclusão da região no roteiro turístico da cidade. O decreto, assinado no domingo (17) e publicado no Diário Oficial desta segunda-feira (18), estabelece um circuito de preservação histórica e incentivo ao turismo cultural ao longo da Estrada Rodrigues Caldas, entre o Largo da Taquara e a Colônia Juliano Moreira.
 

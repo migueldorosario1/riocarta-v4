@@ -5,6 +5,7 @@ pubDate: "2026-05-21T16:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "fonseca", "zona-norte", "operacao-asfixia", "regiao-metropolitana", "niteroi-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211623-ferro-velho-e-interditado-na-zona-norte-de-niteroi.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Agentes da Operação Asfixia, organizada pela Prefeitura de Niterói, na Região Metropolitana do Rio, interditaram, nesta quarta-feira (20), um ferro-velho clandestino, localizado na Zona Norte da cidade. No local, os fiscais encontraram problemas administrativos e sanitários, que funcionavam de forma irregular.
 

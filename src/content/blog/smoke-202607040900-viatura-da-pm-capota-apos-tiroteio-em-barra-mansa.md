@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:00:09Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "norte-noroeste-fluminense", "sul-fluminense", "regiao-metropolitana", "comunidade", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-viatura-da-pm-capota-apos-tiroteio-em-barra-mansa.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Barra Mansa – Uma viatura da Polícia Militar do Estado do Rio de Janeiro capotou na manhã desta sexta-feira (15) após um confronto armado no bairro Getúlio Vargas, em Barra Mansa.
 

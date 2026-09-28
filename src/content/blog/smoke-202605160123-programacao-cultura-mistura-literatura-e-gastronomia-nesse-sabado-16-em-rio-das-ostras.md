@@ -5,6 +5,7 @@ pubDate: "2026-05-16T01:24:43Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "sul-fluminense-costa-verde", "macae-norte-fluminense", "regiao-dos-lagos", "norte-fluminense", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160123-programacao-cultura-mistura-literatura-e-gastronomia-nesse-sabado-16-em-rio-das-ostras.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A Praça Jaime Vilar, no Jardim Mariléa, em Rio das Ostras, recebe, nesse sábado, 16, a 3ª edição do Poesia no Acarajé – Edição Especial Raízes Sustentáveis, que promete misturar literatura e gastronomia com o sabor arretado do acarajé.

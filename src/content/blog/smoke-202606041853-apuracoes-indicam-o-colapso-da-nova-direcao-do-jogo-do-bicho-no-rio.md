@@ -5,6 +5,7 @@ pubDate: "2026-06-04T18:54:25Z"
 draft: false
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "jogo-do-bicho", "rio-capital-zona-oeste", "estado", "padre-miguel", "seguranca-publica", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606041853-apuracoes-indicam-o-colapso-da-nova-direcao-do-jogo-do-bicho-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rogério Andrade era considerado pelos investigadores um contraventor que administrava seus empreendimentos com pulso firme até ser detido, em outubro de 2024. Vinicius Drumond — herdeiro de Luizinho Drumond, falecido banqueiro da ilegalidade — é investigado em um procedimento da Delegacia de Homicídios da Capital (DHC) que o coloca como mandante do assassinato de um ex-supervisor de pontos de aposta.
 

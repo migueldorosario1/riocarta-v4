@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "leblon", "zona-sul", "ressaca", "infraestrutura", "prefeitura-do-rio", "rio-capital-zona-sul-e-grande-tijuca", "serrana", "regiao-metropolitana", "lagoa", "petropolis", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-ressaca-danifica-pier-do-mirante-do-leblon-area-e-interditada-para-reparo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Ressaca danifica píer do Mirante do Leblon; área é interditada para reparo

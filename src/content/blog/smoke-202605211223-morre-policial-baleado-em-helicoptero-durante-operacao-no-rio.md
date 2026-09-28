@@ -5,6 +5,7 @@ pubDate: "2026-05-21T12:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "seguranca-publica", "politica-rj", "regiao-metropolitana", "copacabana", "leblon", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211223-morre-policial-baleado-em-helicoptero-durante-operacao-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O policial civil Felipe Marques Monteiro, copiloto do helicóptero da Polícia Civil do Rio de Janeiro atingido durante uma operação na Zona Oeste da capital fluminense, morreu neste domingo (17). A informação foi confirmada por familiares nas redes sociais.
 

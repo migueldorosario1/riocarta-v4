@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:08:10Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "carnaval-2027", "uniao-de-marica", "cultura-carnaval", "niteroi-metropolitana", "regiao-metropolitana", "vila-isabel", "nilopolis", "niteroi", "transporte-mobilidade", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-o-ronco-da-cuica-carnaval-2027.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 UNIÃO DE MARICÁ ESTREIA EM 2027 NA ELITE DO CARNAVAL CARIOCA
 

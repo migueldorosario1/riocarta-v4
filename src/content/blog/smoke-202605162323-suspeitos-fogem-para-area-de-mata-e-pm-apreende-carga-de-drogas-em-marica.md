@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:24:04Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "niteroi", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-suspeitos-fogem-para-area-de-mata-e-pm-apreende-carga-de-drogas-em-marica.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma grande quantidade de drogas foi apreendida por policiais militares na manhã desta sexta-feira (15) no bairro Bosque Fundo, em Inoã, distrito de Maricá. 📲 Aperte aqui e siga o canal do Maricá Info no WhatsApp ✔
 

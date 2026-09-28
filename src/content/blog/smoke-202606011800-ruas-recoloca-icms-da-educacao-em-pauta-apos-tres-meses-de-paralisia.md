@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:01:56Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "educacao", "politica-rj", "macae-norte-fluminense", "regiao-metropolitana", "sao-goncalo", "leme", "joa", "nova-iguacu", "belford-roxo", "sao-joao-de-meriti", "queimados", "japeri"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-ruas-recoloca-icms-da-educacao-em-pauta-apos-tres-meses-de-paralisia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Presidente da Alerj tenta destravar projeto que redistribui recursos aos municípios com base em desempenho escolar; atraso já retirou mais de R$ 100 milhões da educação fluminense
 

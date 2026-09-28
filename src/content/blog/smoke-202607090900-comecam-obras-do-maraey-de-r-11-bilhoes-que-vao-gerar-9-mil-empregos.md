@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:03:57Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "obras", "turismo", "capital-porto", "acari", "comunidade", "complexo", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-comecam-obras-do-maraey-de-r-11-bilhoes-que-vao-gerar-9-mil-empregos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O megacomplexo turístico Maraey, avaliado em R$ 11 bilhões, inicia oficialmente suas obras em Maricá, na Região Metropolitana do Rio de Janeiro. A decisão da 2ª Vara Cível de Maricá rejeitou o pedido do Ministério Público para suspender o projeto, reconhecendo a regularidade das licenças ambientais emitidas pelo Instituto Estadual do Ambiente (Inea) ao longo de mais de 15 anos.
 

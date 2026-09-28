@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:25:15Z"
 draft: true
 tags: ["rio-de-janeiro", "avenida-niemeyer", "rocinha", "sao-conrado", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "botafogo", "tijuca", "ramos", "barra-da-tijuca", "joa", "comunidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-corpo-de-professor-de-surfe-desaparecido-e-identificado-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

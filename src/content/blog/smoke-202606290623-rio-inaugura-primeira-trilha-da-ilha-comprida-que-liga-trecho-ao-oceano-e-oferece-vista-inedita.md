@@ -5,6 +5,7 @@ pubDate: "2026-06-29T06:23:17Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "ilha-comprida", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "copacabana", "tijuca", "urca", "barra-de-guaratiba", "guaratiba", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290623-rio-inaugura-primeira-trilha-da-ilha-comprida-que-liga-trecho-ao-oceano-e-oferece-vista-inedita.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

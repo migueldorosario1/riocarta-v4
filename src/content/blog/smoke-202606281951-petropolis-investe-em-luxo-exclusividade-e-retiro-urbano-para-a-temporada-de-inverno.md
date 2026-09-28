@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:54:49Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "turismo", "inverno", "bauernfest", "serra-fluminense", "regiao-serrana", "estado", "transporte-mobilidade", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281951-petropolis-investe-em-luxo-exclusividade-e-retiro-urbano-para-a-temporada-de-inverno.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A estação mais fria chegou a Petrópolis impulsionando a alta temporada e atraindo cada vez mais turistas e aportes financeiros à Serra Fluminense. Levantamentos do Petrópolis Convention & Visitors Bureau (PC&VB) e da Câmara de Dirigentes Lojistas (CDL) estimam que o período de inverno movimente mais de R$ 180 milhões na economia da região, com ocupação média de 85% nos meios de hospedagem durante os fins de semana.
 

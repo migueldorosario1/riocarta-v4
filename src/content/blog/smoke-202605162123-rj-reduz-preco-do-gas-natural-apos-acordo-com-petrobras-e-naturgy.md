@@ -5,6 +5,7 @@ pubDate: "2026-05-16T21:24:16Z"
 draft: true
 tags: ["rio-de-janeiro", "preco-gas", "petrobras", "naturgy", "economia-local", "serrana", "regiao-metropolitana", "petropolis", "problemas-estruturais", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-rj-reduz-preco-do-gas-natural-apos-acordo-com-petrobras-e-naturgy.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 16/maio 15:17
 

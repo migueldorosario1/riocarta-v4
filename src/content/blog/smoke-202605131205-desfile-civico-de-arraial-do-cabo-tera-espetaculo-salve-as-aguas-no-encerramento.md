@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "cultura", "desfile-civico", "preservacao-ambiental", "leme", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-desfile-civico-de-arraial-do-cabo-tera-espetaculo-salve-as-aguas-no-encerramento.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O Desfile Cívico em comemoração aos 41 anos de emancipação de Arraial do Cabo será realizado nesta quarta-feira (13), a partir das 17h, na Avenida Leonel de Moura Brizola. Neste ano, o evento terá como tema a Cultura Oceânica e contará com o espetáculo “Salve as Águas”, promovido pela Secretaria de Cultura e Economia Criativa.

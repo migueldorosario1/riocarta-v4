@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:02:43Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "douglas-ruas", "ricardo-couto", "governo-rj", "leme"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-douglas-ruas-faz-aceno-aos-cortes-de-ricardo-couto-no-governo-do-rio-todas-as-medidas-para-enxug.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Em meio à tensão provocada pela série de exonerações e outras medidas de contenção promovidas pela gestão interina de Ricardo Couto no governo do Rio, o presidente da Alerj, Douglas Ruas (PL), adotou um tom até então improvável de alinhamento com as ações implementadas pelo governador em exercício.
 

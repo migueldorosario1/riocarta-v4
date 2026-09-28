@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:27Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "ze-garoto", "furto-de-cabos", "defensoria-publica", "seguranca-publica", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-furto-de-cabos-paralisa-atendimento-da-defensoria-publica-por-varios-dias-em-sao-goncalo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Quem precisou dos serviços da Defensoria Pública do Estado do Rio de Janeiro, no bairro Zé Garoto, em São Gonçalo, encontrou as portas abertas, mas sem atendimento nesta segunda (6) e terça-feira (7). A situação, no entanto, ainda deve durar por vários dias.
 

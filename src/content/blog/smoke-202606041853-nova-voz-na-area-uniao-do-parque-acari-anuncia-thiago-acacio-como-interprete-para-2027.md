@@ -5,6 +5,7 @@ pubDate: "2026-06-04T18:56:30Z"
 draft: false
 tags: ["rio-de-janeiro", "acari", "uniao-do-parque-acari", "carnaval-2027", "cultura", "rio-capital-zona-norte", "cultura-carnaval", "regiao-metropolitana", "zona-sul", "jacare", "jacarezinho", "pilares", "comunidade", "complexo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606041853-nova-voz-na-area-uniao-do-parque-acari-anuncia-thiago-acacio-como-interprete-para-2027.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A União do Parque Acari segue reforçando seu time para o Carnaval 2027 e anunciou a chegada de Thiago Acácio como novo intérprete oficial da agremiação. O cantor dividirá o comando do carro de som com Tainara Martins, que teve sua permanência confirmada pela escola por meio das redes sociais.
 

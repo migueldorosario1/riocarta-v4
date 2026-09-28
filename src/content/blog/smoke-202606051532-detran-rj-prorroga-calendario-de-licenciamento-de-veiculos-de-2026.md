@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:36:45Z"
 draft: false
 tags: ["rio-de-janeiro", "detran-rj", "licenciamento", "calendario", "veiculos", "transporte-mobilidade", "norte-noroeste-fluminense", "regiao-metropolitana", "noroeste-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-detran-rj-prorroga-calendario-de-licenciamento-de-veiculos-de-2026.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Detran RJ prorrogou os prazos para o licenciamento anual de veículos em 2026. Para carros com finais de placa 0, 1 e 2, o prazo de licenciamento vai agora até 31 de julho.
 

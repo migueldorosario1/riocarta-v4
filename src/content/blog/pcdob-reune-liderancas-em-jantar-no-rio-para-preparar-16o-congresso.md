@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7086_IMG-20250828-WA0172-e1756430749606.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'PCdoB reúne lideranças em jantar no Rio para preparar 16º Congresso'
 pubDate: 2025-08-28 22:30:21

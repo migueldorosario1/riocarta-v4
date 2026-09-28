@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:01:28Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "sana", "reggae", "festival", "cultura", "norte-noroeste-fluminense", "macae-norte-fluminense", "gloria", "norte-fluminense", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-sana-reggae-festival-celebra-15-anos-com-edicao-historica-em-macae.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O distrito de Sana, em Macaé, será palco de mais uma edição do Sana Reggae Festival, que neste ano comemora 15 anos de trajetória. No próximo dia 23 de maio, a localidade se transforma na já tradicional Cidade do Reggae, atraindo público de diversas regiões do país.
 

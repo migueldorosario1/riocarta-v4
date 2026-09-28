@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "financiamento", "filme", "jair-bolsonaro", "daniel-vorcaro", "intercept-brasil", "seguranca-publica", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-flavio-bolsonaro-teria-negociado-r-134-milhoes-com-daniel-vorcaro-para-financiar-filme-sobre-jai.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Uma reportagem publicada pelo Intercept Brasil mostra mensagens, áudios e documentos que indicariam uma negociação conduzida pelo senador Flávio Bolsonaro com o banqueiro Daniel Vorcaro para financiar a produção do filme Dark horse, cinebiografia do ex-presidente Jair Bolsonaro. Segundo a publicação, o acordo previa aportes de 24 milhões de dólares, o equivalente a cerca de R$ 134 milhões na cotação da época.

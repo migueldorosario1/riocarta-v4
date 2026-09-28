@@ -5,6 +5,7 @@ pubDate: "2026-05-20T17:23:23Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-sul", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "jacare", "jacarepagua", "comunidade", "niteroi", "sao-goncalo", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201723-desaparecido-ha-mais-de-um-mes-juiz-federal-e-encontrado-morto.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Corpo foi localizado nos arredores da Vista Chinesa, zona sul do Rio
 

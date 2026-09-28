@@ -5,6 +5,7 @@ pubDate: "2026-05-16T17:24:18Z"
 draft: false
 tags: ["rio-de-janeiro", "energia", "economia", "economia-local", "capital", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161723-preco-do-gas-natural-vai-cair-para-motoristas-casas-e-industrias-no-estado-do-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O preço do Gás Natural Veicular, o GNV, terá redução nos postos de combustíveis do Estado do Rio de Janeiro. A medida deve beneficiar cerca de 1,5 milhão de motoristas fluminenses que usam carros a gás, incluindo taxistas, motoristas de aplicativo, frotistas e consumidores em geral.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:04:23Z"
 draft: true
 tags: ["rio-de-janeiro", "cultura", "museus", "cultura-carnaval", "capital", "regiao-metropolitana", "gamboa", "gavea", "mare", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-confira-museus-do-rio-com-programacao-gratuita-na-semana-nacional-de-museus.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Museus e centros culturais do Rio de Janeiro terão uma programação especial gratuita entre os dias 18 e 24 de maio durante a 24ª Semana Nacional de Museus. A iniciativa, promovida pelo Instituto Brasileiro de Museus (Ibram) em celebração ao Dia Internacional dos Museus, vai reunir mais de 200 atividades na capital fluminense, incluindo exposições, oficinas, debates, visitas mediadas, sessões de cinema e experiências interativas em diferentes regiões da cidade.
 

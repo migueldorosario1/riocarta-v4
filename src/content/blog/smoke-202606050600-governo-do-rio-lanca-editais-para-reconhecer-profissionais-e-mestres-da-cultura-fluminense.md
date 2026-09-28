@@ -5,6 +5,7 @@ pubDate: "2026-06-05T06:01:57Z"
 draft: false
 tags: ["rio-de-janeiro", "cultura", "economia-criativa", "cultura-carnaval", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606050600-governo-do-rio-lanca-editais-para-reconhecer-profissionais-e-mestres-da-cultura-fluminense.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio, por meio da Secretaria de Estado de Cultura e Economia Criativa (SececRJ), lançou na quinta-feira (14/03) dois novos editais voltados ao reconhecimento de agentes fundamentais para a cultura fluminense: “Prêmio Por Trás da Cena” e “Mestras e Mestres da Cultura Popular”.
 

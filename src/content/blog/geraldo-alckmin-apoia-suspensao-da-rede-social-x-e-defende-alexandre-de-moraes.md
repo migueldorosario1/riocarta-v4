@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4996_imagem-5.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Geraldo Alckmin apoia suspensão da rede social X e defende Alexandre de Moraes'
 pubDate: 2024-09-02 18:24:28

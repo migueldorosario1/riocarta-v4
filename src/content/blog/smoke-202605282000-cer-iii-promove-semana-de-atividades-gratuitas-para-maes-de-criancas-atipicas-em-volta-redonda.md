@@ -5,6 +5,7 @@ pubDate: "2026-05-28T20:00:22Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "saude", "inclusao", "sul-fluminense", "sul-fluminense-costa-verde", "regiao-metropolitana", "niteroi", "ramos", "barra-mansa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605282000-cer-iii-promove-semana-de-atividades-gratuitas-para-maes-de-criancas-atipicas-em-volta-redonda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

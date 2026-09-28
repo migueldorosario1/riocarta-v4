@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:02:58Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "meio-ambiente", "rio-capital-zona-sul-grande-tijuca", "favelas-comunidades", "regiao-metropolitana", "leme", "favela", "comunidade", "seguranca-publica", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-world-environment-day-rally-in-rio-de-janeiro-demands-a-sustainable-future-with-thriving-forests-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 This article is part of a series created in partnership with the Behner Stiefel Center for Brazilian Studies at San Diego State University, to produce articles for the Digital Brazil Project on environmental justice in the favelas through RioOnWatch.
 

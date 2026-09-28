@@ -5,6 +5,7 @@ pubDate: "2026-05-20T07:23:19Z"
 draft: false
 tags: ["rio-de-janeiro", "contrabando", "saude", "seguranca-publica", "capital", "regiao-metropolitana", "galeao", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200723-contrabando-de-canetas-emagrecedoras-dispara-no-rio-e-desafia-fiscalizacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Caixas de isopor recheadas de gelo chegam aos vendedores com um conteúdo proibido: ampolas de tirzepatida e canetas emagrecedoras, medicamentos inicialmente voltados ao tratamento de diabetes tipo 2 e obesidade. Sem receita, fiscalização sanitária ou controle de origem, esses produtos percorrem mais de 1,5 mil quilômetros do Paraguai até o Rio de Janeiro.
 

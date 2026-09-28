@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:41Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "baixada-da-olaria", "itapuca", "regiao-da-grande-alegria", "sul-fluminense", "pm", "trafico-de-drogas", "adolescentes-apreendidos", "seguranca-publica-rj", "regiao-metropolitana", "olaria", "baixada", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-operacoes-da-pm-apreendem-adolescentes-e-drogas-em-bairros-de-resende.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 RESENDE

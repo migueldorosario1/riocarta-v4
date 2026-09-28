@@ -5,6 +5,7 @@ pubDate: "2026-06-29T16:26:55Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "buzios", "arraial-do-cabo", "regiao-metropolitana", "mage", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-sol-aparece-e-segunda-feira-29-sera-de-tempo-firme-na-regiao-dos-lagos-sem-previsao-de-chuva.webp"
+hero_credit: "PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

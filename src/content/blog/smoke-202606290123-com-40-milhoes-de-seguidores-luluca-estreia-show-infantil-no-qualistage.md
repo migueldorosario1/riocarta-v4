@@ -5,6 +5,7 @@ pubDate: "2026-06-29T01:23:24Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "cultura", "show-infantil", "qualistage", "rio-capital-barra-recreio-jacarepagua", "capital", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290123-com-40-milhoes-de-seguidores-luluca-estreia-show-infantil-no-qualistage.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

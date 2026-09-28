@@ -5,6 +5,7 @@ pubDate: "2026-06-29T12:27:26Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "tijuca", "vila-isabel", "barra-da-tijuca", "niteroi", "regiao-metropolitana", "rio-capital", "politica-rj", "estacio", "gavea", "campo-grande", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291223-restaurantes-bares-e-cinema-onde-assistir-o-jogo-do-brasil-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

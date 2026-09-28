@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:10Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "pureza", "cultura", "festa-popular", "norte-fluminense", "norte-noroeste-fluminense", "noroeste-fluminense", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-tradicional-festa-dos-purezenses-comeca-nesta-quinta-feira-com-quatro-dias-de-shows.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A tradicional Festa da Participação dos Purezenses chega à sua 52ª edição e começa nesta quinta-feira (09/07), reunindo moradores do distrito de Pureza, purezenses ausentes e visitantes em quatro dias de celebração. O evento é promovido pelo Ypiranga Futebol Clube, com apoio da Prefeitura de São Fidélis.
 

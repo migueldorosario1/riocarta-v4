@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "galeao", "policia-civil", "receita-federal", "apreensao", "camisas-falsificadas", "propriedade-intelectual", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130605-policia-civil-e-receita-apreendem-mais-de-2-mil-camisas-falsificadas-de-times-de-futebol-no-gale.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Uma operação da Polícia Civil do Estado do Rio de Janeiro em conjunto com a Receita Federal resultou na apreensão de mais de 2 mil camisas falsificadas no Aeroporto Internacional do Rio de Janeiro, na Ilha do Governador.

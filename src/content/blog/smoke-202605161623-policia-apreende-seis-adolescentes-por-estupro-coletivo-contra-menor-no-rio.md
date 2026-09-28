@@ -5,6 +5,7 @@ pubDate: "2026-05-16T16:23:20Z"
 draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "santissimo", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161623-policia-apreende-seis-adolescentes-por-estupro-coletivo-contra-menor-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Seis adolescentes foram apreendidos nesta sexta-feira (15) por envolvimento em um estupro coletivo contra uma menor de idade em Campo Grande, na Zona Oeste do Rio. A ação foi realizada por agentes da Delegacia Especial de Atendimento à Mulher (Deam) de Campo Grande, com apoio da Delegacia de Proteção à Criança e ao Adolescente (DPCA).

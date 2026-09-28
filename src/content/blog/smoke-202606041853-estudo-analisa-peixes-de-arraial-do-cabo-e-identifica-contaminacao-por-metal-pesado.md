@@ -5,6 +5,7 @@ pubDate: "2026-06-04T18:55:33Z"
 draft: false
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "contaminacao-mercurio", "pesca", "saude", "macae-norte-fluminense", "regiao-metropolitana", "leme", "cabo-frio", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606041853-estudo-analisa-peixes-de-arraial-do-cabo-e-identifica-contaminacao-por-metal-pesado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Pesquisadores defendem a ampliação da vigilância sobre a presença de mercúrio em espécies marinhas comercializadas no estado do Rio de Janeiro após a divulgação de um estudo que identificou concentrações elevadas do metal em exemplares de bonito-pintado (Euthynnus alletteratus). A pesquisa também destaca que o fenômeno da ressurgência, comum na costa de Arraial do Cabo, pode contribuir para a circulação do contaminante no ambiente marinho.
 

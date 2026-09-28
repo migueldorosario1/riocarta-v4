@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "saude-publica", "ubs", "atencao-basica", "macae-norte-fluminense", "caju", "botafogo", "joa", "norte-fluminense", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-cabo-frio-avanca-na-saude-publica-com-reestruturacao-de-unidades-e-novos-servicos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A reestruturação da rede municipal de saúde em Cabo Frio avança com a entrega das primeiras unidades básicas reformadas, dentro de um pacote que prevê a modernização de 30 equipamentos. Nesta etapa inicial, dez unidades passam por melhorias, incluindo Estratégias de Saúde da Família e UBS, com novas entregas previstas para bairros como Parque Burle, Guarani, Jardim Peró, Peró, Cajueiro, Maria Joaquina, Botafogo, além das unidades do PAM Santo Antônio e Unamar.

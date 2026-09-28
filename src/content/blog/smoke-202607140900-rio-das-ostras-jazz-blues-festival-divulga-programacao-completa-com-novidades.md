@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:06:07Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "festival", "jazz", "blues", "cultura", "macae-norte-fluminense", "lagoa", "norte-fluminense", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-rio-das-ostras-jazz-blues-festival-divulga-programacao-completa-com-novidades.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Agora é oficial! O Rio das Ostras Jazz & Blues Festival 2026 divulgou sua programação completa nessa semana, com todos os shows que acontecem no feriado de Corpus Christi, entre os dias 4 e 7 de junho, e às vésperas da abertura da Copa do Mundo.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:07:13Z"
 draft: false
 tags: ["rio-de-janeiro", "baixada-fluminense", "duque-de-caxias", "nova-iguacu", "itaguai", "educacao", "cursos-tecnicos", "regiao-metropolitana", "capital", "portuguesa", "baixada"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070900-firjan-senai-abre-480-vagas-gratuitas-em-cursos-tecnicos-na-baixada-fluminense.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Firjan SENAI está com inscrições abertas para 480 vagas gratuitas em cursos técnicos de nível médio na Baixada Fluminense. As oportunidades estão distribuídas pelas unidades de Duque de Caxias, Nova Iguaçu e Itaguaí, em áreas como Tecnologia da Informação, Logística, Gestão, Automação, Mecatrônica, Petroquímica e Energias Renováveis.
 

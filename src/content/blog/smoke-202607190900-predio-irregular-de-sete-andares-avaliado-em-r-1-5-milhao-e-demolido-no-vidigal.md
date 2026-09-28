@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:02:22Z"
 draft: true
 tags: ["rio-de-janeiro", "vidigal", "zona-sul", "demolicao", "construcao-irregular", "ordem-publica", "rio-capital-zona-sul-e-grande-tijuca", "capital", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-predio-irregular-de-sete-andares-avaliado-em-r-1-5-milhao-e-demolido-no-vidigal.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria Municipal de Ordem Pública (Seop) iniciou nesta quarta-feira (13) a demolição de uma construção irregular de sete pavimentos localizada na Rua Major Toja Martinez Filho, no Vidigal. O imóvel, um prédio comercial com cerca de 400 metros quadrados, foi erguido sem qualquer autorização da prefeitura e está avaliado em aproximadamente R$ 1,5 milhão, segundo estimativas da própria administração municipal.
 

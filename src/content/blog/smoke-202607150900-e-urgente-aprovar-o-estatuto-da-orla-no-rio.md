@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:01:13Z"
 draft: false
 tags: ["rio-de-janeiro", "orla-do-rio", "estatuto-da-orla", "prefeitura-do-rio", "legislacao-urbana", "politica-rj", "capital", "seguranca-publica", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-e-urgente-aprovar-o-estatuto-da-orla-no-rio.jpg"
+hero_credit: "MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons (Public domain)"
 ---
 A orla do Rio deixou de ser apenas cartão-postal, tornou-se, nas últimas temporadas, terreno fértil para quem transforma a informalidade em negócio criminoso. Comércio irregular, pontos de venda controlados por milícias, cobrança de taxas a trabalhadores e a exploração de serviços são sinais claros de que a ausência de regras únicas e fiscalização contínua abriu espaço para a criminalidade.
 

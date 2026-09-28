@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:48Z"
 draft: true
 tags: ["nova-iguacu", "baixada-fluminense", "saude", "intervencao", "hospital", "upa", "oss-ideas", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/intervencao-nas-unidades-de-saude-de-nova-iguacu-sob-gestao-de-oss-ideas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Prefeitura de Nova Iguaçu iniciou na sexta, 08/05, intervenção temporária em unidades de saúde administradas pela Organização Social IDEAS no Hospital Geral de Nova Iguaçu HGNI, no Hospital Iguassu Maternidade Mariana Bulhões e nas UPAs 24h Miguel Couto e Patrícia Marinho, para garantir continuidade dos atendimentos. A medida ocorre diante de agravamento operacional da organização, com atrasos salariais, dívidas com fornecedores e risco à continuidade da assistência.

@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:02:56Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "campo-grande", "jacarepagua", "macae", "policia-federal", "operacao-fortuito-4", "seguranca-publica", "politica-rj", "regiao-metropolitana", "tijuca", "jacare", "campos", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-pf-cumpre-mandados-no-rio-e-sp-contra-esquema-internacional-de-piramide-financeira.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Federal (PF) deflagrou na manhã desta quinta-feira (21) a Operação Fortuito 4, nova etapa de uma investigação que apura a atuação de um suposto esquema internacional de pirâmide financeira e outros crimes ligados ao sistema financeiro nacional.
 

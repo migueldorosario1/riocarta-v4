@@ -5,6 +5,7 @@ pubDate: "2026-05-21T00:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "mare", "rocinha", "penha", "favelas", "seguranca-publica", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "favela", "comunidade", "complexo", "alemao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210023-maioria-de-moradores-de-favelas-do-rio-rejeita-operacoes-policiais-aponta-pesquisa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma pesquisa inédita realizada por organizações da sociedade civil de favelas do Rio de Janeiro aponta que a maioria dos moradores do Complexo do Alemão, Complexo da Penha, Maré e Rocinha rejeita as operações policiais com confronto armado realizadas nesses territórios.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-04T18:55:36Z"
 draft: false
 tags: ["rio-de-janeiro", "lapa", "centro", "seguranca-publica", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "centro-do-rio", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606041853-policia-civil-fecha-deposito-do-trafico-na-lapa-e-apreende-mais-de-mil-porcoes-de-drogas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil desarticulou mais um ponto estratégico do tráfico de drogas na região da Lapa, no Centro do Rio de Janeiro. Durante uma operação realizada pela Divisão de Capturas e Polícia Interestadual (Polinter), agentes fecharam um imóvel utilizado como depósito de entorpecentes e prenderam dois homens, além de apreender um adolescente suspeito de envolvimento com a atividade criminosa.
 

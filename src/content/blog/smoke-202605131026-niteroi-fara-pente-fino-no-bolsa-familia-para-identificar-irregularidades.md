@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:27:10Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "bolsa-familia", "prefeitura", "rodrigo-neves", "assistencia-social", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-niteroi-fara-pente-fino-no-bolsa-familia-para-identificar-irregularidades.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Prefeitura de Niterói decidiu reforçar o ‘pente-fino’ no Bolsa Família e vai monitorar mais de perto as famílias que recebem o benefício na cidade. Apesar da medida, os beneficiários não correm risco automático de perder o auxílio, sofrer bloqueios ou punições.

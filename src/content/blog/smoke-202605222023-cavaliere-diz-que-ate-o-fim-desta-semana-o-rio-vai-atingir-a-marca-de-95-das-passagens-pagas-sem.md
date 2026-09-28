@@ -5,6 +5,7 @@ pubDate: "2026-05-22T20:23:12Z"
 draft: false
 tags: ["rio-de-janeiro", "prefeitura-do-rio", "transporte-publico", "transporte-mobilidade", "politica-rj", "leme", "bancarios"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605222023-cavaliere-diz-que-ate-o-fim-desta-semana-o-rio-vai-atingir-a-marca-de-95-das-passagens-pagas-sem.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O prefeito do Rio, Eduardo Cavaliere, afirmou que o sistema municipal de ônibus da capital deve alcançar até o fim desta semana a marca de 95% das passagens pagas sem uso de dinheiro em espécie. A declaração foi feita em publicação nas redes sociais ao apresentar um balanço da transição do modelo de pagamento no transporte público.
 

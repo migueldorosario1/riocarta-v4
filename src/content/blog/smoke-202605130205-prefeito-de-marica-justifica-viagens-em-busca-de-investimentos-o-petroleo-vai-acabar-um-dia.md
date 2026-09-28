@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:20Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "washington-quaqua", "petroleo", "investimentos", "economia-local", "baixada-fluminense", "macae-norte-fluminense", "regiao-metropolitana", "leme", "norte-fluminense", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-prefeito-de-marica-justifica-viagens-em-busca-de-investimentos-o-petroleo-vai-acabar-um-dia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O prefeito de Maricá, Washington Quaquá (PT), soltou o verbo contra alguns veículos de imprensa que criticaram sua ida aos Estados Unidos nessa semana, para a participação em um evento do jornal britânico Financial Times, em Nova York.

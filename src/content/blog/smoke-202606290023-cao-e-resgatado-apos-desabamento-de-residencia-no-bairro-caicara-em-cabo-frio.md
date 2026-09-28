@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:23:51Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "caicara", "desabamento", "resgate-animal", "regiao-metropolitana", "mage", "problemas-estruturais", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290023-cao-e-resgatado-apos-desabamento-de-residencia-no-bairro-caicara-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um cão foi resgatado após o desabamento de uma residência no bairro Caiçara, em Cabo Frio, neste domingo (28). O animal estava no interior do imóvel no momento do incidente.
 

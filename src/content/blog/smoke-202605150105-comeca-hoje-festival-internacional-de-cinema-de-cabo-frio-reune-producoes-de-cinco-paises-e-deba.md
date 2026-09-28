@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:05:36Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "festival-de-cinema", "cultura", "regiao-metropolitana", "mare", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150105-comeca-hoje-festival-internacional-de-cinema-de-cabo-frio-reune-producoes-de-cinco-paises-e-deba.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O Festival Internacional de Cinema de Cabo Frio realiza sua primeira edição entre esta quinta-feira (14) e domingo (17), em Cabo Frio, com uma programação gratuita que reúne cinema, literatura, música e artes visuais. O evento contará com a exibição de 33 filmes de cinco países – Brasil, Espanha, Portugal, Quênia e Rússia – além de mesas de debate com nomes do audiovisual brasileiro, entre eles a atriz Simone Spoladore.

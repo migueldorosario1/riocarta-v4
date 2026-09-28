@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:01:25Z"
 draft: true
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "telemedicina", "comunidades-quilombolas", "saude", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "lagoa", "leme", "comunidade", "campos", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-campos-amplia-telemedicina-para-comunidades-quilombolas.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria Municipal de Saúde de Campos dos Goytacazes, por meio da Subsecretaria de Atenção Primária à Saúde, ampliou o uso da telemedicina nas Unidades Básicas de Saúde da Família como estratégia de ampliação do acesso a atendimentos especializados para a população quilombola. A iniciativa é desenvolvida em parceria com instituições de ensino e com o Centro de Saúde Escola de Custodópolis.
 

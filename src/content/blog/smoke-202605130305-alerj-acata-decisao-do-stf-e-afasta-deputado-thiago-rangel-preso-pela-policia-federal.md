@@ -5,6 +5,7 @@ pubDate: "2026-05-13T06:05:06Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "thiago-rangel", "stf", "regiao-metropolitana", "colegio", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-alerj-acata-decisao-do-stf-e-afasta-deputado-thiago-rangel-preso-pela-policia-federal.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O presidente da Assembleia Legislativa do Rio de Janeiro (Alerj), deputado estadual Douglas Ruas, anunciou nesta terça-feira (12), durante reunião do colégio de líderes, que a Mesa Diretora publicará nos próximos dias a destituição do gabinete do deputado Thiago Rangel, com a exoneração de todos os funcionários vinculados ao parlamentar. A decisão vai ao encontro do que determinou o Supremo Tribunal Federal (STF).

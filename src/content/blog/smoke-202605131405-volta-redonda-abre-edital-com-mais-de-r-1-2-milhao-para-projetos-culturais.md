@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "cultura", "edital", "aldir-blanc", "sul-fluminense-costa-verde", "comunidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-volta-redonda-abre-edital-com-mais-de-r-1-2-milhao-para-projetos-culturais.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Volta Redonda – A Secretaria Municipal de Cultura (SMC), de Volta Redonda, abriu inscrições para o edital da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), que vai investir mais de R$ 1,2 milhão em projetos culturais no município.

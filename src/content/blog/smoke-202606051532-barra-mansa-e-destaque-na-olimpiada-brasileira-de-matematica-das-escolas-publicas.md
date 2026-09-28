@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:37:11Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "educacao", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "colegio"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-barra-mansa-e-destaque-na-olimpiada-brasileira-de-matematica-das-escolas-publicas.jpeg"
+hero_credit: "Autor não informado / Wikimedia Commons (Public domain)"
 ---
 BARRA MANSA
 

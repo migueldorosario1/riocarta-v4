@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "varre-sai", "santa-rita-do-prata", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150205-varre-sai-busca-acordo-para-casas-populares-na-prata.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Prefeitura de Varre-Sai avançou nas negociações com o Governo do Estado para resolver o impasse envolvendo a construção de moradias populares em Santa Rita do Prata. A discussão trata de um convênio firmado em 2004 e alvo de ação judicial movida pelo Ministério Público.

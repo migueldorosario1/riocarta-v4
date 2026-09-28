@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2101_governador-luiz-fernando-pezao-foi-preso-nesta-quinta-feira-na-operacao-denominada-boca-de-lobo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça do RJ bloqueia R$ 106 milhões de Pezão e outros réus por improbidade administrativa'
 pubDate: 2023-12-10 07:00:00

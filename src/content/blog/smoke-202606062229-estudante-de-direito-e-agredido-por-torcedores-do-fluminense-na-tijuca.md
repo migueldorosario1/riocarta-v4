@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:31:43Z"
 draft: true
 tags: ["rio-de-janeiro", "tijuca", "zona-norte", "agressao", "torcida-organizada", "fluminense", "rio-capital-zona-norte", "politica-rj", "maracana", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-estudante-de-direito-e-agredido-por-torcedores-do-fluminense-na-tijuca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um estudante de Direito foi agredido por integrantes de uma torcida organizada do Fluminense após partida da Libertadores no Maracanã, nesta terça-feira (19). Dois suspeitos já foram identificados.
 

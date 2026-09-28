@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:03:10Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-de-guaratiba", "recreio", "zona-oeste", "meio-ambiente", "rio-capital-zona-oeste", "capital", "regiao-metropolitana", "guaratiba", "comunidade", "problemas-estruturais", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281900-nova-reserva-marinha-pode-proteger-3-mil-hectares-entre-barra-de-guaratiba-e-recreio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A proposta de criação de uma nova unidade de conservação marinha na Zona Sudoeste do Rio de Janeiro avançou mais uma etapa. Em reunião pública realizada no último dia 17, representantes do poder público, pesquisadores, comunidades tradicionais e organizações da sociedade civil discutiram a implantação da Reserva de Desenvolvimento Sustentável Marinha Urupirá.
 

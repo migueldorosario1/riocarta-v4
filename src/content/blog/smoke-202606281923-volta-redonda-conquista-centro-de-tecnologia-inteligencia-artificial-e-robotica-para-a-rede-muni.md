@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:23:19Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "educacao", "tecnologia", "inteligencia-artificial", "robotica", "sul-fluminense", "sul-fluminense-costa-verde", "favela", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281923-volta-redonda-conquista-centro-de-tecnologia-inteligencia-artificial-e-robotica-para-a-rede-muni.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

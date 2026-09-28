@@ -5,6 +5,7 @@ pubDate: "2026-06-29T23:24:59Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica", "bolsonaro", "politica-rj", "capital", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-michelle-bolsonaro-deixa-de-seguir-enteados-e-aprofunda-racha-no-cla-extremista-da-direita.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

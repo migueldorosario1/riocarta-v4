@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1402_whatsapp-image-2023-09-22-at-15.17.08.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mercadinho São José em Laranjeiras será revitalizado'
 pubDate: 2023-09-22 23:50:03

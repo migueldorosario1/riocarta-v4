@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:30Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "politica-rj", "regiao-metropolitana", "belford-roxo"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-quaqua-anuncia-apoio-a-benedita-da-silva-e-pedro-paulo-para-o-senado-em-2026.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Resumo da notícia
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:04:40Z"
 draft: true
 tags: ["rio-de-janeiro", "costa-barros", "zona-norte", "rio-capital-zona-norte", "capital-estado", "realengo", "comunidade", "complexo", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-tiroteio-entre-faccoes-em-costa-barros-deixa-bebe-ferido-e-um-morto.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio. Tiroteio entre facções em Costa Barros deixa bebê ferido e um morto.
 

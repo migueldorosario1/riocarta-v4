@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:04:37Z"
 draft: true
 tags: ["rio-de-janeiro", "leblon", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-cruzada-sao-sebastiao70-years-of-public-housing-in-the-heart-of-rio-de-janeiros-upscale-south-zo-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 For much of the 20th century, between the shores of the Rodrigo de Freitas Lagoon and Rio de Janeiro’s Leblon neighborhood, stood one of the largest favelas in the city’s upscale South Zone: Praia do Pinto. Around 9,000 people lived there until 1969, when a fire destroyed many of the homes, marking the end of the community.
 

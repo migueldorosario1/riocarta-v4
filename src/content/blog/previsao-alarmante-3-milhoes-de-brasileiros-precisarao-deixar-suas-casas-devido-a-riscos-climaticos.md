@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4461_imagem-12.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Previsão alarmante 3 milhões de brasileiros precisarão deixar suas casas devido a riscos climáticos'
 pubDate: 2024-05-10 09:02:48

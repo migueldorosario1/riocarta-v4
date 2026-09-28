@@ -5,6 +5,7 @@ pubDate: "2026-06-29T18:23:29Z"
 draft: false
 tags: ["rio-de-janeiro", "campos", "mobilidade-urbana", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291823-prefeitura-de-campos-usa-tecnologia-para-fiscalizar-recursos-do-transporte-publico.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Instituto Municipal de Trânsito e Transporte (IMTT) de Campos tem investido em tecnologia para tornar o transporte coletivo da cidade mais eficiente, seguro e transparente. Através do Centro de Mobilidade Urbana (CMU), localizado na sede do órgão, as frotas de ônibus e vans são monitoradas em tempo real por meio de um sistema moderno de georreferenciamento (GPS).
 

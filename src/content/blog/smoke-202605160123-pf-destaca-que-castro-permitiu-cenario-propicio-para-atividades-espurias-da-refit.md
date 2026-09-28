@@ -5,6 +5,7 @@ pubDate: "2026-05-16T01:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "politica-rj", "serrana", "regiao-metropolitana", "manguinhos", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160123-pf-destaca-que-castro-permitiu-cenario-propicio-para-atividades-espurias-da-refit.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Federal afirma que o ex-governador do Rio, Cláudio Castro (PL), permitiu a existência de um cenário propício para “atividades espúrias” no estado, atribuídas à Refit, empresa ligada ao empresário investigado Ricardo Magro.

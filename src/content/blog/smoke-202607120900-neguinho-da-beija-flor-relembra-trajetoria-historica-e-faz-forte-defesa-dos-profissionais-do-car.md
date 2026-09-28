@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:30Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "carnaval", "beija-flor", "biblioteca-parque-estadual", "cultura-carnaval", "regiao-metropolitana", "mangueira", "engenho-de-dentro", "inhauma", "joa", "nilopolis", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-neguinho-da-beija-flor-relembra-trajetoria-historica-e-faz-forte-defesa-dos-profissionais-do-car.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A carreira de Neguinho da Beija-Flor com 50 anos de avenida é recheada de quinze títulos e muitos sambas memoráveis. Uma voz que, mesmo longe da Sapucaí, segue ecoando na memória e no imaginário dos amantes do carnaval.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:15Z"
 draft: false
 tags: ["rio-de-janeiro", "gericino", "zona-oeste", "ex-goleiro-bruno", "seguranca-publica", "seguranca-publica-rj", "regiao-dos-lagos", "regiao-metropolitana", "benfica", "zona-norte", "anil", "complexo", "cabo-frio", "buzios"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-ex-goleiro-bruno-e-transferido-para-presidio-em-gericino-apos-prisao-em-sao-pedro-da-aldeia.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Preso na última quinta-feira (7) em São Pedro da Aldeia, o ex-goleiro Bruno Fernandes de Souza foi transferido para o Instituto Penal Plácido Sá Carvalho, no Complexo de Gericinó, na Zona Oeste do Rio de Janeiro. A unidade prisional é considerada neutra, sem custodiados ligados a facções criminosas.

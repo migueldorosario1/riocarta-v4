@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:01:24Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "seguranca-publica", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-justica-eleitoral-impoe-multa-e-proibe-influencer-de-postar-acusacoes-contra-marcelo-freixo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-deputado estadual e pré-candidato a deputado federal Marcelo Freixo (PT) conseguiu na Justiça Eleitoral uma liminar, que impede o influenciador Pablo Rogers Dias Ferreira Brandão de publicar nas redes sociais acusações sem provas, associando o político ao tráfico de drogas e a supostos desvios de recursos públicos da cultura. Caso a ordem seja descumprida, Pablo Rogers terá de pagar multa de R$ 10 mil para cada nova publicação.
 

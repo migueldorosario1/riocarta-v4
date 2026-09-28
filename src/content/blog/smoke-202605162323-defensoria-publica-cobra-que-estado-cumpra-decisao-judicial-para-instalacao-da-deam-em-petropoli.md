@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:24:06Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "seguranca-publica", "norte-noroeste-fluminense", "serrana", "regiao-metropolitana", "leme"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-defensoria-publica-cobra-que-estado-cumpra-decisao-judicial-para-instalacao-da-deam-em-petropoli.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A implementação da Delegacia Especializada de Atendimento à Mulher (Deam) em Petrópolis voltou ao centro da discussão judicial. Nesta semana, a Defensoria Pública do Estado do Rio de Janeiro (DPRJ) ingressou com nova petição em que afirma que o Estado descumpriu os prazos estabelecidos pela Justiça para instalação da estrutura.
 

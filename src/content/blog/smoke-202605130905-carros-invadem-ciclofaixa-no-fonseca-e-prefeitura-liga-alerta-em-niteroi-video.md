@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "fonseca", "ciclofaixa", "transito", "seguranca", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "zona-norte", "joa", "mage", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130905-carros-invadem-ciclofaixa-no-fonseca-e-prefeitura-liga-alerta-em-niteroi-video.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Prefeitura de Niterói acendeu o alerta para o uso irregular da ciclofaixa no bairro Fonseca, na Zona Norte de Niterói, após um flagrante mostrar carros circulando pelo espaço exclusivo para ciclistas na Avenida Professor João Brasil, na manhã desta segunda-feira (11).

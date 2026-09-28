@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7657_image-9.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi e Elias Jabbour fazem conversa pública no Bip Bip nesta sexta-feira (06/02)'
 pubDate: 2026-02-06 13:40:45

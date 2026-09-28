@@ -5,6 +5,7 @@ pubDate: "2026-05-21T08:25:00Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "litoral-norte", "mata-atlantica", "capital", "regiao-metropolitana", "baixada", "problemas-estruturais", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210823-pequena-e-ameacada-nova-especie-de-marsupial-e-identificada-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Mata Atlântica fluminense acaba de revelar uma nova espécie de mamífero. Mesmo em uma das regiões mais povoadas e estudadas do país, pesquisadores da Universidade Federal do Rio de Janeiro (UFRJ) identificaram um pequeno marsupial até então desconhecido pela ciência: a cuíca-de-três-listras-do-Rio de Janeiro, de nome científico Monodelphis semilineata.
 

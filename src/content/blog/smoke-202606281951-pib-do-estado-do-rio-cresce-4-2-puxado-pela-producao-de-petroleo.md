@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:52:02Z"
 draft: false
 tags: ["rio-de-janeiro", "pib", "economia", "petroleo", "firjan", "politica-rj", "capital-porto", "regiao-metropolitana", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281951-pib-do-estado-do-rio-cresce-4-2-puxado-pela-producao-de-petroleo.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Estudo elaborado pela Federação das Indústrias do Estado do Rio de Janeiro (Firjan) aponta que o Produto Interno Bruto (PIB) fluminense cresceu 4,2% no primeiro trimestre de 2026 em relação aos três primeiros meses do ano passado. Entre os setores, a indústria – que responde por 38% do PIB estadual – foi a principal responsável pelo crescimento ao registrar alta de 9,8%.
 

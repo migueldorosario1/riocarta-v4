@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:27Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "uniao-de-marica", "carnaval", "grupo-especial", "darcy-ribeiro", "cultura-carnaval", "regiao-metropolitana", "mage", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-uniao-de-marica-aposta-em-darcy-ribeiro-para-fazer-historia-na-estreia-no-grupo-especial.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A União de Maricá revelou os detalhes do enredo que marcará sua estreia no Grupo Especial do Carnaval do Rio de Janeiro em 2027. A escola abrirá os desfiles da Marquês de Sapucaí no domingo, 7 de fevereiro, com uma homenagem ao antropólogo, educador, escritor, indigenista e homem público Darcy Ribeiro, apresentando na Avenida o ideal de um Brasil mais justo, democrático e consciente de sua própria identidade.
 

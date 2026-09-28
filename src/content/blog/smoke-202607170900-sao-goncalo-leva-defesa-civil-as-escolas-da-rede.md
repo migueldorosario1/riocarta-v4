@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:02:01Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "defesa-civil", "escolas", "prevencao", "educacao", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-sao-goncalo-leva-defesa-civil-as-escolas-da-rede-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 São Gonçalo levou ações educativas da Defesa Civil a escolas estaduais e reuniu mais de 200 alunos em atividades sobre prevenção de riscos e autoproteção. Segundo a prefeitura, o trabalho alcançou unidades de Santa Luzia, Ipiíba e Jóquei, com palestras sobre percepção de risco, prevenção de desastres e resposta a emergências.
 

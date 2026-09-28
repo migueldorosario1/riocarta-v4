@@ -5,6 +5,7 @@ pubDate: "2026-05-22T12:23:52Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-lins", "zona-norte", "seguranca-publica", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "todos-os-santos", "comunidade", "complexo", "baixada", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221223-operacao-mira-integrantes-do-comando-vermelho-no-complexo-do-lins.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

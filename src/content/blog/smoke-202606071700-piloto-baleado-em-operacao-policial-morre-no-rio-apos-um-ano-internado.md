@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:00:07Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-oeste", "copacabana", "seguranca-publica", "capital", "regiao-metropolitana", "mage", "comunidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-piloto-baleado-em-operacao-policial-morre-no-rio-apos-um-ano-internado.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Felipe Marques Monteiro, que tinha 46 anos, foi baleado na cabeça em uma ação na Vila Aliança, Zona Oeste, em abril do ano passado, perdendo 40% do crânio
 

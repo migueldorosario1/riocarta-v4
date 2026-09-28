@@ -5,6 +5,7 @@ pubDate: "2026-05-30T04:00:11Z"
 draft: false
 tags: ["rio-de-janeiro", "eventos", "economia", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605300400-visit-rio-aponta-alta-de-31-nos-eventos-do-calendario-da-cidade.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio de Janeiro tem um calendário de eventos turbinado em 2026. Levantamento do Visit Rio — que compara a agenda já confirmada até o fim de abril com o mesmo período de 2025 — aponta que a cidade soma 481 eventos, uma alta de 31%.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-05T08:01:58Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "lei-animal", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606050800-agora-e-lei-norma-sobre-denuncia-de-maus-tratos-a-animais-no-rio-e-alterada.jpg"
+hero_credit: "Creator:Leôncio da Costa Vieira / Wikimedia Commons (Public domain)"
 ---
 Estabelecimentos de atendimento veterinário poderão informar casos de maus-tratos a animais por meio de canais digitais a serem criados por órgãos competentes do Estado do Rio. É o que estabelece a Lei 11.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T15:27:16Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "rio-capital-centro", "capital", "norte-noroeste-fluminense", "campos", "portuguesa", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291523-trombones-e-tubas-em-show-de-graca-em-igreja-do-seculo-xix-no-centro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Igreja de São Francisco de Paula, no Centro, vai trocar a missa por trompetes, trombones, tubas e muita música com a Rio Brass Band em apresentação gratuita, nesta quarta (01/07), às 18h. É um "esquenta" para a 21ª Conferência Internacional da WASBE (World Association for Symphonic Bands and Ensembles), entre os dias 20 e 26 de julho transformando o Rio na capital mundial das bandas sinfônicas e de metais, recebendo músicos de dezenas de países.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:00:22Z"
 draft: false
 tags: ["rio-de-janeiro", "vargem-grande", "zona-oeste", "seguranca-publica", "politica-rj", "recreio", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-bope-apreende-fuzil-ak-47-e-drogas-em-operacao-na-zona-oeste-do-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma operação do BOPE realizada na madrugada deste domingo (17) terminou com a apreensão de um fuzil AK-47, munições e uma grande quantidade de drogas na Comunidade Cesar Maia, em Vargem Grande, na Zona Oeste do Rio. A ação foi desencadeada após informações de inteligência apontarem uma reunião de lideranças do tráfico para planejar ataques contra comunidades dominadas por facções rivais.
 

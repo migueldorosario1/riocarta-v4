@@ -5,6 +5,7 @@ pubDate: "2026-05-20T05:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "educacao", "politica-rj", "capital", "regiao-metropolitana", "leme", "problemas-estruturais"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200523-alerj-aprova-icms-educacional-e-destrava-regra-para-repasses-do-fundeb.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou, em discussão única, nesta terça-feira, 19 de maio, o Projeto de Lei 6. 659/2025, de autoria do Poder Executivo, que regulamenta o critério educacional na distribuição do ICMS aos 92 municípios fluminenses.
 

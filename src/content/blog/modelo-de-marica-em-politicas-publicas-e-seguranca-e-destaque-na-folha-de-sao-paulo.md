@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7569_image-29.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Modelo de Maricá em políticas públicas e segurança é destaque na Folha de São Paulo'
 pubDate: 2025-12-12 15:26:51

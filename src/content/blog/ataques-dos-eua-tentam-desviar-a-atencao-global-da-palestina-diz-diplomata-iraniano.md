@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2996_1412035.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ataques dos EUA tentam desviar a atenção global da Palestina, diz diplomata iraniano'
 pubDate: 2024-02-07 05:32:00

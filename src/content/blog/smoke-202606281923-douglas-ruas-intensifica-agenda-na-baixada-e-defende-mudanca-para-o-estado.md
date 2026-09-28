@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:27:49Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "politica-rj", "eleicoes", "regiao-metropolitana", "baixada", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-douglas-ruas-intensifica-agenda-na-baixada-e-defende-mudanca-para-o-estado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O pré-candidato ao Governo do Estado do Rio de Janeiro, Douglas Ruas, cumpriu agenda de campanha na manhã deste domingo (28), em Belford Roxo, na Baixada Fluminense. Durante uma caminhada pela tradicional feira livre de Areia Branca, o político conversou com comerciantes, feirantes e moradores, defendendo uma gestão mais próxima da população e voltada para as necessidades dos municípios.
 

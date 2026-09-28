@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4256_imagem-30.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bailarina deixa Programa do Ratinho após ser vítima de comentário racista do apresentador'
 pubDate: 2024-04-19 09:35:11

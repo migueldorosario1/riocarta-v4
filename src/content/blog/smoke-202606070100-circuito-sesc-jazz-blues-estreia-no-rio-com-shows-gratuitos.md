@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:06:07Z"
 draft: false
 tags: ["rio-de-janeiro", "sesc", "jazz", "blues", "cultura-carnaval", "capital", "regiao-metropolitana", "leme", "joa", "petropolis", "buzios", "rio-das-ostras", "paraty"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-circuito-sesc-jazz-blues-estreia-no-rio-com-shows-gratuitos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio de Janeiro passa a integrar, pela primeira vez, a rota do Circuito Sesc Jazz & Blues, que chega na capital nos dias 26 e 27 de maio com uma programação gratuita no recém-reinaugurado Teatro Sesc Ginástico, no Centro da cidade. Com shows que reúnem artistas brasileiros e internacionais, a etapa carioca funciona como um aquecimento para o Rio das Ostras Jazz & Blues, considerado o maior festival do gênero na América Latina.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T11:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-norte", "quinta-da-boa-vista", "educacao-no-transito", "maio-amarelo", "cet-rio", "rio-capital-zona-norte", "capital", "higienopolis", "mare", "oswaldo-cruz", "realengo", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150805-maio-amarelo-leva-educacao-no-transito-a-120-alunos-na-quinta-da-boa-vista.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Cerca de 120 alunos da rede municipal participaram, nesta quarta-feira (13/05), de uma ação educativa de trânsito na Quinta da Boa Vista, na Zona Norte do Rio. A atividade fez parte da campanha Maio Amarelo, movimento internacional de conscientização para reduzir acidentes e reforçar a segurança viária.

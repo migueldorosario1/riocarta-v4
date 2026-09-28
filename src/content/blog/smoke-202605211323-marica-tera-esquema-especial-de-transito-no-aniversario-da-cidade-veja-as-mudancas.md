@@ -5,6 +5,7 @@ pubDate: "2026-05-21T13:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "transito", "niteroi-metropolitana", "niteroi", "joa", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211323-marica-tera-esquema-especial-de-transito-no-aniversario-da-cidade-veja-as-mudancas.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 As celebrações pelos 212 anos da cidade de Maricá, na Região Metropolitana do Rio, vão provocar uma série de alterações no trânsito entre sexta-feira (22) e domingo (26). Para garantir a organização do fluxo viário durante os eventos comemorativos, a prefeitura estruturou uma operação especial que contempla bloqueios, desvios e reforço na atuação de agentes de trânsito em diferentes regiões do município.
 

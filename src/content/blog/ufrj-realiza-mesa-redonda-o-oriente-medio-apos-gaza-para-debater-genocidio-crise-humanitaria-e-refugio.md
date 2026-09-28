@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7231_image-13.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'UFRJ realiza mesa redonda “O Oriente Médio após Gaza” para debater genocídio, crise humanitária e refúgio'
 pubDate: 2025-10-21 15:26:59

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7006_image-19.png"
+hero_credit: "New America / Wikimedia Commons (CC BY 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fundações partidárias ampliam presença no YouTube e disputam espaço na formação política digital'
 pubDate: 2025-07-26 10:47:13

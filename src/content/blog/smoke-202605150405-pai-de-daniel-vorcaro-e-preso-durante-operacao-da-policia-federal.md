@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:37Z"
 draft: true
 tags: ["rio-de-janeiro", "operacao-pf", "compliance-zero", "daniel-vorcaro", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-pai-de-daniel-vorcaro-e-preso-durante-operacao-da-policia-federal.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O empresário Henrique Vorcaro, pai do banqueiro Daniel Vorcaro, foi preso pela Polícia Federal na manhã desta quinta-feira (14), durante a 6ª fase da Operação Compliance Zero. A ação também tem agentes da corporação entre os investigados.

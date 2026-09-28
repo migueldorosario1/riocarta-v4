@@ -5,6 +5,7 @@ pubDate: "2026-05-21T15:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "norte-fluminense", "norte-noroeste-fluminense", "macae-norte-fluminense", "colegio", "campos", "noroeste-fluminense", "seguranca-publica", "transporte-mobilidade", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211523-nova-denuncia-contra-thiago-rangel-pode-recair-na-campanha-de-sua-filha-em-campos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A campanha da vereadora de Campos dos Goytacazes, Thamires Rangel (DEMOCRATA), eleita em 2024 quando ainda estava no Ensino Médio, com apenas 18 anos, pode ter se beneficiado do suposto esquema de corrupção de seu pai, o deputado estadual Thiago Rangel (AVANTE), preso pela Polícia Federal (PF).
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2386_danubia2.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Esposa de Nem da Rocinha, Danúbia, é liberada após 8 anos de prisão'
 pubDate: 2024-01-12 12:48:36

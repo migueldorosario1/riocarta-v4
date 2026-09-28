@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:02:38Z"
 draft: true
 tags: ["rio-de-janeiro", "vila-autodromo", "evictions-museum", "remocoes", "olimpiadas", "memoria", "resistencia", "cultura", "rio-capital-barra-recreio-jacarepagua", "favelas-comunidades", "regiao-metropolitana", "mare", "favela", "comunidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-rio-de-janeiro-evictions-museum-celebrates-ten-years-of-art-memory-and-resistance-since-the-olym-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 This article is part of our series reflecting on the impacts of mega-events on Rio de Janeiro 10 years after the 2016 Olympic Games. This Museum Month, Vila Autódromo marked ten years since resisting the violent forced evictions that Rio de Janeiro’s City Hall justified as necessary for the 2016 Olympic Games, when only 3% of residents managed to stay.
 

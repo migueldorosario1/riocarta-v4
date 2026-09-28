@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:13:27Z"
 draft: false
 tags: ["rio-de-janeiro", "nova-friburgo", "regiao-serrana", "acidente-de-trabalho", "muro", "norte-noroeste-fluminense", "serrana", "noroeste-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-trabalhador-morre-apos-muro-desabar-em-nova-friburgo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um trabalhador, de 45 anos, de uma empresa que presta serviço para a Rota 116, concessionária que administra a RJ-116, morreu após um muro ter desabado sobre ele no começo da tarde desta quinta-feira (25) em Nova Friburgo, na Região Serrana do Rio. Ele atuava na realização de um reparo no muro localizado no acesso ao Viaduto do Paissandu.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-21T03:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "seguranca-publica", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210323-pf-revela-audios-que-ligam-thiago-rangel-a-loteamento-de-cargos-na-educacao-ouca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A investigação da Polícia Federal que apura suspeitas de irregularidades na Secretaria estadual de Educação do Rio ganhou novos desdobramentos após a divulgação de áudios atribuídos ao deputado estadual Thiago Rangel. Segundo reportagem exibida pelo RJ1, da TV Globo, mensagens extraídas de celulares apreendidos indicariam que o parlamentar dava ordens relacionadas à estrutura da pasta e negociava cargos públicos para aliados ligados ao tráfico.
 

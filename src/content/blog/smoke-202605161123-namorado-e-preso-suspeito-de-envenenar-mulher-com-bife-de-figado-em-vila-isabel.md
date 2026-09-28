@@ -5,6 +5,7 @@ pubDate: "2026-05-16T11:24:14Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-isabel", "zona-norte", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "leme", "tijuca", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161123-namorado-e-preso-suspeito-de-envenenar-mulher-com-bife-de-figado-em-vila-isabel.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Civil do Rio de Janeiro prendeu, na manhã desta sexta-feira (15), um homem suspeito de matar a namorada por envenenamento em Vila Isabel, na Zona Norte do Rio. Segundo as investigações, Maurício José Gaspara Viana teria interesse no patrimônio da companheira, Naire Bezerra Galvão, que morreu após passar mal depois de uma refeição feita dentro da residência do casal.

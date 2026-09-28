@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:33:48Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "cultura", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "nova-iguacu", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-espetaculo-que-promove-a-valorizacao-de-matrizes-afro-indigenas-chega-no-sesc-de-barra-mansa-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA MANSA
 

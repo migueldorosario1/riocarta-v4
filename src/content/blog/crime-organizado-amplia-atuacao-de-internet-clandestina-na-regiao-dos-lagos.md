@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:40Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "crime-organizado", "internet-clandestina", "cabo-frio", "arraial-do-cabo", "armacao-dos-buzios", "iguaba-grande", "araruama", "saquarema", "regiao-metropolitana", "buzios", "iguaba", "rio-das-ostras"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/crime-organizado-amplia-atuacao-de-internet-clandestina-na-regiao-dos-lagos.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A exploração clandestina de serviços de internet por facções criminosas e milícias tem avançado no estado do Rio de Janeiro e já atinge municípios da Região dos Lagos. Levantamento divulgado pelo jornal Extra aponta que cidades como Cabo Frio, Arraial do Cabo, Armação dos Búzios, Iguaba Grande, Araruama e Saquarema estão entre as localidades onde empresas enfrentam dificuldades para atuar devido à imposição de taxas, ameaças e restrições de acesso por parte do crime organizado.

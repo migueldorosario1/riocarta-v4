@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5343_imagem-80.webp"
+hero_credit: "The original uploader was Snow storm in Eastern Asia at English Wikipedia. / Wikimedia Commons (CC BY 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Arrecadação federal atinge R$ 201,6 bilhões em agosto e registra maior valor da história'
 pubDate: 2024-09-19 19:32:20

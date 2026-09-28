@@ -5,6 +5,7 @@ pubDate: "2026-05-16T03:25:12Z"
 draft: false
 tags: ["rio-de-janeiro", "jacarepagua", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-porto", "jacare", "zona-oeste", "realengo", "camorim", "vargem-grande", "comunidade", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160323-jiboia-de-quase-3-metros-e-resgatada-em-jacarepagua-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Uma jiboia de cerca de 3 metros foi resgatada por guarda-parques do Parque Estadual da Pedra Branca, em Jacarepaguá, na Zona Sudoeste do Rio. O animal estava dentro do Quilombo Camorim e apresentava sinais de debilidade.

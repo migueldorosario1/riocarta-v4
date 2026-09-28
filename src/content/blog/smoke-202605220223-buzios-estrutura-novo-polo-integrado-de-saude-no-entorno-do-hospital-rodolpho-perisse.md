@@ -5,6 +5,7 @@ pubDate: "2026-05-22T02:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "sao-jose", "saude", "regiao-dos-lagos", "macae-norte-fluminense", "regiao-metropolitana", "mage", "manguinhos", "buzios", "norte-fluminense", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220223-buzios-estrutura-novo-polo-integrado-de-saude-no-entorno-do-hospital-rodolpho-perisse.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Centro de Imagem, maternidade, policlínicas e clínica especializada em saúde mental passam a formar eixo estratégico da rede pública municipal
 

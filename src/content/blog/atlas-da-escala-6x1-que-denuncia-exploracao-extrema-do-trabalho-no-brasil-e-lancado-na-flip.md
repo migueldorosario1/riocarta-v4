@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7042_Screenshot_20250801-174906_Instagram.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Atlas da Escala 6×1 que denuncia exploração extrema do trabalho no Brasil é lançado na Flip'
 pubDate: 2025-08-01 17:58:58

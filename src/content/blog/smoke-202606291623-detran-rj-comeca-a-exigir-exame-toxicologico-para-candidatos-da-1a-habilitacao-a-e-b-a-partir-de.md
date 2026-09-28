@@ -5,6 +5,7 @@ pubDate: "2026-06-29T16:26:00Z"
 draft: true
 tags: ["rio-de-janeiro", "detran-rj", "cnh", "exame-toxicologico", "transporte-mobilidade", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-detran-rj-comeca-a-exigir-exame-toxicologico-para-candidatos-da-1a-habilitacao-a-e-b-a-partir-de.jpg"
+hero_credit: "Grand Parc - Bordeaux, France from France / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

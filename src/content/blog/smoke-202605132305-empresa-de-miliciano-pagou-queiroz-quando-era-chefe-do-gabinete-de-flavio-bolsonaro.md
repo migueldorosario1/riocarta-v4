@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:02Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "milicia", "fabricio-queiroz", "flavio-bolsonaro", "rio-das-pedras", "operacao-legado", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-empresa-de-miliciano-pagou-queiroz-quando-era-chefe-do-gabinete-de-flavio-bolsonaro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O passado volta a assombrar o clã Bolsonaro com a precisão de um relatório financeiro. Documentos do Coaf vinculados à Operação Legado revelam que Fabrício Queiroz, o onipresente ex-assessor de Flávio Bolsonaro, recebeu depósitos de uma empresa de estética usada para lavar dinheiro da milícia.

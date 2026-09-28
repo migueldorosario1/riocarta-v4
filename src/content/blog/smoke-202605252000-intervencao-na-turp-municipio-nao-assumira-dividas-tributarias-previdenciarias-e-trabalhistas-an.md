@@ -5,6 +5,7 @@ pubDate: "2026-05-25T20:00:16Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "transporte", "intervencao", "turp", "serrana", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605252000-intervencao-na-turp-municipio-nao-assumira-dividas-tributarias-previdenciarias-e-trabalhistas-an.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Petrópolis publicou, em edição extraordinária do Diário Oficial desta quarta-feira (20), um decreto de intervenção na empresa Turp, pelo prazo inicial de 120 dias, podendo ser prorrogado. Um dos artigos prevê que o município e a CPTrans não terão responsabilidade por obrigações civis, comerciais, tributárias, previdenciárias ou trabalhistas anteriores à intervenção, ou seja, dívidas assumidas pela concessionária antes da medida.
 

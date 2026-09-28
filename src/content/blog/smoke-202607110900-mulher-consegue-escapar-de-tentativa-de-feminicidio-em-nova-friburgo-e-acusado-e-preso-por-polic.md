@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:13Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-friburgo", "regiao-serrana", "feminicidio", "deam", "norte-noroeste-fluminense", "noroeste-fluminense", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-mulher-consegue-escapar-de-tentativa-de-feminicidio-em-nova-friburgo-e-acusado-e-preso-por-polic.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um homem foi preso em flagrante acusado de tentar matar a ex-companheira em Nova Friburgo. Ele foi preso por policiais da Delegacia Especializada de Atendimento à Mulher (DEAM-NF).
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:02:21Z"
 draft: true
 tags: ["rio-de-janeiro", "minha-casa-minha-vida", "futebol-7", "supercopa", "esporte", "integracao-social", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "campos", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-condominios-minha-casa-minha-vida-do-rj-terao-supercopa-de-futebol-7-veja-como-inscrever-seu-tim.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Esportes
 

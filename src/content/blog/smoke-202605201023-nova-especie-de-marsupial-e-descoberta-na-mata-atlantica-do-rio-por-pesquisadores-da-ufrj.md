@@ -5,6 +5,7 @@ pubDate: "2026-05-20T10:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "silva-jardim", "paracambi", "mata-atlantica", "regiao-dos-lagos", "politica-rj", "regiao-metropolitana", "baixada", "norte-fluminense", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201023-nova-especie-de-marsupial-e-descoberta-na-mata-atlantica-do-rio-por-pesquisadores-da-ufrj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Mata Atlântica do estado do Rio de Janeiro voltou a surpreender pesquisadores com a descoberta de uma nova espécie de marsupial em áreas remanescentes de floresta na Baixada Litorânea e no Litoral Norte fluminense. O animal, batizado de cuíca-de-três-listras-do-Rio de Janeiro, recebeu o nome científico de Monodelphis semilineata.
 

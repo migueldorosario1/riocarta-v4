@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:01:41Z"
 draft: true
 tags: ["rio-de-janeiro", "costa-barros", "zona-norte", "seguranca-publica", "rio-capital-zona-norte", "capital-estado", "realengo", "comunidade", "complexo", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-tiroteio-em-costa-barros-mata-homem-e-deixa-bebe-de-1-ano-ferido.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

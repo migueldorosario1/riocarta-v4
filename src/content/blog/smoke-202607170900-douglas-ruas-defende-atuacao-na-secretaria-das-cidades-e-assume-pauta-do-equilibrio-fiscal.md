@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:03:58Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "equilibrio-fiscal", "douglas-ruas", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-douglas-ruas-defende-atuacao-na-secretaria-das-cidades-e-assume-pauta-do-equilibrio-fiscal.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O presidente da Alerj, deputado Douglas Ruas (PL), reagiu em tom firme ao ser questionado por jornalistas sobre sua ligação política com o grupo do ex-governador Cláudio Castro e do ex-presidente da Assembleia Rodrigo Bacellar. A cobrança envolveu o fato de Ruas não ter questionado antes o desequilíbrio entre gastos e receitas do Estado do Rio de Janeiro.
 

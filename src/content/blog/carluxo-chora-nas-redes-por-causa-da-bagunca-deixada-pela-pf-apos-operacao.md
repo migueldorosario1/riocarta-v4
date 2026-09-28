@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2696_CIOVUVHZPBPGFL6TRSG7BZB5LA.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carluxo chora nas redes por causa da bagunça deixada pela PF após operação'
 pubDate: 2024-01-30 09:18:43

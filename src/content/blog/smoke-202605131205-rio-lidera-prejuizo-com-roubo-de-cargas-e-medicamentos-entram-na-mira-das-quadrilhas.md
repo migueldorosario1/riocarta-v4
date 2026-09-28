@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "roubo-de-cargas", "medicamentos", "seguranca-publica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-rio-lidera-prejuizo-com-roubo-de-cargas-e-medicamentos-entram-na-mira-das-quadrilhas.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 O Rio de Janeiro voltou a liderar o mapa do roubo de cargas no Brasil no 1º trimestre de 2026. Segundo o relatório Report nstech de Roubo de Cargas, o estado concentrou 44% dos prejuízos nacionais registrados no período, bem acima dos 16,4% observados no mesmo trimestre de 2025 e dos 17,5% de 2024.

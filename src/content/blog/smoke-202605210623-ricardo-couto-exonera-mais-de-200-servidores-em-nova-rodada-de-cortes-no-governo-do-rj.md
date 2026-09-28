@@ -5,6 +5,7 @@ pubDate: "2026-05-21T06:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210623-ricardo-couto-exonera-mais-de-200-servidores-em-nova-rodada-de-cortes-no-governo-do-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A segunda-feira (18/05) começou com forte movimentação nos bastidores do Governo do Estado do Rio de Janeiro. Depois de o governador em exercício, Ricardo Couto, assinar a exoneração de 31 servidores no início do dia, a Casa Civil publicou um novo pacote de demissões na mesma edição do Diário Oficial.
 

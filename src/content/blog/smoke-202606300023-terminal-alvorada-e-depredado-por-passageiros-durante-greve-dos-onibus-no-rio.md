@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:26:27Z"
 draft: false
 tags: ["rio-de-janeiro", "terminal-alvorada", "barra-da-tijuca", "greve-onibus", "vandalismo", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "santa-cruz", "recreio", "mage", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300023-terminal-alvorada-e-depredado-por-passageiros-durante-greve-dos-onibus-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A greve dos rodoviários no Rio de Janeiro provocou transtornos no transporte público e gerou momentos de tensão no Terminal Alvorada, na Zona Sudoeste, no início da tarde desta segunda-feira (29/06). Durante a paralisação, passageiros revoltados com a demora na circulação dos ônibus praticaram atos de vandalismo no local.
 

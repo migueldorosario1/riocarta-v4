@@ -5,6 +5,7 @@ pubDate: "2026-06-29T20:25:31Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "juliano-cazarre", "cassia-kis", "homenagens", "regiao-metropolitana", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-juliano-cazarre-pode-ganhar-duas-novas-homenagens-na-alerj.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

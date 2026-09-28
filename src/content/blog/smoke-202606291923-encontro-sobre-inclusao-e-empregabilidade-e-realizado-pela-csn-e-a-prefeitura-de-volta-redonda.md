@@ -5,6 +5,7 @@ pubDate: "2026-06-29T19:23:55Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "inclusao", "empregabilidade", "csn", "sul-fluminense-costa-verde", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291923-encontro-sobre-inclusao-e-empregabilidade-e-realizado-pela-csn-e-a-prefeitura-de-volta-redonda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

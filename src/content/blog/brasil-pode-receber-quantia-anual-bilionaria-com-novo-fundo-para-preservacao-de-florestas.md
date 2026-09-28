@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4859_imagem-11.webp"
+hero_credit: "Guerra, Gabriel Costa; Silva, Renato Silva da; Roque, Nádia (authors of the source article; individual figure creator not specified) / Wikimedia Commons (CC BY 4.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil pode receber quantia anual bilionária com novo fundo para preservação de florestas'
 pubDate: 2024-08-19 09:07:32

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:34Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "celia-jordao", "psd", "gastos-publicos", "comissao-especial", "sul-fluminense-costa-verde", "angra-dos-reis", "leme", "angra", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-celia-jordao-e-escolhida-pelo-psd-para-integrar-comissao-da-alerj-que-vai-revisar-gastos-dos-tre.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O PSD escolheu a deputada Célia Jordão (PSD) para representar o partido na comissão especial criada pela Alerj para revisar despesas públicas e analisar os gastos dos três Poderes do estado. O nome da parlamentar foi anunciado durante a sessão plenária desta quarta-feira (13).

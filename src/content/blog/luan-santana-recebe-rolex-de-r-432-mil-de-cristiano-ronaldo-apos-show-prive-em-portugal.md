@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2237_cristiano_ronaldo_e_luan_santana-25927861.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Luan Santana recebe Rolex de R$ 432 mil de Cristiano Ronaldo após show privé em Portugal'
 pubDate: 2024-01-02 07:30:00

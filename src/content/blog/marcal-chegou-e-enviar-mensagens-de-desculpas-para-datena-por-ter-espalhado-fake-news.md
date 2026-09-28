@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5245_imagem-52.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marçal chegou e enviar mensagens de desculpas para Datena por ter espalhado fake news'
 pubDate: 2024-09-16 10:39:48

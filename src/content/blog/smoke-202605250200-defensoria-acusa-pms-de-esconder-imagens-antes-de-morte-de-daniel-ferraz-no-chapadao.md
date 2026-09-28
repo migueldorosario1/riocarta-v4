@@ -5,6 +5,7 @@ pubDate: "2026-05-25T02:00:14Z"
 draft: false
 tags: ["rio-de-janeiro", "chapadao", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "iraja", "comunidade", "complexo", "mage", "campos", "seguranca-publica", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605250200-defensoria-acusa-pms-de-esconder-imagens-antes-de-morte-de-daniel-ferraz-no-chapadao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A morte de Daniel da Costa Ferraz, de 19 anos, voltou ao centro das discussões sobre letalidade policial no Rio de Janeiro após novas revelações envolvendo policiais militares que participaram da operação no Complexo do Chapadão.
 

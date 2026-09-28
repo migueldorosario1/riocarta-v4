@@ -5,6 +5,7 @@ pubDate: "2026-05-22T01:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "catumbi", "camara-municipal", "urbanismo", "rio-capital-centro", "capital", "regiao-metropolitana", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220123-sonia-rabello-camara-vai-aprovar-um-projeto-urbanistico-sem-projeto-urbanistico.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Este é o “milagre” que os parlamentares do Rio, convictos de seus poderes especiais de visão do futuro, estão pretendendo fazer, ao insistirem na votação do Projeto de Lei nº 92/2025, que altera, substancialmente, a região do Catumbi/Praça XI, no Rio de Janeiro. Isto porque o chamado “Projeto” da Praça Onze “Maravilha” (nome, literalmente, fantasia), é apenas uma ideia de intervenção profunda na área.
 

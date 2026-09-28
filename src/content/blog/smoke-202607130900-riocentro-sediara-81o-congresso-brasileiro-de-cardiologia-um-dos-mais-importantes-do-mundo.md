@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:02Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "riocentro", "congresso", "cardiologia", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "saude", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-riocentro-sediara-81o-congresso-brasileiro-de-cardiologia-um-dos-mais-importantes-do-mundo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Riocentro receberá neste ano, entre os dias 8 e 10 de outubro, o 81º Congresso Brasileiro de Cardiologia (CBC), um dos mais importantes encontros da medicina cardiovascular do mundo.
 

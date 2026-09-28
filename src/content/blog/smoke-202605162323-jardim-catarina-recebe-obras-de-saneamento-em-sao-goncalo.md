@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:23:09Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "saneamento", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-jardim-catarina-recebe-obras-de-saneamento-em-sao-goncalo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Investimentos em redes de água e esgoto devem beneficiar cerca de 100 mil moradores em São Gonçalo
 

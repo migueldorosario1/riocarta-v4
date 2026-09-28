@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:49:09Z"
 draft: false
 tags: ["rio-de-janeiro", "detran-rj", "niteroi", "nova-iguacu", "itaguai", "resende", "petropolis", "rio-claro", "botafogo", "politica-rj", "sul-fluminense", "regiao-metropolitana", "comunidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-detran-rj-tera-atendimento-prioritario-para-emissao-da-nova-identidade.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Estado do Rio – O Detran RJ abrirá os postos de identificação civil em todo o estado neste sábado (16), para atender, com prioridade, idosos a partir de 60 anos e pessoas com deficiência (PCDs) que desejam emitir a nova Carteira de Identidade Nacional (CIN).
 

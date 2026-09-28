@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:10:36Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-dos-lagos", "bicicletas-compartilhadas", "vermelhinhas", "entregadores", "prefeitura-de-marica", "ept", "mobilidade-sustentavel", "regiao-metropolitana", "penha", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-marica-amplia-tempo-de-uso-das-bicicletas-compartilhadas-vermelhinhas-para-entregadores.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os entregadores vinculados às cooperativas de Maricá passarão a contar com mais tempo para utilizar gratuitamente as bicicletas compartilhadas do município. A partir da próxima quarta-feira (01/07), a Prefeitura de Maricá, por meio da Empresa Pública de Transportes (EPT), ampliará de uma para quatro horas consecutivas o período de uso das ‘Vermelhinhas’, medida que busca oferecer melhores condições de trabalho à categoria.
 

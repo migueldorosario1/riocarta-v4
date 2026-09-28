@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "capital", "regiao-metropolitana", "mage", "zumbi", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150705-flavio-bolsonaro-barra-michelle-e-mantem-candidatura-sob-cerco.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A despeito da sangria provocada pelas revelações do The Intercept, o clã Bolsonaro decidiu dobrar a aposta. Em uma tentativa de estancar a desidratação de sua autoridade política, o senador Flávio Bolsonaro (PL-RJ) descartou publicamente qualquer possibilidade de ceder seu lugar na chapa presidencial de 2026 para a madrasta, Michelle Bolsonaro.

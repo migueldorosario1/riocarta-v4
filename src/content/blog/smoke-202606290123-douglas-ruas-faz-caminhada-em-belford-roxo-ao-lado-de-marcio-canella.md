@@ -5,6 +5,7 @@ pubDate: "2026-06-29T01:24:49Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "politica-rj", "eleicoes", "regiao-metropolitana", "capital", "baixada", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290123-douglas-ruas-faz-caminhada-em-belford-roxo-ao-lado-de-marcio-canella.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

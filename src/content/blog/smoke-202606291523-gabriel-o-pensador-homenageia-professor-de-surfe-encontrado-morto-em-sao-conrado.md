@@ -5,6 +5,7 @@ pubDate: "2026-06-29T15:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-conrado", "rocinha", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "ramos", "comunidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291523-gabriel-o-pensador-homenageia-professor-de-surfe-encontrado-morto-em-sao-conrado.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O cantor e compositor Gabriel o Pensador usou as redes sociais para homenagear o professor de surfe José Ricardo Ramos, o Bocão da Rocinha, encontrado morto neste domingo (28), cinco dias após desaparecer no mar de São Conrado, na Zona Sul do Rio. Em um texto emocionado, o rapper relembrou a amizade dos dois e destacou a importância de Bocão para a história do surfe carioca.
 

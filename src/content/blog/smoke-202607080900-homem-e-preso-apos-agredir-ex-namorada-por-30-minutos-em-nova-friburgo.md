@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:23Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-friburgo", "regiao-serrana", "violencia-contra-mulher", "feminicidio", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "serrana", "saquarema", "seguranca-publica", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-homem-e-preso-apos-agredir-ex-namorada-por-30-minutos-em-nova-friburgo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Durante as agressões, o autor teria falado diversas vezes que iria matá-la
 

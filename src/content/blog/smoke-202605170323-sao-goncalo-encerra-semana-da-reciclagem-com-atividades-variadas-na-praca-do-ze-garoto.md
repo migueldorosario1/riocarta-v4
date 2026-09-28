@@ -5,6 +5,7 @@ pubDate: "2026-05-17T03:24:06Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-sao-goncalo-encerra-semana-da-reciclagem-com-atividades-variadas-na-praca-do-ze-garoto-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Prefeito Capitão Nelson fez questão de participar dos debates sobre sustentabilidade
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-27T14:00:13Z"
 draft: false
 tags: ["rio-de-janeiro", "itaguai", "regiao-metropolitana", "furto-de-cabos", "light", "seguranca-publica", "capital", "nova-iguacu", "sepetiba", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605271400-furto-de-cabos-em-itaguai-causa-prejuizo-estimado-em-r-200-mil.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Light identificou furtos de cabos e atos de vandalismo na Subestação Marinha, em Itaguaí, entre domingo (17/05) e segunda-feira (18/05). As ações criminosas causaram danos severos à estrutura elétrica da unidade, com prejuízo estimado em cerca de R$ 200 mil.
 

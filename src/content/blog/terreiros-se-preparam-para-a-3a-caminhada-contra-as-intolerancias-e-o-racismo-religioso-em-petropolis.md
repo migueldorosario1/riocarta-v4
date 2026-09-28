@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1933_image-16.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Terreiros se preparam para a 3ª Caminhada Contra as Intolerâncias e o Racismo Religioso em Petrópolis'
 pubDate: 2023-11-13 23:11:24

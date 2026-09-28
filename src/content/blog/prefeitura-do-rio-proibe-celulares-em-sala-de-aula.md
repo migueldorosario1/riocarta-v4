@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1054_image_processing20230807-2074-1hznjmg.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio proíbe celulares em sala de aula'
 pubDate: 2023-08-07 17:41:22

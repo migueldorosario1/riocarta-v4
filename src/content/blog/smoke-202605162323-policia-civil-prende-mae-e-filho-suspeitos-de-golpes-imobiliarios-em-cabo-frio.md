@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:24:12Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "politica-rj", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-policia-civil-prende-mae-e-filho-suspeitos-de-golpes-imobiliarios-em-cabo-frio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma investigação da Polícia Civil terminou com a prisão de mãe e filho suspeitos de aplicar golpes imobiliários que teriam causado prejuízo superior a R$ 200 mil em Cabo Frio, na Região dos Lagos do Rio. A dupla foi localizada na manhã desta sexta-feira (15), no bairro Reserva do Peró, após meses de monitoramento conduzido pela 126ª DP (Cabo Frio).
 

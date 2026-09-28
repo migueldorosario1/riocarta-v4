@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:16Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "rj-158", "acidente", "capotamento", "norte-noroeste-fluminense", "regiao-metropolitana", "duque-de-caxias", "mage", "noroeste-fluminense", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130905-trecho-perigoso-da-rj-158-registra-dois-capotamentos-em-tres-dias-em-sao-fidelis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 imagem: arquivo SF Notícias

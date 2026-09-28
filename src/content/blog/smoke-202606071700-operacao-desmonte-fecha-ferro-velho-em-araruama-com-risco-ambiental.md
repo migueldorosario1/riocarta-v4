@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:02:58Z"
 draft: true
 tags: ["rio-de-janeiro", "araruama", "operacao-desmonte", "ferro-velho", "crimes-ambientais", "detran-rj", "inea", "bananeiras", "regiao-dos-lagos", "capital-estado", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-operacao-desmonte-fecha-ferro-velho-em-araruama-com-risco-ambiental.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

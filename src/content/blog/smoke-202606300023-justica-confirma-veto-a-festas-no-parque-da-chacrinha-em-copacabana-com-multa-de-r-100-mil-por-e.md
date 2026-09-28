@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "problemas-estruturais", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300023-justica-confirma-veto-a-festas-no-parque-da-chacrinha-em-copacabana-com-multa-de-r-100-mil-por-e.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Tribunal de Justiça do Rio de Janeiro (TJRJ) tornou definitiva a proibição da realização de grandes eventos no Parque Estadual da Chacrinha, em Copacabana. A decisão rejeitou um recurso apresentado pela Prefeitura do Rio e mantém vetadas festas com som amplificado, grandes aglomerações e geração excessiva de lixo, práticas consideradas incompatíveis com o Plano de Manejo da unidade de conservação.
 

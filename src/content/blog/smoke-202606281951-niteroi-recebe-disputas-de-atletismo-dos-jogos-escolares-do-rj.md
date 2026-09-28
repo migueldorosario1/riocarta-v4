@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:55:48Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "jogos-escolares", "atletismo", "esporte", "educacao", "inclusao", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281951-niteroi-recebe-disputas-de-atletismo-dos-jogos-escolares-do-rj.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Etapa do JERJ 2026 acontece neste sábado e domingo, na Pista de Atletismo Aída dos Santos, no Campus do Gragoatá
 

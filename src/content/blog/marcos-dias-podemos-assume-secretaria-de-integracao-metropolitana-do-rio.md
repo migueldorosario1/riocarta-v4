@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1452_image-43.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marcos Dias (Podemos) assume Secretaria Municipal de Integração Metropolitana do Rio'
 pubDate: 2023-09-27 22:29:44

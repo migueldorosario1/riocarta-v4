@@ -5,6 +5,7 @@ pubDate: "2026-06-29T14:26:29Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "corrida", "esporte", "sul-fluminense-costa-verde", "sul-fluminense", "angra", "problemas-estruturais", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-mais-de-400-corredores-participam-da-corrida-da-copa-do-mundo-em-angra.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

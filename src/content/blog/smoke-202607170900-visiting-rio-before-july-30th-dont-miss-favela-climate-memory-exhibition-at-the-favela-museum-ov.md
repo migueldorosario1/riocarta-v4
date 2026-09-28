@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:03:57Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "pavao-pavaozinho", "cantagalo", "cultura-carnaval", "rio-capital-zona-sul-grande-tijuca", "favelas-comunidades", "regiao-metropolitana", "mare", "santa-cruz", "favela", "comunidade", "campos", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-visiting-rio-before-july-30th-dont-miss-favela-climate-memory-exhibition-at-the-favela-museum-ov-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 The ‘Favela Climate Memory’ exhibition returned to the Favela Museum (MUF) during Brazil’s 24th Annual National Museum Week, now presented in its complete form. Organized by eleven museums and memory project members of Rio’s Sustainable Favela Network (SFN)*, the installation, featuring 60 timeline panels, 13 banners and other objects, opened to the public in the heart of Rio de Janeiro’s South Zone on May 19 after spending three months in Santa Cruz, in the city’s West Zone.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:01:39Z"
 draft: true
 tags: ["rio-de-janeiro", "mc-poze", "justica", "funk", "prisao", "liberdade", "seguranca-publica-rj", "capital-estado", "ramos", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-justica-concede-liberdade-a-mc-poze.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

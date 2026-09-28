@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:16Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "operacao-policial", "politica", "regiao-metropolitana", "niteroi-metropolitana", "favela", "niteroi", "sao-goncalo", "itaborai", "resende", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-pre-candidato-ao-senado-marcio-canella-e-preso-com-fuzil-dentro-de-carro-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-prefeito de Belford Roxo e pré-candidato ao Senado pelo União Brasil, Márcio Canella, foi preso em flagrante nesta terça-feira (7) durante a sexta fase da Operação Unha e Carne, da Polícia Federal (PF). Ele é acusado de posse ilegal de arma de fogo de uso restrito.
 

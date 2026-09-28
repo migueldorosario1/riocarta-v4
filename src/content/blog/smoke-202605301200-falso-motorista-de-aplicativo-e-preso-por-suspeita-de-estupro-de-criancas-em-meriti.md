@@ -5,6 +5,7 @@ pubDate: "2026-05-30T12:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-joao-de-meriti", "baixada-fluminense", "seguranca-publica", "politica-rj", "regiao-metropolitana", "joa", "baixada", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605301200-falso-motorista-de-aplicativo-e-preso-por-suspeita-de-estupro-de-criancas-em-meriti.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um homem suspeito de cometer crimes de estupro de vulnerável contra crianças e adolescentes foi preso nesta terça-feira (19) em São João de Meriti durante uma operação da Polícia Civil do Estado do Rio de Janeiro. Segundo a investigação, ele utilizava um perfil falso em aplicativo de transporte para se aproximar das vítimas na Baixada Fluminense.
 

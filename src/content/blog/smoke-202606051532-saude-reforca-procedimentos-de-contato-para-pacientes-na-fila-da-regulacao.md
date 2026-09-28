@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:37:51Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "saude", "niteroi-metropolitana", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-saude-reforca-procedimentos-de-contato-para-pacientes-na-fila-da-regulacao.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Salvar número no celular e manter dados atualizados são fundamentais
 

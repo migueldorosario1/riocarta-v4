@@ -5,6 +5,7 @@ pubDate: "2026-05-31T06:00:19Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "educacao", "politica-rj", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605310600-creche-de-sao-goncalo-e-investigada-por-suspeita-de-maus-tratos-apos-videos-de-agressoes.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil e o Ministério Público do Estado do Rio de Janeiro investigam denúncias de maus-tratos contra crianças em uma creche particular localizada no bairro Pacheco, em São Gonçalo, na Região Metropolitana do Rio.
 

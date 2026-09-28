@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:29:57Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "vista-alegre", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "transporte-mobilidade", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-sao-goncalo-abre-inscricoes-para-mais-uma-turma-de-panificacao-basica.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Curso gratuito faz parte do projeto Padaria Escola
 

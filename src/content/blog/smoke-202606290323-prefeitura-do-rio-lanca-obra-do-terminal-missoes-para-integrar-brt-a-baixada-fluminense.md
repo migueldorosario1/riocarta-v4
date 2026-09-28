@@ -5,6 +5,7 @@ pubDate: "2026-06-29T03:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "baixada-fluminense", "brt", "terminal-missoes", "transporte-publico", "transporte-mobilidade", "politica-rj", "regiao-metropolitana", "duque-de-caxias", "estacio", "joa", "baixada", "nova-iguacu", "belford-roxo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290323-prefeitura-do-rio-lanca-obra-do-terminal-missoes-para-integrar-brt-a-baixada-fluminense.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio lançou, neste domingo (28), a pedra fundamental do Terminal Missões, novo equipamento do BRT Metropolitano que vai ampliar a integração entre a capital e municípios da Baixada Fluminense. A obra terá investimento estimado em R$ 46 milhões e será construída entre a Avenida Brasil e a Rodovia Washington Luís (BR-040).
 

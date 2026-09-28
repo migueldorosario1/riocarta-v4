@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2816_file-43GLZzgXMlDiV7dKc4rZQpB5.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Copom corta a Selic e mantém postura de redução gradual dos juros'
 pubDate: 2024-01-31 19:47:42

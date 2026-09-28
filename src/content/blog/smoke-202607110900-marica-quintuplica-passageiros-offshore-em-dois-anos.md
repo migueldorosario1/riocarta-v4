@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:04Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "capital-porto", "joa", "campos", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-marica-quintuplica-passageiros-offshore-em-dois-anos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Aeroporto de Maricá (RJ) consolidou-se como um polo logístico estratégico para a indústria offshore, com transporte aéreo de trabalhadores para unidades marítimas de produção de petróleo e gás. Segundo levantamento do Programa Macrorregional de Caracterização de Tráfego de Aeronaves (PMCTA), o aeroporto transportou 69 mil passageiros em 2024 — quase cinco vezes mais do que em 2022, quando o número era de 14 mil.
 

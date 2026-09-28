@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:01:35Z"
 draft: true
 tags: ["rio-de-janeiro", "araruama", "sao-vicente", "regiao-dos-lagos", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-operacao-sossego-publico-apreende-13-motocicletas-irregulares-em-sao-vicente-distrito-de-araruam.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria Municipal de Segurança, Ordem Pública e Defesa Civil, realizou nesta quinta-feira (15), no distrito de São Vicente, a Operação Sossego Público. A ação contou com o apoio da Guarda Civil Municipal, da Polícia Militar e da Polícia Civil.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:07:26Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "cultura-carnaval", "mare", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-marica-212-anos-shows-comecam-nesta-sexta-feira-15-confira-toda-a-programacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A cidade de Maricá já está em clima de festa para celebrar seus 212 anos de emancipação político-administrativa. Embora o aniversário oficial seja comemorado no dia 26 de maio, a programação especial começa nesta sexta-feira (15), com uma série de shows, homenagens e apresentações culturais promovidas pela Prefeitura de Maricá, por meio da Companhia de Cultura e Turismo (MARÉ).

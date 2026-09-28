@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7210_IMG-20251010-WA0041-e1760113375523.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Filme Honestino é lançado no Festival do Rio e estreia na competição de documentários'
 pubDate: 2025-10-10 13:23:19

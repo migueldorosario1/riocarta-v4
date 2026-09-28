@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:43Z"
 draft: false
 tags: ["br-101", "niteroi", "sao-goncalo", "itaborai", "rio-bonito", "casimiro-de-abreu", "macae", "carapebus", "campos-dos-goytacazes", "arteris-fluminense", "transporte", "obras", "transporte-e-mobilidade-rj", "estado"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/br-101-rj-recebera-r-6-bilhoes-em-obras-entre-niteroi-e-a-fronteira-com-o-espirito-santo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A Agência Nacional de Transportes Terrestres viabilizou o início de uma nova fase de intervenções na BR-101/RJ, no trecho sob concessão da Arteris Fluminense. A medida ocorre após a assinatura de um termo aditivo contratual, em março de 2026, e prevê aproximadamente R$ 6 bilhões em aportes na rodovia.

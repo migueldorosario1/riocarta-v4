@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "autismo", "educacao", "prefeitura", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-sao-goncalo-sorteia-vagas-para-centros-de-autismo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Secretaria de Educação da Prefeitura de São Gonçalo realizará nesta sexta-feira, 15 de maio, o sorteio de 150 vagas para os Centros de Referência Municipais em Autismo Professora Maria José da Silva Rodrigues, no Gradim, e Marlene Felício Faria, no Centro. Segundo o município, o sorteio acontecerá no auditório da secretaria e terá 50 lugares para acompanhamento presencial, preenchidos por ordem de chegada.

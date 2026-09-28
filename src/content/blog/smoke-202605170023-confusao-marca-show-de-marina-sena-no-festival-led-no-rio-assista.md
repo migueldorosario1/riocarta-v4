@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-portuaria", "rio-capital-centro", "capital-estado", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-confusao-marca-show-de-marina-sena-no-festival-led-no-rio-assista.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Entretenimento
 

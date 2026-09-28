@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:30:19Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "banco-master", "cpi", "rioprevidencia", "cedae", "politica-rj", "regiao-metropolitana", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-cpi-do-banco-master-gera-disputa-na-alerj-apos-debate-sobre-retirada-de-assinaturas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A tentativa de instalação da CPI do Banco Master deflagrou uma guerra de narrativas na Assembleia Legislativa do Rio de Janeiro (Alerj). O centro do debate passou a ser a possibilidade de retirada de assinaturas de parlamentares que apoiaram o requerimento apresentado pelo deputado Flavio Serafini (PSOL).
 

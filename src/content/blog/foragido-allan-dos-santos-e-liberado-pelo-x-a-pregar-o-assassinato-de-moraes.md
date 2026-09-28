@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4133_imagem-15.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Foragido Allan dos Santos é liberado pelo X a pregar o assassinato de Moraes'
 pubDate: 2024-04-10 09:54:07

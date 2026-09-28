@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:11:15Z"
 draft: false
 tags: ["rio-de-janeiro", "andarai", "zona-norte", "paraiso-do-tuiuti", "carnaval", "cultura", "cultura-carnaval", "paciencia", "comunidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-temos-que-fortalecer-o-gueto-enredista-do-tuiuti-defende-vinculo-profundo-com-a-comunidade.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Para ter uma comunidade engajada, o pertencimento se mostra como um ponto essencial. Durante o “Samba Enrena”, realizado no Renascença Clube, no Andaraí, a enredista Josyane Almeida e o pesquisador e compositor Claudio Russo afirmaram ao CARNAVALESCO que o fortalecimento do vínculo entre componentes e os enredos é fundamental para que os integrantes se reconheçam nas histórias contadas na Avenida e se tornem parte da narrativa apresentada pela escola.
 

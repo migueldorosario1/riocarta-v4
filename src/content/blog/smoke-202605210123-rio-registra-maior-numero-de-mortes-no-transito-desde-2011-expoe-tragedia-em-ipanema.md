@@ -5,6 +5,7 @@ pubDate: "2026-05-21T01:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "mage", "leblon", "iraja", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210123-rio-registra-maior-numero-de-mortes-no-transito-desde-2011-expoe-tragedia-em-ipanema.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A morte da jovem Mariana Tanaka Abdul Hak, de 20 anos, atropelada em Ipanema, Zona Sul do Rio, expôs o avanço da violência no trânsito fluminense em 2026. Filha de diplomatas brasileiros, ela havia retornado recentemente ao Brasil após concluir o curso de Administração de Empresas na ESCP Business School, na Itália.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6306_1_whatsapp_image_2024_12_30_at_14_26_48-34939865.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Novo polo cinematográfico em Maricá promete revolucionar a economia local'
 pubDate: 2025-01-01 11:40:32

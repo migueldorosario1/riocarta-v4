@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:25:24Z"
 draft: false
 tags: ["rio-de-janeiro", "fluminense", "sao-paulo", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "laranjeiras", "maracana", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605152123-em-partida-contra-sao-paulo-fluminense-pode-ter-german-cano-de-volta-aos-gramados.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Em partida contra São Paulo, Fluminense pode ter Germán Cano de volta aos gramados

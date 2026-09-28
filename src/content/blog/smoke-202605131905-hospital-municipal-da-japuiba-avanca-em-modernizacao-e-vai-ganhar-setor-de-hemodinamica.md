@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:39Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "costa-verde", "hospital-municipal-da-japuiba", "hemodinamica", "saude", "sul-fluminense", "sul-fluminense-costa-verde", "catete", "angra", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-hospital-municipal-da-japuiba-avanca-em-modernizacao-e-vai-ganhar-setor-de-hemodinamica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 ANGRA DOS REIS

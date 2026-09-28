@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:01Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "niteroi", "regiao-metropolitana", "jiu-jitsu", "projeto-social", "niteroi-metropolitana", "comunidade", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-jiu-jitsu-gratuito-conquista-familias-e-revela-campeoes-em-sao-goncalo-e-niteroi.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O que começou com apenas 20 alunos, em janeiro de 2023, se transformou em um dos maiores projetos sociais de jiu-jítsu da região. Totalmente gratuito, o projeto da equipe AOW Jiu-Jítsu já atende cerca de 400 crianças, adolescentes e adultos em 11 polos espalhados por São Gonçalo e Niterói, na Região Metropolitana do Rio.
 

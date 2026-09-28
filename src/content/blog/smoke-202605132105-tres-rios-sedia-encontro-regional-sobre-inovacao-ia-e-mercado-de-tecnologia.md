@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:42Z"
 draft: true
 tags: ["rio-de-janeiro", "tres-rios", "regiao-centro-sul", "inovacao", "inteligencia-artificial", "tecnologia", "rio-info", "regiao-serrana", "sul-fluminense", "regiao-metropolitana", "joa", "comunidade", "serrana", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132105-tres-rios-sedia-encontro-regional-sobre-inovacao-ia-e-mercado-de-tecnologia.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Três Rios – Três Rios será sede, nos dias 20 e 21 de maio, do Rio Info Centro-Sul 2026, evento promovido pela regional do TI Rio. O encontro reunirá empresários, estudantes e especialistas para debater o uso da inteligência artificial e ampliar oportunidades de negócios na região.

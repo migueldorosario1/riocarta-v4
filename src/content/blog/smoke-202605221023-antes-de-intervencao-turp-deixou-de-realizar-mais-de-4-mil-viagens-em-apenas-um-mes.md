@@ -5,6 +5,7 @@ pubDate: "2026-05-22T10:23:09Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "transporte-mobilidade", "serrana", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221023-antes-de-intervencao-turp-deixou-de-realizar-mais-de-4-mil-viagens-em-apenas-um-mes.jpeg"
+hero_credit: "Rob Newman / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 Horas antes de ser decretada a intervenção na Turp, a CPTrans protocolou na Justiça o relatório operacional que avalia o cumprimento das metas da empresa. O documento, referente às medições de março, aponta que mais de quatro mil viagens não foram realizadas naquele mês, e que nenhuma das metas estabelecidas judicialmente para autorizar o aumento da tarifa de ônibus havia sido integralmente cumprida.
 

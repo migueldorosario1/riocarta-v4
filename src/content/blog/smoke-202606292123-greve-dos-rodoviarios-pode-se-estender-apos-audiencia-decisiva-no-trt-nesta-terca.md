@@ -5,6 +5,7 @@ pubDate: "2026-06-29T21:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "greve", "rodoviarios", "transporte", "brt", "trt", "transporte-mobilidade", "politica-rj", "regiao-metropolitana", "ramos", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292123-greve-dos-rodoviarios-pode-se-estender-apos-audiencia-decisiva-no-trt-nesta-terca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A greve dos rodoviários do Rio de Janeiro, iniciada à meia-noite desta segunda-feira, poderá se estender pelos próximos dias caso não haja acordo na audiência de mediação marcada para as 11h desta terça-feira no Tribunal Regional do Trabalho da 1ª Região (TRT-1). Diante da indefinição, o Sindicato dos Rodoviários convocou uma assembleia para as 11h30, na porta do tribunal, onde a categoria decidirá os rumos do movimento.
 

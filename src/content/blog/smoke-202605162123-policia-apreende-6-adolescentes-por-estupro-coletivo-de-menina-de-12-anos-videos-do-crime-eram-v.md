@@ -5,6 +5,7 @@ pubDate: "2026-05-16T21:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "politica-rj", "regiao-metropolitana", "santissimo", "mage", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-policia-apreende-6-adolescentes-por-estupro-coletivo-de-menina-de-12-anos-videos-do-crime-eram-v.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil do Rio de Janeiro apreendeu, nesta sexta-feira (15), seis dos oito adolescentes investigados por participação no estupro coletivo de uma menina de 12 anos em Campo Grande, na Zona Oeste da capital fluminense. A ação foi coordenada pela Delegacia Especial de Atendimento à Mulher (Deam) de Campo Grande, com o apoio da Delegacia de Proteção à Criança e ao Adolescente (DPCA).
 

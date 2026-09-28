@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:35Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-conrado", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "rocinha", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-estacao-sao-conrado-do-metro-recebe-ponto-de-cadastramento-do-bilhete-unico-intermunicipal.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A estação São Conrado do MetrôRio recebe, entre os dias 18 de maio e 5 de junho, um ponto de cadastramento do Bilhete Único Intermunicipal (BUI) para atender, especialmente, clientes da Rocinha e da região. A iniciativa faz parte da campanha itinerante da Riocard Mais e tem como objetivo garantir que mais passageiros tenham acesso a benefícios como a Tarifa Social, que proporciona descontos nas passagens de trem e metrô.
 

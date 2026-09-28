@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2812_images-2024-01-31T180220.075.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fed mantém atuais taxas de juros e sinaliza cautela com inflação'
 pubDate: 2024-01-31 18:06:09

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:01:50Z"
 draft: true
 tags: ["rio-de-janeiro", "baixada-fluminense", "nova-iguacu", "jardim-guandu", "upa", "saude", "mprj", "regiao-metropolitana", "niteroi-metropolitana", "baixada", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150001-mprj-afasta-medico-e-servidora-acusados-de-venda-ilegal-de-mounjaro-em-upa-da-baixada.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O Ministério Público do Estado do Rio de Janeiro (MPRJ) denunciou um médico e uma servidora pública por participação em um esquema de comercialização e aplicação irregular do medicamento Mounjaro dentro da Unidade de Pronto Atendimento (UPA) Patrícia Marinho, no bairro Jardim Guandu, em Nova Iguaçu, na Baixada Fluminense. A Justiça acolheu o pedido e determinou o afastamento imediato dos dois dos cargos que ocupavam no município.

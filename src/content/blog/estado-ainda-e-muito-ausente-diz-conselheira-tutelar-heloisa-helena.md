@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1566_image-17.png"
+hero_credit: "Pedro Ribeiro Simões from Lisboa, Portugal / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: '“Estado ainda é muito ausente”, diz conselheira tutelar Heloísa Helena'
 pubDate: 2023-10-10 14:25:31

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:36Z"
 draft: true
 tags: ["rio-de-janeiro", "curicica", "jacarepagua", "zona-oeste", "seguranca-publica", "fiscalizacao", "alimentos-estragados", "decon", "rio-capital-zona-oeste", "capital-estado", "jacare", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-policia-fecha-fabrica-de-salgados-com-300-kg-de-alimentos-estragados-em-curicica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Rio

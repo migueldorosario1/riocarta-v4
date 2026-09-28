@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:03:31Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "itaborai", "niteroi", "seguranca-publica", "golpe-contra-idosos", "regiao-metropolitana", "capital-estado", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281900-policia-prende-integrante-de-quadrilha-especializada-em-golpes-contra-idosos-em-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

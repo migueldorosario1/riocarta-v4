@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1797_maxresdefault.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Um terço dos moradores do estado do Rio já ouviram troca de tiros próximo de casa'
 pubDate: 2023-11-04 11:00:00

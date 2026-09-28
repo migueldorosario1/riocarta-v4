@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1100_B93A6641-1-scaled.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Família de Kathlen Romeu é homenageada pelo Sindicato dos Comerciários do Rio'
 pubDate: 2023-08-15 08:49:16

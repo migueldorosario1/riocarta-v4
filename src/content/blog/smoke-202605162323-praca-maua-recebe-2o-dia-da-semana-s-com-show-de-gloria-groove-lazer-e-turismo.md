@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:25:16Z"
 draft: false
 tags: ["rio-de-janeiro", "praca-maua", "zona-portuaria", "rio-capital-centro", "capital-estado", "regiao-metropolitana", "gloria", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-praca-maua-recebe-2o-dia-da-semana-s-com-show-de-gloria-groove-lazer-e-turismo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

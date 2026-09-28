@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:04:01Z"
 draft: true
 tags: ["rio-de-janeiro", "madureira", "cultura-carnaval", "capital-estado", "comunidade", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-o-samba-esta-chorando-corpo-de-noca-da-portela-e-velado-na-quadra-da-escola.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

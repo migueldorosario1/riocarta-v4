@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:24:32Z"
 draft: false
 tags: ["rio-de-janeiro", "avenida-niemeyer", "sao-conrado", "zona-sul", "corpo-de-bombeiros", "policia-civil", "surfista", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "ramos", "seguranca-publica", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282023-corpo-de-bombeiros-encontra-corpo-no-costao-da-av-niemeyer.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-22T14:23:45Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-lins", "zona-norte", "rio-capital-zona-norte", "politica-rj", "leme", "todos-os-santos", "comunidade", "complexo", "baixada", "seguranca-publica", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221423-policia-civil-realiza-operacao-contra-nucleo-operacional-do-cv-no-complexo-do-lins-video-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Policiais civis realizam, na manhã desta sexta-feira (22), mais uma fase da “Operação Contenção” contra integrantes do Comando Vermelho que atuam no Complexo do Lins, na Zona Norte do Rio. Ao todo, os agentes cumprem dezenas de mandados de prisão e de busca e apreensão.
 

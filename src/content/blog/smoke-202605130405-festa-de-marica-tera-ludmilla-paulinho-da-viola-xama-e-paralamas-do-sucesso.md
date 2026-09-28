@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "festa-de-aniversario", "ludmilla", "paulinho-da-viola", "xama", "paralamas-do-sucesso", "cultura", "regiao-metropolitana", "niteroi-sao-goncalo-metropolitana", "mare", "comunidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-festa-de-marica-tera-ludmilla-paulinho-da-viola-xama-e-paralamas-do-sucesso.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Festa de Maricá terá Ludmilla, Paulinho da Viola, Xamã e Paralamas do Sucesso

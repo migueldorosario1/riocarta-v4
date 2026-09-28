@@ -5,6 +5,7 @@ pubDate: "2026-05-21T15:48:44Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "claudio-castro", "politica-rj", "seguranca-publica", "capital", "regiao-metropolitana", "tijuca", "manguinhos", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211248-claudio-castro-tem-celular-e-tablet-apreendidos-pela-pf-em-investigacao-da-refit-ele-diz-ter-sid.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

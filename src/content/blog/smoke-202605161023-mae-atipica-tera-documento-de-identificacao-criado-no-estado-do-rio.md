@@ -5,6 +5,7 @@ pubDate: "2026-05-16T10:23:55Z"
 draft: false
 tags: ["rio-de-janeiro", "lei", "maes-aticas", "politica-rj", "capital", "leme", "rocha", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161023-mae-atipica-tera-documento-de-identificacao-criado-no-estado-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Após a sanção pelo Poder Executivo e publicação no Diário Oficial desta sexta-feira (15), a Lei 11. 186/26, de autoria original do deputado Fred Pacheco (PL), já está em vigor.

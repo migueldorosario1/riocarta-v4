@@ -5,6 +5,7 @@ pubDate: "2026-05-13T11:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "praia-do-pero", "bandeira-azul", "meio-ambiente", "prefeitura-de-cabo-frio", "macae-norte-fluminense", "estacio", "norte-fluminense", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-praia-em-alerta-cabo-frio-corre-pra-nao-perder-selo-internacional.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A possível perda do selo internacional Bandeira Azul na Praia do Pontal do Peró, em Cabo Frio, está relacionada ao descumprimento de critérios exigidos pelo programa, conforme apontado em avaliação técnica recente. A recomendação de encerramento antecipado da certificação ocorreu antes do prazo previsto, que se estendia até março de 2026, após a identificação de falhas em áreas consideradas essenciais.

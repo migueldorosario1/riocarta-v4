@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:01:14Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "estado"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-flavio-bolsonaro-explica-negociacoes-de-filme-nenhum-beneficio-pessoal.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O senador FlĂĄvio Bolsonaro trouxe novos detalhes à tona sobre as negociações que cercam o financiamento do filme "Dark Horse", obra cinematogrĂĄfica que narra a trajetória do ex-presidente Jair Bolsonaro. Em um comunicado divulgado nesta semana, o senador buscou esclarecer seu papel nas conversas que envolveram o ex-banqueiro Daniel Vorcaro.
 

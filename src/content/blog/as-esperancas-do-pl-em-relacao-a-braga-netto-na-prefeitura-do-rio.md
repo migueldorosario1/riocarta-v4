@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp522_image-22.png"
+hero_credit: "Palácio do Planalto / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'As esperanças do PL em relação a Braga Netto na prefeitura do Rio'
 pubDate: 2023-06-22 14:59:36

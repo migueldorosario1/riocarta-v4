@@ -5,6 +5,7 @@ pubDate: "2026-06-29T12:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "direitos-humanos", "comissao-de-direitos-humanos", "politica-rj", "regiao-metropolitana", "jacare", "jacarezinho", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291223-apos-troca-de-comissao-acervo-de-direitos-humanos-da-alerj-sera-enviado-ao-ministerio-publico.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A mudança no comando da Comissão de Defesa dos Direitos Humanos e Cidadania da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) motivou uma iniciativa da deputada estadual Dani Monteiro (PSOL) para resguardar o acervo produzido pelo colegiado ao longo dos últimos anos, informa a Folha de S. Paulo.
 

@@ -9,6 +9,7 @@ lang: "pt-br"
 author: "Redação Rio Carta"
 draft: false
 heroImage: "/hero/jota-lista-todos-os-candidatos-a-senador-pelo-rio-de-janeiro-nas-eleiç.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 O portal JOTA Info publicou uma reportagem com a lista de todos os candidatos a senador pelo Rio de Janeiro nas eleições de 2026. O levantamento reúne os nomes que disputam as cadeiras do estado no Senado Federal.

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7772_WhatsApp-Image-2026-04-02-at-20.21.13-1.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá projeta entrega de postos até dezembro'
 pubDate: 2026-04-07 11:28:50

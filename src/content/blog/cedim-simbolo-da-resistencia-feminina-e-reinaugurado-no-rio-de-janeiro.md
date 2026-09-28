@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6688_IMG-20250327-WA0041-2-e1743100301551.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'CEDIM, símbolo da resistência feminina, é reinaugurado no Rio de Janeiro'
 pubDate: 2025-03-27 15:33:03

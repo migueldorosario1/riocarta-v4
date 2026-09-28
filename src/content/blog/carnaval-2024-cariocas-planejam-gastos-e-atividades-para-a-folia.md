@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2736_images-2024-01-30T163715.370.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 Cariocas planejam gastos e atividades para a Folia'
 pubDate: 2024-01-30 16:40:03

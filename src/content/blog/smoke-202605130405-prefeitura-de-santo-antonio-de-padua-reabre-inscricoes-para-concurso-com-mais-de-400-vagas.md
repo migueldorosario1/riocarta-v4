@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:18Z"
 draft: true
 tags: ["rio-de-janeiro", "santo-antonio-de-padua", "concurso-publico", "prefeitura", "vagas", "interior-rj", "norte-noroeste-fluminense", "regiao-metropolitana", "mage", "noroeste-fluminense", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-prefeitura-de-santo-antonio-de-padua-reabre-inscricoes-para-concurso-com-mais-de-400-vagas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Foram reabertas as inscrições do concurso público da Prefeitura de Santo Antônio de Pádua após a suspensão temporária do certame, determinada por meio do Decreto Municipal nº 046/2026. A medida foi adotada para adequar o processo seletivo às recomendações do Ministério Público e às políticas de igualdade racial.

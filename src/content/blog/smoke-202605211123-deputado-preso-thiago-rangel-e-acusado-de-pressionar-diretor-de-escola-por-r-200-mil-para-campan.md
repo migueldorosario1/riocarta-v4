@@ -5,6 +5,7 @@ pubDate: "2026-05-21T11:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "noroeste-fluminense", "politica-rj", "educacao", "norte-noroeste-fluminense", "regiao-metropolitana", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211123-deputado-preso-thiago-rangel-e-acusado-de-pressionar-diretor-de-escola-por-r-200-mil-para-campan.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um diretor de uma escola da rede estadual no Noroeste Fluminense, não identificado pelos investigadores, denunciou à Polícia Federal ter sofrido pressão para liberar R$ 200 mil da conta de uma unidade escolar. Segundo o relato, o valor seria usado para abastecer a campanha eleitoral de Thamires Rangel, filha do deputado estadual Thiago Rangel, preso durante a quarta fase da Operação Unha e Carne.
 

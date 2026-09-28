@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:49:46Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "itaborai", "resende", "capital", "seguranca-publica", "regiao-metropolitana", "marica", "penha", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-pf-deflagra-6a-fase-da-operacao-unha-e-carne-contra-lavagem-de-dinheiro-no-rio-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Resumo da notícia
 

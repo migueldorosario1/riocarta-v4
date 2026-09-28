@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:29:40Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-dos-lagos", "seguranca-publica", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-guarda-municipal-recupera-caminhonete-com-registro-de-roubo-em-bairro-de-marica-rj.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma caminhonete com registro de roubo foi recuperada por agentes da Guarda Municipal de Maricá na tarde deste sábado (30), em São José do Imbassaí.
 

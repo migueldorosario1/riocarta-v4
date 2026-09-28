@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:01:40Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "restinga-do-pecado", "recuperacao-ambiental", "restinga", "meio-ambiente", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "mare", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-restinga-do-pecado-em-macae-recebe-recuperacao-ambiental-com-projeto.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria Municipal de Ambiente, Sustentabilidade e Clima de Macaé inicia a primeira etapa do Projeto de Recuperação Florestal da vegetação de restinga na Praia do Pecado, com execução prevista entre 18 e 28 deste mês. A iniciativa integra o programa Restinga Boa é Restinga Nativa e prevê ações de recuperação de aproximadamente 1,91 hectares de área de vegetação nativa na faixa litorânea norte da praia.
 

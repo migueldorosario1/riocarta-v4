@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "parque-nacional-do-itatiaia", "itatiaia", "regiao-serrana", "javali", "fauna-invasora", "meio-ambiente", "sul-fluminense", "sul-fluminense-costa-verde", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-parque-nacional-do-itatiaia-alerta-sobre-presenca-de-javalis-na-reserva.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 ITATIAIA

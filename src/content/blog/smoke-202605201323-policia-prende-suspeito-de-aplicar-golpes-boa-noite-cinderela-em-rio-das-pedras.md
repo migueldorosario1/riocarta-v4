@@ -5,6 +5,7 @@ pubDate: "2026-05-20T13:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-pedras", "zona-oeste", "rio-capital-zona-oeste", "capital-estado", "comunidade", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201323-policia-prende-suspeito-de-aplicar-golpes-boa-noite-cinderela-em-rio-das-pedras.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

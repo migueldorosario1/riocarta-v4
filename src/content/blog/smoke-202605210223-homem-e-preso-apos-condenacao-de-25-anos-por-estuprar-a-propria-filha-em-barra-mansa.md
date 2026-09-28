@@ -5,6 +5,7 @@ pubDate: "2026-05-21T02:23:13Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "itaborai", "sul-fluminense", "seguranca-publica", "estupro-de-vulneravel", "policia-civil", "sul-fluminense-costa-verde", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210223-homem-e-preso-apos-condenacao-de-25-anos-por-estuprar-a-propria-filha-em-barra-mansa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA MANSA / ITABORAÍ
 

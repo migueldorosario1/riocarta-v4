@@ -5,6 +5,7 @@ pubDate: "2026-05-16T07:24:45Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-matilde", "zona-leste", "cultura-carnaval", "mare", "comunidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160723-em-busca-da-retomada-nene-de-vila-matilde-apresenta-enredo-afro-para-o-carnaval-2027.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A última quarta-feira foi marcada por emoção, ancestralidade e sentimento de pertencimento na explanação do enredo da Nenê de Vila Matilde para o Carnaval 2027. Com presença da imprensa, compositores e integrantes da comunidade, a azul e branca da Zona Leste apresentou oficialmente “Mulheres de Palmares – A Liberdade Tem Rosto de Mulher”, enredo que será desenvolvido pelo carnavalesco Chico Ângelo no Grupo de Acesso 2.

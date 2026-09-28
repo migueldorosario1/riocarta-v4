@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1772_whatsapp-image-2023-11-02-at-14.53.35-2-.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Festa de Torcedores em Copacabana Termina em Briga e Correria com Três Detidos'
 pubDate: 2023-11-03 06:30:00

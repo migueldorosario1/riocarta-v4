@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:27:48Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "tiroteio", "regiao-metropolitana", "politica-rj", "estacio", "baixada", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-video-tiroteio-entre-pm-de-folga-e-outro-homem-deixa-dois-feridos-em-shopping-de-caxias.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma troca de tiros entre um policial militar de folga e outro homem deixou ambos feridos na noite deste sábado (27), no estacionamento de um shopping center em Duque de Caxias, na Baixada Fluminense. O episódio provocou momentos de tensão entre clientes e funcionários, que correram para buscar abrigo após ouvirem os disparos.
 

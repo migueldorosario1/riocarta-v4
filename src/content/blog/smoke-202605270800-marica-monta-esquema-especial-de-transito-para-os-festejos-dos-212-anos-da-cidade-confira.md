@@ -5,6 +5,7 @@ pubDate: "2026-05-27T08:00:28Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "barra-de-marica", "transito", "aniversario", "regiao-dos-lagos", "regiao-metropolitana", "estacio", "joa", "problemas-estruturais", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605270800-marica-monta-esquema-especial-de-transito-para-os-festejos-dos-212-anos-da-cidade-confira.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Maricá preparou um esquema especial de orientação e interdição viária para garantir segurança e fluidez no tráfego durante a segunda semana de comemorações pelos 212 anos do município. As alterações acontecem entre os dias 22 e 26 de maio, com operações concentradas na Barra de Maricá e no Centro da cidade, locais que receberão shows e os tradicionais atos cívicos do aniversário.
 

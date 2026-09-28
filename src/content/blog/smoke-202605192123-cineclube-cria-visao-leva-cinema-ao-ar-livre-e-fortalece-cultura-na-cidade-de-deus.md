@@ -5,6 +5,7 @@ pubDate: "2026-05-19T21:23:15Z"
 draft: false
 tags: ["rio-de-janeiro", "cidade-de-deus", "cultura-carnaval", "favelas-comunidades", "favela", "comunidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605192123-cineclube-cria-visao-leva-cinema-ao-ar-livre-e-fortalece-cultura-na-cidade-de-deus.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Cidade de Deus, território marcado por potência cultural e histórica, ganha um novo capítulo na democratização do acesso à arte com o CineClube Cria Visão. Idealizado por jovens da própria comunidade, o projeto nasce com a proposta de levar cinema ao ar livre para praças, escolas e espaços públicos, criando encontros que vão além da exibição de filmes.
 

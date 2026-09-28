@@ -5,6 +5,7 @@ pubDate: "2026-06-29T19:24:43Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-familia-tem-casa-danificada-apos-confusao-com-entregador-na-zona-sul.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1754_whatsapp-image-2023-10-31-at-18.55.00.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação Conjunta da PF e MP Investiga Bens de Milícia de Rio das Pedras, Incluindo Frota de Blindados e Propriedade em Angra'
 pubDate: 2023-11-01 13:57:51

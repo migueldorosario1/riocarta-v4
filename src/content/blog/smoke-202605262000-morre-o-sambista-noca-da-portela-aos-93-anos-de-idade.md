@@ -5,6 +5,7 @@ pubDate: "2026-05-26T20:00:23Z"
 draft: false
 tags: ["rio-de-janeiro", "cultura-carnaval", "serrana", "regiao-metropolitana", "petropolis", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605262000-morre-o-sambista-noca-da-portela-aos-93-anos-de-idade.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O cantor e compositor Noca da Portela morreu neste domingo, 17, aos 93 anos de idade. A informação foi divulgada pela escola de samba Portela, que lamentou a perda de “um dos grandes nomes” de sua história.
 

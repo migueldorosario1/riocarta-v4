@@ -5,6 +5,7 @@ pubDate: "2026-05-19T19:18:03Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-porto", "alto-da-boa-vista", "ipanema", "lagoa", "leblon", "sao-conrado", "tijuca", "cascadura", "penha", "ramos", "riachuelo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-taxa-de-condominio-media-no-rio-chegou-a-r-1-1-mil-e-continua-subindo-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O custo de morar em condomínio no Rio ficou mais alto em 2026. A taxa média condominial na capital subiu 16% nos quatro primeiros meses do ano, na comparação com o mesmo período de 2025, segundo levantamento da Loft.
 

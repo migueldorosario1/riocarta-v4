@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:07:32Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "politica-rj", "governo-rj", "operacao-pf", "regiao-metropolitana", "manguinhos", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-cooptacao-integral-do-estado-pf-diz-que-castro-mobilizou-orgaos-do-rj-em-favor-da-refit.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A decisão do ministro Alexandre de Moraes que embasou a operação da Polícia Federal deflagrada nesta sexta-feira (15) detalha como o ex-governador do Rio, Cláudio Castro, teria atuado para favorecer interesses do grupo Refit, antiga Refinaria de Manguinhos.

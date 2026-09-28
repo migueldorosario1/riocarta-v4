@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1909_1_whatsapp_image_2023_11_13_at_07_54_39-31122268.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Colisão entre trens na estação de Madureira gera transtornos e deixa sete passageiros feridos'
 pubDate: 2023-11-13 12:00:00

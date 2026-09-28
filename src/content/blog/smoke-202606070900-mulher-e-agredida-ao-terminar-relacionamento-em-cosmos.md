@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:00:18Z"
 draft: true
 tags: ["rio-de-janeiro", "cosmos", "zona-oeste", "rio-capital-zona-oeste", "politica-rj", "rocha", "angra", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-mulher-e-agredida-ao-terminar-relacionamento-em-cosmos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Karoline Rabello, de 27 anos, denunciou ter sido vítima de uma série de agressões cometidas pelo ex-namorado em Cosmos, na Zona Oeste do Rio. Segundo a jovem, o ataque aconteceu no último domingo (17), após ela decidir colocar fim no relacionamento ao descobrir uma traição.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-28T23:26:24Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "presidente-vargas", "guarda-municipal", "balao", "rio-capital-centro", "politica-rj", "centro-do-rio", "zona-sul", "copacabana", "flamengo", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282323-balao-de-cinco-metros-cai-em-arvore-na-presidente-vargas-e-e-apreendido-pela-guarda-municipal.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

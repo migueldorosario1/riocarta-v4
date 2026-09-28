@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2984_20240205c05a9660a748420180e6cc00a370d9af_XxjwspP007014_20240205_CBMFN0A001.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'China intensifica esforços para expandir indústria aeroespacial'
 pubDate: 2024-02-06 05:20:00

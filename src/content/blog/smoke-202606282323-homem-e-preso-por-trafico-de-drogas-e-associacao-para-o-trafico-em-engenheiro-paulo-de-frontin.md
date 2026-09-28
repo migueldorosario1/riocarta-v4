@@ -5,6 +5,7 @@ pubDate: "2026-06-28T23:25:01Z"
 draft: false
 tags: ["rio-de-janeiro", "engenheiro-paulo-de-frontin", "sul-fluminense", "seguranca-publica", "trafico-de-drogas", "sul-fluminense-costa-verde", "pirai", "colegio", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282323-homem-e-preso-por-trafico-de-drogas-e-associacao-para-o-trafico-em-engenheiro-paulo-de-frontin.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Engenheiro Paulo de Frontin
 

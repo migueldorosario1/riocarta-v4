@@ -5,6 +5,7 @@ pubDate: "2026-05-20T15:23:17Z"
 draft: false
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "regiao-dos-lagos", "regiao-metropolitana", "leme", "buzios", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201523-operacao-fruto-podre-termina-com-cinco-presos-em-buzios.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil realizou, nesta terça-feira (19), a operação “Fruto Podre” em Armação dos Búzios, resultando no cumprimento de quatro mandados de prisão preventiva e em prisões em flagrante por tráfico de drogas e furto de energia. A ação foi coordenada pela Polícia Civil do Estado do Rio de Janeiro, por meio da 127ª Delegacia de Polícia de Armação dos Búzios (127ª DP), com apoio da Coordenadoria de Recursos Especiais (CORE).
 

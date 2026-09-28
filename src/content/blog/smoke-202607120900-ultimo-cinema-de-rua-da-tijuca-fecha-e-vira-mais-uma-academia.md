@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:39Z"
 draft: true
 tags: ["rio-de-janeiro", "tijuca", "zona-norte", "rio-capital-zona-sul-grande-tijuca", "capital-porto", "centro-do-rio", "botafogo", "copacabana", "flamengo", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-ultimo-cinema-de-rua-da-tijuca-fecha-e-vira-mais-uma-academia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Após mais de 30 anos desativado, o imóvel que abrigou o Cine Tijuca Palace, último cinema de rua da Tijuca, terá um novo destino: uma academia da rede Ultra. Localizado na Galeria Caruso, na Rua Conde de Bonfim, o espaço vinha sendo alvo de negociações entre os proprietários, a Prefeitura, a RioFilme e a Secretaria Municipal de Cultura para voltar a funcionar como cinema, mas as tratativas não avançaram.
 

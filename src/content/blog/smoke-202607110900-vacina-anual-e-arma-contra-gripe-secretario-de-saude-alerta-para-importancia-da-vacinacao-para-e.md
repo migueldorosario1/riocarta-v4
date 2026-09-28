@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:18Z"
 draft: false
 tags: ["rio-de-janeiro", "vacinacao", "gripe", "saude-publica", "secretario-municipal-de-saude", "saude-e-educacao-rj", "favelas-comunidades", "regiao-metropolitana", "botafogo", "favela", "comunidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-vacina-anual-e-arma-contra-gripe-secretario-de-saude-alerta-para-importancia-da-vacinacao-para-e.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Com a chegada das temperaturas mais baixas, cresce também a circulação de vírus respiratórios e, entre esses, a influenza segue como a principal preocupação das autoridades de saúde. No Rio de Janeiro, a campanha de vacinação contra a gripe já está em andamento, com doses disponíveis gratuitamente para toda a população a partir dos seis meses de idade.
 

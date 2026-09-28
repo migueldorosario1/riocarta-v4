@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:02:10Z"
 draft: false
 tags: ["rio-de-janeiro", "pavuna", "zona-norte", "bala-perdida", "seguranca-publica", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "joa", "comunidade", "complexo", "baixada", "sao-joao-de-meriti", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-crianca-atingida-por-bala-perdida-na-pavuna-morreu-nos-bracos-do-irmao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

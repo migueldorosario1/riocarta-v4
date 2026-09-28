@@ -5,6 +5,7 @@ pubDate: "2026-05-31T00:00:20Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "flavio-bolsonaro", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605310000-valor-pedido-por-flavio-bolsonaro-a-vorcaro-equivale-a-11-do-total-que-rioprevidencia-e-cedae-in.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O pedido de R$ 134 milhões feito pelo senador Flávio Bolsonaro ao banqueiro Daniel Vorcaro para financiar um filme biográfico sobre o ex-presidente Jair Bolsonaro passou a chamar atenção após a revelação de que o valor representa cerca de 11% do montante investido no Banco Master por órgãos ligados ao governo do Rio de Janeiro durante a gestão de Cláudio Castro, informa o colunista Octavio Guedes, do g1.
 

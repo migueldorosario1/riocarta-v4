@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6540_image-2.png"
+hero_credit: "Dominique Roger / Wikimedia Commons (CC BY-SA 3.0 igo)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisadores da Faperj poderão ter direito de férias; iniciativa para bolsistas é pioneira no Brasil'
 pubDate: 2025-02-04 23:37:52

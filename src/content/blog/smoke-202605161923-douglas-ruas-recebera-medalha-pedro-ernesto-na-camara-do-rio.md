@@ -5,6 +5,7 @@ pubDate: "2026-05-16T19:24:14Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "capital", "regiao-metropolitana", "sao-goncalo", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161923-douglas-ruas-recebera-medalha-pedro-ernesto-na-camara-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O presidente da Assembleia Legislativa do Estado do Rio de Janeiro, Douglas Ruas, será homenageado com a Medalha Pedro Ernesto, considerada a maior honraria concedida pela Câmara Municipal do Rio de Janeiro. A cerimônia está marcada para esta segunda-feira (18/05), às 18h, no plenário da Casa.
 

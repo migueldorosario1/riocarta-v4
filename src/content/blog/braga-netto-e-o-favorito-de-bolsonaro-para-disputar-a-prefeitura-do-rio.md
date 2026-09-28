@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp32_123818480_a57e5344-dd67-482c-bd03-bcac70ebcf9b.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Braga Netto é o favorito de Bolsonaro para disputar a prefeitura do Rio'
 pubDate: 2023-06-09 11:23:23

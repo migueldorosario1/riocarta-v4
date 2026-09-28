@@ -5,6 +5,7 @@ pubDate: "2026-05-30T18:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-sul", "zona-oeste", "bangu", "seguranca-publica", "politica-rj", "regiao-metropolitana", "lagoa", "zona-norte", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605301800-cortejo-de-piloto-da-policia-civil-morto-apos-ataque-passa-por-varios-bairros.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O cortejo em homenagem ao policial civil Felipe Marques Monteiro, morto após ser baleado durante uma operação na Vila Aliança, na Zona Oeste do Rio, reuniu colegas de corporação, familiares e amigos na tarde desta terça-feira (19).
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-21T18:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "marielle-franco", "stf", "policia-civil", "politica-rj", "serrana", "regiao-metropolitana", "leme", "petropolis", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211823-stf-torna-reus-policiais-em-novo-processo-do-caso-marielle.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Primeira Turma do Supremo Tribunal Federal (STF) decidiu por unanimidade nesta quinta-feira, 21, tornar réus os delegados Rivaldo Barbosa e Giniton Lages e o comissário da Polícia Civil Marco Antonio de Barros Pinto em um novo processo relacionado ao assassinato da vereadora Marielle Franco e do motorista Anderson Gomes.
 

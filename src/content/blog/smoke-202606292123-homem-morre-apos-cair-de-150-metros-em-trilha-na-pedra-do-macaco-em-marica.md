@@ -5,6 +5,7 @@ pubDate: "2026-06-29T21:27:04Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "sao-jose-de-imbassai", "pedra-do-macaco", "acidente", "regiao-metropolitana", "capital", "niteroi", "lagoa", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-homem-morre-apos-cair-de-150-metros-em-trilha-na-pedra-do-macaco-em-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

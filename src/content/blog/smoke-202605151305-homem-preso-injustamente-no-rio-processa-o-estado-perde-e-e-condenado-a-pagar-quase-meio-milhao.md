@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:05:46Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "justica", "seguranca-publica", "regiao-metropolitana", "capital-porto", "baixada"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-homem-preso-injustamente-no-rio-processa-o-estado-perde-e-e-condenado-a-pagar-quase-meio-milhao-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A busca por justiça do dentista André Luiz Medeiros Biazucci Cardoso, de 39 anos, transformou-se em um pesadelo financeiro e psicológico sem precedentes no Rio de Janeiro. Após passar 210 dias preso injustamente por crimes de estupro que não cometeu em Belford Roxo, na Baixada Fluminense, ele processou o Estado cobrando reparação pelos danos sofridos.

@@ -5,6 +5,7 @@ pubDate: "2026-05-21T23:26:13Z"
 draft: false
 tags: ["rio-de-janeiro", "nova-friburgo", "regiao-serrana", "temporal", "chuvas", "alagamento", "norte-noroeste-fluminense", "regiao-metropolitana", "olaria", "noroeste-fluminense", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212323-temporal-com-rajadas-de-vento-arranca-telhados-e-assuta-moradores-em-friburgo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma forte chuva acompanhada de rajadas de vento atingiu Nova Friburgo na manhã desta quarta-feira (20). O temporal provocou pontos de alagamento e falta de energia.
 

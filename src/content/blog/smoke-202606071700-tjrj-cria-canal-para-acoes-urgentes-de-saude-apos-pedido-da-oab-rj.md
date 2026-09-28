@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:00:15Z"
 draft: true
 tags: ["rio-de-janeiro", "tribunal-de-justica", "advocacia", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "leme", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-tjrj-cria-canal-para-acoes-urgentes-de-saude-apos-pedido-da-oab-rj.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Medida busca acelerar atendimento a advogados em processos graves e pedidos de tutela antecipada
 

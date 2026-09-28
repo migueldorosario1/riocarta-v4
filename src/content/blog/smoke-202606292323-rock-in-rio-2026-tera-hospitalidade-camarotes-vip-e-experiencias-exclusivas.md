@@ -5,6 +5,7 @@ pubDate: "2026-06-29T23:27:06Z"
 draft: true
 tags: ["rio-de-janeiro", "rock-in-rio", "barra-da-tijuca", "cultura", "cidade-do-rock", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-rock-in-rio-2026-tera-hospitalidade-camarotes-vip-e-experiencias-exclusivas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

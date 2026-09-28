@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:02:27Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "estelionato", "seguranca-publica", "regiao-metropolitana", "mare", "joa", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-mae-e-filho-acusados-de-aplicar-serie-de-golpes-imobiliarios-sao-presos-por-estelionato-em-cabo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil prendeu, nesta sexta-feira (15), mãe e filho suspeitos de aplicar diversos golpes envolvendo aluguéis e vendas de imóveis em Cabo Frio. A ação foi realizada por agentes da 126ª Delegacia de Polícia, após meses de investigação conduzida pelo setor de fraudes da unidade.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-20T04:24:23Z"
 draft: false
 tags: ["rio-de-janeiro", "quintino", "zona-norte", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "meier", "rocha-miranda", "rocha", "joa", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200423-mulher-e-morta-por-bala-perdida-em-tiroteio-na-zona-norte-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

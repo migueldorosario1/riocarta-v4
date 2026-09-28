@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1609_whatsapp-image-2023-10-18-at-08.20.33.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF e Receita Federal faz operação contra empresários do Rio que devem 5 Bi em impostos'
 pubDate: 2023-10-18 12:31:30

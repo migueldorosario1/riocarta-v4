@@ -5,6 +5,7 @@ pubDate: "2026-06-30T02:23:29Z"
 draft: false
 tags: ["rio-de-janeiro", "greve", "transporte-publico", "rodoviarios", "transporte-mobilidade", "capital", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300223-greve-de-onibus-no-rio-de-janeiro-e-mantida-e-rodoviarios-cobram-dignidade-em-audiencia-no-trt.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A greve dos rodoviários na cidade do Rio de Janeiro expõe as contradições estruturais de um sistema de transporte público gerido pela lógica do lucro privado. Iniciada à meia-noite desta segunda-feira, a paralisação foi referendada em assembleia da categoria diante da ausência de propostas reais do patronato.
 

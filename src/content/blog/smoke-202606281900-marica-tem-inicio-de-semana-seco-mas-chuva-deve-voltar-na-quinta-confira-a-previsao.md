@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:04:18Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-dos-lagos", "clima", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281900-marica-tem-inicio-de-semana-seco-mas-chuva-deve-voltar-na-quinta-confira-a-previsao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Depois de um junho atípico, marcado por chuva muito acima da média, segunda, terça e quarta-feira devem abrir uma janela de tempo firme em Maricá, com máximas próximas de 25°C e baixa probabilidade de chuva. A trégua, porém, tende a ser curta: a partir de quinta (02/07), a previsão volta a indicar pancadas.
 

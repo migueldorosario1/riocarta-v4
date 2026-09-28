@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:00:28Z"
 draft: true
 tags: ["rio-de-janeiro", "rock-in-rio", "barra-da-tijuca", "zona-oeste", "cultura", "rio-capital-barra-recreio-jacarepagua", "capital-estado", "tijuca", "joa", "favela", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-rock-in-rio-2026-aposta-em-rap-k-pop-e-telao-gigante-confira-o-line-up-do-supernova-e-global-vil.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

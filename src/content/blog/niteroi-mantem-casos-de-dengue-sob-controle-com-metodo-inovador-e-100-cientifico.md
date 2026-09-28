@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3281_soltura-de-mosquitos-em-Jurujuba-2.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói mantém casos de dengue sob controle com método inovador e 100% científico'
 pubDate: 2024-02-17 11:39:14

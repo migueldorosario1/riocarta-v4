@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:02:48Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "vacinacao", "gripe", "saude", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-sao-goncalo-amplia-vacina-contra-gripe-desde-6-meses.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 São Gonçalo abriu a vacinação contra a gripe para toda a população com mais de seis meses. Segundo a prefeitura, a imunização está disponível em 65 unidades de saúde do município.
 

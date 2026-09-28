@@ -5,6 +5,7 @@ pubDate: "2026-05-29T10:00:14Z"
 draft: false
 tags: ["rio-de-janeiro", "rioprevidencia", "politica-rj", "ricardo-couto", "detran-rj", "inea", "capital", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605291000-apos-acao-da-pf-ricardo-couto-poe-presidente-do-rioprevidencia-na-area-de-investimentos.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O governador em exercício do Rio de Janeiro, Ricardo Couto, promoveu uma alteração profunda na estrutura de governança do Rioprevidência, o fundo responsável pelas aposentadorias e pensões dos servidores públicos estaduais. Conforme publicado no Diário Oficial, o atual diretor-presidente da autarquia, Felipe Derbli, foi designado para assumir de forma interina o comando da Diretoria de Investimentos.
 

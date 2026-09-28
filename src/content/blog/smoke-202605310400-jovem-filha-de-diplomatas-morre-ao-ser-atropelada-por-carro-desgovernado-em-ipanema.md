@@ -5,6 +5,7 @@ pubDate: "2026-05-31T04:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "leblon", "iraja", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605310400-jovem-filha-de-diplomatas-morre-ao-ser-atropelada-por-carro-desgovernado-em-ipanema.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um grave acidente registrado no último sábado (16) em Ipanema, na zona sul do Rio de Janeiro, terminou com a morte de uma jovem de 20 anos. Mariana Atanaka Abduhraki foi atropelada por um carro que perdeu o controle, subiu na calçada e atingiu três pessoas.
 

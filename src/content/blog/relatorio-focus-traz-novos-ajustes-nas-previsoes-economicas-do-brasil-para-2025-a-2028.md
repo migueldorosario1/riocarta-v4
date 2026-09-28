@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6422_imagem-14.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Relatório Focus traz novos ajustes nas previsões econômicas do Brasil para 2025 a 2028'
 pubDate: 2025-01-13 11:33:53

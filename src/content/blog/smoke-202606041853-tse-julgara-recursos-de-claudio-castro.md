@@ -5,6 +5,7 @@ pubDate: "2026-06-04T18:53:55Z"
 draft: false
 tags: ["rio-de-janeiro", "claudio-castro", "tse", "alerj", "eleicoes", "politica-rj", "capital", "regiao-metropolitana", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606041853-tse-julgara-recursos-de-claudio-castro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Tribunal Superior Eleitoral marcou para esta terça-feira, dia dois de junho de dois mil e vinte e seis, o julgamento dos recursos apresentados pelo ex-governador fluminense Cláudio Castro, pelo ex-presidente da Assembleia Legislativa do Rio Rodrigo Bacellar e pela Procuradoria-Geral Eleitoral.
 

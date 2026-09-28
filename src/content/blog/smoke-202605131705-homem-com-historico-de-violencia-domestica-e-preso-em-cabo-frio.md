@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:35Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "violencia-domestica", "seguranca-publica", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-homem-com-historico-de-violencia-domestica-e-preso-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Um homem identificado como W. C.

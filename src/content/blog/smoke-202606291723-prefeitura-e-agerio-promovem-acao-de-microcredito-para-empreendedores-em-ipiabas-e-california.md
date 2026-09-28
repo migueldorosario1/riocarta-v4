@@ -5,6 +5,7 @@ pubDate: "2026-06-29T17:26:24Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "ipiabas", "california", "microcredito", "agerio", "empreendedorismo", "sul-fluminense-costa-verde", "sul-fluminense", "pirai", "rocha", "seguranca-publica", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-prefeitura-e-agerio-promovem-acao-de-microcredito-para-empreendedores-em-ipiabas-e-california.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

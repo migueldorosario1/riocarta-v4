@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:17Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "ipanema", "zona-sul", "prefeitura-do-rio", "desapropriacao", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-prefeitura-desapropria-predios-abandonados-em-ipanema-e-copacabana-na-zona-sul.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio ampliou a ofensiva sobre imóveis abandonados na cidade cidade e desapropriou dois prédios na Zona Sul. O decreto assinado pelo prefeito Eduardo Cavaliere (PSD) e publicado no Diário Oficial desta terça-feira (7) declara de utilidade pública imóveis localizados em Ipanema e Copacabana.
 

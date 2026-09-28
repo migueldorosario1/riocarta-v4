@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2362_image_processing20200527-22141-16lo6fg.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mulher ferida em tiroteio no Jacarezinho, moradores relatam confrontos diários'
 pubDate: 2024-01-11 13:45:00

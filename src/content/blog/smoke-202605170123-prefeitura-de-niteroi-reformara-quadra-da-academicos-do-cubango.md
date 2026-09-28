@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:23:19Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "academia", "cubango", "regiao-metropolitana", "sao-goncalo-itaborai", "bangu", "comunidade", "sao-goncalo", "itaborai", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-prefeitura-de-niteroi-reformara-quadra-da-academicos-do-cubango.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Parceria marca um novo momento para a Verde e Branca, que segue firme na luta pelo retorno à Sapucaí em 2027
 

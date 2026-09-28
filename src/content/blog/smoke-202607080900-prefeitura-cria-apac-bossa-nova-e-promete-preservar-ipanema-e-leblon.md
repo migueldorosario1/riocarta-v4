@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:10Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "leblon", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-porto", "portuguesa", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-prefeitura-cria-apac-bossa-nova-e-promete-preservar-ipanema-e-leblon.jpg"
+hero_credit: "MTur Destinos / Wikimedia Commons (Public domain)"
 ---
 O prefeito do Rio, Eduardo Cavaliere, anunciou nesta quinta-feira a criação da Área de Proteção do Ambiente Cultural (Apac) Bossa Nova, que abrange a orla de Ipanema e do Leblon. A medida estabelece novas regras urbanísticas com a promessa de preservar a paisagem cultural e o ambiente urbano da região.
 

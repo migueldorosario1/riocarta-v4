@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5856_imagem-69.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-chefe da polícia civil do RJ nega proteção a suspeitos no caso Marielle Franco'
 pubDate: 2024-10-24 20:41:55

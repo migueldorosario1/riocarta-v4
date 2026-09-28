@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2939_images-2024-02-03T101258.369.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Censo revela que estado do Rio bateu recorde na concentração de templos religiosos'
 pubDate: 2024-02-03 10:15:41

@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:03:05Z"
 draft: false
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "alerj", "milicias", "rio-das-pedras", "crime-organizado", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-a-retorica-antiterrorista-e-as-contradicoes-do-bolsonarismo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O senador Flávio Bolsonaro (PL-RJ) converteu a recente decisão dos Estados Unidos de classificar o Primeiro Comando da Capital (PCC) e o Comando Vermelho (CV) como organizações terroristas em plataforma central de sua pré-campanha à Presidência da República em 2026. O anúncio do parlamentar ocorreu após agenda com o ex-presidente estadunidense Donald Trump.
 

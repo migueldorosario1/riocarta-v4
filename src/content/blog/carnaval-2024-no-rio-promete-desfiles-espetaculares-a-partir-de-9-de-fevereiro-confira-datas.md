@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2164_52023124726_c57e4b09f5_c.jpg"
+hero_credit: "Carnaval.com Studios from The Inner Mission San Francisco, Earth / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 no Rio promete desfiles espetaculares a partir de 9 de fevereiro, confira datas'
 pubDate: 2023-12-18 16:20:00

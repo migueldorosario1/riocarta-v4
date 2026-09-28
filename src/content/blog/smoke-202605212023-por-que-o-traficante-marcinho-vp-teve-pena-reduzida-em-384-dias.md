@@ -5,6 +5,7 @@ pubDate: "2026-05-21T20:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "marcinho-vp", "comando-vermelho", "seguranca-publica", "capital", "campo-grande"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212023-por-que-o-traficante-marcinho-vp-teve-pena-reduzida-em-384-dias.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Ele é pai do rapper Oruam, que está foragido da Justiça e teve prisão preventiva pedida pelo Ministério Público de São Paulo
 

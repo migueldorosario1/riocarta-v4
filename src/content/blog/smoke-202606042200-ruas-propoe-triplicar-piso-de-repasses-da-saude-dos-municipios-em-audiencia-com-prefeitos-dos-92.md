@@ -5,6 +5,7 @@ pubDate: "2026-06-04T22:03:50Z"
 draft: false
 tags: ["rio-de-janeiro", "saude", "orcamento-estadual", "alerj", "municipios-fluminenses", "politica-rj", "regiao-dos-lagos", "cabo-frio", "resende"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606042200-ruas-propoe-triplicar-piso-de-repasses-da-saude-dos-municipios-em-audiencia-com-prefeitos-dos-92.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Assembleia Legislativa do Rio (Alerj) pretende ampliar os recursos destinados aos municípios para investimentos na saúde e estabelecer maior previsibilidade nos repasses estaduais. As propostas foram apresentadas nesta segunda-feira (1º) pelo presidente da Casa, Douglas Ruas (PL), durante a audiência pública com prefeitos dos 92 municípios fluminenses na Carioca para discutir a elaboração do orçamento estadual.
 

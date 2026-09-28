@@ -5,6 +5,7 @@ pubDate: "2026-05-16T09:23:58Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "regiao-metropolitana", "leme", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160923-claudio-castro-reage-a-operacao-da-pf-e-nega-favorecimento-a-refit-em-video-nas-redes-assista.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O ex-governador do Rio de Janeiro Cláudio Castro divulgou um vídeo nas redes sociais nesta sexta-feira (15) para rebater as acusações envolvendo a Operação Sem Refino, deflagrada pela Polícia Federal. A investigação apura suspeitas de favorecimento ao grupo Refit, ligado ao empresário Ricardo Magro.

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:56Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "estupro", "violencia-sexual", "seguranca-publica", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-trauma-e-sofrimento-padrasto-e-preso-em-marica-apos-anos-de-abusos-contra-a-enteada-menor.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Polícia Civil prendeu nesta segunda-feira (11), em Maricá, na Região Metropolitana do Rio, um homem condenado a 30 anos de prisão por estuprar a própria enteada, que na época dos crimes tinha apenas 11 anos de idade. O condenado, identificado como Cláudio Miranda Marques, estava foragido da Justiça após sentença definitiva e foi localizado durante a Operação Rede Segura.

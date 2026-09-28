@@ -5,6 +5,7 @@ pubDate: "2026-05-16T05:24:15Z"
 draft: false
 tags: ["rio-de-janeiro", "theatro-municipal", "musica", "cultura-carnaval", "capital-estado", "regiao-metropolitana", "joa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160523-hits-de-bruno-mars-ganham-versoes-orquestrais-em-apresentacao-no-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Entretenimento

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "costa-barros", "zona-norte", "belford-roxo", "baixada-fluminense", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "barros-filho", "madureira", "pavuna", "rocha-miranda", "rocha", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150705-onibus-bate-em-trem-em-costa-barros-e-altera-circulacao-do-ramal-belford-roxo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Rio

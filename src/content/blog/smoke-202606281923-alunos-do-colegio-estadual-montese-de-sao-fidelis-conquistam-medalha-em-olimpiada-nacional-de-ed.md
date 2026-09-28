@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:25:49Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-fidelis", "norte-fluminense", "educacao", "olimpiada-do-tesouro-direto", "colegio-estadual-montese", "norte-noroeste-fluminense", "colegio", "comunidade", "noroeste-fluminense", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-alunos-do-colegio-estadual-montese-de-sao-fidelis-conquistam-medalha-em-olimpiada-nacional-de-ed.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os estudantes Hendrel Cunha Miranda e Kayque Sousa Santos, alunos do 3º ano do Ensino Médio do Colégio Estadual Montese, em São Fidélis, conquistaram medalha de bronze na Olimpíada do Tesouro Direto de Educação Financeira (OLITEF), tornando-se os únicos medalhistas de bronze da Região Norte Fluminense na competição nacional. O feito demonstra que a dedicação aos estudos e o acesso ao conhecimento podem abrir caminhos e transformar realidades.
 

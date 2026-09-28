@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:00:30Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "itaipuacu", "niteroi", "itaborai", "estelionato", "idosos", "policia-civil", "golpe", "regiao-metropolitana", "bancarios", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281900-falsa-assistente-social-e-presa-em-marica-por-aplicar-golpes-em-idosos.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma mulher suspeita de integrar uma organização criminosa especializada em aplicar golpes contra idosos foi presa neste sábado (27), em Itaipuaçu, distrito de Maricá, durante uma ação da Polícia Civil. A investigação é conduzida por agentes da 76ª DP (Niterói), que apuram um esquema de estelionato praticado contra moradores de Itaboraí.
 

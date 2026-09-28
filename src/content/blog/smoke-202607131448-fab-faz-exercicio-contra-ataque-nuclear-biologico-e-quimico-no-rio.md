@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:48:33Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "base-aerea-dos-afonsos", "forca-aerea-brasileira", "exercicio-militar", "seguranca-nacional", "seguranca-publica-rj", "capital-porto", "regiao-metropolitana", "complexo", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-fab-faz-exercicio-contra-ataque-nuclear-biologico-e-quimico-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um exercício de guerra silencioso, com ameaças invisíveis e de rápida disseminação, tomou conta da Zona Oeste do Rio de Janeiro nas últimas duas semanas. A Força Aérea Brasileira (FAB) encerra nesta sexta-feira (8), na histórica Base Aérea dos Afonsos, um rigoroso e complexo exercício militar desenhado para simular os impactos devastadores de ataques biológicos, nucleares, químicos e radiológicos (BNQR).
 

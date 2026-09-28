@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:31Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "canil", "jack-russell-terrier", "cbkc", "regiao-metropolitana", "sao-goncalo-itaborai", "sao-goncalo", "anil", "itaborai", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-canil-jack-king-of-mountain-conquista-titulo-de-melhor-criador-da-raca-de-cao-jack-russell-terri.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A equipe de O SÃO GONÇALO esteve no local para conhecer de perto o trabalho desenvolvido pelos criadores. Com uma trajetória de 15 anos, Jack King of Mountain, sempre esteve entre os cinco primeiros canis de criação de cachorros da raça Jack Russell Terrier.
 

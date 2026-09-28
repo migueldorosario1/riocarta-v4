@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:02:05Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "henry-borel", "jairinho", "tribunal-do-juri", "estado", "regiao-metropolitana", "bangu", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-jairinho-destitui-advogados-de-defesa-na-abertura-do-juri-pela-morte-de-henry-borel.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-vereador Jairo Souza Santos Júnior, conhecido como Jairinho, destituiu praticamente todo o seu corpo jurídico, mantendo apenas um defensor, logo depois da abertura do julgamento do caso Henry Borel, realizado no II Tribunal do Júri da Capital, no final da manhã desta segunda-feira (23).
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T20:23:18Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "copacabana", "leme", "zona-sul", "prefeitura-do-rio", "rio-capital-zona-sul-grande-tijuca", "capital", "problemas-estruturais", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-pracas-de-ipanema-entram-em-reforma-e-nossa-senhora-da-paz-vai-ganhar-30-novas-arvores.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

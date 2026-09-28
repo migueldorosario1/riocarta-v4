@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:02:41Z"
 draft: true
 tags: ["rio-de-janeiro", "cosme-velho", "zona-sul", "praca-sao-judas-tadeu", "monumento", "reforma", "transporte", "turismo", "flamengo", "rio-capital-zona-sul-e-grande-tijuca", "capital", "regiao-metropolitana", "mage", "joa"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-padroeiro-do-flamengo-ganhara-monumento-praca-sao-judas-tadeu-tera-imagem-do-santo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Localizada aos pés do Cristo Redentor e servindo como porta de entrada para milhares de turistas que utilizam o Trem do Corcovado, a Praça São Judas Tadeu, no Cosme Velho, passará por uma transformação significativa. O espaço, que ironicamente ostenta o nome do “santo das causas impossíveis” e padroeiro do Flamengo, mas abriga apenas a estátua do engenheiro João Teixeira Soares, finalmente receberá uma imagem de seu patrono religioso.
 

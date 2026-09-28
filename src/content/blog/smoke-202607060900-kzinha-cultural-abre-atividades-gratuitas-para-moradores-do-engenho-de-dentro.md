@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:02:29Z"
 draft: false
 tags: ["rio-de-janeiro", "engenho-de-dentro", "zona-norte", "rio-capital-zona-norte", "capital", "botafogo", "comunidade", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-kzinha-cultural-abre-atividades-gratuitas-para-moradores-do-engenho-de-dentro.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Casa Cultural Nossa Gente, conhecida como Kzinha Cultural, vai ampliar sua atuação no Engenho de Dentro e passar a oferecer atividades gratuitas para moradores do bairro e de regiões próximas. O espaço fica na Rua Doutor Padilha e inicia uma nova fase voltada à inclusão social, educação, esporte, cultura e orientação jurídica.
 

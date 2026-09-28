@@ -5,6 +5,7 @@ pubDate: "2026-05-22T15:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "penha", "zona-norte", "seguranca-publica", "eduardo-paes", "politica-rj", "rio-capital-zona-norte", "regiao-metropolitana", "leme", "comunidade", "complexo", "alemao", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221523-delinquente-que-usa-roupa-de-guerra-e-arma-pesada-contra-o-estado-vai-ter-que-ser-neutralizado-d.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-prefeito do Rio de Janeiro e pré-candidato ao Governo do Estado, Eduardo Paes (PSD), voltou a defender ações duras contra criminosos armados e afirmou que integrantes de facções que desafiem o Estado utilizando armamento pesado “vão ter que ser neutralizados”.
 

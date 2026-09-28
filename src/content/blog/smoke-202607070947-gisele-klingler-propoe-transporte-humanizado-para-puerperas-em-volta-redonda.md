@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:47:15Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "saude", "politica-rj", "sul-fluminense-costa-verde"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-gisele-klingler-propoe-transporte-humanizado-para-puerperas-em-volta-redonda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

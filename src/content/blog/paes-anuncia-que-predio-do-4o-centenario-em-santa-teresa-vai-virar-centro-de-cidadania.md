@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5227_IMG-20240914-WA0090.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes anuncia que prédio do 4o. Centenário, em Santa Teresa, vai virar Centro de Cidadania'
 pubDate: 2024-09-13 22:38:20

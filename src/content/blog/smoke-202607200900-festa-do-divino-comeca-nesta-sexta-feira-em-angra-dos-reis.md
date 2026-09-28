@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:02:44Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "sul-fluminense", "cultura-carnaval", "sul-fluminense-costa-verde", "piedade", "angra", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-festa-do-divino-comeca-nesta-sexta-feira-em-angra-dos-reis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 ANGRA DOS REIS
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "eleicoes-2026", "marcelo-queiroz", "esquerda", "petistas", "andre-ceciliano", "washington-quaqua", "diego-quaqua", "anielle-franco", "nisia-trindade", "taina-de-paula", "rubens-bomtempo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-o-patrimonio-de-marcelo-queiroz-e-as-contas-da-esquerda-para-alerj-em-2026-bastidores-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Patrimônio

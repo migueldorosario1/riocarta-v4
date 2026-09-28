@@ -5,6 +5,7 @@ pubDate: "2026-05-21T15:48:25Z"
 draft: true
 tags: ["rio-de-janeiro", "policia-civil", "marielle-franco", "stf", "politica-rj", "capital", "leme", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211248-alexandre-de-moraes-vota-para-tornar-reus-ex-integrantes-da-policia-civil-no-caso-marielle.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

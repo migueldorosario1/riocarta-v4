@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "trafico", "seguranca-publica", "operacao-policial", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "comunidade", "baixada", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-chefe-do-trafico-de-nova-iguacu-e-morto-em-operacao.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O criminoso conhecido como “Suel” ou “Canelão”, apontado como uma das lideranças do tráfico na comunidade Buraco do Boi, em Nova Iguaçu, na Baixada Fluminense, morreu durante um confronto com policiais civis na terça-feira (12), durante uma operação da Delegacia de Repressão a Entorpecentes da Baixada Fluminense (DRE-BF).

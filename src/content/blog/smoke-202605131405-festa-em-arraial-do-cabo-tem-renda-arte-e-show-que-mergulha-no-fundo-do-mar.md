@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "cultura", "desfile-civico", "seguranca-publica", "macae-norte-fluminense", "leme", "norte-fluminense", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-festa-em-arraial-do-cabo-tem-renda-arte-e-show-que-mergulha-no-fundo-do-mar.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O Desfile Cívico pelos 41 anos de emancipação de Arraial do Cabo será realizado nesta quarta-feira (13), a partir das 17h, na Avenida Leonel de Moura Brizola, reunindo apresentações culturais e ações de segurança reforçadas durante toda a programação. Com o tema Cultura Oceânica, o evento terá como destaque o espetáculo Salve as Águas, promovido pela Secretaria de Cultura e Economia Criativa, além de uma estrutura tecnológica voltada ao monitoramento e organização da cidade durante as festividades.

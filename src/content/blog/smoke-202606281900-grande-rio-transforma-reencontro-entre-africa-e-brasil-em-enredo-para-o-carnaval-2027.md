@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:04:10Z"
 draft: false
 tags: ["rio-de-janeiro", "grande-rio", "duque-de-caxias", "baixada-fluminense", "carnaval-2027", "cultura", "cultura-carnaval", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281900-grande-rio-transforma-reencontro-entre-africa-e-brasil-em-enredo-para-o-carnaval-2027.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Ancestralidade, retorno e reencontro. Uma história sobre voltar ao passado para construir o futuro.
 

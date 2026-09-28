@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:24Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "regiao-norte-noroeste", "cultura", "teatro", "espetaculo", "norte-noroeste-fluminense", "macae-norte-fluminense", "regiao-metropolitana", "jacare", "jacarepagua", "duque-de-caxias", "mage", "campos"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-espetaculo-um-lugar-logo-ali-chega-a-macae-com-critica-poetica-ao-mundo-contemporaneo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Macaé vai receber no próximo sábado (16), às 16h, o espetáculo “Um Lugar Logo Ali”. Dirigido por Cátia Costa, a peça vai misturar teatro, dança e circo buscando construir uma narrativa sensível e poética sobre os excessos do mundo contemporâneo.

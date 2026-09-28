@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6316_imagem-1-scaled.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tarifaço nas passagens de ônibus e nos táxis começou a valer no Rio'
 pubDate: 2025-01-02 15:59:34

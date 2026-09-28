@@ -5,6 +5,7 @@ pubDate: "2026-06-28T23:24:24Z"
 draft: false
 tags: ["rio-de-janeiro", "saquarema", "silva-jardim", "itatiaia", "regiao-dos-lagos", "sul-fluminense", "televisao-digital", "igreja-da-graca", "macae-norte-fluminense", "regiao-metropolitana", "mage", "norte-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282323-saquarema-e-silva-jardim-podem-ter-tv-digital-ligada-a-igreja-da-graca-de-deus.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 As cidades de Saquarema e Silva Jardim estão perto de ter acesso a um novo canal digital de televisão após autorização do Governo Federal para que a Televisão Cidade Modelo, razão social da Rede Internacional de Televisão (RIT TV), seja retransmitida em 3 cidades do Estado do Rio.
 

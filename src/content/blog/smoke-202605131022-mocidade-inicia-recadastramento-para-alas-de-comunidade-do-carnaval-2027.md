@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:31Z"
 draft: true
 tags: ["rio-de-janeiro", "padre-miguel", "zona-oeste", "carnaval", "mocidade-independente-de-padre-miguel", "cultura-e-carnaval-rj", "cultura-carnaval", "comunidade", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-mocidade-inicia-recadastramento-para-alas-de-comunidade-do-carnaval-2027.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A Mocidade Independente de Padre Miguel dará início neste próximo fim de semana (16 e 17/05), ao recadastramento das alas de comunidade para o Carnaval 2027. Neste primeiro momento, o ato é destinado a quem desfilou no último carnaval.

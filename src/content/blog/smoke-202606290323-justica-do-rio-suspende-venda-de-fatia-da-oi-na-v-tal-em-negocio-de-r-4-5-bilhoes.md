@@ -5,6 +5,7 @@ pubDate: "2026-06-29T03:23:25Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "tjrj", "oi", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290323-justica-do-rio-suspende-venda-de-fatia-da-oi-na-v-tal-em-negocio-de-r-4-5-bilhoes.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Justiça do Rio suspendeu a venda da participação de 27,5% da Oi na V. tal, empresa de infraestrutura de rede, para fundos geridos pelo BTG Pactual.
 

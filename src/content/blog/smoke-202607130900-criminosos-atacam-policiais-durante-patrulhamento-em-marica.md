@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:00Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "seguranca-publica", "proeis", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-criminosos-atacam-policiais-durante-patrulhamento-em-marica.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Resumo da notícia
 

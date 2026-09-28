@@ -5,6 +5,7 @@ pubDate: "2026-05-13T06:05:28Z"
 draft: false
 tags: ["rio-de-janeiro", "lapa", "centro", "trafico", "seguranca-publica", "forca-municipal", "guarda-municipal", "comando-vermelho", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "centro-do-rio", "anil", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-irma-do-traficante-abelha-tenta-fuga-de-moto-antes-de-ser-presa-por-gerenciar-o-trafico-na-lapa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Rio

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2067_amp20200610003.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Réu acusado de envolvimento na morte de Marielle Franco nega participação e minimiza relação com coacusado Élcio de Queiroz'
 pubDate: 2023-12-02 08:00:00

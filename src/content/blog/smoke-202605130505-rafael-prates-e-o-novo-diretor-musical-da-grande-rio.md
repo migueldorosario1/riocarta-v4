@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "carnaval", "grande-rio", "cultura", "cultura-e-carnaval-rj", "cultura-carnaval", "regiao-metropolitana", "estacio", "vila-isabel", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-rafael-prates-e-o-novo-diretor-musical-da-grande-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Rafael Prates é o novo diretor musical da Grande Riol. Maestro, arranjador, compositor e produtor musical, Rafael é um dos profissionais mais experientes do segmento, com trajetória consolidada no samba e nas produções carnavalescas.

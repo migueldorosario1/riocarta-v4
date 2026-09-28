@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:06:03Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "seguranca-publica", "araruama", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-homem-e-preso-por-estupro-de-vulneravel-contra-a-propria-neta-em-rio-das-ostras-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Agentes da 118ª Delegacia de Polícia de Araruama (118ª DP) cumpriram na manhã desta quinta-feira (14) um mandado de prisão definitiva contra um homem condenado pelo crime de estupro de vulnerável em Rio das Ostras.
 

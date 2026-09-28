@@ -5,6 +5,7 @@ pubDate: "2026-06-28T22:23:06Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "marica", "regiao-metropolitana", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282223-por-que-a-costa-do-rio-teve-5-tremores-de-terra-em-um-dia-sismologo-responde.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

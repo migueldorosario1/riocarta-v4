@@ -5,6 +5,7 @@ pubDate: "2026-05-19T19:17:02Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "zona-norte", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "complexo", "alemao", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-crise-invisivel-moradores-do-complexo-do-alemao-sofrem-com-falta-de-abastecimento-continuo-de-ag.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A falta de água no Complexo do Alemão, zona norte do Rio, atravessou o limite do aceitável e virou uma crise de saúde pública. No último feriado de abril, o desabastecimento castigou diversas áreas, mas a situação foi dramática na Travessa Eugênia, na Dr.
 

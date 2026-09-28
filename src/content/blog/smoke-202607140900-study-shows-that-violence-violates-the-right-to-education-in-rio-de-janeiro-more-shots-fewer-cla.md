@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:01:21Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-norte", "educacao", "seguranca-publica", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-study-shows-that-violence-violates-the-right-to-education-in-rio-de-janeiro-more-shots-fewer-cla-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 In Rio de Janeiro’s North Zone, leaving home to go to school can mean navigating an environment marked by uncertainty. On days of police operations or armed confrontations, the journey to the classroom is far from guaranteed—and, often, classes do not take place at all.
 

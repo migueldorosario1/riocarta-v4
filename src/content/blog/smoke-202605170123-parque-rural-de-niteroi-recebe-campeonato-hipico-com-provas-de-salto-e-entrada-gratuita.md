@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:25:29Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "sao-goncalo-itaborai", "sao-goncalo", "itaborai", "seguranca-publica", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-parque-rural-de-niteroi-recebe-campeonato-hipico-com-provas-de-salto-e-entrada-gratuita.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Evento no Engenho do Mato reúne cavaleiros e amazonas de diferentes níveis e reforça o crescimento do hipismo no município
 

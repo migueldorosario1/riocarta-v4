@@ -5,6 +5,7 @@ pubDate: "2026-05-22T08:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "thiago-rangel", "natividade", "cambuci", "aperibe", "itaocara", "bom-jesus-do-itabapoana", "norte-noroeste-fluminense", "politica-rj", "educacao", "regiao-metropolitana", "bom-jesus", "noroeste-fluminense", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220823-pf-aponta-empresas-ligadas-a-thiago-rangel-em-suposto-desvio-de-verba-da-educacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Conversas, transferências bancárias, áudios e movimentações financeiras passaram a colocar o deputado estadual Thiago Rangel no centro de uma investigação da Polícia Federal sobre um suposto esquema de desvio de recursos públicos da Educação no interior do Rio de Janeiro.
 

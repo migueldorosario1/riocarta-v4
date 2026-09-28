@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2269_WhatsApp-Image-2024-01-04-at-00.42.39.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerta máximo Rio de Janeiro enfrenta chuvas intensas e entra em estágio 3'
 pubDate: 2024-01-04 07:30:00

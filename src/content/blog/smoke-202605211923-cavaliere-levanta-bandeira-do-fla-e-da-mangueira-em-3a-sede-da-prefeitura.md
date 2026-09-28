@@ -5,6 +5,7 @@ pubDate: "2026-05-21T19:23:13Z"
 draft: false
 tags: ["rio-de-janeiro", "oswaldo-cruz", "zona-norte", "rio-capital-zona-norte", "capital", "cidade-nova", "mangueira", "paqueta", "botafogo", "flamengo", "maracana", "madureira", "anil", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211923-cavaliere-levanta-bandeira-do-fla-e-da-mangueira-em-3a-sede-da-prefeitura.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 "Desculpa aos queridos vascaínos, em especial Eduardo Paes, já que a bandeira do Vasco será bem guardada", disse o prefeito
 

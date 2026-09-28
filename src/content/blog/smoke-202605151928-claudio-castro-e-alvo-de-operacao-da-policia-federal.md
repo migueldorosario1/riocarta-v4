@@ -5,6 +5,7 @@ pubDate: "2026-05-15T19:28:26Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "claudio-castro", "politica-rj", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "tijuca", "manguinhos", "favela", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151928-claudio-castro-e-alvo-de-operacao-da-policia-federal.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O ex-governador do Rio de Janeiro, Cláudio Castro, é alvo nesta sexta-feira (15) da Operação Sem Refino, deflagrada pela Polícia Federal no estado do Rio. A investigação apura negócios ligados à Refit, antiga Refinaria de Manguinhos.

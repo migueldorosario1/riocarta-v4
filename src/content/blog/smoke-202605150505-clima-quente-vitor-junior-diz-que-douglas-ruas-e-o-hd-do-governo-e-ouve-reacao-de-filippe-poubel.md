@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:18Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "regiao-metropolitana", "niteroi"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150505-clima-quente-vitor-junior-diz-que-douglas-ruas-e-o-hd-do-governo-e-ouve-reacao-de-filippe-poubel.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O clima esquentou no expediente final da Assembleia Legislativa do Rio (Alerj) desta quinta-feira (14), que foi marcado por um bate-boca entre os deputados estaduais Vitor Júnior (PDT) e Filippe Poubel (PL).

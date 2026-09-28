@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:00:12Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "zona-oeste", "rio-capital-zona-oeste", "capital-estado", "regiao-metropolitana", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-capivara-espancada-na-ilha-do-governador-e-solta-apos-reabilitacao.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

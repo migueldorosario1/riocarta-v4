@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "flavio-canto", "juventude", "empreendedorismo", "sul-fluminense-costa-verde", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150505-medalhista-olimpico-flavio-canto-abre-semana-juventude-em-volta-redonda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Volta Redonda – A Semana Juventude Empreendedora 2026, promovida pela Prefeitura de Volta Redonda por meio da Secretaria Municipal da Juventude (Sejuv), terá como destaque a participação do ex-judoca e medalhista olímpico Flávio Canto, que fará a palestra de abertura oficial do evento no próximo dia 25 de maio, às 19h30, no Teatro Maestro Franklin de Carvalho Jr. , no bairro Laranjal.

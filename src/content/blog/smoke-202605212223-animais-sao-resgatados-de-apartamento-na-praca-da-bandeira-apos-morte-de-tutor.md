@@ -5,6 +5,7 @@ pubDate: "2026-05-21T22:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "praca-da-bandeira", "zona-norte", "animais", "resgate", "defesa-dos-animais", "secretaria-municipal", "vereador", "rio-capital-zona-norte", "capital", "ramos", "guaratiba", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212223-animais-sao-resgatados-de-apartamento-na-praca-da-bandeira-apos-morte-de-tutor.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Doze animais domésticos, quatro cães e oito gatos, foram resgatados de um apartamento na Praça da Bandeira, Zona Norte do Rio, nesta quinta-feira (21/05). Eles estavam no imóvel desde a morte do tutor, o aposentado José Dias Neto, de 77 anos.
 

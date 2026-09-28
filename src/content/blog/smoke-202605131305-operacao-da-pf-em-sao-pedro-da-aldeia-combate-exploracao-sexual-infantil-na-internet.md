@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "policia-federal", "exploracao-sexual-infantil", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "sao-goncalo", "itaborai", "marica", "cabo-frio", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-operacao-da-pf-em-sao-pedro-da-aldeia-combate-exploracao-sexual-infantil-na-internet.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Operação da PF em São Pedro da Aldeia combate exploração sexual infantil na internet

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2352_WhatsApp-Image-2024-01-10-at-18.31.58.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação policial desmantela ssquema de fraudes no metrô da pavuna com 11 presos'
 pubDate: 2024-01-10 20:30:00

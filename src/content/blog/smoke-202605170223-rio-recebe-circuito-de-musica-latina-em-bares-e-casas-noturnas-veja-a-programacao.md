@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:24:19Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "copacabana", "zona-portuaria", "cultura-carnaval", "capital", "regiao-metropolitana", "ramos", "joa", "complexo", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-rio-recebe-circuito-de-musica-latina-em-bares-e-casas-noturnas-veja-a-programacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio de Janeiro recebe nesta semana um circuito de programação dedicado à música latina, com eventos espalhados por bares, casas noturnas e espaços culturais da cidade dentro da agenda da Latin Rio, conferência internacional que chega à sua primeira edição no município.
 

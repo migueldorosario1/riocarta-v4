@@ -5,6 +5,7 @@ pubDate: "2026-05-18T03:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "cidade-de-deus", "seguranca-publica", "politica-rj", "jacare", "gardenia-azul", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605180323-barricada-zero-trafico-recebeu-detalhes-de-operacoes-antes-do-anuncio-feito-pelo-governo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Cinco dias antes de o governo do Rio anunciar oficialmente o programa Barricada Zero, traficantes da Cidade de Deus já discutiam detalhes das futuras operações policiais em um grupo de WhatsApp. Mensagens e áudios obtidos pelo Extra mostram que um homem apontado como policial militar do 18º BPM antecipou informações estratégicas sobre retirada de barricadas, cronograma das ações e movimentação de equipes, permitindo que criminosos se preparassem para a chegada das forças de segurança.
 

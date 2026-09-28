@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "vila-isabel", "carnaval", "cultura", "cultura-e-carnaval-rj", "cultura-carnaval", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-torto-arado-sobre-a-terra-ha-de-viver-sempre-o-mais-forte-e-o-enredo-da-unidos-de-vila-isabel-pa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A Unidos de Vila Isabel anunciou o seu enredo para o carnaval de 2027: “Torto arado – sobre a terra há de viver sempre o mais forte.” Desenvolvida pelos carnavalescos Gabriel Haddad e Leonardo Bora, em parceria com o pesquisador Vinícius Natal, a narrativa propõe uma adaptação carnavalesca do universo desenhado pelo escritor Itamar Vieira Junior em seu premiado romance “Torto arado”, publicado em 2019 pela editora Todavia.

@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:18:07Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "armacao-dos-buzios", "arraial-do-cabo", "previsao-do-tempo", "araruama", "lagoa", "buzios", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-regiao-dos-lagos-segue-com-frio-chuva-e-alerta-de-ressaca-nesta-quinta-feira-21.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 De acordo com o Projeto Costa do Sol de Defesa Civil, a quinta-feira (21) segue com frio, chuva e alerta na Região dos Lagos. O dia é marcado por céu nublado devido aos efeitos da circulação atmosférica pós-frontal que continua influenciando o estado do tempo na região.
 

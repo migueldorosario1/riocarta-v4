@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:36Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "seguranca-publica", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-acusado-de-tentativa-de-estupro-no-braga-e-preso-pela-romu-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Ronda Ostensiva Municipal Urbana (Romu), da Guarda Civil Municipal de Cabo Frio, prendeu na noite desta quarta-feira (13) o homem suspeito de envolvimento em uma tentativa de estupro registrada horas antes no bairro Braga, nas proximidades da Praia das Dunas.

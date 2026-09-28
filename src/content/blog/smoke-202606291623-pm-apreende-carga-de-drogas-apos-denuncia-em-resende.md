@@ -5,6 +5,7 @@ pubDate: "2026-06-29T16:25:34Z"
 draft: false
 tags: ["rio-de-janeiro", "resende", "sul-fluminense", "seguranca-publica", "sul-fluminense-costa-verde", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291623-pm-apreende-carga-de-drogas-apos-denuncia-em-resende.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 RESENDE
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "especulacao-imobiliaria", "rio-capital-zona-sul-grande-tijuca", "capital", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-rafael-bokor-demolicao-escancara-especulacao-imobiliaria-em-ipanema.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Rafael Bokor: demolição escancara especulação imobiliária em Ipanema

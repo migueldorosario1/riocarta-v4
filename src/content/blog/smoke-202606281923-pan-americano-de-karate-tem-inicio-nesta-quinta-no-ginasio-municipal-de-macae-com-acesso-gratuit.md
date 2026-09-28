@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:27:58Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "esporte", "karate", "pan-americano", "norte-noroeste-fluminense", "estado", "regiao-metropolitana", "sao-goncalo", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-pan-americano-de-karate-tem-inicio-nesta-quinta-no-ginasio-municipal-de-macae-com-acesso-gratuit.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 As atenções do cenário esportivo internacional estarão concentradas em Macaé a partir desta quinta-feira (28), com a abertura do Campeonato PAN-Americano Sub-21, Sênior e Parakaratê 2026. O torneio, que simboliza a volta da mais importante disputa de karatê do continente ao território brasileiro depois de uma década, ocupa o Ginásio Municipal Engenheiro Maurício Soares Bittencourt, com portões abertos ao público gratuitamente em todos os dias de programação, até domingo (31).
 

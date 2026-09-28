@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp957_Design-sem-nome-30.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Braço direito do sobrinho de Castor de Andrade é preso MP aponta relações na morte de Marielle'
 pubDate: 2023-07-29 22:48:05

@@ -5,6 +5,7 @@ pubDate: "2026-05-30T10:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "jacarepagua", "pechincha", "rio-capital-zona-oeste", "politica-rj", "regiao-metropolitana", "jacare", "zona-oeste", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605301000-mprj-denuncia-policial-civil-que-matou-passageira-de-carro-de-aplicativo-no-pechincha.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Ministério Público do Estado do Rio de Janeiro (MPRJ) denunciou nesta terça-feira (19) o policial civil Frede Uilson Souza de Jesus pela morte da designer de sobrancelhas Thamires Rodrigues de Souza de Jesus, baleada durante uma discussão de trânsito no bairro do Pechincha, em Jacarepaguá, na Zona Oeste do Rio.
 

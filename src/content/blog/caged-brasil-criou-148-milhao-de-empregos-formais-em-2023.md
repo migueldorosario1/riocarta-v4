@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2744_carteira-de-trabalho-digital_mcamgo_abr_240620211818.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caged Brasil criou 1,48 milhão de empregos formais em 2023'
 pubDate: 2024-02-01 05:01:00

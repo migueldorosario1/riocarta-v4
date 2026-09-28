@@ -5,6 +5,7 @@ pubDate: "2026-05-13T03:31:06Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "professores", "rede-estadual", "paralisacao", "educacao", "sepe-rj", "alerj", "tj-rj", "politica-rj", "estado", "regiao-metropolitana", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130030-professores-da-rede-estadual-do-rj-param-e-seguem-em-estado-de-mobilizacao.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Professores e servidores da rede estadual de ensino do Rio iniciaram na manhã desta terça-feira (5) uma paralisação de 24 horas. Em assembleia geral realizada às 10h, no auditório do Clube de Engenharia, no Centro da cidade, a categoria decidiu manter o estado de mobilização.

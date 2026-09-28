@@ -5,6 +5,7 @@ pubDate: "2026-05-13T06:05:20Z"
 draft: false
 tags: ["rio-de-janeiro", "italva", "norte-noroeste-fluminense", "seguranca-publica", "trafico", "incendio", "policia-civil", "campos", "anil", "noroeste-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-operacao-prende-acusados-de-provocar-incendio-em-casa-de-idosos-a-mando-do-trafico-em-italva.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Dois homens foram presos em uma operação da Polícia Civil para prender acusados de atear fogo na residência de um casal de idosos a mando do tráfico de drogas em Italva. A ação foi coordenada pelo delegado Rivelino Bueno e contou com apoio de policiais militares da 4ª Cia do 29º BPM e do canil da Guarda Civil de Cardoso Moreira.

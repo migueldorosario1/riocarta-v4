@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2056_whatsapp-image-2023-11-29-at-19.03.00.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Roteiro para celebrar o dia nacional do samba do trem às tradicionais rodas e orquestra'
 pubDate: 2023-12-02 06:03:00

@@ -5,6 +5,7 @@ pubDate: "2026-06-28T21:27:16Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "prefeitura", "sebrae", "palestra", "instagram", "empreendedorismo", "sao-goncalo-itaborai", "niteroi", "itaborai", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-prefeitura-e-sebrae-inscrevem-para-palestra-gratuita-com-foco-em-engajar-negocios-e-vendas-no-in.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

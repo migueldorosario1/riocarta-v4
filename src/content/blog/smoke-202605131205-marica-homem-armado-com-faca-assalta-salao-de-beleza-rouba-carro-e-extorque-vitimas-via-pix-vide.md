@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "niteroi", "assalto", "salao-de-beleza", "pix", "seguranca-publica", "baixada-fluminense", "regiao-metropolitana", "bancarios", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-marica-homem-armado-com-faca-assalta-salao-de-beleza-rouba-carro-e-extorque-vitimas-via-pix-vide.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Maricá: Homem armado com faca assalta salão de beleza, rouba carro e extorque vítimas via PIX (VÍDEO)

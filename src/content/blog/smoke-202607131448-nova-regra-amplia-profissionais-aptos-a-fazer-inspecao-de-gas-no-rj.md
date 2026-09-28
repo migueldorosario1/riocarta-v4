@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:48:23Z"
 draft: false
 tags: ["rio-de-janeiro", "legislacao-estadual", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-nova-regra-amplia-profissionais-aptos-a-fazer-inspecao-de-gas-no-rj.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mudança na legislação permite que profissionais habilitados no CREA, CAU ou CRT realizem vistorias periódicas, desde que tenham formação específica
 

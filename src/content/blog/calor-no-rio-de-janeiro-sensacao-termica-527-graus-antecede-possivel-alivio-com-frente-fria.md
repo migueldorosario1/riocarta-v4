@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1902_praia-lotada-arpoador-estadaoodr20210821012-.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Calor no Rio de Janeiro Sensação Térmica 52,7 graus, antecede possível alívio com frente fria'
 pubDate: 2023-11-13 11:02:49

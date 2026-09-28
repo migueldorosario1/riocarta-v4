@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:03:19Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "seguranca-publica", "policia-militar", "politica-rj", "regiao-metropolitana", "penha", "sao-goncalo", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-ao-lado-de-flavio-bolsonaro-douglas-ruas-participa-de-entrega-historica-de-armamentos-para-a-pm.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A semana de comemoração pelos 217 anos da Polícia Militar do Estado do Rio de Janeiro (PMERJ) foi marcada pela entrega de novos equipamentos e armamentos para reforçar a atuação da corporação em diferentes regiões do estado. Nesta sexta-feira (15), o presidente da Assembleia Legislativa do Rio (Alerj), Douglas Ruas, e o senador Flávio Bolsonaro participaram da cerimônia realizada no Salão Nobre do Quartel-General da PMERJ.
 

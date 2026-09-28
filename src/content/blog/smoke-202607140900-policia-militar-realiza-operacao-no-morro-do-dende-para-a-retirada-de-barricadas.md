@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:04:15Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "morro-do-dende", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "comunidade", "queimados", "itaborai", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-policia-militar-realiza-operacao-no-morro-do-dende-para-a-retirada-de-barricadas.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Além do foco em barricadas, a ação busca combater a atuação de facções na região
 

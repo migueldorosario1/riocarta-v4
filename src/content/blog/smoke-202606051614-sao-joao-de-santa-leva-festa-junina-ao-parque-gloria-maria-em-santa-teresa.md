@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:19:13Z"
 draft: false
 tags: ["rio-de-janeiro", "santa-teresa", "festa-junina", "cultura", "rio-capital-centro", "capital", "regiao-metropolitana", "caju", "gloria", "portuguesa", "joa", "alemao", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-sao-joao-de-santa-leva-festa-junina-ao-parque-gloria-maria-em-santa-teresa.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Parque Glória Maria, antigo Parque das Ruínas, em Santa Teresa, recebe nos dias 6 e 7 de junho o São João de Santa, festa junina gratuita promovida pelo Polo Gastronômico, Turístico e Cultural de Santa Teresa (AmeSanta). A programação acontece das 11h às 20h e reúne barraquinhas de restaurantes do bairro, shows, brincadeiras, forró, quadrilha dos moradores e apresentação do Bumba Meu Boi de Santa Teresa.
 

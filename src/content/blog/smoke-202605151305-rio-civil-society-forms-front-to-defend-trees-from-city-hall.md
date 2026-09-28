@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:06:34Z"
 draft: true
 tags: ["rio-de-janeiro", "urca", "zona-sul", "favelas", "meio-ambiente", "rio-capital-zona-sul-grande-tijuca", "favelas-comunidades", "regiao-metropolitana", "botafogo", "gavea", "ilha-do-governador", "jardim-guanabara", "favela", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-rio-civil-society-forms-front-to-defend-trees-from-city-hall-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Movimentos ambientalistas, associações de moradores, técnicos e especialistas se reuniram no auditório Tércio Pacitti da Unirio, na Urca, para criar a Frente Urbana das Árvores. O encontro denuncia o desmantelamento de programas de reflorestamento e a poda predatória que mata árvores em diversos bairros do Rio.

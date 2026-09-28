@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp644_image-12.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Nesta quinta (6) tem início o 12ª Festival Internacional de Cinema LGBTQIA+ no Rio'
 pubDate: 2023-07-05 15:22:08

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:16Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "icarai", "zona-sul", "seguranca-publica", "violencia", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "jacare", "comunidade", "sao-goncalo", "itaborai", "angra"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-cliente-agride-funcionarias-em-spa-apos-desentendimento-sobre-servico-em-icarai-niteroi.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Cliente agride funcionárias em spa após desentendimento sobre serviço em Icaraí, Niterói

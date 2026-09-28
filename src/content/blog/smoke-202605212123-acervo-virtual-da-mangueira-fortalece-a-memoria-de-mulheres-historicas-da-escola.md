@@ -5,6 +5,7 @@ pubDate: "2026-05-21T21:23:12Z"
 draft: false
 tags: ["rio-de-janeiro", "mangueira", "zona-norte", "carnaval", "cultura", "mulheres", "rio-capital-zona-norte", "cultura-carnaval", "regiao-metropolitana", "comunidade", "mage", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212123-acervo-virtual-da-mangueira-fortalece-a-memoria-de-mulheres-historicas-da-escola.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Estação Primeira de Mangueira disponibiliza, em seu site oficial, o Acervo Virtual da Mangueira, uma plataforma digital criada com o objetivo de preservar, organizar e difundir a trajetória de uma das mais tradicionais escolas de samba do Brasil. A iniciativa reafirma o compromisso da agremiação com a valorização de sua história e, sobretudo, com o reconhecimento do papel fundamental das mulheres, em sua maioria negras, que ajudaram a construir, e seguem construindo, a identidade, a resistência e a grandeza da Escola ao longo das décadas.
 

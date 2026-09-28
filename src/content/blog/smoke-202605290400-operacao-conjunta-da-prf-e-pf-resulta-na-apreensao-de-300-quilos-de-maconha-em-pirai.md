@@ -5,6 +5,7 @@ pubDate: "2026-05-29T04:00:27Z"
 draft: false
 tags: ["rio-de-janeiro", "pirai", "sul-fluminense", "sul-fluminense-costa-verde", "regiao-metropolitana", "seropedica", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605290400-operacao-conjunta-da-prf-e-pf-resulta-na-apreensao-de-300-quilos-de-maconha-em-pirai.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 PIRAÍ
 

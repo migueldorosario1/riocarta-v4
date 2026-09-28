@@ -5,6 +5,7 @@ pubDate: "2026-05-17T06:23:33Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "macae", "transporte-mobilidade", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170623-rio-das-ostras-e-macae-tem-transporte-publico-integrado.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Passageiros já podem embarcar e desembarcar no Terminal do Parque dos Tubos
 

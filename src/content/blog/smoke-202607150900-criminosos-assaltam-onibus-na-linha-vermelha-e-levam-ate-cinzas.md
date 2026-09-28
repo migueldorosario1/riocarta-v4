@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:01:16Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-joao-de-meriti", "baixada-fluminense", "linha-vermelha", "assalto", "onibus", "seguranca-publica", "politica-rj", "regiao-metropolitana", "joa", "baixada", "mage", "regiao-dos-lagos", "campos"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-criminosos-assaltam-onibus-na-linha-vermelha-e-levam-ate-cinzas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Passageiros de um ônibus de turismo viveram momentos de terror durante um assalto na Linha Vermelha, na altura de São João de Meriti, na Baixada Fluminense, no último sábado (9).
 

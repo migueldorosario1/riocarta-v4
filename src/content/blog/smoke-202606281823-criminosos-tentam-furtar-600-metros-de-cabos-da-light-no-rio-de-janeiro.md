@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:28:04Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "furto-cabos", "light", "rio-capital-barra-recreio-jacarepagua", "capital-estado", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-criminosos-tentam-furtar-600-metros-de-cabos-da-light-no-rio-de-janeiro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

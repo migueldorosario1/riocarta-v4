@@ -5,6 +5,7 @@ pubDate: "2026-05-19T22:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "baixada-fluminense", "sao-joao-de-meriti", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "joa", "baixada", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605192223-motorista-que-usava-perfil-falso-de-aplicativo-para-estuprar-criancas-e-preso-na-baixada.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um homem foi preso em flagrante por policiais civis da Delegacia de Atendimento à Mulher (Deam) de São João de Meriti, na manhã desta terça-feira (19), sob a acusação de utilizar um perfil falso de aplicativo de transporte para monitorar e abusar sexualmente de crianças na Baixada Fluminense. O motorista, que já cumpria pena em regime aberto com o uso de tornozeleira eletrônica por roubo, foi capturado na Avenida Automóvel Clube.
 

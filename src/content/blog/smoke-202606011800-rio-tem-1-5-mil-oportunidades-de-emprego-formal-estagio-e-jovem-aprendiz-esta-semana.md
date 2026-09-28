@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:03:10Z"
 draft: true
 tags: ["rio-de-janeiro", "emprego", "oportunidades", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "ipanema", "mare", "itaborai", "teresopolis", "serrana", "cabo-frio", "regiao-dos-lagos"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-rio-tem-1-5-mil-oportunidades-de-emprego-formal-estagio-e-jovem-aprendiz-esta-semana.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio tem 1,5 mil oportunidades de emprego formal, estágio e Jovem Aprendiz esta semana
 

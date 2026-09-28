@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "transito", "mobilidade-urbana", "waze", "prefeitura", "macae-norte-fluminense", "leme", "norte-fluminense", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132005-cabo-frio-fecha-parceria-com-waze-e-mostra-informacoes-do-transito-ao-vivo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Prefeitura de Cabo Frio passou a utilizar um sistema de monitoramento em tempo real para acompanhar as condições do trânsito no município, por meio de parceria com o aplicativo Waze. A iniciativa, coordenada pela Secretaria Municipal de Mobilidade Urbana, tem como objetivo tornar a circulação mais eficiente e segura, tanto para moradores quanto para visitantes.

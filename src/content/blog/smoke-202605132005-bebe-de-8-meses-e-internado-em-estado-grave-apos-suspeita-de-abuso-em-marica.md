@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "espraiado", "violencia-infantil", "seguranca-publica", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132005-bebe-de-8-meses-e-internado-em-estado-grave-apos-suspeita-de-abuso-em-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Bebê de 8 meses é internado em estado grave após suspeita de abuso em Maricá

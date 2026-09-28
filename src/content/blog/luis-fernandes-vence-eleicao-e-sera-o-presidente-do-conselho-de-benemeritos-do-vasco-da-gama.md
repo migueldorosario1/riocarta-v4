@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2760_image-18.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Luís Fernandes vence eleição e será o presidente do Conselho de Beneméritos do Vasco da Gama'
 pubDate: 2024-01-30 17:55:35

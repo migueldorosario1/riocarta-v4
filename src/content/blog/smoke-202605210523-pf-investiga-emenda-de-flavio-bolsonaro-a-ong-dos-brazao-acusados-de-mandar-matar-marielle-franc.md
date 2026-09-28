@@ -5,6 +5,7 @@ pubDate: "2026-05-21T05:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "taquara", "zona-oeste", "seguranca-publica", "politica-rj", "rio-capital-zona-oeste", "capital", "regiao-metropolitana", "anil", "complexo", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210523-pf-investiga-emenda-de-flavio-bolsonaro-a-ong-dos-brazao-acusados-de-mandar-matar-marielle-franc.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Federal instaurou um procedimento investigativo para mapear a rota financeira de uma emenda parlamentar no valor de R$ 199 mil destinada pelo senador Flávio Bolsonaro. O montante foi enviado ao Instituto de Formação Profissional José Carlos Procópio (Ifop), uma organização não governamental sediada na Taquara, na Zona Oeste do Rio de Janeiro.
 

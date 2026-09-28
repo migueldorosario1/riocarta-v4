@@ -5,6 +5,7 @@ pubDate: "2026-06-29T23:25:32Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "xerem", "botafogo", "futebol", "regiao-metropolitana", "capital", "ramos", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292323-o-jogador-de-segundo-tempo-o-homem-de-confianca-e-o-mister.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Personagens da mitologia futebolística atravessam o caminho da seleção brasileira diante do desafio de arrancar no mata-mata da Copa
 

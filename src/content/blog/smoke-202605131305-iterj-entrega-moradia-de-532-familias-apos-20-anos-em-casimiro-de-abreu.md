@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:12Z"
 draft: false
 tags: ["rio-de-janeiro", "casimiro-de-abreu", "barra-de-sao-joao", "regiao-das-baixadas-litoraneas", "regularizacao-fundiaria", "iterj", "moradia", "regiao-dos-lagos", "niteroi-metropolitana", "regiao-metropolitana", "joa", "comunidade", "baixada", "niteroi"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-iterj-entrega-moradia-de-532-familias-apos-20-anos-em-casimiro-de-abreu.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 O Instituto de Terras e Cartografia do Estado do Rio de Janeiro realizou a entrega de 532 Termos Administrativos de Reconhecimento de Posse e Moradia para famílias da comunidade São João, em Barra de São João, distrito de Casimiro de Abreu, na Região das Baixadas Litorâneas. Os documentos eram aguardados há mais de 20 anos pelos moradores da localidade.

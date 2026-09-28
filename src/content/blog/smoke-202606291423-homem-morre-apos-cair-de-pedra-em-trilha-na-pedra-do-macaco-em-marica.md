@@ -5,6 +5,7 @@ pubDate: "2026-06-29T14:23:17Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-dos-lagos", "acidente", "capital-estado", "regiao-metropolitana", "niteroi", "rocha", "araruama", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291423-homem-morre-apos-cair-de-pedra-em-trilha-na-pedra-do-macaco-em-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

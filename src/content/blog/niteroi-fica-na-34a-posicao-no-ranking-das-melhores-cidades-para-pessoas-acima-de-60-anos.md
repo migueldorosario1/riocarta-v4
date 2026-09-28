@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1739_Idoso-observa-vista-da-Boa-Viagem-cerca-de-25-da-populacao-do-bairro-possui-mais-de-60-anos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói fica na 34ª posição no ranking das melhores cidades para pessoas acima de 60 anos'
 pubDate: 2023-10-31 10:19:59

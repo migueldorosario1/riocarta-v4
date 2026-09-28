@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5544_imagem-126.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caso Marielle Justiça do Rio condena Orelha por dificultar investigação do assassinato'
 pubDate: 2024-09-30 15:28:02

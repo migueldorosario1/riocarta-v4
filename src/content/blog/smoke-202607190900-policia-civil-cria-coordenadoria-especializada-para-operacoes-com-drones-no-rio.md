@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:02:08Z"
 draft: true
 tags: ["rio-de-janeiro", "policia-civil", "drones", "seguranca-publica", "seguranca-publica-rj", "capital", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-policia-civil-cria-coordenadoria-especializada-para-operacoes-com-drones-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil do Rio criou a Coordenadoria de Operações com Aeronaves Não Tripuladas (COANT), nova estrutura responsável por organizar, planejar e padronizar o uso de drones em ações de investigação, inteligência policial e operações emergenciais em todo o estado. A iniciativa busca ampliar a capacidade de monitoramento e reforçar o uso de tecnologia no enfrentamento ao crime organizado.
 

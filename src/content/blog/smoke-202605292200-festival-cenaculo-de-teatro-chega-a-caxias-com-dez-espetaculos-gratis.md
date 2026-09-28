@@ -5,6 +5,7 @@ pubDate: "2026-05-29T22:00:11Z"
 draft: false
 tags: ["rio-de-janeiro", "caxias", "baixada-fluminense", "teatro", "cultura", "regiao-metropolitana", "politica-rj", "duque-de-caxias", "joa", "baixada", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605292200-festival-cenaculo-de-teatro-chega-a-caxias-com-dez-espetaculos-gratis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um dos mais importantes eventos culturais da Baixada Fluminense, com mais de 100 espetáculos e 25 mil espectadores desde 2012, o Festival Cenáculo de Teatro chega a sua décima edição repetindo o formato que o consagrou: uma grande maratona com dez apresentações em um único final de semana, nos dias 23 e 24 de maio, das 10h às 19h, no Teatro Firjan-Sesi, em Duque de Caxias. A iniciativa é do Instituto Cultural Cerne em parceria com Instituto João Cândido.
 

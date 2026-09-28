@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:01:29Z"
 draft: false
 tags: ["rio-de-janeiro", "galeao", "zona-norte", "rio-capital-zona-norte", "sul-fluminense", "regiao-metropolitana", "comunidade", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-receita-federal-apreende-haxixe-avaliado-em-r-1-7-milhao-no-galeao.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio de Janeiro – A Receita Federal apreendeu, na manhã desta sexta-feira (15), 17,6 quilos de haxixe no Aeroporto Internacional do Galeão, no Rio de Janeiro. A droga estava escondida na mala de uma passageira norte-americana, de 23 anos, que desembarcou de um voo procedente de Houston, nos Estados Unidos.
 

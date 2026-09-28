@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:01:27Z"
 draft: false
 tags: ["rio-de-janeiro", "iguaba-grande", "regiao-dos-lagos", "turismo", "politica-local", "regiao-metropolitana", "iguaba", "araruama", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-quinta-feira-14.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 DIA HISTÓRICO PARA IGUABA A coluna Boca Miúda desta sexta-feira (15) começa por Iguaba Grande, que hoje viveu um “dia histórico”, nas palavras do prefeito Fabinho Costa (CID). É que o município recebeu os primeiros 15 contêineres com as réplicas dos gigantes que irão compor a aguardada Ilha dos Dinossauros, empreendimento tratado pela gestão municipal como um divisor de águas para o desenvolvimento econômico e turístico da cidade.
 

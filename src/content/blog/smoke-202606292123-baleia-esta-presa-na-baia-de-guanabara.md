@@ -5,6 +5,7 @@ pubDate: "2026-06-29T21:25:52Z"
 draft: false
 tags: ["rio-de-janeiro", "gloria", "zona-sul", "baia-de-guanabara", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292123-baleia-esta-presa-na-baia-de-guanabara.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um vídeo postado neste domingo (28) por canoístas do Canto Va’a na altura da Prainha da Glória chamou a atenção nas redes sociais. O novo avistamento reforçou uma dúvida que circula entre os cariocas: afinal, é a mesma baleia que vem sendo vista há uma semana na Baía de Guanabara?
 

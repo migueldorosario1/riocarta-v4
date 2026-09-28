@@ -5,6 +5,7 @@ pubDate: "2026-05-20T01:23:12Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "niteroi-metropolitana", "regiao-metropolitana", "gavea", "leblon", "iraja", "niteroi", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200123-filha-de-diplomatas-morre-apos-atropelamento-em-ipanema-dias-apos-chegar-ao-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil investiga o atropelamento em Ipanema, na Zona Sul do Rio de Janeiro, que resultou na morte de Mariana Tanaka Abdul Hak, de 20 anos. A jovem havia acabado de chegar à cidade, onde pretendia iniciar uma nova fase profissional após ser contratada por uma multinacional do setor de cosméticos.
 

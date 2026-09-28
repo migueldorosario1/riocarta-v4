@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3783_images-2024-03-14T153943.808.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Procuradores da Lava Jato xingavam e faziam chacota de Marisa Letícia antes de morrer'
 pubDate: 2024-03-14 15:42:11

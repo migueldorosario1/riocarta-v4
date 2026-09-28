@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:01:51Z"
 draft: false
 tags: ["rio-de-janeiro", "el-nino", "defesa-civil", "governo-estadual", "politica-rj", "capital-porto", "regiao-metropolitana", "leme", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-rio-reforca-plano-de-acao-contra-impactos-do-el-nino-qwen.jpg"
+hero_credit: "NOAA / Wikimedia Commons (Public domain)"
 ---
 O governo do Estado do Rio de Janeiro iniciou a elaboração de um plano abrangente para reduzir os riscos associados ao fenômeno climático El Niño, que poderá provocar mudanças significativas no clima nos próximos meses, incluindo aumento das temperaturas, ondas de calor mais frequentes, períodos de estiagem alternados com chuvas intensas e maior probabilidade de desastres naturais.
 

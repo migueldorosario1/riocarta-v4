@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:01:59Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "botafogo", "regiao-dos-lagos", "policia", "homicidio", "prisao", "regiao-metropolitana", "nova-iguacu", "araruama", "seguranca-publica", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-acusado-de-matar-colega-de-trabalho-e-preso-apos-ser-localizado-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um homem acusado de matar um colega de trabalho durante uma confraternização em Nova Iguaçu foi preso pela Polícia Civil nesta terça-feira (7), no bairro Botafogo, na zona rural de Cabo Frio. Arariboia da Costa Menezes estava foragido da Justiça desde 2024 e foi localizado após um trabalho de monitoramento e levantamento de informações realizado por agentes da 118ª Delegacia de Polícia de Araruama (118ª DP).
 

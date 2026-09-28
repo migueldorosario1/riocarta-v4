@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2161_lucinha-deputada-s50549ae3o6t.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação policial descobre armas e dinheiro na residência de deputada ligada à milícia no Rio'
 pubDate: 2023-12-18 16:00:00

@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:24:11Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "intervencao-federal", "crime-organizado", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-pgr-recebe-pedido-de-intervencao-federal-na-alerj-por-suposta-captura-pelo-crime-organizado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

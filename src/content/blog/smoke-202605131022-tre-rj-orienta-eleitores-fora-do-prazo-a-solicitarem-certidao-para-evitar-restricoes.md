@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:30Z"
 draft: true
 tags: ["rio-de-janeiro", "tre-rj", "eleicoes", "certidao-circunstanciada", "politica-rj", "regiao-dos-lagos", "regiao-metropolitana", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-tre-rj-orienta-eleitores-fora-do-prazo-a-solicitarem-certidao-para-evitar-restricoes.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Eleitores que perderam o prazo para tirar o primeiro título de eleitor ou regularizar pendências eleitorais ainda podem evitar transtornos em serviços que exigem quitação eleitoral. Com o fechamento do cadastro eleitoral na última quarta-feira (6), o Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) orienta os cidadãos a solicitarem a chamada certidão circunstanciada.

@@ -5,6 +5,7 @@ pubDate: "2026-05-22T04:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220423-obras-irregulares-em-marica-entram-na-mira-da-fiscalizacao-saiba-como-denunciar.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Obras sem licença, construções avançando sobre calçadas e imóveis com risco à segurança foram alvo de novas ações da fiscalização urbana em Maricá.
 

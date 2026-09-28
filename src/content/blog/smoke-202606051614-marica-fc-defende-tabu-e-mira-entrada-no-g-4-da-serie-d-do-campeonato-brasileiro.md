@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:19:34Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "futebol", "esporte", "regiao-dos-lagos", "regiao-metropolitana", "nova-iguacu", "olaria", "joa", "baixada"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-marica-fc-defende-tabu-e-mira-entrada-no-g-4-da-serie-d-do-campeonato-brasileiro.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Embalado pela boa fase vivida na temporada, o Maricá Futebol Clube volta a campo neste sábado (30), às 17h, no Estádio João Saldanha, para um confronto que pode mudar o cenário da equipe no Campeonato Brasileiro Série D. Diante do Nova Iguaçu, o Tsunami busca uma vitória que pode colocá-lo na zona de classificação do Grupo A14 da competição nacional.
 

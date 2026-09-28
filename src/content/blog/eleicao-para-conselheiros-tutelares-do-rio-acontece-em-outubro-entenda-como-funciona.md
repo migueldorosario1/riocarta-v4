@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1463_mg_0936_0.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eleição para Conselheiros Tutelares do Rio acontece em outubro; entenda como funciona'
 pubDate: 2023-09-29 15:02:10

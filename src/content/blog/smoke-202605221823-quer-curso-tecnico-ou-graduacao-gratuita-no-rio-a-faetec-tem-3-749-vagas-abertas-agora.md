@@ -5,6 +5,7 @@ pubDate: "2026-05-22T18:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "faetec", "educacao", "capital-estado", "regiao-metropolitana", "mage", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221823-quer-curso-tecnico-ou-graduacao-gratuita-no-rio-a-faetec-tem-3-749-vagas-abertas-agora.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

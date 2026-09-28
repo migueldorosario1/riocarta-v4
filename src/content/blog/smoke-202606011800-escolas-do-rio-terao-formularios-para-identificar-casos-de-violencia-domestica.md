@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:03:05Z"
 draft: true
 tags: ["rio-de-janeiro", "educacao", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "leme", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-escolas-do-rio-terao-formularios-para-identificar-casos-de-violencia-domestica-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mães e responsáveis legais de alunos da rede pública e privada do estado do Rio poderão informar situações de violência doméstica diretamente às escolas. A medida foi estabelecida pela Lei 11.
 

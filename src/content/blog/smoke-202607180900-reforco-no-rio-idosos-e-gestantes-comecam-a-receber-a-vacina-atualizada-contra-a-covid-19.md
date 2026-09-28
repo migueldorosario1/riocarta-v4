@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:01:15Z"
 draft: false
 tags: ["rio-de-janeiro", "vacina-covid-19", "idosos", "gestantes", "saude-publica", "saude-e-educacao-rj", "capital", "botafogo", "zona-norte", "campo-grande", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-reforco-no-rio-idosos-e-gestantes-comecam-a-receber-a-vacina-atualizada-contra-a-covid-19.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A capital fluminense deu início, nesta quarta-feira (13), a uma fase estratégica de imunização contra a Covid-19. O novo imunizante, formulado especificamente para combater a variante LP.
 

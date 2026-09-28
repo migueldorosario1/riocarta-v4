@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:25Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-comprido", "prefeitura-do-rio", "invasao", "predio-abandonado", "seguranca-publica", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130905-prefeitura-vai-fechar-antigo-predio-do-inmetro-no-rio-comprido-apos-invasoes-e-saques.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O antigo prédio ocupado pelo Inmetro, na Rua Santa Alexandrina, no Rio Comprido, será totalmente fechado pela Prefeitura do Rio após sucessivas invasões, furtos e episódios de depredação registrados no imóvel. O edifício, que tem oito andares e está vazio há pelo menos cinco anos, vem sendo alvo frequente de usuários de drogas.

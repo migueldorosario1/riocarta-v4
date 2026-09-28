@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:02:16Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "copacabana", "zona-portuaria", "cultura-carnaval", "niteroi-metropolitana", "regiao-metropolitana", "joa", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-circuito-de-musica-latina-em-bares-e-casas-noturnas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio de Janeiro recebe nesta semana um circuito de programação dedicado à música
 

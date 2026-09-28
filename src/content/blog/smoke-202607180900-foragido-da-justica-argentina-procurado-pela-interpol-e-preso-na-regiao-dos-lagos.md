@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:03:02Z"
 draft: true
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "policia-federal", "interpol", "seguranca-publica-rj", "politica-rj", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-foragido-da-justica-argentina-procurado-pela-interpol-e-preso-na-regiao-dos-lagos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Federal prendeu, no fim da noite desta terça-feira (12), um homem foragido da Justiça argentina condenado pelos crimes de posse ilegal de arma de fogo e lesão corporal agravada por vínculo e violência de gênero. Ele era procurado pela Difusão Vermelha da Interpol e foi capturado em Búzios, na Região dos Lagos.
 

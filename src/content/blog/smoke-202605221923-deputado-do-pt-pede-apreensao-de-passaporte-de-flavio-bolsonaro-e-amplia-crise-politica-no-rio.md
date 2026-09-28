@@ -5,6 +5,7 @@ pubDate: "2026-05-22T19:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "flavio-bolsonaro", "claudio-castro", "reimont", "rioprev", "macae-norte-fluminense", "norte-noroeste-fluminense", "macae", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221923-deputado-do-pt-pede-apreensao-de-passaporte-de-flavio-bolsonaro-e-amplia-crise-politica-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Reimont aciona PF e aponta risco de fuga após senador anunciar viagem aos Estados Unidos em meio a investigação sobre Daniel Vorcaro
 

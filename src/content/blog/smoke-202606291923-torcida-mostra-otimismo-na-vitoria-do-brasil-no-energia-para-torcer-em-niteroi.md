@@ -5,6 +5,7 @@ pubDate: "2026-06-29T19:27:02Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "centro-de-niteroi", "torcida", "cultura", "regiao-metropolitana", "sao-goncalo-itaborai", "vasco-da-gama", "mare", "sao-goncalo", "itaborai"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-torcida-mostra-otimismo-na-vitoria-do-brasil-no-energia-para-torcer-em-niteroi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1716_xclaudio-castro.jpg.pagespeed.ic_.aJTPIvnT_x-549x330-1.jpg"
+hero_credit: "UnknownUnknown / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Racha entre Aliados de Castro no Rio de Janeiro Amplia Disputas Municipais'
 pubDate: 2023-10-29 15:31:50

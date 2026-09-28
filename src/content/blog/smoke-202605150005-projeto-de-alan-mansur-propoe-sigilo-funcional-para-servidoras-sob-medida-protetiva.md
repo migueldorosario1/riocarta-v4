@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "regiao-norte-noroeste", "alan-mansur", "violencia-domestica", "servidoras-publicas", "educacao", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense", "seguranca-publica", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-projeto-de-alan-mansur-propoe-sigilo-funcional-para-servidoras-sob-medida-protetiva.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Propostas apresentadas por parlamentar focam na proteção e integridade de mulheres vítimas de violência

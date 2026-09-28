@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:25:04Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "cantagalo", "agricultura-familiar", "regiao-dos-lagos", "macae-norte-fluminense", "norte-fluminense", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-lindbergh-farias-entrega-novos-maquinarios-para-agricultura-familiar-de-rio-das-ostras.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O deputado federal Lindbergh Farias (PT-RJ) voltou a Rio das Ostras nessa quinta-feira, 25, para a participar da entrega de novos equipamentos que visam fortalecer a agricultura familiar em Cantagalo, região rural do município.
 

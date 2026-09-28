@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:28Z"
 draft: false
 tags: ["rio-de-janeiro", "itaperuna", "policia", "desaparecimento", "caes-farejadores", "norte-noroeste-fluminense", "regiao-metropolitana", "noroeste-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-com-ajuda-de-caes-farejadores-policia-encontra-corpo-de-medico-que-estava-desaparecido-em-itaper.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Com a ajuda de cães farejadores, a polícia montou uma força-tarefa para encontrar o médico itaperunense Marcus Vinicius Duarte D’Almeida, de 72 anos. Segundo familiares, ele tinha sido visto pela última vez na tarde da última quinta-feira (2) após sair de sua propriedade, localizada na região da Ponte Preta, zona rural de Itaperuna.
 

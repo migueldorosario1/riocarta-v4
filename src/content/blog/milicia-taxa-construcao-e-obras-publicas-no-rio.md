@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2180_operacao-dinastia-foi-realizada-para-prender-liderancas-da-milicia-de-luis-antonio-da-silva-braga-o-zinho-1661428252489_v2_900x506.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Milícia taxa construção e obras públicas no Rio'
 pubDate: 2023-12-20 06:30:00

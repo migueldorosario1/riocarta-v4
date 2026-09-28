@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:22Z"
 draft: false
 tags: ["rio-de-janeiro", "penedo", "itatiaia", "sul-fluminense", "cultura", "festival-sesc", "sul-fluminense-costa-verde", "regiao-metropolitana", "campinho", "joa", "comunidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-vanessa-da-mata-e-geraldo-azevedo-confirmados-no-festival-sesc-de-penedo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Itatiaia – O Festival Sesc de Inverno 2026 confirmou duas das principais atrações da programação em Penedo. A cantora Vanessa da Mata se apresenta no dia 25 de julho, às 21h, e o cantor e compositor Geraldo Azevedo sobe ao palco no dia 26, também às 21h.
 

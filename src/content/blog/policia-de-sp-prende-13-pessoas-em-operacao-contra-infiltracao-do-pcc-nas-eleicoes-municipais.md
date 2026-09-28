@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4801_imagem.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia de SP prende 13 pessoas em operação contra infiltração do PCC nas eleições municipais'
 pubDate: 2024-08-07 12:27:57

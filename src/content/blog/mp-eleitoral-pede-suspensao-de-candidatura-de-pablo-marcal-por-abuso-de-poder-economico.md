@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4894_imagem-18.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'MP Eleitoral Pede Suspensão de Candidatura de Pablo Marçal por Abuso de Poder Econômico'
 pubDate: 2024-08-19 21:34:36

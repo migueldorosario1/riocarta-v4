@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:32Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "thiago-rangel", "operacao-unha-e-carne", "politica-rj", "regiao-dos-lagos", "regiao-metropolitana", "seguranca-publica", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130105-stf-mantem-prisao-de-thiago-rangel-e-alerj-afasta-deputado.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) informou que já iniciou o cumprimento das determinações do Supremo Tribunal Federal (STF) relacionadas ao deputado estadual Thiago Rangel, preso durante uma fase da Operação Unha e Carne, conduzida pela Polícia Federal.

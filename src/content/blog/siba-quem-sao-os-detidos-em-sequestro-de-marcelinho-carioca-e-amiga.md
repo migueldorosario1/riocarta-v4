@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2209_marcelinho-carioca-1.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Siba quem são os detidos em sequestro de Marcelinho Carioca e amiga'
 pubDate: 2023-12-26 12:00:00

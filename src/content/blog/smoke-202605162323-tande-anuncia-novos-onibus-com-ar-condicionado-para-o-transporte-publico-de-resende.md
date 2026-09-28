@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:24:11Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "sul-fluminense-costa-verde", "sul-fluminense", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-tande-anuncia-novos-onibus-com-ar-condicionado-para-o-transporte-publico-de-resende.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 RESENDE
 

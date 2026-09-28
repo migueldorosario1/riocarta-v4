@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1731_2019-10-05.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cine Arte UFF Apresenta 14ª Edição do Festival Varilux de Cinema Francês Veja os Filmes em Exibição'
 pubDate: 2023-10-31 10:14:17

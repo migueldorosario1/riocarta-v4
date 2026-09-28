@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:04:42Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "bicicletas-compartilhadas", "vermelhinhas", "entregadores", "ept", "mobilidade", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "penha", "itaborai", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281900-marica-amplia-tempo-de-uso-das-bicicletas-gratuitas-para-entregadores.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Nova regra permite até quatro horas contínuas de utilização das “Vermelhinhas” para a realização de entregas
 

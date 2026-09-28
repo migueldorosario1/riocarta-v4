@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:24:05Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "seguranca-publica", "capital-estado", "regiao-metropolitana", "joa", "sao-joao-de-meriti", "mage", "arraial-do-cabo", "campos", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-policia-encontra-parte-de-cinzas-de-mae-levadas-em-assalto-a-onibus-na-linha-vermelha.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

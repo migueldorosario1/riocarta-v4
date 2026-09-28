@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:34Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "centro-niteroi", "desaparecimento", "seguranca-publica", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "sao-goncalo", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-familia-de-vendedor-aflita-com-sumico-de-jovem-no-centro-de-niteroi-24-horas-dificeis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A família do vendedor Marcus Vinicius Junior, conhecido como MV, de 20 anos, vive momentos de angústia e desespero após o desaparecimento do jovem no Centro de Niterói, nesta terça-feira (12). Já são 24 horas de aflição.

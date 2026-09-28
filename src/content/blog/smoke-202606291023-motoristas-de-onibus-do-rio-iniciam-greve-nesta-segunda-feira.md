@@ -5,6 +5,7 @@ pubDate: "2026-06-29T10:23:09Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte-mobilidade", "sul-fluminense", "regiao-metropolitana", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291023-motoristas-de-onibus-do-rio-iniciam-greve-nesta-segunda-feira.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 RIO
 

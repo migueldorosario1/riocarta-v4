@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:04:01Z"
 draft: true
 tags: ["rio-de-janeiro", "tijuca", "agua-santa", "vila-kosmos", "bento-ribeiro", "padre-miguel", "inhoaiba", "lapa", "nova-iguacu", "niteroi", "cultura", "religiao", "umbanda", "pretos-velhos"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-terreiros-do-rio-celebram-pretos-velhos-com-giras-e-feijoadas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Terreiros de umbanda em diferentes regiões do Rio realizam nesta quarta-feira (13) uma série de celebrações em homenagem aos Pretos Velhos, entidades reverenciadas nas religiões de matriz africana.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1387_image-33.png"
+hero_credit: "Russian Post, Publishing and Trade Centre Marka (ИТЦ «Марка»). The designer of the postal card: A. Shmidshteyn. Scanned by Dmitry Ivanov / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Martonio Mont’Alverne lança livro no Rio nesta quarta-feira (20/09)'
 pubDate: 2023-09-20 10:46:56

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "norte-noroeste-fluminense", "gas-natural", "projeto-raia", "welberth-rezende", "equinor", "economia-local", "geracao-de-empregos", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "campos", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131605-macae-reafirma-protagonismo-energetico-como-um-dos-maiores-ativos-de-gas-natural-do-pais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 O prefeito de Macaé, Welberth Rezende, reuniu-se nesta semana com a presidente da Equinor Brasil, Verônica Coelho, para tratar dos avanços do Projeto Raia. O empreendimento, um dos maiores ativos de gás natural do país, consolida a importância estratégica do município na cadeia de óleo, gás e energia.

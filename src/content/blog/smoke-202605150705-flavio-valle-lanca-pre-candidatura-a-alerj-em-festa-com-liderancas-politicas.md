@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "flavio-valle", "politica-rj", "capital", "regiao-metropolitana", "niteroi", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150705-flavio-valle-lanca-pre-candidatura-a-alerj-em-festa-com-liderancas-politicas.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A festa de aniversário do vereador Flávio Valle, realizada nesta quarta-feira (13) no Bosque Bar, ganhou tom político e reuniu cerca de três mil pessoas. O encontro também marcou o lançamento de sua pré-candidatura a deputado estadual.

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7265_image-24.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'O desastre de uma megaoperação no Alemão e na Penha de um governo que terceiriza o seu comando'
 pubDate: 2025-10-29 09:05:31

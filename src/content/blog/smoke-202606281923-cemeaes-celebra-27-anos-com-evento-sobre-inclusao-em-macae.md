@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:26:43Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "educacao", "inclusao", "cemeaes", "norte-fluminense", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "comunidade", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-cemeaes-celebra-27-anos-com-evento-sobre-inclusao-em-macae.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Centro Municipal Especializado de Atendimento ao Escolar de Macaé (Cemeaes) celebra 27 anos de atuação com uma programação especial neste sábado (27), a partir das 9h, no Anfiteatro da Praia da Imbetiba. O evento “Cemeaes em Movimento Entrelaçando Caminhos e Saberes” reunirá alunos, familiares, profissionais da educação e a comunidade.
 

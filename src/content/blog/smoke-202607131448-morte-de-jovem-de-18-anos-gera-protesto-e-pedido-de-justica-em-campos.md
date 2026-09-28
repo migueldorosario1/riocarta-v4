@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:51:01Z"
 draft: false
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "guarus", "protesto", "seguranca", "norte-noroeste-fluminense", "macae-norte-fluminense", "campos", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-morte-de-jovem-de-18-anos-gera-protesto-e-pedido-de-justica-em-campos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A morte de um jovem de 18 anos assassinado a tiros no Parque Calabouço, em Guarus, gerou uma grande comoção em Campos. O crime aconteceu no último sábado (4) na Rua Poeta Hermes Pontes, no bairro Jardins de Campos.
 

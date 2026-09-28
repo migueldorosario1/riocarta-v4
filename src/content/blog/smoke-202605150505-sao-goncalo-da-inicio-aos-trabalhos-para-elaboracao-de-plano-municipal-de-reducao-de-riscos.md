@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "defesa-civil", "planejamento-urbano", "niteroi-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150505-sao-goncalo-da-inicio-aos-trabalhos-para-elaboracao-de-plano-municipal-de-reducao-de-riscos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 PMRR é instrumento de planejamento para garantir uma cidade mais resiliente

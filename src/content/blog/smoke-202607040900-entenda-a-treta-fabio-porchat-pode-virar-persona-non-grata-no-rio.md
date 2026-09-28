@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:01:20Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "fabio-porchat", "sao-goncalo-itaborai", "regiao-metropolitana", "comunidade", "sao-goncalo", "itaborai", "problemas-estruturais", "seguranca-publica", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-entenda-a-treta-fabio-porchat-pode-virar-persona-non-grata-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O humorista contratado da Globo fez declarações contra o ex-presidente Jair Bolsonaro
 

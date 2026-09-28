@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "regiao-dos-lagos", "educacao", "transito", "escolinha-de-transito", "estado", "norte-noroeste-fluminense", "campos", "leme", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-escolinha-de-transito-da-mobilidade-urbana-leva-aprendizado-ludico-as-escolas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Com ações lúdicas e educativas, a Secretaria de Mobilidade Urbana, por meio da Coordenadoria de Educação para o Trânsito, tem conscientizado crianças e adolescentes sobre a importância de atitudes seguras no trânsito. Nesta terça-feira (12), os agentes estiveram na EMEI Zélia de Souza Aguiar, no bairro Malvinas.

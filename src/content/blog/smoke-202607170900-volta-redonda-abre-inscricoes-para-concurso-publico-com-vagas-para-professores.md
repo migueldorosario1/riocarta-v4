@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:02:04Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "concurso-publico", "professores", "educacao", "sul-fluminense", "sul-fluminense-costa-verde", "portuguesa"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-volta-redonda-abre-inscricoes-para-concurso-publico-com-vagas-para-professores.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

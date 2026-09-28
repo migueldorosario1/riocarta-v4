@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3290_images-67.jpeg"
+hero_credit: "Elvert Barnes / Wikimedia Commons (CC BY-SA 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Globo defende guerra aberta do Brasil com a Rússia após a morte de extremista na cadeia'
 pubDate: 2024-02-17 12:46:57

@@ -5,6 +5,7 @@ pubDate: "2026-05-20T21:25:19Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "dessalinizacao", "agua", "codemar", "regiao-dos-lagos", "capital-porto", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202123-marica-quer-implantar-sistema-que-tira-o-sal-da-agua-do-mar-para-gerar-agua-potavel-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Maricá deu o primeiro passo para estudar a implantação de um sistema capaz de transformar água do mar em água potável. A Companhia de Desenvolvimento de Maricá (Codemar) publicou, no dia 7 de maio, um chamamento público para receber propostas de empresas interessadas em participar de um Procedimento de Manifestação de Interesse (PMI) voltado à dessalinização.
 

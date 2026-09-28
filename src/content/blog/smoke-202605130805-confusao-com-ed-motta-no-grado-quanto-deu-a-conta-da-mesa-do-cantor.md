@@ -5,6 +5,7 @@ pubDate: "2026-05-13T11:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "jardim-botanico", "zona-sul", "ed-motta", "restaurante", "confusao", "violencia", "xenofobia", "rio-capital-zona-sul-e-grande-tijuca", "capital", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-confusao-com-ed-motta-no-grado-quanto-deu-a-conta-da-mesa-do-cantor.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Confusão com Ed Motta no Grado: quanto deu a conta da mesa do cantor?

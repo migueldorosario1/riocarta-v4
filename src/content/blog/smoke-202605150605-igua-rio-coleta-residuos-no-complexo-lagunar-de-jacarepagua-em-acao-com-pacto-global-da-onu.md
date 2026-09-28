@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "jacarepagua", "zona-oeste", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "caju", "jacare", "complexo", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-igua-rio-coleta-residuos-no-complexo-lagunar-de-jacarepagua-em-acao-com-pacto-global-da-onu.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A Iguá Rio realizou, em 14 de maio, uma ação de coleta de resíduos no Complexo Lagunar de Jacarepaguá, na Zona Sudoeste do Rio. A atividade foi feita em parceria com o Pacto Global da ONU – Rede Brasil, dentro da iniciativa Blue Keepers, voltada à proteção dos recursos hídricos e à redução da poluição em ambientes aquáticos.

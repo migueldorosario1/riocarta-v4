@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "laranjeiras", "zona-sul", "parque-municipal", "mata-atlantica", "legislacao", "camara-municipal", "rio-capital-zona-sul-e-grande-tijuca", "capital", "regiao-metropolitana", "santa-teresa", "transporte-mobilidade", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-tatiana-roque-propoe-parque-municipal-em-area-de-mata-atlantica-em-laranjeiras.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A vereadora Tatiana Roque apresentou na Câmara Municipal do Rio de Janeiro o Projeto de Lei nº 2182/2026, que declara de interesse público uma área localizada no Morro São Judas Tadeu, em Laranjeiras, para a criação do Parque Municipal de Laranjeiras.

@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "itaipu", "icarai", "enel", "furto-energia", "seguranca-publica", "regiao-metropolitana", "sao-goncalo-itaborai", "sao-goncalo", "itaborai", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-enel-encontra-gatos-de-energia-em-restaurante-e-hamburgueria-de-niteroi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Furtar energia é crime com pena prevista de um a quatro anos de reclusão
 

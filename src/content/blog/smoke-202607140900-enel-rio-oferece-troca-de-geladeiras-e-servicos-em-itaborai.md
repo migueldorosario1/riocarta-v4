@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:04:08Z"
 draft: true
 tags: ["rio-de-janeiro", "itaborai", "regiao-metropolitana", "energia", "enel", "marica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-enel-rio-oferece-troca-de-geladeiras-e-servicos-em-itaborai-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Resumo da notícia
 

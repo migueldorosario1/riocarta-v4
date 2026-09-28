@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:33Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "mulheres-negras", "mulheres-indigenas", "marcha", "cultura", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-domingo-e-dia-da-marcha-das-mulheres-negras-e-indigenas.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Com o apoio da Fundação Rio das Ostras de Cultura, a União de Mulheres Negras e Indígenas da Região dos Lagos – UMNI promove, no próximo domingo, dia 17, a 2ª Marcha das Mulheres Negras e Indígenas Região dos Lagos. O objetivo é a valorização das identidades, a luta por direitos e o fortalecimento das expressões culturais dessas mulheres.

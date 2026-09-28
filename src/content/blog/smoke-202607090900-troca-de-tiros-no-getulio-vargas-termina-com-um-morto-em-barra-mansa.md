@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:02:34Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "getulio-vargas", "seguranca-publica", "policia-civil", "policia-militar", "comando-vermelho", "sul-fluminense-costa-verde", "sul-fluminense", "comunidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-troca-de-tiros-no-getulio-vargas-termina-com-um-morto-em-barra-mansa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma ação conjunta das polícias Civil e Militar terminou com a morte de um homem, a prisão de dois suspeitos e a apreensão de um adolescente na tarde desta terça-feira (7), no bairro Getúlio Vargas. De acordo com a Polícia Civil, os suspeitos seriam ligados à facção criminosa Comando Vermelho.
 

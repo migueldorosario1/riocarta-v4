@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2605_WhatsApp-Image-2024-01-29-at-09.58.09.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Professor de Jiu-Jítsu preso por agredir ex-mulher durante seis horas no Rio'
 pubDate: 2024-01-29 11:30:00

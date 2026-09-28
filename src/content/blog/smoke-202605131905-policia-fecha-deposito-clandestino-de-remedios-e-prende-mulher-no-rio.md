@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "engenho-de-dentro", "zona-norte", "policia-civil", "deposito-clandestino", "remedios", "saude-publica", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "todos-os-santos", "problemas-estruturais", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-policia-fecha-deposito-clandestino-de-remedios-e-prende-mulher-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Civil fechou nesta quarta-feira (13) um depósito clandestino de medicamentos que funcionava dentro de uma casa no Engenho de Dentro, na Zona Norte do Rio. No local, agentes encontraram remédios controlados espalhados pelo chão, pendurados em portas e armazenados em condições consideradas inadequadas.

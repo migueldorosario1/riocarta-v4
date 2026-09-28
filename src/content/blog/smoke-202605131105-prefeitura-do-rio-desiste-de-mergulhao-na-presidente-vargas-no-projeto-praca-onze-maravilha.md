@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:34Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "presidente-vargas", "praca-onze", "elevado-31-de-marco", "urbanismo", "prefeitura-do-rio", "eduardo-cavaliere", "rio-capital-centro", "capital", "catumbi", "santa-teresa", "santo-cristo", "problemas-estruturais"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-prefeitura-do-rio-desiste-de-mergulhao-na-presidente-vargas-no-projeto-praca-onze-maravilha.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A Prefeitura do Rio desistiu de construir um mergulhão na Avenida Presidente Vargas dentro do projeto Praça Onze Maravilha, plano que prevê a demolição do Elevado Trinta e Um de Março e uma nova organização urbana na região central da cidade. A mudança foi comunicada pela Companhia Carioca de Parcerias e Investimentos à Construtora Cury, responsável pelo detalhamento do plano urbanístico.

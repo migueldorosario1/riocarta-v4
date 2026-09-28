@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:33Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "iptu", "audiencia-publica", "revisao-tributaria", "politica-rj", "zona-norte", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-camara-do-rio-inicia-rodada-de-audiencias-publicas-para-debater-revisao-do-iptu-na-cidade.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Câmara do Rio realizou, nesta quarta-feira (13), a primeira audiência pública da comissão especial criada para discutir possíveis mudanças nos critérios de cobrança do IPTU na cidade. O encontro reuniu vereadores, técnicos da prefeitura, comerciantes e moradores que relataram distorções nos valores cobrados atualmente pelo imposto.

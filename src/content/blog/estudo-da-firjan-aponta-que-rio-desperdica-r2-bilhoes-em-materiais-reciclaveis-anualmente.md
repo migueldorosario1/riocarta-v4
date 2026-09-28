@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1615_reciclagemfabiano-veneza_21_06.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Estudo da Firjan aponta que Rio desperdiça R$2 bilhões em materiais recicláveis anualmente'
 pubDate: 2023-10-18 13:03:38

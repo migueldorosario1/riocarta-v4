@@ -5,6 +5,7 @@ pubDate: "2026-05-13T03:30:58Z"
 draft: false
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "ine", "auditoria", "contrato", "dragagem", "meio-ambiente", "capital", "regiao-metropolitana", "lagoa", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130030-inea-sob-suspeita-auditoria-analisa-contrato-milionario-de-dragagem-em-nova-iguacu.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Um dos focos da auditoria geral instaurada pelo Governo do Rio de Janeiro é um contrato de R$ 108 milhões firmado pelo Instituto Estadual do Meio Ambiente (Inea). O projeto, voltado para a instalação de Unidades de Tratamento de Rio (UTRs) nos rios Poços e Ipiranga, em Nova Iguaçu, é suspeito de descumprir a Lei de Licitações e apresentar graves erros de planejamento.

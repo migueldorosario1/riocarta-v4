@@ -5,6 +5,7 @@ pubDate: "2026-05-30T14:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "energia", "economia", "economia-local", "politica-rj", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605301400-gas-natural-vai-ficar-mais-barato-no-rio-apos-acordo-entre-petrobras-e-naturgy.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os consumidores de gás natural no Estado do Rio de Janeiro terão redução nas tarifas a partir de 1º de junho após um novo acordo firmado entre a Petrobras e a Naturgy. A medida foi homologada pela Agenersa, agência reguladora do setor no estado, e prevê mudanças na fórmula de reajuste aplicada ao gás canalizado.
 

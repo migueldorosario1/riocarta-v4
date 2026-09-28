@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "bento-ribeiro", "oswaldo-cruz", "praca-seca", "centro", "policia-federal", "estelionato", "precatorios", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "centro-do-rio", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-policia-federal-prende-tres-integrantes-de-quadrilha-especializada-em-golpes-judiciais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Rio

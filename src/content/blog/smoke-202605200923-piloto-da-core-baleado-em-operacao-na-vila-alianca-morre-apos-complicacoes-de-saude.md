@@ -5,6 +5,7 @@ pubDate: "2026-05-20T09:23:22Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-alianca", "zona-oeste", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "lagoa", "comunidade", "sao-goncalo", "itaborai", "marica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200923-piloto-da-core-baleado-em-operacao-na-vila-alianca-morre-apos-complicacoes-de-saude.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O policial passou por inúmeras cirurgias
 

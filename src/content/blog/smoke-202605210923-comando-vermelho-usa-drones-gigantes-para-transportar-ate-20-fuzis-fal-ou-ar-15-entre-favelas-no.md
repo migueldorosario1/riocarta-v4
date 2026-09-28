@@ -5,6 +5,7 @@ pubDate: "2026-05-21T09:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "zona-norte", "seguranca-publica", "crime-organizado", "drones", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "jacare", "jacarezinho", "zona-oeste", "cidade-de-deus", "gardenia-azul"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210923-comando-vermelho-usa-drones-gigantes-para-transportar-ate-20-fuzis-fal-ou-ar-15-entre-favelas-no.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O avanço tecnológico do crime organizado no Rio de Janeiro acendeu um novo alerta nas forças de segurança. Investigações da polícia apontam que traficantes do Comando Vermelho (CV), instalados no Complexo do Alemão, na Zona Norte da capital fluminense, passaram a utilizar drones de grande porte para o transporte de armas e drogas entre comunidades dominadas pela facção.
 

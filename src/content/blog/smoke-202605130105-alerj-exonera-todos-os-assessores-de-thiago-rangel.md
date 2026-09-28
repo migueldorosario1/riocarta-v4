@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:07Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "thiago-rangel", "politica-rj", "seguranca-publica-rj", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130105-alerj-exonera-todos-os-assessores-de-thiago-rangel.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Em edição extra do Diário Oficial do Poder Legisltivo públicada na noite desta terça-feira (12), a Mesa Diretora da Assembleia Legislativa do Rio de Janeiro (Alerj) exonerou todos os assessores do gabinete do deputado Thiago Rangel (Avante), que foi preso pela Polícia Federal em investigação sobre fraudes na Secretaria de Estado de Educação.

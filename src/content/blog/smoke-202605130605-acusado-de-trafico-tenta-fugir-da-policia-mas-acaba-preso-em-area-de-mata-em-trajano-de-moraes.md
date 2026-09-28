@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "trajano-de-moraes", "maria-mendonca", "regiao-serrana", "trafico", "policia-militar", "norte-noroeste-fluminense", "nova-friburgo", "complexo-do-alemao", "comunidade", "complexo", "alemao", "noroeste-fluminense", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130605-acusado-de-trafico-tenta-fugir-da-policia-mas-acaba-preso-em-area-de-mata-em-trajano-de-moraes.jpg"
+hero_credit: "Dave Conner from Inverness, Scotland / Wikimedia Commons (CC BY 2.0)"
 categoria_macro: seguranca
 ---
 Um homem acusado de tráfico de drogas foi preso em uma ação da Polícia Militar em Trajano de Moraes. Policiais da guarnição do DPO de Trajano receberam uma denúncia e iniciaram um patrulhamento a pé por uma área de mata e conseguiram prender o acusado.

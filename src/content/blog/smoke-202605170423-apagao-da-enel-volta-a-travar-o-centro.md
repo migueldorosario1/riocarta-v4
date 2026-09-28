@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:19Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "niteroi-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-apagao-da-enel-volta-a-travar-o-centro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mais um apagão voltou a atingir o Centro de Niterói e recolocou a Enel no centro de uma crise de serviço que já se arrasta há semanas. Na terça-feira, 12, moradores e comerciantes da região central relataram nova interrupção no fornecimento de energia, com impacto direto sobre lojas, restaurantes e residências em horário comercial.
 

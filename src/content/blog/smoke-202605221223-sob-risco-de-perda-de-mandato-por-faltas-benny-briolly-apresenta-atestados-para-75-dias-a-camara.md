@@ -5,6 +5,7 @@ pubDate: "2026-05-22T12:23:52Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "camara-de-niteroi", "benny-briolly", "cassacao", "regiao-metropolitana", "politica-rj", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221223-sob-risco-de-perda-de-mandato-por-faltas-benny-briolly-apresenta-atestados-para-75-dias-a-camara-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A situação de Benny Briolly voltou ao centro do debate político em Niterói. A vereadora apresentou três atestados que, juntos, determinam 75 dias de afastamento para explicar à Mesa Diretora da Câmara as 33 faltas sem justificativa registradas pelo próprio sistema da Casa Legislativa entre fevereiro e outubro do ano passado.
 

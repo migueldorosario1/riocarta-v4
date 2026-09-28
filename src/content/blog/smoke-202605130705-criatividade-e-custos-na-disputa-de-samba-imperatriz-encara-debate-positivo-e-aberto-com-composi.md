@@ -5,6 +5,7 @@ pubDate: "2026-05-13T10:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "ramos", "imperatriz-leopoldinense", "carnaval", "samba-enredo", "cultura-e-carnaval-rj", "cultura-carnaval", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-criatividade-e-custos-na-disputa-de-samba-imperatriz-encara-debate-positivo-e-aberto-com-composi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A Imperatriz Leopoldinense reuniu compositores de samba-enredo, na manhã do último sábado, na quadra da escola, em Ramos, para um encontro inédito em seu calendário: um bate-papo entre a diretoria e os artistas que disputam samba na agremiação. Na pauta, o modelo de disputa, o momento do tira-dúvidas, a sinopse do enredo e a divisão de direitos autorais.

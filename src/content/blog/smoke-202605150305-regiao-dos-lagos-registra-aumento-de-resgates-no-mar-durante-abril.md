@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "arraial-do-cabo", "saquarema", "seguranca-publica", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-regiao-dos-lagos-registra-aumento-de-resgates-no-mar-durante-abril.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O número de salvamentos marítimos realizados pelo Corpo de Bombeiros aumentou nas praias da Região dos Lagos ao longo de abril, período marcado por feriados prolongados, grande presença de turistas e condições perigosas do mar em diferentes pontos do litoral. Cidades como Cabo Frio, Arraial do Cabo e Saquarema concentraram parte das ocorrências registradas no mês.

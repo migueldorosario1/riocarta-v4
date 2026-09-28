@@ -5,6 +5,7 @@ pubDate: "2026-06-29T17:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "copacabana", "ilha-comprida", "trilha-insular", "unidade-de-conservacao", "mona-cagarras", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "tijuca", "urca", "barra-de-guaratiba", "guaratiba"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291723-rio-ganha-primeira-trilha-insular-aberta-a-visitacao-em-unidade-de-conservacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio de Janeiro passou a contar, a partir deste domingo (28), com a primeira trilha insular aberta à visitação dentro de uma unidade de conservação. Inaugurada pelo Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), a Trilha da Comprida fica na Ilha Comprida, uma das ilhas que integram o Monumento Natural das Ilhas Cagarras (MONA Cagarras), a cerca de cinco quilômetros da Praia de Ipanema.
 

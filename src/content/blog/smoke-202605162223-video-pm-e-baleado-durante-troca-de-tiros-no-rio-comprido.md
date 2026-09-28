@@ -5,6 +5,7 @@ pubDate: "2026-05-16T22:24:18Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-comprido", "zona-central", "seguranca-publica", "politica-rj", "regiao-metropolitana", "sao-cristovao", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-video-pm-e-baleado-durante-troca-de-tiros-no-rio-comprido.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um policial militar foi baleado durante uma troca de tiros na manhã deste sábado (16), no bairro do Rio Comprido, na Zona Central do Rio de Janeiro. O confronto ocorreu durante uma tentativa de abordagem realizada por agentes do 4º BPM (São Cristóvão) a dois homens que estavam em uma motocicleta.
 

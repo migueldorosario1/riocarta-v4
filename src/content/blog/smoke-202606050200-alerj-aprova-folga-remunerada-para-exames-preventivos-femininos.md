@@ -5,6 +5,7 @@ pubDate: "2026-06-05T02:03:51Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "saude-da-mulher", "politica-rj", "capital-porto", "regiao-metropolitana", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606050200-alerj-aprova-folga-remunerada-para-exames-preventivos-femininos-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 No Dia Internacional de Luta pela Saúde da Mulher, comemorado em 28 de maio, a Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou a Lei 11. 178/26, que permite que empresas privadas ofereçam às mulheres uma folga anual remunerada para a realização de exames preventivos, com foco em câncer de mama e colo do útero.
 

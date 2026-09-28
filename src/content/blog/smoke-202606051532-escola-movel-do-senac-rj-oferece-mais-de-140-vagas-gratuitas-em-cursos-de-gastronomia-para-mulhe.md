@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:39:30Z"
 draft: true
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "regiao-dos-lagos", "educacao", "gastronomia", "regiao-metropolitana", "cabo-frio", "buzios", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-escola-movel-do-senac-rj-oferece-mais-de-140-vagas-gratuitas-em-cursos-de-gastronomia-para-mulhe.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Senac RJ, em parceria com a Prefeitura de Armação dos Búzios, por meio da Secretaria da Mulher, e o Sindcom Cabo Frio, vai oferecer 144 vagas gratuitas em cursos de qualificação profissional na área de gastronomia voltados para mulheres no município.
 

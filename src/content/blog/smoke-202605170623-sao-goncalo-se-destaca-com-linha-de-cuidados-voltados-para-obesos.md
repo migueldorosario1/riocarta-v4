@@ -5,6 +5,7 @@ pubDate: "2026-05-17T06:23:21Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "saude", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170623-sao-goncalo-se-destaca-com-linha-de-cuidados-voltados-para-obesos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Município apresenta programa em Congresso Brasileiro de Nutrição
 

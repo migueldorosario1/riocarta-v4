@@ -5,6 +5,7 @@ pubDate: "2026-05-21T21:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "cidade-de-deus", "jacarezinho", "complexo-do-lins", "gardenia-azul", "muzema", "rio-das-pedras", "complexo-da-penha", "zona-oeste", "zona-norte", "seguranca-publica", "capital-estado", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212123-traficantes-do-cv-adotam-drones-gigantes-para-mover-armas-e-drogas-no-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

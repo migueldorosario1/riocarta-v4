@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2060_IMG_5988_credito-Leo-Zulluh_00079229_0.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói realiza aulão de defesa pessoal para mulheres no MAC neste sábado'
 pubDate: 2023-12-02 06:45:00

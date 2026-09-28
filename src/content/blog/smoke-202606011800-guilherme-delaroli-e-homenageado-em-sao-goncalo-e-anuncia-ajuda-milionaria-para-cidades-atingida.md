@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:00:25Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "itaborai", "politica-rj", "alerj", "regiao-metropolitana", "sao-goncalo-itaborai", "botafogo", "ramos", "anil", "joa", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-guilherme-delaroli-e-homenageado-em-sao-goncalo-e-anuncia-ajuda-milionaria-para-cidades-atingida.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Guilherme Delaroli é homenageado em São Gonçalo e anuncia ajuda milionária para cidades atingidas por chuvas
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T22:28:47Z"
 draft: true
 tags: ["rio-de-janeiro", "efeito-torcida", "energia", "copa-do-mundo", "politica-rj", "capital", "regiao-metropolitana"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-jogo-do-brasil-na-copa-gera-efeito-torcida-na-rede-eletrica-do-rio-e-liga-alerta-para-risco-de-a.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

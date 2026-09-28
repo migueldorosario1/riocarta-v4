@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:08Z"
 draft: true
 tags: ["rio-de-janeiro", "politica", "fluminense", "politica-rj", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-video-eduardo-bolsonaro-nega-ser-produtor-executivo-de-filme-sobre-jair-bolsonaro-e-condena-vaza.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-deputado federal Eduardo Bolsonaro se pronunciou nesta sexta-feira (15) após a divulgação de novas informações sobre o financiamento do filme “Dark Horse”, cinebiografia do ex-presidente Jair Bolsonaro. Em vídeo publicado nas redes sociais, ele negou ter sido financiado pelo banqueiro Daniel Vorcaro e classificou as informações divulgadas como “mentira”.
 

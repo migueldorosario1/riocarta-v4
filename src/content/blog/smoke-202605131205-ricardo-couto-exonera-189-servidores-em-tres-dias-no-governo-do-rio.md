@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:29Z"
 draft: true
 tags: ["rio-de-janeiro", "governo-rj", "servidores-publicos", "exoneracoes", "casa-civil", "gsi", "proderj", "detro-rj", "ricardo-couto", "flavio-willeman", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-ricardo-couto-exonera-189-servidores-em-tres-dias-no-governo-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Chegou a 189 o número de servidores exonerados nesta semana pelo secretário estadual da Casa Civil, Flávio Willeman, no Governo do Estado do Rio de Janeiro. Nesta quarta-feira (13/05), foram publicados mais 45 atos no Diário Oficial, sendo 42 exonerações, uma anulação e uma nomeação.

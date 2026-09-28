@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:00:10Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "empreendedorismo", "cidade-inteligente", "inovacao", "rio-capital-centro", "capital-porto", "regiao-metropolitana", "centro-do-rio", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-iv-forum-rio-empreendedor-debate-futuro-do-rio-como-cidade-inteligente-inclusiva-e-inovadora.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O futuro do Rio de Janeiro como uma cidade mais inteligente, inclusiva, inovadora e competitiva estará no centro dos debates da quarta edição do Fórum Rio Empreendedor, que acontece nos dias 22 e 23 de julho, no Centro do Rio. Realizado pela Associação Comercial do Rio de Janeiro (ACRJ), através do Instituto Mauá, com a correalização da Fundação Getulio Vargas (FGV) e apoio FAPERJ, o encontro reunirá lideranças empresariais, representantes do poder público, especialistas, investidores e empreendedores para discutir soluções concretas para o desenvolvimento da cidade.
 

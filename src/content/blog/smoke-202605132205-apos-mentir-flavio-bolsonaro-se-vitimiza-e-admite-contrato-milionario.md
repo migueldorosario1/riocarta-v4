@@ -5,6 +5,7 @@ pubDate: "2026-05-14T01:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "capital", "seguranca-publica", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-apos-mentir-flavio-bolsonaro-se-vitimiza-e-admite-contrato-milionario.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O senador Flávio Bolsonaro (PL) mudou radicalmente a estratégia de comunicação nesta quarta-feira (13). Após classificar como “mentira” as informações sobre o financiamento do filme “Dark Horse”, o parlamentar publicou um vídeo em que assume o papel de filho dedicado para justificar a relação comercial com o banqueiro Daniel Vorcaro, ex-controlador do Banco Master.

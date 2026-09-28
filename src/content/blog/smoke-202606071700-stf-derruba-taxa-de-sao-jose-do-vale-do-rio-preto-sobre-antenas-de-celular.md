@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:00:10Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-jose-do-vale-do-rio-preto", "regiao-serrana", "stf", "antenas-de-celular", "taxa-municipal", "politica-rj", "regiao-metropolitana", "serrana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-stf-derruba-taxa-de-sao-jose-do-vale-do-rio-preto-sobre-antenas-de-celular.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Supremo Tribunal Federal (STF) anulou a cobrança de taxas municipais aplicadas à operadoras de celular pela instalação e funcionamento de antenas e torres de telefonia em São José do Vale do Rio Preto, na Região Serrana do Rio. A decisão foi do ministro Dias Toffoli, ao acolher um recurso da empresa Claro S A contra cobranças feitas pelo município com base em uma lei municipal de 2005.
 

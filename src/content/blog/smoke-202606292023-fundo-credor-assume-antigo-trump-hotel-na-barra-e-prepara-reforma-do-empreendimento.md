@@ -5,6 +5,7 @@ pubDate: "2026-06-29T20:25:39Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "hotel", "falencia", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "tijuca", "joa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292023-fundo-credor-assume-antigo-trump-hotel-na-barra-e-prepara-reforma-do-empreendimento.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Após a Justiça do Rio decretar a falência da LSH Barra Hotel, empreendimento conhecido como antigo Trump Hotel e localizado na orla da Barra da Tijuca, o ativo será herdado por um fundo da Polo Capital, credor do empreendimento. A gestora pretende reformar o imóvel para atrair uma nova bandeira hoteleira e reposicionar o hotel no mercado.
 

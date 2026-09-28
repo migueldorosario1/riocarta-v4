@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:24:14Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "niteroi-metropolitana", "zona-norte", "sao-goncalo", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-trator-da-clin-atinge-veiculos-na-jansen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um trator da CLIN perdeu o freio e provocou um acidente em cadeia na Avenida Jansen de Melo, no Centro de Niterói, atingindo quatro carros de passeio e um ônibus na tarde de quarta-feira, 13. O impacto travou um dos principais acessos ao Centro e espalhou retenções até a Alameda São Boaventura, no Fonseca, num horário de fluxo carregado para quem chegava da Zona Norte e de São Gonçalo.
 

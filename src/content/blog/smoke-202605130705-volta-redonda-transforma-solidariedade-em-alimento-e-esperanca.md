@@ -5,6 +5,7 @@ pubDate: "2026-05-13T10:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "banco-de-alimentos", "seguranca-alimentar", "solidariedade", "sul-fluminense", "sul-fluminense-costa-verde", "joa", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-volta-redonda-transforma-solidariedade-em-alimento-e-esperanca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 VOLTA REDONDA

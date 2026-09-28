@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:00:52Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "centro", "barreto", "arena-niteroi", "roberto-carlos", "prefeitura-de-niteroi", "regiao-metropolitana", "sao-goncalo-itaborai", "mare", "sao-goncalo", "itaborai", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281900-roberto-carlos-inaugura-arena-niteroi-em-noite-de-emocao-classicos-e-sonhos-realizados.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rei faz o primeiro show do novo espaço cultural e esportivo do Centro da cidade
 

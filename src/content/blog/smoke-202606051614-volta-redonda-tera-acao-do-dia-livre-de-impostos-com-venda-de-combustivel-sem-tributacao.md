@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:18:28Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sao-geraldo", "combustivel", "dia-livre-de-impostos", "sul-fluminense-costa-verde", "sul-fluminense", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-volta-redonda-tera-acao-do-dia-livre-de-impostos-com-venda-de-combustivel-sem-tributacao.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

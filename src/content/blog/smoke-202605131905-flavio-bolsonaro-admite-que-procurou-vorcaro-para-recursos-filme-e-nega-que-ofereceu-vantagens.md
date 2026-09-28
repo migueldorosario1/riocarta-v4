@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:33Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "daniel-vorcaro", "politica-rj", "senador", "serrana", "regiao-serrana", "petropolis", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-flavio-bolsonaro-admite-que-procurou-vorcaro-para-recursos-filme-e-nega-que-ofereceu-vantagens.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Flávio Bolsonaro admite que procurou Vorcaro para recursos filme e nega que ofereceu vantagens

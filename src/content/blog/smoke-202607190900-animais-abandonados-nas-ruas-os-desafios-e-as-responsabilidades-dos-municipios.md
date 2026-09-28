@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:02:26Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "icarai", "animais-abandonados", "seguranca-publica", "politica-municipal", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "complexo", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-animais-abandonados-nas-ruas-os-desafios-e-as-responsabilidades-dos-municipios.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O abandono de animais na rua é considerado crime de maus-tratos em todo o Brasil, conforme a Lei Federal nº 9. 605/1998.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:04:56Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "cultura", "festival-soberaninho", "tribuna-cast", "regiao-serrana", "serrana", "regiao-metropolitana", "baixada", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-tribuna-cast-desta-quarta-recebe-o-produtor-pablo-castellar-para-falar-sobre-cultura-e-o-legado.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O “Tribuna Cast” desta quarta-feira (08) recebe o produtor cultural Pablo Castellar. Com mais de 25 anos de experiência no setor, o convidado vai compartilhar sua trajetória na gestão de projetos culturais e analisar os desafios e as oportunidades para o fortalecimento da cultura em Petrópolis.
 

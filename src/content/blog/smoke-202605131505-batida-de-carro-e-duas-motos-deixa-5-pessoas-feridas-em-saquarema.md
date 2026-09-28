@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "acidente", "transito", "macae-norte-fluminense", "araruama", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-batida-de-carro-e-duas-motos-deixa-5-pessoas-feridas-em-saquarema.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Uma batida violenta envolvendo um carro e duas motos deixou 5 pessoas feridas, entre elas uma criança de 12 anos, e uma mulher que chegou a ser arremessada para debaixo de um ônibus que vinha mais atrás.

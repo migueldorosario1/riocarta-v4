@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:38:47Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "cultura", "gastronomia", "regiao-metropolitana", "sao-goncalo-itaborai", "rocha", "joa", "sao-goncalo", "itaborai", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-mercado-municipal-de-niteroi-recebe-edicao-mega-especial-do-festival-nordestino-com-show-de-elba.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Festival Nordestino já se consolidou como um dos principais eventos culturais e gastronômicos de Niterói
 

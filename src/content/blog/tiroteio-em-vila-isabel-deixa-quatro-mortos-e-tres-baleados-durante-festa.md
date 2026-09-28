@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4873_imagem-3.avif"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tiroteio em Vila Isabel deixa quatro mortos e três baleados durante festa'
 pubDate: 2024-08-19 10:22:31

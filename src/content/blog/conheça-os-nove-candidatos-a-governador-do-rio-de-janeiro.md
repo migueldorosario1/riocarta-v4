@@ -9,6 +9,7 @@ lang: "pt-br"
 author: "Redação Rio Carta"
 draft: false
 heroImage: "/hero/conheça-os-nove-candidatos-a-governador-do-rio-de-janeiro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 A Agência Brasil publicou a relação dos nove candidatos que concorrem ao cargo de governador do Rio de Janeiro. A lista reúne os nomes que estarão na disputa pelo comando do Executivo fluminense.

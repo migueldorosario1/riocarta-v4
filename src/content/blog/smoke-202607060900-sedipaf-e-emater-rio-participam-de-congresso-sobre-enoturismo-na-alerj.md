@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:02:17Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "areal", "regiao-serrana", "sul-fluminense", "regiao-metropolitana", "comunidade", "serrana", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-sedipaf-e-emater-rio-participam-de-congresso-sobre-enoturismo-na-alerj.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio de Janeiro – A Secretaria de Estado de Desenvolvimento Regional do Interior, Pesca e Agricultura Familiar (SEDIPAF) e a Empresa de Assistência Técnica e Extensão Rural do Estado do Rio de Janeiro (EMATER-RIO) participarão do III Congresso Desafios do Enoturismo no Estado do Rio de Janeiro, que será realizado nos dias 19 e 20 de maio, na Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), no Palácio Tiradentes.
 

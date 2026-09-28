@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "partido-liberal", "daniel-vorcaro", "banco-master", "dark-horse", "cinebiografia", "jair-bolsonaro", "politica-rj", "senador", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-flavio-bolsonaro-recebe-apoio-do-pl-apos-revelacao-de-pedido-de-dinheiro-a-daniel-vorcaro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O Partido Liberal (PL) saiu em defesa do senador Flávio Bolsonaro (PL-RJ) após a divulgação de mensagens e áudios que mostram o parlamentar pedindo recursos ao banqueiro Daniel Vorcaro, do Banco Master, para financiar o filme Dark Horse, cinebiografia sobre o ex-presidente Jair Bolsonaro (PL). O caso ganhou repercussão nacional nesta quarta-feira (13) após reportagem publicada pelo portal Intercept Brasil.

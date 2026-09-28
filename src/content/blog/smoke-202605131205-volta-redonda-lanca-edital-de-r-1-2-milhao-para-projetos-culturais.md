@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "cultura", "edital", "prefeitura", "sul-fluminense-costa-verde", "ramos", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-volta-redonda-lanca-edital-de-r-1-2-milhao-para-projetos-culturais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 VOLTA REDONDA

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:10Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "casacor-rio", "arquitetura", "cultura", "rio-capital-centro", "capital", "copacabana", "mare", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130905-mente-e-coracao-o-novo-tema-da-casacor-rio-agora-no-centro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 “Mente e Coração”: o novo tema da Casacor Rio, agora no Centro

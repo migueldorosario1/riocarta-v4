@@ -5,6 +5,7 @@ pubDate: "2026-05-25T06:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "politica-rj", "regiao-metropolitana", "comunidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605250600-rio-sera-prioridade-em-programa-federal-de-combate-ao-crime-organizado-afirma-ministro-da-justic.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ministro da Justiça, Wellington César Lima e Silva, anunciou nesta sexta-feira (22) que o Rio de Janeiro será um dos estados prioritários do programa federal “Brasil Contra o Crime Organizado”, iniciativa do governo federal voltada ao enfrentamento das facções criminosas em todo o país.
 

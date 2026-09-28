@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7663_image-10.png"
+hero_credit: "PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Por um Rio mais verde'
 pubDate: 2026-02-09 12:34:06

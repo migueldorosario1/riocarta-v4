@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "centro", "medalha-tiradentes", "tula-mello", "politica-rj", "capital", "regiao-metropolitana", "centro-do-rio"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-juiza-tula-mello-recebe-medalha-tiradentes-nesta-quinta-feira-na-alerj.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A juíza Tula Mello, magistrada do Tribunal de Justiça do Rio de Janeiro desde 2001, será homenageada nesta quinta-feira (14) com a Medalha Tiradentes, maior honraria concedida pela Assembleia Legislativa do Estado do Rio de Janeiro.

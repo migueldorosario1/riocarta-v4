@@ -5,6 +5,7 @@ pubDate: "2026-06-28T23:24:35Z"
 draft: false
 tags: ["rio-de-janeiro", "tijuca", "salgueiro", "carnaval", "rio-capital-zona-sul-grande-tijuca", "cultura-carnaval", "comunidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282323-salgueiro-mais-forte-andre-vaz-garante-que-escola-esta-pronta-para-brigar-de-igual-para-igual-pe.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Após ser aclamado presidente do Salgueiro, novamente, para o mandato de 2026-2030, André Vaz falou com o CARNAVALESCO sobre o que representa a renovação de seu mandato à frente da vermelha e branca da Tijuca. Para o mandatário, a permanência no cargo simboliza a confiança depositada por aqueles que vivem o dia a dia da escola.
 

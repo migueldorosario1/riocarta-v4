@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "marica", "regiao-metropolitana", "seguranca-publica", "pm-baleado", "engrenho-do-mato", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "sao-goncalo", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-pm-e-baleado-durante-patrulhamento-entre-niteroi-e-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Um policial militar foi baleado na manhã desta quarta-feira (13) na Rua 12, no Engenho do Mato, bairro limítrofe entre Niterói e Maricá, na Região Metropolitana do Rio. O caso envolveu um 3º sargento da PM lotado no Batalhão de Policiamento em Vias Expressas (BPVE) e que estava em serviço pelo programa Segurança Presente.

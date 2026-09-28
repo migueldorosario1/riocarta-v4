@@ -5,6 +5,7 @@ pubDate: "2026-05-16T11:26:42Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "tijuca", "barros-filho", "comunidade", "campos", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161123-cortella-clovis-de-barros-e-lucia-helena-fazem-evento-sobre-filosofia-proposito-e-saude-mental-n.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Em um momento em que temas como saúde mental, propósito e equilíbrio emocional ganham cada vez mais espaço no debate público, o Rio de Janeiro recebe, pela primeira vez, o Summit Cultural Alma Talks, evento voltado à filosofia, cultura e desenvolvimento humano que já passou por cidades brasileiras e internacionais como Nova York e Miami.

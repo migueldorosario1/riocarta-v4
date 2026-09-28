@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:06:04Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "medalha-tiradentes", "lazaro-ramos", "politica-rj", "capital-estado", "regiao-metropolitana", "penha", "ramos", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150105-alerj-concede-medalha-tiradentes-a-lazaro-ramos-por-impacto-cultural.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Rio

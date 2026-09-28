@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5055_imagem-18.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Hackers reivindicam ataques a sistemas de escritório da família de Alexandre de Moraes'
 pubDate: 2024-09-03 18:08:45

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T23:23:50Z"
 draft: false
 tags: ["rio-de-janeiro", "policia-civil", "criptomoedas", "lavagem-de-dinheiro", "baixada-fluminense", "complexo-do-lins", "complexo-da-mare", "seguranca-publica", "capital", "regiao-metropolitana", "mare", "complexo", "baixada"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292323-policia-civil-cria-nucleo-para-investigar-crimes-com-criptomoedas-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil do Rio de Janeiro criou o Núcleo de Apoio às Investigações com Ativos Virtuais (NUCRIPTO), unidade especializada em apurações que envolvem criptomoedas e outros ativos digitais. O objetivo é reforçar o combate à lavagem de dinheiro, golpes virtuais e crimes financeiros com uso de tecnologia.
 

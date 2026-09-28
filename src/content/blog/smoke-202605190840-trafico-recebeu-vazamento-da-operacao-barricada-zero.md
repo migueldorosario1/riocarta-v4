@@ -5,6 +5,7 @@ pubDate: "2026-05-19T08:40:37Z"
 draft: false
 tags: ["rio-de-janeiro", "cidade-de-deus", "zona-oeste", "seguranca-publica", "capital", "regiao-metropolitana", "jacare", "jacarepagua", "gardenia-azul", "comunidade", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605190840-trafico-recebeu-vazamento-da-operacao-barricada-zero.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma grave brecha na inteligência da segurança pública do Rio de Janeiro veio à tona com a revelação de que traficantes da Cidade de Deus, na Zona Oeste da capital, receberam o cronograma detalhado da Operação Barricada Zero antes mesmo de o Palácio Guanabara anunciar o programa. Mensagens de texto e arquivos de áudio interceptados revelam que um suposto agente lotado no 18º BPM (Jacarepaguá) atuou como informante, antecipando em cinco dias as diretrizes estratégicas da força-tarefa estadual voltada à remoção de obstáculos físicos em vias públicas.
 

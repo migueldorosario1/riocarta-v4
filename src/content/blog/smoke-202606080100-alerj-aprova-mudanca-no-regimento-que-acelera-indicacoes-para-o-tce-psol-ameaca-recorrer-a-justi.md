@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:04:46Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica", "politica-rj", "rocha", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-alerj-aprova-mudanca-no-regimento-que-acelera-indicacoes-para-o-tce-psol-ameaca-recorrer-a-justi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Assembleia Legislativa do Rio (Alerj) aprovou, nesta quarta-feira (20), o projeto da Mesa Diretora que altera o regimento interno da Casa e acelera o processo de indicação e sabatina de conselheiros do Tribunal de Contas do Estado (TCE-RJ). A proposta também modifica prazos de tramitação legislativa e regras para análise de nomes indicados a agências reguladoras.
 

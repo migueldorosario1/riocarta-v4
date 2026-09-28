@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:18:51Z"
 draft: false
 tags: ["rio-de-janeiro", "vik-muniz", "arte", "cultura-carnaval", "sao-goncalo-itaborai", "regiao-metropolitana", "leme", "joa", "mage", "sao-goncalo", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-exposicao-no-ccbb-rio-celebra-trajetoria-do-artista-vik-muniz.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Exposição A Olho Nu poderá ser apreciada a partir de quarta-feira (20)
 

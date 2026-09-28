@@ -5,6 +5,7 @@ pubDate: "2026-05-17T06:23:12Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "rio-capital-zona-norte", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170623-preso-em-sp-acusado-de-matar-homem-estrangulado-em-sao-goncalo.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Foi preso nesta quinta-feira (14) um homem acusado de matar outro homem por estrangulamento, após obrigá-lo a realizar transferências bancárias. O crime ocorreu em fevereiro, em Miriambi, São Gonçalo, e o assassino foi capturado em Santo Amaro, em São Paulo.
 

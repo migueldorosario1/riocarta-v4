@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1600_transoeceanica.jpg"
+hero_credit: "Jonas.Feitosa / Wikimedia Commons (CC BY-SA 4.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Niterói propõe aumento na passagem de ônibus a partir de janeiro de 2024'
 pubDate: 2023-10-16 16:23:03

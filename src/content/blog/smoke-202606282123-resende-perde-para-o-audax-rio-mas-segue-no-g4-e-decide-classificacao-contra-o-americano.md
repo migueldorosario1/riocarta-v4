@@ -5,6 +5,7 @@ pubDate: "2026-06-28T21:26:09Z"
 draft: false
 tags: ["rio-de-janeiro", "resende", "sul-fluminense", "campeonato-carioca", "serie-a2", "futebol", "sul-fluminense-costa-verde", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282123-resende-perde-para-o-audax-rio-mas-segue-no-g4-e-decide-classificacao-contra-o-americano.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Resende foi derrotado pelo Audax Rio por 2 a 0 na tarde deste sábado (27), no Estádio Ronaldo Nazário, em partida válida pela 10ª rodada do Campeonato Carioca Série A2. Apesar do resultado negativo fora de casa, o Gigante do Vale permanece no G4 da competição.
 

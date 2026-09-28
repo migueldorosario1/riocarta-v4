@@ -5,6 +5,7 @@ pubDate: "2026-05-20T15:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "seguranca-publica", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "baixada", "mage", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201523-nova-iguacu-e-prf-integram-monitoramento-da-rodovia-presidente-dutra.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Nova Iguaçu firmou uma parceria inédita com a Polícia Rodoviária Federal para integrar os sistemas de monitoramento do município e da Rodovia Presidente Dutra. O convênio, assinado pelo prefeito Dudu Reina, estabelece o compartilhamento de imagens, intercâmbio de dados de inteligência e leitura automatizada de placas veiculares.
 

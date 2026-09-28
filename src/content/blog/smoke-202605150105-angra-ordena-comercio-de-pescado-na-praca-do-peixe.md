@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "sul-fluminense-costa-verde", "pesca", "comercio", "ordenamento", "sul-fluminense", "mare", "zumbi", "angra", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150105-angra-ordena-comercio-de-pescado-na-praca-do-peixe.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: economia
 ---
 ANGRA DOS REIS

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1340_image-18.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'CCBB Rio mostra de Heitor dos Prazeres tem acesso por audiodescrição'
 pubDate: 2023-09-12 20:40:37

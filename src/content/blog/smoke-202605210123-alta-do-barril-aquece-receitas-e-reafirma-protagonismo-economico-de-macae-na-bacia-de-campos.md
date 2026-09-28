@@ -5,6 +5,7 @@ pubDate: "2026-05-21T01:23:23Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "bacia-de-campos", "norte-fluminense", "petroleo", "royalties", "norte-noroeste-fluminense", "estado", "regiao-metropolitana", "marica", "mare", "ramos", "joa", "cabo-frio"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210123-alta-do-barril-aquece-receitas-e-reafirma-protagonismo-economico-de-macae-na-bacia-de-campos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os indicadores do setor petrolífero voltaram a agitar a economia do Norte Fluminense e reacenderam as discussões sobre a pujança dos municípios produtores. Com a cotação internacional em alta e o incremento da produção na Bacia de Campos, Macaé mantém-se no epicentro das atenções quando o tema é cadeia offshore, royalties e reflexos econômicos na região.
 

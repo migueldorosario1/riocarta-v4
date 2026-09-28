@@ -5,6 +5,7 @@ pubDate: "2026-05-16T22:24:21Z"
 draft: false
 tags: ["rio-de-janeiro", "norte-noroeste-fluminense", "capital-estado", "campos-dos-goytacazes", "joa", "campos", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-dupla-e-presa-apos-roubar-r-100-mil-em-joias-no-norte-fluminense.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T22:27:36Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "muzema", "rio-das-pedras", "recreio-dos-bandeirantes", "seguranca-publica", "trafico-de-drogas", "milicia", "rio-capital-barra-recreio-jacarepagua", "capital", "sul-fluminense-costa-verde", "areal", "recreio", "itanhanga"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292223-tiros-ouvidos-na-barra-assustam-moradores.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Pelo menos dois tiroteios foram registrados na região, que vive uma disputa por território entre traficantes e milicianos há mais de dez dias
 

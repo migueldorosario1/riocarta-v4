@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:27:12Z"
 draft: true
 tags: ["rio-de-janeiro", "governo-rj", "casa-civil", "ricardo-couto", "flavio-willeman", "exoneracoes", "reforma-administrativa", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-ricardo-couto-acelera-cortes-e-desliga-147-funcionarios-em-dois-dias.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O novo titular da Casa Civil do Rio de Janeiro, Flávio Willeman, deu continuidade ao processo de reformulação dos quadros estaduais. Nesta terça-feira (12), o secretário oficializou mais de 30 novos desligamentos, elevando para 147 o número total de servidores exonerados em apenas dois dias de gestão.

@@ -5,6 +5,7 @@ pubDate: "2026-06-28T12:05:36Z"
 category: ["Pol\u00edtica", "Esportes"]
 tags: ["dani-balbi", "bets", "alerj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/deputada-quer-proibir-publicidade-de-bets-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 author: "Redação"
 ---
 

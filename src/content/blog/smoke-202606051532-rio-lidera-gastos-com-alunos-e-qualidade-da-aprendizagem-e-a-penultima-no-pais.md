@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:39:08Z"
 draft: true
 tags: ["rio-de-janeiro", "educacao", "capital", "joa", "baixada", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-rio-lidera-gastos-com-alunos-e-qualidade-da-aprendizagem-e-a-penultima-no-pais.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Despesas correntes informadas pelo estado do Rio avançaram em mais de 110% em cinco anos, mas não chegaram na valorização dos professores
 

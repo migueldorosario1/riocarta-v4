@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:07Z"
 draft: false
 tags: ["rio-de-janeiro", "unidos-de-padre-miguel", "vila-vintem", "padre-miguel", "carnaval", "cultura-carnaval", "yuri-souza", "isabella-moura", "rio-capital-zona-oeste", "joa", "comunidade", "seguranca-publica", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-com-orgulho-da-vila-vintem-novo-casal-da-upm-assume-missao-de-devolver-a-escola-ao-grupo-especia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Unidos de Padre Miguel convocou sua comunidade da Vila Vintém para prestigiar a tradicional Feijoada da UPM no último mês de junho. O dia de festa na quadra recepcionou a coirmã e atual campeã do Grupo Especial, Viradouro, e celebrou a apresentação oficial da equipe do Boi Vermelho para o Carnaval 2027.
 

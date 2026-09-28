@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:10Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "seguranca-publica", "estupro", "prisao", "regiao-metropolitana", "mage", "teresopolis", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-policia-civil-prende-foragido-por-estupro-de-vulneravel-desde-2023-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Agentes da 126ª Delegacia de Polícia (126ª DP) prenderam nesta terça-feira (12) um homem procurado pelo crime de estupro de vulnerável, na localidade de Tamoios, em Cabo Frio. A ação foi realizada após trabalho de inteligência que identificou o paradeiro do suspeito.

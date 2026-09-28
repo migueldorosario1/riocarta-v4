@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2070_chico-moedas-e-luisa-sonza-2-.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Luísa Sonza Retorna às Raízes Canta Versão Original de Chico Após Fim do Namoro'
 pubDate: 2023-12-02 09:00:00

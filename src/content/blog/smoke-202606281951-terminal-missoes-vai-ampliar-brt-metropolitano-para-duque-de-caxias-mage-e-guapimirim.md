@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:51:41Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "mage", "guapimirim", "brt", "baixada-fluminense", "terminal-missoes", "transporte-publico", "prefeitura-do-rio", "transporte-mobilidade", "capital", "regiao-metropolitana", "joa", "baixada"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281951-terminal-missoes-vai-ampliar-brt-metropolitano-para-duque-de-caxias-mage-e-guapimirim.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio lançou, neste domingo (28/06), a pedra fundamental do Terminal Missões, novo equipamento do BRT Metropolitano que vai ampliar a integração entre a Baixada Fluminense e o sistema BRT. A obra terá investimento estimado em R$ 46 milhões e será construída em uma área estratégica entre a Rodovia Washington Luís (BR-040) e a Avenida Brasil.
 

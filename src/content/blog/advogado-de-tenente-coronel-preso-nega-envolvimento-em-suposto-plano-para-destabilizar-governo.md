@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6075_imagem-25.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Advogado de tenente-coronel preso nega envolvimento em suposto plano para destabilizar governo'
 pubDate: 2024-11-29 17:37:22

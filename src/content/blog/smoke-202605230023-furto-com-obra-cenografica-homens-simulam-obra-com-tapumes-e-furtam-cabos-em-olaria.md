@@ -5,6 +5,7 @@ pubDate: "2026-05-23T00:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "olaria", "zona-norte", "furto", "seguranca", "rio-capital-zona-norte", "capital", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605230023-furto-com-obra-cenografica-homens-simulam-obra-com-tapumes-e-furtam-cabos-em-olaria.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um esquema ousado de furto de cabos chamou a atenção de moradores da Rua Paranapanema, em Olaria. Homens se passando por trabalhadores de serviços públicos chegaram a simular uma obra na via, utilizando uniformes e estruturas como tapumes para encobrir a ação criminosa em plena luz do dia.
 

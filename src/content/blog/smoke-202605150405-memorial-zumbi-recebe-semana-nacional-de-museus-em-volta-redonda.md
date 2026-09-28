@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "memorial-zumbi", "cultura", "semana-nacional-de-museus", "sul-fluminense-costa-verde", "sul-fluminense", "zumbi", "comunidade", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-memorial-zumbi-recebe-semana-nacional-de-museus-em-volta-redonda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 VOLTA REDONDA

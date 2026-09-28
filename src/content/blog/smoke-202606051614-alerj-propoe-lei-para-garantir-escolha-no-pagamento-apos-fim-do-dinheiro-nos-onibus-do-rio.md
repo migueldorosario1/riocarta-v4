@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:17:24Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "onibus", "pagamento-em-especie", "prefeitura-do-rio", "politica-rj", "capital-estado", "regiao-metropolitana", "bancarios", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-alerj-propoe-lei-para-garantir-escolha-no-pagamento-apos-fim-do-dinheiro-nos-onibus-do-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

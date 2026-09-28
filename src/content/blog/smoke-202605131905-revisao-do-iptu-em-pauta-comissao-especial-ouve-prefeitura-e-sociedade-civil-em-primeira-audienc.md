@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:16Z"
 draft: true
 tags: ["rio-de-janeiro", "iptu", "camara-municipal", "prefeitura", "centro", "zona-norte", "tributacao", "politica-rj", "capital", "leme", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-revisao-do-iptu-em-pauta-comissao-especial-ouve-prefeitura-e-sociedade-civil-em-primeira-audienc.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Na manhã desta quarta-feira (13/05), a Câmara do Rio deu o pontapé inicial nos trabalhos da Comissão Especial que analisa a estrutura do IPTU carioca. No centro do debate, parlamentares, representantes do comércio e moradores cobraram explicações da equipe técnica da Prefeitura sobre os critérios de cálculo e as alíquotas vigentes, apontando a existência de desequilíbrios nos boletos enviados aos contribuintes.

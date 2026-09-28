@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:04Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "douglas-ruas", "despesas-publicas", "orcamento", "politica-rj", "regiao-metropolitana", "leme", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-douglas-ruas-anuncia-comissao-para-pente-fino-nas-despesas-dos-poderes.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O presidente da Assembleia Legislativa do Rio (Alerj), Douglas Ruas (PL), anunciou, durante coletiva nesta quarta-feira (13), a composição da comissão especial que promete passar um pente-fino nas despesas dos três Poderes do estado — incluindo o Tribunal de Justiça. O anúncio ocorre em meio ao desgaste provocado pelas exonerações e outras medidas de contenção promovidas pelo governador em exercício Ricardo Couto.

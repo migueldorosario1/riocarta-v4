@@ -5,6 +5,7 @@ pubDate: "2026-06-29T18:23:40Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "sul-fluminense", "meio-ambiente", "ave-rara", "sul-fluminense-costa-verde", "politica-rj", "regiao-metropolitana", "mage", "pirai", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-ave-rara-ameacada-de-extincao-e-resgatada-apos-acidente-em-barra-do-pirai.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

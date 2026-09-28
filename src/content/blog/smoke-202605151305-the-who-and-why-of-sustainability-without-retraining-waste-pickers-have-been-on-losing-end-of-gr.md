@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:09:14Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "jardim-gramacho", "baixada-fluminense", "regiao-metropolitana", "favelas-comunidades", "favela", "comunidade", "baixada", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Jardim Gramacho, em Duque de Caxias, na Baixada Fluminense, é internacionalmente conhecido como cenário do filme "Lixo Extraordinário" (2010), sobre o maior lixão da América Latina, que funcionou ali até ser fechado em 2012. Quatorze anos depois, o bairro segue convivendo com lixo nas ruas, falta de saneamento e renda precária dos catadores.

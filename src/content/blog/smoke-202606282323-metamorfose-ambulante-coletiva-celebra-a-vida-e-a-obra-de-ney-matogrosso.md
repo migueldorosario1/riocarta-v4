@@ -5,6 +5,7 @@ pubDate: "2026-06-28T23:26:31Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "cultura", "rio-capital-centro", "capital", "regiao-metropolitana", "mage"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282323-metamorfose-ambulante-coletiva-celebra-a-vida-e-a-obra-de-ney-matogrosso.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Itens históricos, fotos e criações inéditas de Ivens Machado, Keith Haring, Manauara Clandestina, Rubens Gerchman e Thix compõem a mostra
 

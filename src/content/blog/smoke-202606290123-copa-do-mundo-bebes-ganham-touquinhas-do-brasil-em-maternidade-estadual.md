@@ -5,6 +5,7 @@ pubDate: "2026-06-29T01:23:59Z"
 draft: false
 tags: ["rio-de-janeiro", "mesquita", "nova-iguacu", "belford-roxo", "araruama", "baixada-fluminense", "regiao-dos-lagos", "saude", "ses-rj", "regiao-metropolitana", "capital", "mare", "baixada", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290123-copa-do-mundo-bebes-ganham-touquinhas-do-brasil-em-maternidade-estadual.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Durante a Copa do Mundo, mães e pais de bebês nascidos no Hospital Estadual da Mãe, em Mesquita, na Baixada Fluminense, voltam para casa com lembranças especiais. A equipe do hospital preparou certificados de “Minha Primeira Copa”, touquinhas com a bandeira do Brasil e impressão de Árvore da Vida nas cores da bandeira.
 

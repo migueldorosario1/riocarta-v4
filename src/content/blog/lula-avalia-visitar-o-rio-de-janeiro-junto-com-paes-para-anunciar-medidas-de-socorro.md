@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2440_4234177_81e4fe4e8a42c2a.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula avalia visitar o Rio de Janeiro junto com Paes para anunciar medidas de socorro'
 pubDate: 2024-01-16 10:43:05

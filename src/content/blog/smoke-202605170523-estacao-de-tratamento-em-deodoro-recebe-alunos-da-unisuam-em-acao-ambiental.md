@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:14Z"
 draft: false
 tags: ["rio-de-janeiro", "deodoro", "zona-oeste", "saude", "capital", "regiao-metropolitana", "bonsucesso", "campo-grande", "problemas-estruturais", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-estacao-de-tratamento-em-deodoro-recebe-alunos-da-unisuam-em-acao-ambiental.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Zona Oeste Mais Saneamento recebeu, nesta semana, 22 estudantes e professores do curso de Engenharia Civil da UNISUAM, dos campi Bonsucesso e Campo Grande, para uma visita técnica à Estação de Tratamento de Esgoto Deodoro, a ETE Deodoro, na Zona Oeste do Rio de Janeiro.
 

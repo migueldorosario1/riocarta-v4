@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2011_image-26.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Debate sobre Junho de 2013 movimenta livraria Leonardo da Vinci no Rio'
 pubDate: 2023-11-23 13:54:35

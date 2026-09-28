@@ -5,6 +5,7 @@ pubDate: "2026-05-26T18:00:25Z"
 draft: false
 tags: ["rio-de-janeiro", "sul-fluminense", "educacao", "regiao-metropolitana", "colegio", "comunidade", "volta-redonda", "barra-mansa", "resende", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605261800-jari-oliveira-lanca-proposta-de-emenda-participativa-para-escolas-estaduais-do-sul-fluminense.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Sul Fluminense
 

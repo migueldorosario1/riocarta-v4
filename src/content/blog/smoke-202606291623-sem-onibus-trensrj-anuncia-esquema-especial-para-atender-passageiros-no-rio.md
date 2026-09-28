@@ -5,6 +5,7 @@ pubDate: "2026-06-29T16:24:35Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "nova-iguacu", "baixada-fluminense", "trensrj", "greve-onibus", "transporte-publico", "regiao-metropolitana", "capital-estado", "baixada", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-sem-onibus-trensrj-anuncia-esquema-especial-para-atender-passageiros-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

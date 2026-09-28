@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:24:25Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "reconhecimento-facial", "seguranca-publica", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-reconhecimento-facial-ajuda-guarda-e-prende-foragido.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Guarda Municipal de São Gonçalo prendeu um homem com mandado de prisão em
 

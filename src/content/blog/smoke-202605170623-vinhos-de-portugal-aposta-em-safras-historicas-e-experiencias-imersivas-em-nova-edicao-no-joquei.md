@@ -5,6 +5,7 @@ pubDate: "2026-05-17T06:23:18Z"
 draft: false
 tags: ["rio-de-janeiro", "jockey-club-brasileiro", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "portuguesa", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170623-vinhos-de-portugal-aposta-em-safras-historicas-e-experiencias-imersivas-em-nova-edicao-no-joquei.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O maior encontro de vinhos portugueses realizado fora de Portugal retorna ao Brasil em clima de celebração da cultura, da gastronomia e da memória afetiva. A 13ª edição do Vinhos de Portugal desembarca no Rio de Janeiro com uma programação ampliada, cerca de 700 rótulos disponíveis para degustação e a presença de alguns dos mais prestigiados enólogos portugueses da atualidade.
 

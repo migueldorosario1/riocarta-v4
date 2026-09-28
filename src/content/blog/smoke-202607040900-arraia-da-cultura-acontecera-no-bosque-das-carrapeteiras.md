@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:00:10Z"
 draft: false
 tags: ["rio-de-janeiro", "cultura", "cultura-carnaval", "estado", "regiao-dos-lagos", "casimiro-de-abreu", "comunidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-arraia-da-cultura-acontecera-no-bosque-das-carrapeteiras.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Nesta quarta-feira, 13, a presidente da Fundação Cultural Casimiro de Abreu, Adriana Grillo, reuniu representantes das diversas secretarias municipais para planejar a participação integrada do município no tradicional Arraiá da Cultura, no próximo mês.
 

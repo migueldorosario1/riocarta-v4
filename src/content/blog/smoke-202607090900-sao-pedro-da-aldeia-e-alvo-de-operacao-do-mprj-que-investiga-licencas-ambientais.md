@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:01:34Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "barra-da-tijuca", "lagoa", "laranjeiras", "freguesia", "niteroi", "marica", "mp-rj", "licencas-ambientais", "operacao-hidra-de-lerna", "regiao-metropolitana", "tijuca"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-sao-pedro-da-aldeia-e-alvo-de-operacao-do-mprj-que-investiga-licencas-ambientais.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Ministério Público do Estado do Rio de Janeiro (MPRJ) deflagrou, nesta terça-feira (7), a Operação Hidra de Lerna para investigar suspeitas de irregularidades na concessão de licenças ambientais pelo Instituto Estadual do Ambiente (Inea) e pela Comissão Estadual de Controle Ambiental (Ceca). São Pedro da Aldeia está entre os municípios onde foram cumpridas diligências.
 

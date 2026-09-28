@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6594_image-16.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Força Municipal de Segurança o perigo da milicialização diante dos riscos de privatização do poder de polícia'
 pubDate: 2025-02-21 09:24:23

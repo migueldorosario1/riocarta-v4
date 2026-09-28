@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:24:34Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "reciclagem", "meio-ambiente", "sul-fluminense-costa-verde", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-ecoponto-do-ze-garoto-completa-um-ano-de-funcionamento-neste-sabado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Equipamento na área central da cidade já recebeu mais de 35 toneladas de materiais recicláveis
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "ingazeira", "caca-ilegal", "espingarda", "policia-ambiental", "linha-verde", "disque-denuncia", "norte-noroeste-fluminense", "regiao-dos-lagos", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-espingarda-e-apreendida-durante-acao-contra-caca-ilegal-em-macae.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Uma espingarda calibre 36 foi apreendida nesta quarta-feira (13) no município de Macaé, após policiais militares lotados na 1ª Companhia do 3º Batalhão de Polícia Ambiental (BPAm), terem ido averiguar denúncia sobre caça ilegal de animais recebida pelo Linha Verde – programa do Disque Denúncia voltado para meio ambiente.

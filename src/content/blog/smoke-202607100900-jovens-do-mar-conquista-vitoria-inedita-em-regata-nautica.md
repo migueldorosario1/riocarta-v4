@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:25Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regata", "jovens-do-mar", "economia-do-mar", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-jovens-do-mar-conquista-vitoria-inedita-em-regata-nautica.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Equipe formada por oito estudantes venceu na estreia na 51ª Regata da Diretoria de Portos e Costas, em Niterói
 

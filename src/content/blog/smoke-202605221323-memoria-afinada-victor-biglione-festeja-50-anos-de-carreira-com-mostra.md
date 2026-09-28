@@ -5,6 +5,7 @@ pubDate: "2026-05-22T13:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "lapa", "centro", "cultura", "rio-capital-centro", "capital", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221323-memoria-afinada-victor-biglione-festeja-50-anos-de-carreira-com-mostra.jpg"
+hero_credit: "PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 Guitarrista com a maior contribuição em gravações e shows na música brasileira reuniu 150 pôsteres e objetos que materializam sua trajetória musical
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:09:31Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-portuaria", "moinho-fluminense", "porto-maravilha", "rio-capital-centro", "capital-porto", "gamboa", "complexo", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-revitalizacao-do-moinho-ainda-pode-levar-mais-uma-decada-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Seis anos depois de fazer o primeiro anúncio sobre a revitalização do histórico Moinho Fluminense, na Região Portuária do Rio, a gestora americana Autonomy Capital admite agora que a transformação do complexo pode levar mais uma década para ser concluída. O prazo expõe o ritmo lento de um projeto vendido desde 2020 como marco da regeneração urbana carioca e que, ao longo dos anos, acumulou mudanças de discurso, atrasos e até ameaça de desapropriação pela Prefeitura do Rio.

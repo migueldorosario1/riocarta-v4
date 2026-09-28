@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:06:39Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-de-guaratiba", "zona-oeste", "seguranca-publica", "politica-rj", "rio-capital-zona-oeste", "capital-estado", "regiao-metropolitana", "guaratiba", "comunidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-dono-de-restaurante-parafuso-e-executado-na-zona-oeste-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-20T23:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "politica-rj", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202323-estado-do-rio-tem-o-menor-numero-de-homicidios-desde-1991-diz-isp.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Estado do Rio de Janeiro registrou a menor quantidade de homicídios dolosos para o primeiro quadrimestre desde o início da série histórica do Instituto de Segurança Pública (ISP), em 1991. Os dados divulgados nesta terça-feira mostram que, entre janeiro e abril de 2026, foram contabilizadas 924 vítimas de homicídio doloso, uma redução de 8,2% em relação ao mesmo período do ano passado.
 

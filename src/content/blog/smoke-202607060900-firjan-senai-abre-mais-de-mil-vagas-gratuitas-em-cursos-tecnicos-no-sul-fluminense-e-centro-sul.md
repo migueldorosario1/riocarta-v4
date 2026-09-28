@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:02:35Z"
 draft: false
 tags: ["rio-de-janeiro", "sul-fluminense", "centro-sul", "volta-redonda", "barra-mansa", "barra-do-pirai", "resende", "tres-rios", "valenca", "educacao", "cursos-tecnicos", "sul-fluminense-costa-verde", "pirai"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-firjan-senai-abre-mais-de-mil-vagas-gratuitas-em-cursos-tecnicos-no-sul-fluminense-e-centro-sul.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

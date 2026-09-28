@@ -5,6 +5,7 @@ pubDate: "2026-05-15T19:29:08Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "complexo-do-salgueiro", "palmeiras", "regiao-metropolitana", "seguranca-publica", "favelas-comunidades", "favela", "comunidade", "complexo", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151928-theres-blood-in-the-palmeiras-favela-the-cry-for-help-police-chose-not-to-hear-in-sao-goncalos-s-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A comunidade Palmeiras, no Complexo do Salgueiro em São Gonçalo, foi cenário de um crime que expõe a face brutal da política de segurança pública do estado do Rio. Na sexta-feira, 27 de março, em meio à falta d'água na favela, Andressa Nogueira do Nascimento foi executada após sair de casa com um dos filhos para comprar água.

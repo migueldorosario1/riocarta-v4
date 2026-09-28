@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:53:31Z"
 draft: false
 tags: ["rio-de-janeiro", "andarai", "zona-norte", "cultura-carnaval", "rio-capital-zona-norte", "regiao-metropolitana", "joa", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281951-seminario-nacional-de-rodas-de-samba-encerra-com-edital-de-r-400-mil-e-carta-de-propostas-para-o.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A mesa de encerramento do 1º Seminário Nacional de Rodas de Samba, realizada na última quarta-feira, no Clube Renascença, no Rio de Janeiro, reuniu importantes referências do samba brasileiro e marcou o anúncio de um edital inédito voltado ao fortalecimento das rodas de samba no país. Durante o encontro, foi apresentada uma chamada pública no valor de R$ 400 mil, destinada a contemplar oito rodas de samba de diferentes regiões do Brasil.
 

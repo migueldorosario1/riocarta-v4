@@ -5,6 +5,7 @@ pubDate: "2026-05-25T16:00:11Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "seguranca-publica", "oab-rj", "viva-rio", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "centro-do-rio", "ramos", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605251600-oab-rj-e-viva-rio-lancam-premio-de-boas-praticas-na-seguranca-publica.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Ordem dos Advogados do Brasil do Rio de Janeiro (OAB-RJ) e o Viva Rio lançaram, nesta quinta-feira (21), o edital prêmio Segurança dos Direitos Coronel Nazareth Cerqueira, iniciativa que busca reconhecer e valorizar boas práticas desenvolvidas por profissionais da segurança pública do Rio de Janeiro. A cerimônia de lançamento do edital aconteceu na sede da Escola Superior da Advocacia (ESA), no Centro do Rio, com a presença de representantes da Ordem, do Viva Rio, do Instituto Nazareth Cerqueira e de órgãos de segurança pública do estado.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:25Z"
 draft: true
 tags: ["rio-de-janeiro", "complexo-do-alemao", "zona-norte", "cultura", "hip-hop", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "complexo", "alemao", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-roda-cultural-da-zn-rj-conquista-o-1o-lugar-do-rio-em-premio-nacional.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Hip-Hop carioca fez história em São Paulo. A Casa Portugal foi o palco da entrega do Prêmio Nacional Vozes Periféricas, uma iniciativa do Governo Federal que reuniu 100 dos maiores coletivos periféricos do Brasil.
 

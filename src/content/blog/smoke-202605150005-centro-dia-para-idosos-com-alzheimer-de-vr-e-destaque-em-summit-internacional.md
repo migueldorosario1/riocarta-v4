@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "centro-dia", "alzheimer", "assistencia-social", "saude", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "portuguesa", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-centro-dia-para-idosos-com-alzheimer-de-vr-e-destaque-em-summit-internacional.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 VOLTA REDONDA

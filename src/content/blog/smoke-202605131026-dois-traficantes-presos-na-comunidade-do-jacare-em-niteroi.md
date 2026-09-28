@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:27:00Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "piratininga", "jacare", "trafico", "policia", "seguranca", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "comunidade", "sao-goncalo", "itaborai", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-dois-traficantes-presos-na-comunidade-do-jacare-em-niteroi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Dois traficantes presos na comunidade do Jacaré, em Niterói

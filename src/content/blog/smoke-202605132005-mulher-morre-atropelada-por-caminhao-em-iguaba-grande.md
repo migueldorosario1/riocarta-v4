@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "iguaba-grande", "regiao-dos-lagos", "acidente-transito", "bairro-capivara", "iguaba", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132005-mulher-morre-atropelada-por-caminhao-em-iguaba-grande.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Uma mulher identificada como Ayane Silveira dos Santos, de 26 anos, morreu na manhã desta quarta-feira (13) após um acidente envolvendo um caminhão e uma bicicleta elétrica no bairro Capivara, em Iguaba Grande.

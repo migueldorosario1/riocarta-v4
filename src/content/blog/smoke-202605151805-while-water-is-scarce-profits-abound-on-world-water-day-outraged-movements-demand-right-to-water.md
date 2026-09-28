@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:08:42Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "aguas-do-rio", "privatizacao", "agua", "saneamento", "rio-capital-centro", "favelas-comunidades", "regiao-metropolitana", "joa", "favela", "comunidade", "nova-iguacu", "problemas-estruturais"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-while-water-is-scarce-profits-abound-on-world-water-day-outraged-movements-demand-right-to-water-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 No dia 23 de março, um dia depois do Dia Mundial da Água, representantes da sociedade civil e movimentos populares se reuniram em frente à sede da Águas do Rio, no centro do Rio, para exigir o fim do contrato de concessão da empresa privada e a reestatização do saneamento.

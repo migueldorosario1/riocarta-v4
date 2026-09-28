@@ -5,6 +5,7 @@ pubDate: "2026-05-28T02:00:20Z"
 draft: false
 tags: ["rio-de-janeiro", "fonseca", "rio-capital-zona-sul-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "sao-goncalo", "itaborai", "problemas-estruturais", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605280200-obra-de-modernizacao-da-alameda-sao-boaventura-comeca-no-fonseca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Prefeito visitou obra como parte do Prefeitura Móvel, que começou nesta segunda, no Horto do Fonseca
 

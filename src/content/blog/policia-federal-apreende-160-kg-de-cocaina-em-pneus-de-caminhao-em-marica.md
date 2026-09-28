@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2107_g1-apreensao.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia Federal apreende 160 kg de cocaína em pneus de caminhão em Maricá'
 pubDate: 2023-12-10 09:00:00

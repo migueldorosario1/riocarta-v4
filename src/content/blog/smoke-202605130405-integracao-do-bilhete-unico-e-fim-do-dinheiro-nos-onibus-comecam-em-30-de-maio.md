@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:06Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte-publico", "bilhete-unico-carioca", "jae", "onibus-municipais", "smtr", "transporte-e-mobilidade-rj", "capital-estado", "baixada", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-integracao-do-bilhete-unico-e-fim-do-dinheiro-nos-onibus-comecam-em-30-de-maio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Rio

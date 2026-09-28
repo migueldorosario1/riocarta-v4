@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1110_394henrique_freire1.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj cria comissão para ampliar malha ferroviária no estado do Rio de Janeiro'
 pubDate: 2023-08-16 19:02:39

@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:25:19Z"
 draft: true
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "leblon", "regiao-dos-lagos", "trafico", "buzios", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-traficante-playboy-do-leblon-foragido-da-justica-e-acusado-de-roubo-e-preso-em-buzios.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um homem conhecido como "Lucão" foi preso pela Polícia Civil nesta sexta-feira (26), em Armação dos Búzios, durante o cumprimento de um mandado de prisão preventiva. Segundo a investigação, ele é apontado como integrante do tráfico de drogas na região central do município.
 

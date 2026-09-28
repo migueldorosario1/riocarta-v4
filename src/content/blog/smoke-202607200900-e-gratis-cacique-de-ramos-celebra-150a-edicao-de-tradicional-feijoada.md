@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:01:46Z"
 draft: true
 tags: ["rio-de-janeiro", "olaria", "zona-norte", "cacique-de-ramos", "feijoada", "samba", "cultura", "rio-capital-zona-norte", "politica-rj", "sul-fluminense-costa-verde", "mendes", "gloria", "ramos", "joa"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-e-gratis-cacique-de-ramos-celebra-150a-edicao-de-tradicional-feijoada.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Cacique de Ramos celebra, neste domingo (17), uma marca histórica para o samba carioca: a 150ª edição de sua tradicional feijoada, realizada na quadra da agremiação, em Olaria, Zona Norte do Rio.
 

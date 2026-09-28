@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "volta-redonda", "porto-real", "resende", "valenca", "csn", "vagas-de-emprego", "estagio", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-csn-abre-vagas-de-emprego-e-estagio-no-sul-do-estado-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Volta Redonda – A Companhia Siderúrgica Nacional está com processos seletivos abertos para contratação de profissionais efetivos e para o Programa de Estágio 2026. As oportunidades contemplam unidades do Sul Fluminense e reforçam a expansão das operações industriais da empresa, além da formação de novos talentos nas áreas técnicas e de engenharia.

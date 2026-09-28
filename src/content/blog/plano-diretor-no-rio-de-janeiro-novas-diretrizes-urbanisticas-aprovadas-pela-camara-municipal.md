@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2129_Divulgacao-SMPU-2.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Plano Diretor no Rio de Janeiro Novas Diretrizes Urbanísticas Aprovadas pela Câmara Municipal'
 pubDate: 2023-12-12 11:15:00

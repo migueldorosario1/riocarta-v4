@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2535_image-13-e1706108731899.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Irmão de Secretário de Paes é delatado como mandante da morte de Marielle Franco'
 pubDate: 2024-01-24 12:06:18

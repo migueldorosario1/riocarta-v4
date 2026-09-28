@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:02:02Z"
 draft: true
 tags: ["rio-de-janeiro", "casimiro-de-abreu", "regiao-dos-lagos", "concursos-publicos", "cotas-raciais", "mprj", "macae-norte-fluminense", "norte-fluminense", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150001-concursos-de-casimiro-de-abreu-passam-a-ter-vagas-reservadas-a-pretos-pardos-indigenas-e-quilomb.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Prefeitura de Casimiro de Abreu passou a contar com regras na legislação municipal para o estabelecimento de cotas raciais nos concursos públicos, processos eletivos e contratações temporárias do município.

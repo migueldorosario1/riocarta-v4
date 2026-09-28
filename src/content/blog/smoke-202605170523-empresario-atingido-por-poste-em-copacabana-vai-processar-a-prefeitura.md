@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:17Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "gavea", "joa", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-empresario-atingido-por-poste-em-copacabana-vai-processar-a-prefeitura.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Socorrido pelos bombeiros, João Cotrim, de 36 anos, teve contusão lombar e ficou internado por dois dias
 

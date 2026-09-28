@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:01:32Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "regiao-metropolitana", "bangu", "saude", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-alerj-recebe-solenidade-em-homenagem-a-advocacia-negra-e-defensores-dos-direitos-humanos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Assembleia Legislativa do Rio de Janeiro (Alerj) será palco, nesta quinta-feira (14), de uma solenidade em reconhecimento à atuação da advocacia negra e de defensores dos direitos humanos. O evento, marcado para as 18h, é promovido pelo deputado estadual Professor Josemar (Psol) em parceria com a Associação da Advocacia Preta Carioca (APC).
 

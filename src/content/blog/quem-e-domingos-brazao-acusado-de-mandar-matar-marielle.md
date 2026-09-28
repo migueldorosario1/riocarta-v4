@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2531_rolehfc-compressed-1536x865-1.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quem é Domingos Brazão, acusado de mandar matar Marielle?'
 pubDate: 2024-01-23 17:00:00

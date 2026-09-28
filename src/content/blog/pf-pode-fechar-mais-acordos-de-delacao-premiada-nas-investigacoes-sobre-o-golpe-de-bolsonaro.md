@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3430_images-85.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF pode fechar mais acordos de delação premiada nas investigações sobre o golpe de Bolsonaro'
 pubDate: 2024-02-23 18:36:46

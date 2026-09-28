@@ -5,6 +5,7 @@ pubDate: "2026-05-20T22:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "mare", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202223-marica-vai-investir-r-20-milhoes-em-cinema-series-e-documentarios-com-novo-programa-audiovisual.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A cidade de Maricá vai dar mais um passo no fortalecimento da economia criativa e do setor audiovisual. A Maré — produtora responsável pelas ações culturais do município — anunciou o FILMAR Maricá 2026, programa de fomento ao audiovisual que vai investir R$ 20 milhões em editais voltados para desenvolvimento e produção de obras cinematográficas e séries.
 

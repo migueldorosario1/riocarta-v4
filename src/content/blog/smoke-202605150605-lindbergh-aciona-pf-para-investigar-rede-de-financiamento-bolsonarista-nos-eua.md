@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:38Z"
 draft: true
 tags: ["rio-de-janeiro", "lindbergh-farias", "pt-rj", "politica-rj", "capital", "bancarios", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-lindbergh-aciona-pf-para-investigar-rede-de-financiamento-bolsonarista-nos-eua.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O tabuleiro político e jurídico brasileiro ganhou um novo capítulo internacional nesta quinta-feira (14). O deputado federal Lindbergh Farias (PT-RJ) protocolou uma notícia-crime junto à Polícia Federal solicitando a abertura de um inquérito para apurar se recursos vinculados ao empresário Daniel Vorcaro foram utilizados para financiar uma rede de apoio logístico e político à família Bolsonaro nos Estados Unidos.

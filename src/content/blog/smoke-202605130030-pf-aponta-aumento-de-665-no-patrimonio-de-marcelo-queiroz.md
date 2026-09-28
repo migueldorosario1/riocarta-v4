@@ -5,6 +5,7 @@ pubDate: "2026-05-13T03:30:59Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "deputado-federal", "secretaria-de-agricultura", "policia-federal", "corrupcao", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130030-pf-aponta-aumento-de-665-no-patrimonio-de-marcelo-queiroz.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O deputado federal Marcelo Queiroz (PSDB) registrou um aumento de 665% em seu patrimônio durante o período em que ocorreram as supostas fraudes em contratos da Secretaria de Agricultura do Rio de Janeiro, investigadas pela Polícia Federal.

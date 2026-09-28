@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1964_rio_je_taime_chefs.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'A Gastronomia Francesa Encontra a Carioca na Feira Rio Je t’aime em Niterói'
 pubDate: 2023-11-17 14:00:00

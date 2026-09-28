@@ -5,6 +5,7 @@ pubDate: "2026-06-29T16:23:31Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica", "chuvas", "calamidade-publica", "campos-dos-goytacazes", "petropolis", "nova-friburgo", "volta-redonda", "politica-rj", "macae-norte-fluminense", "regiao-metropolitana", "nova-iguacu", "mesquita"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-ricardo-couto-sanciona-lei-da-alerj-que-preve-repasses-de-r-1-75-milhao-para-26-cidades-do-estad.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

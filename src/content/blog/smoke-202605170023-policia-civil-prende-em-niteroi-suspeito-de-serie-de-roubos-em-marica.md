@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:15Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "marica", "seguranca-publica", "regiao-metropolitana", "leme", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-policia-civil-prende-em-niteroi-suspeito-de-serie-de-roubos-em-marica.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Agentes da 82ª Delegacia de Polícia prenderam na madrugada deste sábado (16) Phelipe Vieira da Silva, investigado por ao menos três roubos praticados com violência no município em 2026
 

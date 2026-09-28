@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:19:57Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "governo-do-estado", "der-rj", "radares", "regiao-dos-lagos", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-governo-do-estado-instala-novos-radares-em-rio-das-ostras.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Dispositivos são implantados ao longo da Rodovia Amaral Peixoto. Locais deverão ser devidamente sinalizados pelo DER-RJ
 

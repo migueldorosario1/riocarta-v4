@@ -5,6 +5,7 @@ pubDate: "2026-05-20T07:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "previdencia", "politica-rj", "regiao-metropolitana", "leme", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200723-pensao-previdenciaria-deve-ser-abatida-da-pensao-especial-de-pms-e-bombeiros-mortos-em-servico-d.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Tribunal de Justiça do Rio de Janeiro (TJRJ) decidiu, por unanimidade, que pensionistas de policiais militares e bombeiros militares mortos em serviço não têm direito de receber integralmente, ao mesmo tempo, a pensão especial prevista em lei estadual e a pensão previdenciária paga pelo Rioprevidência.
 

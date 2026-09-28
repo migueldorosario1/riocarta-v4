@@ -5,6 +5,7 @@ pubDate: "2026-05-17T06:23:32Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "capital", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170623-policia-prende-mae-e-filho-suspeitos-de-golpe-imobiliario-de-r-200-mil-em-cabo-frio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma operação da Polícia Civil resultou na prisão de mãe e filho, na manhã desta sexta-feira, em Cabo Frio, na Região dos Lagos. A dupla é suspeita de chefiar um esquema de fraudes imobiliárias que causou um prejuízo estimado em mais de R$ 200 mil por meio de falsas vendas e locações de propriedades.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T20:24:15Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-castro-nega-irregularidades-e-diz-que-investigacao-da-pf-tem-algo-estranho.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-governador do Rio de Janeiro Cláudio Castro divulgou, nesta sexta-feira (15), um vídeo em que se defende das suspeitas levantadas pela Polícia Federal no âmbito da Operação Sem Refino, que investiga um esquema bilionário envolvendo fraude tributária, lavagem de dinheiro e corrupção ligado ao Grupo Refit.
 

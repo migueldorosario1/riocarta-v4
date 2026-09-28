@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:28Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "stf", "investigacao", "calunia", "politica-rj", "leme", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-moraes-determina-depoimento-de-flavio-bolsonaro-a-pf-em-investigacao-por-calunia-contra-lula.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, determinou nesta terça-feira (7) que a Polícia Federal (PF) ouça o senador Flávio Bolsonaro (PL-RJ) no inquérito que investiga suposta prática de calúnia contra o presidente Luiz Inácio Lula da Silva. Pela decisão, o parlamentar deverá prestar depoimento no prazo máximo de dez dias.
 

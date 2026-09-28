@@ -5,6 +5,7 @@ pubDate: "2026-06-29T13:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "greve-de-onibus", "transporte-publico", "transporte-mobilidade", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291323-motoristas-de-onibus-do-rio-iniciam-greve-nesta-segunda-feira.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Eles pedem melhorias salariais, redução da jornada e passe livre
 

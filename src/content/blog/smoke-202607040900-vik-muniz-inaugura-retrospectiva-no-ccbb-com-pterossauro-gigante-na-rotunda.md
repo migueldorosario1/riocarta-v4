@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:00:05Z"
 draft: false
 tags: ["rio-de-janeiro", "ccbb", "centro", "vik-muniz", "museu-nacional", "quinta-da-boa-vista", "rio-capital-centro", "capital", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-vik-muniz-inaugura-retrospectiva-no-ccbb-com-pterossauro-gigante-na-rotunda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Obra foi criada a partir das cinzas do incêndio do Museu Nacional, que também ganha mostra com fotos e esculturas do artista, ainda neste mês
 

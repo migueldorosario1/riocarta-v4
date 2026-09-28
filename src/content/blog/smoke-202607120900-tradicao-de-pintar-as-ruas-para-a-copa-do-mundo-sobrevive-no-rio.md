@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:35Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-isabel", "zona-norte", "rocinha", "zona-sul", "copa-do-mundo", "cultura", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "tijuca", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-tradicao-de-pintar-as-ruas-para-a-copa-do-mundo-sobrevive-no-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Brasil
 

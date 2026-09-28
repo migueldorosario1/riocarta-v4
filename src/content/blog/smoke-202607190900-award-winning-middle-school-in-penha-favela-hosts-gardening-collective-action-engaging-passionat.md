@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:01:16Z"
 draft: true
 tags: ["rio-de-janeiro", "penha", "zona-norte", "complexo-da-penha", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "ramos", "favela", "comunidade", "complexo", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-award-winning-middle-school-in-penha-favela-hosts-gardening-collective-action-engaging-passionat-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Two years ago, classes at the Brant Horta Technological Municipal School (GET Brant Horta), located in Penha, a complex of favelas and surrounding neighborhoods in Rio de Janeiro’s North Zone, resumed in a special way: with a collective action in the school’s community garden. This happened with the support of Vilson Luiz, a tour guide and environmental educator from Penha responsible for coordinating the project, and the Frente Penha collective.
 

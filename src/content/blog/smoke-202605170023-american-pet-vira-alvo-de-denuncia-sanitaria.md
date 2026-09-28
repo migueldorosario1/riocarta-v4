@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:14Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-ocenica", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-american-pet-vira-alvo-de-denuncia-sanitaria.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A American Pet, em Itaipu, na Região Oceânica de Niterói, virou alvo de denúncia sobre possível infestação de ratos, presença de fezes e urina no ambiente e suposta contaminação de embalagens de ração. Segundo a reportagem publicada na quinta-feira, 14, funcionários teriam sido orientados a limpar o local e a manusear materiais atingidos sem proteção sanitária adequada.
 

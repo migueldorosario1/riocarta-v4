@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "madureira", "zona-norte", "sesc-rj", "educacao", "mestrado", "curso-gratuito", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "sao-goncalo", "tijuca", "ramos", "duque-de-caxias"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-quer-fazer-mestrado-sesc-rj-abre-vagas-para-curso-preparatorio-gratuito-no-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Rio

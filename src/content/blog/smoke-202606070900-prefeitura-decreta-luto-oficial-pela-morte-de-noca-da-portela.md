@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-norte", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "sao-cristovao", "saude", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-prefeitura-decreta-luto-oficial-pela-morte-de-noca-da-portela.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O prefeito do Rio, Eduardo Cavaliere, decretou — através de edição extra do Diário Oficial do Município — luto oficial de três dias pela morte do compositor Noca da Portela (1932-2026).
 

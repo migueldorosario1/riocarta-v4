@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:24:04Z"
 draft: true
 tags: ["rio-de-janeiro", "eleicoes", "inteligencia-artificial", "fake-news", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-ia-pode-gerar-mais-fake-news-nas-eleicoes-alertam-especialistas.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Cuidado com a tecnologia está entre as prioridades de Nunes Marques
 

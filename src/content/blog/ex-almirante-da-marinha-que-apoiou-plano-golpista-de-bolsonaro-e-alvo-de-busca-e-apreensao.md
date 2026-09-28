@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3080_imagem-19.webp"
+hero_credit: "William Murphy from Dublin, Ireland / Wikimedia Commons (CC BY-SA 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-comandante da Marinha que apoiou plano golpista de Bolsonaro é alvo de busca e apreensão'
 pubDate: 2024-02-08 10:02:59

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T22:24:47Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "seguranca-publica", "politica-rj", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-prf-apreende-fuzil-pistolas-e-drogas-enviadas-do-rio-para-o-espirito-santo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Rodoviária Federal (PRF) apreendeu armas de fogo, munições e drogas que saíram do Rio de Janeiro com destino ao Espírito Santo durante uma abordagem na BR-101, em Serra (ES), na noite desta quinta-feira (14). O carregamento incluía um fuzil, quatro pistolas, munições de diversos calibres e tabletes de maconha.
 

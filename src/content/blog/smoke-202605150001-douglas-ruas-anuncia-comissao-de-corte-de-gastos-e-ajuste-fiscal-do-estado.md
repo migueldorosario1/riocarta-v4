@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:02:08Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "douglas-ruas", "ajuste-fiscal", "orcamento", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150001-douglas-ruas-anuncia-comissao-de-corte-de-gastos-e-ajuste-fiscal-do-estado.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O presidente da Assembleia Legislativa do Estado do Rio de Janeiro, deputado Douglas Ruas, anunciou a criação de uma comissão especial para promover o corte de gastos e buscar o equilíbrio fiscal do estado. A medida foi divulgada pela Alerj após reunião da Mesa Diretora realizada em 12 de maio.

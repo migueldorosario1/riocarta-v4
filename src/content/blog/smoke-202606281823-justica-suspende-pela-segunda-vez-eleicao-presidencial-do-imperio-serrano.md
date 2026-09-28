@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:30:11Z"
 draft: true
 tags: ["rio-de-janeiro", "imperio-serrano", "madureira", "cultura-carnaval", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-justica-suspende-pela-segunda-vez-eleicao-presidencial-do-imperio-serrano.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A eleição para a presidência do Império Serrano, que seria realizada neste domingo, foi suspensa pela Justiça pela segunda vez. A nova decisão, proferida nesta quinta-feira pela 28ª Vara Cível da Capital, determina a suspensão de qualquer assembleia eleitoral, contábil ou deliberativa relacionada à escola de samba, impedindo a realização do pleito e proibindo novas convocações sem autorização judicial.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2785_imagem-20.jpg"
+hero_credit: "The original uploader was Snow storm in Eastern Asia at English Wikipedia. / Wikimedia Commons (CC BY 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Taxa de desemprego no Brasil fica no patamar da pré-Lava Jato'
 pubDate: 2024-01-31 12:42:58

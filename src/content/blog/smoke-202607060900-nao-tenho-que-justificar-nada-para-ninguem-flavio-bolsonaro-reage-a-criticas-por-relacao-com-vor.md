@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:02:38Z"
 draft: false
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-nao-tenho-que-justificar-nada-para-ninguem-flavio-bolsonaro-reage-a-criticas-por-relacao-com-vor.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O senador Flávio Bolsonaro voltou a comentar as revelações envolvendo sua relação com o empresário Daniel Vorcaro e afirmou que não deve explicações sobre o investimento feito pelo banqueiro em um projeto cinematográfico ligado à família Bolsonaro.
 

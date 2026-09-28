@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:07:12Z"
 draft: false
 tags: ["rio-de-janeiro", "educacao", "igualdade-racial", "prefeitura-do-rio", "capital", "regiao-metropolitana", "joa"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070900-secretaria-municipal-de-educacao-do-rio-recebe-premio-sim-a-igualdade-racial.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria Municipal de Educação do Rio de Janeiro recebeu o Prêmio Sim à Igualdade Racial, promovido pelo Instituto Identidades do Brasil, o ID_BR. A cerimônia da 9ª edição foi realizada no dia 13 de maio e teve como tema o Surrealismo Afro-Indígena Brasileiro.
 

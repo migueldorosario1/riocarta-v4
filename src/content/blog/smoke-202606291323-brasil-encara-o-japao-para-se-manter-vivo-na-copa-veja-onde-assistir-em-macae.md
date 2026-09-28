@@ -5,6 +5,7 @@ pubDate: "2026-06-29T13:27:12Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "copa-do-mundo", "norte-noroeste-fluminense", "macae-norte-fluminense", "caju", "anil", "norte-fluminense", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-brasil-encara-o-japao-para-se-manter-vivo-na-copa-veja-onde-assistir-em-macae.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

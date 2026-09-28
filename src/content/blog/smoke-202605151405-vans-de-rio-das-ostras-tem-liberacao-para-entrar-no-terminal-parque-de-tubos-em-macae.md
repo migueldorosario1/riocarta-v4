@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:06:09Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "macae", "regiao-dos-lagos", "transporte-mobilidade", "macae-norte-fluminense", "norte-fluminense", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151405-vans-de-rio-das-ostras-tem-liberacao-para-entrar-no-terminal-parque-de-tubos-em-macae.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Os prefeitos de Macaé, Welberth Rezende (CIDADANIA), e de Rio das Ostras, Carlos Augusto (PL), anunciaram, na manhã dessa sexta-feira, 15, no Parque de Tubos, a sonhada entrada das vans de Rio das Ostras em Macaé.

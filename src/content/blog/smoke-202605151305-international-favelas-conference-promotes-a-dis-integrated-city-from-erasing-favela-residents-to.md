@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:07:17Z"
 draft: true
 tags: ["rio-de-janeiro", "jacarezinho", "zona-norte", "favelas", "politica-rj", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "ipanema", "leme", "jacare", "favela", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-international-favelas-conference-promotes-a-dis-integrated-city-from-erasing-favela-residents-to-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A "Conferência Internacional das Favelas", realizada nos dias 17 e 18 de março pelo Instituto de Arquitetos do Brasil-RJ (IAB-RJ) e pelo governo do estado para promover o programa Cidade Integrada, teve participação zero de moradores de favelas. Um dos slogans dizia "Cidades Integradas: passado, presente e futuro".

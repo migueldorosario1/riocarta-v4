@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:21:44Z"
 draft: false
 tags: ["rio-de-janeiro", "marechal-hermes", "zona-norte", "faetec", "educacao", "rio-capital-zona-norte", "capital-estado", "joa", "problemas-estruturais", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-alunos-da-faetec-apostam-em-inovacao-e-conquistam-premiacoes-nas-areas-de-ciencia-e-tecnologia-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Educação
 

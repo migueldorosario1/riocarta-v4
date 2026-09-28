@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "regiao-norte-noroeste", "projeto-raia", "energia", "prefeito-welberth", "norte-noroeste-fluminense", "macae-norte-fluminense", "campos", "norte-fluminense", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150205-macae-fortalece-posicao-no-setor-de-energia-com-avanco-do-projeto-raia.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 O encontro realizado nesta semana em Macaé entre o prefeito e a presidente da Equinor Brasil, Verônica Coelho, reforçou o protagonismo da cidade no setor energético nacional. Durante o encontro realizado no gabinete de Welberth, as partes discutiram detalhes do projeto Raia, considerado um dos principais empreendimentos de gás natural em desenvolvimento no país.

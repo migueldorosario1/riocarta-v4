@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:45Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "manuel-correa", "agua-tratada", "prolagos", "saneamento", "regiao-metropolitana", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-prolagos-inicia-cadastro-de-moradores-que-vao-receber-agua-tratada-no-manoel-correa-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A Prolagos está realizando o atendimento porta a porta para o cadastramento dos moradores do bairro Manoel Corrêa, em Cabo Frio. A ação, que começou no dia 4 de maio e vai seguir durante todo o mês, das 9h às 16h, visa facilitar o acesso dos moradores a condições especiais de adesão à nova rede de abastecimento, cujas obras começam ainda neste mês.

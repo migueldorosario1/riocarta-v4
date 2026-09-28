@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:29Z"
 draft: true
 tags: ["rio-de-janeiro", "taquara", "zona-oeste", "crime-organizado", "anabolizantes", "stf", "rio-capital-zona-oeste", "politica-rj", "regiao-metropolitana", "resende", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150505-stf-nega-recurso-de-falso-quimico-preso-em-mansao-no-rio-com-laboratorio-clandestino-de-anaboliz.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), rejeitou pedido da defesa de Alessandro de Resende Guimarães, apontado como falso químico e preso em 2024, na Zona Oeste do Rio, durante uma operação que encontrou um laboratório clandestino de anabolizantes em uma mansão . A decisão mantém, por enquanto, válidas as provas recolhidas pela polícia durante a ação.

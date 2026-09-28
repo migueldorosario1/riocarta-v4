@@ -5,6 +5,7 @@ pubDate: "2026-06-29T20:24:06Z"
 draft: false
 tags: ["rio-de-janeiro", "valenca", "conservatoria", "sul-fluminense", "sul-fluminense-costa-verde", "santa-cruz", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292023-homem-com-mandado-de-prisao-em-aberto-e-preso-durante-patrulhamento-em-conservatoria.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Valença
 

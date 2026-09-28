@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:08Z"
 draft: false
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "ine", "contrato-publico", "auditoria", "rio-ipiranga", "sistema-guandu", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-contrato-inea-sob-suspeita-de-irregularidade-contrato-publico-em-nova-iguacu.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Em Nova Iguaçu, um contrato de cento e oito milhões de reais firmado pelo Instituto Estadual do Ambiente entrou na análise de auditoria do governo do Rio de Janeiro após apontamentos de possíveis irregularidades em sua execução. O relatório aponta questionamentos sobre a contratação sem licitação, baseada em estudos técnicos considerados defasados, segundo os auditores responsáveis pela avaliação.

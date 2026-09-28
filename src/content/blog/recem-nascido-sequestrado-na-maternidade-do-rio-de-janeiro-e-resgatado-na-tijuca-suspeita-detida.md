@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1751_1_whatsapp_image_2023_11_01_at_09_45_44-31001714.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Recém-Nascido Sequestrado na Maternidade do Rio de Janeiro é Resgatado na Tijuca Suspeita Detida'
 pubDate: 2023-11-01 13:52:09

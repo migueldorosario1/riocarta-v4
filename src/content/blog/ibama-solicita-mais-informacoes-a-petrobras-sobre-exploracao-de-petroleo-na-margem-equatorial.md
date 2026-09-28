@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5925_imagem-88.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ibama solicita mais informações à Petrobras sobre exploração de petróleo na Margem Equatorial'
 pubDate: 2024-10-30 20:40:32

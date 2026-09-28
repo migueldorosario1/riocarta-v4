@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6792_image-14.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inscrições para o Juventude no Parlamento estão abertas no Rio; iniciativa é da deputada Dani Balbi'
 pubDate: 2025-04-09 19:00:53

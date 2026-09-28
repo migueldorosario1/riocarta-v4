@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:47:17Z"
 draft: false
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "vacinacao", "castracao", "servicos-gratuitos", "regiao-metropolitana", "capital", "baixada", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-nova-iguacu-tera-mutirao-gratuito-com-vacinacao-castracao-de-pets-e-servicos-de-cidadania-neste.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Moradores da Baixada Fluminense poderão acessar uma série de serviços gratuitos neste sábado (16), durante mais uma edição do projeto “Unig de Portas Abertas”, promovido pela Universidade Iguaçu, em Nova Iguaçu. O mutirão acontece das 9h às 12h, no campus da instituição, na Avenida Abílio Augusto Távora, e contará com atendimentos nas áreas de saúde, cidadania, assistência jurídica, estética e cuidados com animais.
 

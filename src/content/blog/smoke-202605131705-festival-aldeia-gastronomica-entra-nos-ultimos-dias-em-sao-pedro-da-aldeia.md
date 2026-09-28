@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "festival-gastronomico", "cultura-local", "lagoa", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-festival-aldeia-gastronomica-entra-nos-ultimos-dias-em-sao-pedro-da-aldeia.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Termina neste domingo (17) a primeira edição do Festival Aldeia Gastronômica, que acontece em São Pedro da Aldeia. Apresentar a oferta gastronômica de São Pedro é um dos objetivos do evento, o que vem sendo registrado com sucesso.

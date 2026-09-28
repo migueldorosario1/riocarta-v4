@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "educacao", "camara-municipal", "rio-capital-zona-oeste", "capital", "regiao-metropolitana", "leme", "campo-grande", "deodoro", "guaratiba", "padre-miguel", "pedra-de-guaratiba"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-comissao-de-educacao-da-camara-do-rio-realiza-audiencia-publica-em-bangu-para-discutir-situacao.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A Comissão de Educação da Câmara Municipal do Rio realiza, nesta sexta-feira (15/05), às 9h30, a segunda audiência pública do ano voltada à discussão das condições da rede municipal de ensino, a maior da América Latina. Desta vez, o foco será a 8ª Coordenadoria Regional de Educação (8ª CRE), uma das maiores da cidade, com 124 unidades educacionais e responsável por atender escolas de bairros da Zona Oeste como Bangu, Realengo, Padre Miguel, Senador Camará, Vila Kennedy e Deodoro.

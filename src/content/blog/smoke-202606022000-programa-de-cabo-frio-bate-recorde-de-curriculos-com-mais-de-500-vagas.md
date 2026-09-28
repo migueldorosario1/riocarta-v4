@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:03:07Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "empregabilidade", "prefeitura", "mercado-de-trabalho", "regiao-dos-lagos", "macae-norte-fluminense", "norte-fluminense", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-programa-de-cabo-frio-bate-recorde-de-curriculos-com-mais-de-500-vagas.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Cabo Frio divulgou nesta segunda-feira (1º), por meio da Secretaria Municipal de Desenvolvimento Econômico, os números mais recentes do programa Emprego Já. O levantamento referente ao mês de maio apontou crescimento na procura pelo serviço, com destaque para o volume de currículos cadastrados, que atingiu o maior patamar do ano.
 

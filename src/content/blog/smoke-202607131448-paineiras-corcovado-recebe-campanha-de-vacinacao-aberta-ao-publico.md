@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:48:28Z"
 draft: false
 tags: ["rio-de-janeiro", "santa-teresa", "centro-de-visitantes-paineiras", "saude", "vacinacao", "rio-capital-centro", "capital", "regiao-metropolitana", "mare"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-paineiras-corcovado-recebe-campanha-de-vacinacao-aberta-ao-publico.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Centro de Visitantes Paineiras Corcovado recebe uma campanha de vacinação aberta ao público, de terça a quinta-feira (07/07, 08/07 e 09/07), das 9h às 15h. Serão oferecidas gratuitamente imunizantes contra gripe, febre amarela, hepatite B, tétano e a tríplice viral, que protege contra sarampo, caxumba e rubéola.
 

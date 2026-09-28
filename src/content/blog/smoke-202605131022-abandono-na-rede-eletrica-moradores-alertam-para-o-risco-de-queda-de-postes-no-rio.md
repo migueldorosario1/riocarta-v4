@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:23Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "sao-cristovao", "rio-comprido", "praca-da-bandeira", "zona-sul", "zona-norte", "zona-oeste", "infraestrutura", "postes", "seguranca", "rio-capital-zona-sul-e-grande-tijuca", "capital", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-abandono-na-rede-eletrica-moradores-alertam-para-o-risco-de-queda-de-postes-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O cenário de degradação do mobiliário urbano no Rio de Janeiro atingiu um ponto crítico nesta segunda-feira (11), quando um semáforo desabou sobre um pedestre em Copacabana, na Zona Sul. O acidente, registrado em imagens que circulam nas redes sociais, deixou a vítima com ferimentos nas costas e expôs a fragilidade das estruturas que deveriam garantir a segurança nas vias públicas.

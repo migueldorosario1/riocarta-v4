@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp691_image-22.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói tem exposição, roda de choro e exibição de filme sobre Itamar Assumpção'
 pubDate: 2023-07-07 17:41:09

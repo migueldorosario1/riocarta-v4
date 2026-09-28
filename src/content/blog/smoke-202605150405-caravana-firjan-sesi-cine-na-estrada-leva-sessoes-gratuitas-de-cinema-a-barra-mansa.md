@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "cultura", "sul-fluminense-costa-verde", "regiao-metropolitana", "praca-da-bandeira", "comunidade", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-caravana-firjan-sesi-cine-na-estrada-leva-sessoes-gratuitas-de-cinema-a-barra-mansa.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 BARRA MANSA

@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:09Z"
 draft: false
 tags: ["rio-de-janeiro", "belford-roxo", "regiao-metropolitana", "politica-rj", "seguranca-publica", "alerj", "regiao-dos-lagos", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-pf-prende-marcio-canella-apos-achar-fuzil-em-seu-carro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-prefeito de Belford Roxo e atual presidente do União Brasil no Estado do Rio de Janeiro, Márcio Canella, foi preso em flagrante pela Polícia Federal na manhã desta terça-feira (7). A prisão ocorreu durante o cumprimento de mandados da sexta fase da Operação Unha e Carne, após os agentes encontrarem um fuzil no veículo em que ele estava.
 

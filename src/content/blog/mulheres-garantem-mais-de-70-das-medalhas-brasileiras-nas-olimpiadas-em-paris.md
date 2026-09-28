@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4800_imagem-1.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mulheres garantem mais de 70% das medalhas brasileiras nas Olimpíadas em Paris'
 pubDate: 2024-08-07 12:28:00

@@ -5,6 +5,7 @@ pubDate: "2026-05-20T22:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "serrana", "regiao-metropolitana", "transporte-mobilidade", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202223-mp-pede-que-justica-confirme-a-obrigacao-de-distribuicao-do-material-escolar-em-petropolis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Ministério Público do Rio de Janeiro (MPRJ) pediu à Justiça que profira sentença definitiva obrigando a Prefeitura de Petrópolis a fornecer material escolar completo aos alunos da rede municipal. Em manifestação protocolada no final de abril, a 2ª Promotoria de Justiça de Tutela Coletiva do Núcleo Petrópolis afirmou que, ao apresentar um cronograma detalhado de adesão à ata do Fundo Nacional de Desenvolvimento da Educação (FNDE), o município “não está apenas obedecendo a uma ordem judicial provisória”, mas também adotando “atos materiais que comprovam a concordância com o mérito da ação”.
 

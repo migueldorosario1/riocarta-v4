@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:00:09Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "cultura", "macae-norte-fluminense", "rocha", "norte-fluminense", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-cabo-frio-celebra-dia-municipal-da-cultura-com-programacao-gratuita-nesta-sexta-10.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Evento reúne música, dança, capoeira, teatro e atrações infantis no Terminal de Transatlânticos a partir das 14h
 

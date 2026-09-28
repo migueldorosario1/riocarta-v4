@@ -5,6 +5,7 @@ pubDate: "2026-05-16T20:24:30Z"
 draft: true
 tags: ["rio-de-janeiro", "medicina", "etica", "educacao", "sul-fluminense", "regiao-metropolitana", "sampaio", "pirai", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-academicos-de-medicina-do-ugb-participam-de-cerimonia-em-homenagem-a-cadaver-desconhecido.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA DO PIRAÍ
 

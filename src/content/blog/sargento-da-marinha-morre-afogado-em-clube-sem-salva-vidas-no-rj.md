@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2489_WhatsApp-Image-2024-01-21-at-01.30.02.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sargento da Marinha morre afogado em clube sem salva-vidas no RJ'
 pubDate: 2024-01-21 07:30:00

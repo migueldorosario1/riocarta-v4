@@ -5,6 +5,7 @@ pubDate: "2026-05-13T11:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "concurso-publico", "professores", "rede-municipal", "educacao", "sul-fluminense", "sul-fluminense-costa-verde", "portuguesa", "comunidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-volta-redonda-abre-concurso-publico-para-docentes-da-rede-municipal.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Volta Redonda – A Secretaria Municipal de Administração (SMA) de Volta Redonda abriu nesta terça-feira (12) as inscrições para o concurso público que visa preencher 61 vagas efetivas para professores da rede municipal de ensino, além da formação de cadastro de reserva sob o regime estatutário.

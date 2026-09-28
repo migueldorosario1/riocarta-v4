@@ -5,6 +5,7 @@ pubDate: "2026-06-29T23:25:23Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-push-pop-sushi-inaugura-primeira-loja-em-copacabana-e-traz-ao-rio-a-tendencia-sushi-no-tubo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

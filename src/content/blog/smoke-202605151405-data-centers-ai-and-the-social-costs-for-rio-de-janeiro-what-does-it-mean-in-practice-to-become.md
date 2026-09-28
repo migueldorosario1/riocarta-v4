@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-olimpica", "zona-oeste", "data-centers", "ai", "infraestrutura", "impacto-social", "rio-capital-barra-recreio-jacarepagua", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151405-data-centers-ai-and-the-social-costs-for-rio-de-janeiro-what-does-it-mean-in-practice-to-become-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A prefeitura do Rio promove o projeto Rio AI City no antigo Parque Olímpico, que pretende transformar a cidade em um dos maiores polos de data centers da América Latina. A proposta gerou polêmica entre pesquisadores e moradores de bairros que já sofrem com falta de água, energia e moradia.

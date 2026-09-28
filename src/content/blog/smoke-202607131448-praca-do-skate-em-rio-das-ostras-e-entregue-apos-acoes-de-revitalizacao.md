@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:48:15Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "macae-norte-fluminense", "norte-fluminense", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-praca-do-skate-em-rio-das-ostras-e-entregue-apos-acoes-de-revitalizacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A famosa Praça do Skate, em Rio das Ostras, foi entregue nesse sábado, 4, depois de receber uma intensa série de melhorias estruturais, com substituição de equipamentos, e serviços de alvenaria, pintura, e revitalização do prédio administrativo.
 

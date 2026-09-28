@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3622_images-2024-03-03T090126.231.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Solitário e esquecido, Ciro Gomes agride diplomacia do governo Lula'
 pubDate: 2024-03-03 09:03:21

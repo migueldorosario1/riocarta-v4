@@ -5,6 +5,7 @@ pubDate: "2026-06-29T01:24:21Z"
 draft: false
 tags: ["rio-de-janeiro", "greve", "brt", "transporte-publico", "transporte-mobilidade", "capital", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290123-prefeitura-afirma-que-brt-funcionara-na-greve-desta-segunda-sindicato-discorda.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Apesar do anúncio de greve dos motoristas de ônibus municipais do Rio, que inclui os motoristas do BRT, a Prefeitura afirmou que o sistema de transporte rápido funcionará normalmente nesta segunda-feira (29). Já o Sindicato dos Rodoviários informou que os articulados circularão com 50% da frota, assim como os ônibus convencionais, em cumprimento à decisão da Justiça que determinou a manutenção de pelo menos metade dos veículos em operação nos horários de pico.
 

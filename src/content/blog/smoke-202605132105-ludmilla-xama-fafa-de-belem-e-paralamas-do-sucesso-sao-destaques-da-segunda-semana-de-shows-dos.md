@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:35Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "cultura", "shows", "aniversario", "niteroi-sao-goncalo-metropolitana", "regiao-dos-lagos", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132105-ludmilla-xama-fafa-de-belem-e-paralamas-do-sucesso-sao-destaques-da-segunda-semana-de-shows-dos.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A cidade de Maricá vai celebrar os 212 anos de emancipação com uma programação que reúne shows, atividades culturais, atos cívicos e celebrações religiosas entre os dias 15 e 26 de maio. As ações acontecem em diferentes pontos do município, como a Praça Orlando de Barros Pimentel e a Arena da Barra de Maricá.

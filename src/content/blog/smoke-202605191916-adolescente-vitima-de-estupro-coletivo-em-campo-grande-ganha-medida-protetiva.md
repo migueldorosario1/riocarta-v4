@@ -5,6 +5,7 @@ pubDate: "2026-05-19T19:16:57Z"
 draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "capital", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-adolescente-vitima-de-estupro-coletivo-em-campo-grande-ganha-medida-protetiva.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Justiça impõe restrições a adolescente suspeito de atrair a jovem para emboscada no local do crime
 

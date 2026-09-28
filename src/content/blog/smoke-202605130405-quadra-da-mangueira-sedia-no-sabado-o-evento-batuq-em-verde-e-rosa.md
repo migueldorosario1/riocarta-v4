@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "mangueira", "zona-norte", "samba", "cultura", "carnaval", "rio-capital-zona-norte", "cultura-carnaval", "regiao-metropolitana", "mare", "penha", "niteroi"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-quadra-da-mangueira-sedia-no-sabado-o-evento-batuq-em-verde-e-rosa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 No próximo dia 16 de maio, sábado, a quadra da Estação Primeira de Mangueira recebe o evento Batuq em Verde e Rosa em parceria com a Batuq Casa de Samba. O evento contará com a presença de Arlindinho, Nego Damoé e O Povo Canta Rei, para fazer uma festa digna do samba.

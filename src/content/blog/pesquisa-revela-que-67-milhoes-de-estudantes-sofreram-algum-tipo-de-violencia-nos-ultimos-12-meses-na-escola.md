@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4643_image.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela que 6,7 milhões de estudantes sofreram algum tipo de violência nos últimos 12 meses na escola'
 pubDate: 2024-06-12 14:19:34

@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:01:05Z"
 draft: false
 tags: ["rio-de-janeiro", "tce-rj", "claudio-castro", "alerj", "politica-rj", "macae-norte-fluminense", "norte-noroeste-fluminense", "macae", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-contas-de-2025-de-claudio-castro-sao-rejeitadas-por-3-a-1-em-votacao-do-tce-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O plenário do Tribunal de Contas do Estado do Rio (TCE-RJ) rejeitou, na tarde dessa segunda-feira, 1º de junho, por 3 votos a 1, as contas do ex-governador Cláudio Castro (PL) referentes ao exercício de 2025 à frente do governo estadual.
 

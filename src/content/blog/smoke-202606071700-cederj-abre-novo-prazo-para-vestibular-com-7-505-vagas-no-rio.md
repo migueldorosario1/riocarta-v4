@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:01:37Z"
 draft: false
 tags: ["rio-de-janeiro", "cederj", "ensino-superior", "educacao", "capital", "regiao-metropolitana", "paraty", "costa-verde"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-cederj-abre-novo-prazo-para-vestibular-com-7-505-vagas-no-rio-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 As inscrições para o Vestibular Cederj 2026. 2 foram prorrogadas até o dia 24 de maio.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1880_1_onca_parda-25610398.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Onça Parda é flagrada em momento único enquanto se hidrata em área de preservação'
 pubDate: 2023-11-09 16:44:29

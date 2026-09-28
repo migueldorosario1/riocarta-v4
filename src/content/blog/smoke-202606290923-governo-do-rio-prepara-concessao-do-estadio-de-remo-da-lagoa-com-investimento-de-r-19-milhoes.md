@@ -5,6 +5,7 @@ pubDate: "2026-06-29T09:23:03Z"
 draft: false
 tags: ["rio-de-janeiro", "lagoa", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290923-governo-do-rio-prepara-concessao-do-estadio-de-remo-da-lagoa-com-investimento-de-r-19-milhoes.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Rio de Janeiro está nos ajustes finais para lançar o edital de concessão do Estádio de Remo da Lagoa, conhecido como Lagoon. Segundo informação do repórter Ancelmo Gois, em O Glbo, a expectativa é que o documento seja publicado no Diário Oficial até o fim de setembro.
 

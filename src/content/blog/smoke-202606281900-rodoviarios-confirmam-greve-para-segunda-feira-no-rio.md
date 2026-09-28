@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:06:00Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "onibus", "brt", "transporte-publico", "transporte-mobilidade", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281900-rodoviarios-confirmam-greve-para-segunda-feira-no-rio-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Categoria rejeitou proposta de reajuste salarial apresentada pelo Rio Ônibus; paralisação está prevista para começar à meia-noite do dia 29
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:29Z"
 draft: true
 tags: ["rio-de-janeiro", "aluguel-por-temporada", "condominios", "stj", "camara-municipal", "vereador-salvino-oliveira", "politica-rj", "capital-estado", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-stj-restringe-aluguel-por-temporada-em-condominios-e-decisao-divide-opinioes-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Rio

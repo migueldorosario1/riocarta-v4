@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:30Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "cultura-carnaval", "capital", "copacabana", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-maratona-madrugada-adentro-cinema-de-pijama-transforma-estacao-net-rio-em-festival-para-cinefilo.png"
+hero_credit: "JOHN K THORNE / Wikimedia Commons (Public domain)"
 ---
 Uma madrugada inteira dedicada ao cinema, com direito a clássicos raros, filmes cultuados, terror japonês, animações experimentais, comédias e open pipoca liberada até o amanhecer. Assim será a 12ª edição do Cinema de Pijama, que acontece entre a noite do dia 23 e a manhã de 24 de maio no Estação NET Rio, em Botafogo.
 

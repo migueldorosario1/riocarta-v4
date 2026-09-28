@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:01:09Z"
 draft: true
 tags: ["rio-de-janeiro", "carlos-lacerda", "biografia", "politica-rj", "capital", "regiao-metropolitana", "joa"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-carlos-lacerda-tera-nova-biografia-escrita-por-mario-magalhaes.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Companhia das Letras lança no fim de julho o primeiro volume da nova biografia de Carlos Lacerda, escrita pelo jornalista Mário Magalhães. A obra, dividida em dois tomos, começou a ser pesquisada em 2015 e chega às livrarias após onze anos de trabalho.
 

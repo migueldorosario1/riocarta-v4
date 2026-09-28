@@ -5,6 +5,7 @@ pubDate: "2026-05-17T03:24:10Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "ancestralidade", "politica-rj", "regiao-metropolitana", "leme", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-projeto-na-alerj-quer-oferecer-testes-de-dna-gratuitos-sobre-ancestralidade.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A busca pelas próprias origens e pela reconstrução de histórias familiares esteve no centro de um debate realizado nesta sexta-feira (15) na Assembleia Legislativa do Rio de Janeiro (Alerj).
 

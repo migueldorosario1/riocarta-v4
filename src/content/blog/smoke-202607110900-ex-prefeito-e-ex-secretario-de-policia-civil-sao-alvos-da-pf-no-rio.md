@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:16Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "seguranca-publica", "regiao-metropolitana", "sao-goncalo-itaborai", "centro-do-rio", "baixada", "niteroi", "sao-goncalo", "itaborai", "nova-friburgo", "resende", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-ex-prefeito-e-ex-secretario-de-policia-civil-sao-alvos-da-pf-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Suposto esquema lavava dinheiro com rede de postos de combustíveis
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6237_imagem-2.avif"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tragédia em Maricá árvore de natal flutuante cai durante tempestade e deixa um morto e dois feridos'
 pubDate: 2024-12-17 15:32:12

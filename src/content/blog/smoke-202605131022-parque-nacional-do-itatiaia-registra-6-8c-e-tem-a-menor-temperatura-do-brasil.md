@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:41Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "resende", "parque-nacional-do-itatiaia", "clima", "frio", "temperatura", "sul-fluminense", "norte-noroeste-fluminense", "campos", "joa", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-parque-nacional-do-itatiaia-registra-6-8c-e-tem-a-menor-temperatura-do-brasil.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Aos poucos, o frio começa a dar o ar da graça na região da Serra da Mantiqueira. O Parque Nacional do Itatiaia registrou na madrugada desta terça-feira, dia 12, a menor temperatura do Brasil em 2026 até o momento.

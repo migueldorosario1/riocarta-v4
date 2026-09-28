@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "politica-rj", "pt", "washington-quaqua", "diego-zeidan", "macae-norte-fluminense", "leme", "mage", "norte-fluminense", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150105-filho-de-quaqua-volta-a-ser-alvo-de-polemica-apos-foto-com-fuzil-nas-redes-sociais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O presidente estadual do PT do Rio, Diego Zeidan, que agora se identifica como Diego Quaquá, filho da deputada estadual do Rio, Zeidan (PT), e do prefeito de Maricá, Washington Quaquá (PT), causou polêmica nas redes sociais nessa semana.

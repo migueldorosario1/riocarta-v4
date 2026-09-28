@@ -5,6 +5,7 @@ pubDate: "2026-06-30T01:23:28Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "flamengo", "fluminense", "vasco", "futebol-carioca", "cultura-carnaval", "capital", "gloria", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300123-entre-a-gloria-e-a-reconstrucao-os-ciclos-dos-grandes-clubes-do-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O futebol carioca sempre viveu de extremos. Entre títulos inesquecíveis e crises administrativas, Botafogo, Flamengo, Fluminense e Vasco atravessaram décadas de glória e de turbulência, refletindo também as contradições de um cenário em que paixão e gestão caminham lado a lado.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-20T14:23:12Z"
 draft: false
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "macae-norte-fluminense", "norte-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201423-desrespeito-as-baleias-pode-virar-crime-ambiental-em-arraial-do-cabo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A poucos dias do início da temporada de baleias, que ocorre entre junho e setembro, a Fundação Municipal de Meio Ambiente de Arraial do Cabo anunciou um conjunto de orientações voltadas ao avistamento responsável de cetáceos. As diretrizes são direcionadas a condutores de embarcações, mergulhadores, pilotos de drones e praticantes de esportes aquáticos, com base no Manual de Boas Práticas em Interações com Cetáceos e na legislação ambiental vigente.
 

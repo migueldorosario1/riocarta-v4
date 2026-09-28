@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "baixada-litoranea", "saude", "prevencao-raiva", "ataque-animal", "regiao-dos-lagos", "macae-norte-fluminense", "araruama", "baixada", "cabo-frio", "norte-fluminense", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-rio-das-ostras-reforca-protocolo-de-prevencao-a-raiva-apos-ataques-de-animais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A Prefeitura de Rio das Ostras reforçou, nessa semana, o protocolo de prevenção à raiva, doença causada por um vírus que pode ser transmitido aos seres humanos através de mordidas e arranhões de animais contaminados.

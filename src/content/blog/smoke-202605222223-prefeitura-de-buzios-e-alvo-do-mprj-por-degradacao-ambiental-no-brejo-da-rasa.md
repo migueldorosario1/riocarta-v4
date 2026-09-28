@@ -5,6 +5,7 @@ pubDate: "2026-05-22T22:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "regiao-dos-lagos", "capital", "lagoa", "buzios", "problemas-estruturais", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605222223-prefeitura-de-buzios-e-alvo-do-mprj-por-degradacao-ambiental-no-brejo-da-rasa.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Ministério Público do Rio (MPRJ) ajuizou uma ação em que acusa a Prefeitura de Armação dos Búzios de omissão e degradação ambiental no Brejo da Rasa. O órgão afirma ter identificado ocupações irregulares, aterros e construções em uma Área de Preservação Permanente (APP) na região.
 

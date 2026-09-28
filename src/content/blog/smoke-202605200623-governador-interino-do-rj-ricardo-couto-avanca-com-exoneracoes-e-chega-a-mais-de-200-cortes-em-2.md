@@ -5,6 +5,7 @@ pubDate: "2026-05-20T06:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "governo-rj", "politica-rj", "capital", "regiao-metropolitana", "mage", "transporte-mobilidade", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200623-governador-interino-do-rj-ricardo-couto-avanca-com-exoneracoes-e-chega-a-mais-de-200-cortes-em-2.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio de Janeiro começou a semana com uma nova rodada de mudanças em cargos comissionados. Depois de encerrar a semana passada com 356 exonerações, a Secretaria de Estado da Casa Civil confirmou mais 206 desligamentos em apenas dois dias.
 

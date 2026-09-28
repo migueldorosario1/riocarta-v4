@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7069_image-6.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio passa a ter Conselho Ecológico Popular para fortalecer agenda ambiental no estado'
 pubDate: 2025-08-20 15:24:06

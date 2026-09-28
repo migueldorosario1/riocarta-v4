@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:04:23Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "ips-brasil", "qualidade-de-vida", "politica-rj", "regiao-metropolitana", "leme", "baixada", "nilopolis", "japeri", "niteroi", "itaborai", "teresopolis", "nova-friburgo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-indice-de-qualidade-de-vida-2026-mostra-que-rio-nao-tem-cidades-entre-as-200-melhores-resende-li-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Estado do Rio de Janeiro não possui nenhuma cidade entre as 200 melhores em qualidade de vida do Brasil, segundo dados do Índice de Progresso Social (IPS) Brasil 2026, divulgado pelo Instituto do Homem e Meio Ambiente da Amazônia (Imazon) e instituições parceiras. O município fluminense mais bem colocado é Resende, que aparece apenas na 249ª posição nacional.
 

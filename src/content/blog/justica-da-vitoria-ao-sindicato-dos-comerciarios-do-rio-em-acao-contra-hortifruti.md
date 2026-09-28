@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1851_image-11.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça dá vitória ao Sindicato dos Comerciários do Rio em ação contra hortifruti'
 pubDate: 2023-11-07 21:33:02

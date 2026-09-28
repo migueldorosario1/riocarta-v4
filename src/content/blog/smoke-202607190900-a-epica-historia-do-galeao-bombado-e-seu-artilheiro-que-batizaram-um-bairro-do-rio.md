@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:02:29Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "galeao", "mare", "portuguesa", "joa", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-a-epica-historia-do-galeao-bombado-e-seu-artilheiro-que-batizaram-um-bairro-do-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Estamos em meados do século XVI, o Império Otomano aterroriza o Mediterrâneo com seus corsários, quando o imperador Carlos V, o homem mais poderoso da Europa, bateu na porta do rei português D. João III.
 

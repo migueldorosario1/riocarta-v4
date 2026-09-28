@@ -5,6 +5,7 @@ pubDate: "2026-06-29T16:23:09Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-do-pirai", "saude", "sus", "conferencia-de-saude", "participacao-popular", "politica-rj", "sul-fluminense-costa-verde", "sul-fluminense", "pirai", "leme"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291623-1a-plenaria-ampliada-de-saude-barra-do-pirai-define-propostas-para-o-sus.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA DO PIRAÍ
 

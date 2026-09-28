@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:54Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "transporte-mobilidade", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-nova-obra-melhora-trafego-no-centro-e-nos-eventos.jpg"
+hero_credit: "Bryn Holmes / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 São Gonçalo iniciou uma obra de ajuste geométrico viário nas proximidades da
 

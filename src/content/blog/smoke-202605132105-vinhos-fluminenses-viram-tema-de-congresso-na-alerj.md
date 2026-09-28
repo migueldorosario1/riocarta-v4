@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:47Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "vinho", "enoturismo", "serra-fluminense", "vale-do-cafe", "petropolis", "teresopolis", "valenca", "tres-rios", "sao-jose-do-vale-do-rio-preto", "areal", "paty-do-alferes", "luiz-paulo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132105-vinhos-fluminenses-viram-tema-de-congresso-na-alerj.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Vinhos fluminenses viram tema de congresso na Alerj

@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:07:50Z"
 draft: true
 tags: ["rio-de-janeiro", "transporte-publico", "jae", "pix", "prefeitura-do-rio", "transporte-mobilidade", "capital", "regiao-metropolitana", "botafogo", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281900-pagamento-em-dinheiro-acaba-nos-onibus-do-rio-veja-como-fica-o-jae.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os ônibus municipais do Rio de Janeiro deixam de aceitar pagamento em dinheiro a partir deste domingo (28/06). A mudança faz parte do processo de modernização da bilhetagem do transporte público municipal e amplia o uso do sistema Jaé nos coletivos da cidade.
 

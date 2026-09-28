@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:29Z"
 draft: false
 tags: ["rio-de-janeiro", "santa-maria-madalena", "regiao-serrana", "parque-estadual-do-desengano", "meio-ambiente", "fauna", "bugios", "capital", "mare", "serrana", "problemas-estruturais"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-bugios-voltam-a-ser-vistos-no-parque-estadual-do-desengano.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A presença do animal é vista como um sinal de recuperação da espécie na Mata Atlântica fluminense após impacto da febre amarela
 

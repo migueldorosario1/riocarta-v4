@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:26Z"
 draft: true
 tags: ["rio-de-janeiro", "mprj", "loterj", "apostas-ilegais", "justica", "politica-rj", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-justica-suspende-empresa-de-apostas-ilegais-apos-acao-do-mprj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Justiça atendeu a um pedido do Ministério Público do Estado do Rio de Janeiro (MPRJ) e determinou a suspensão imediata das atividades de uma empresa de apostas esportivas acusada de operar ilegalmente no estado. A decisão também determina o bloqueio de sites, pagamentos e outras medidas para impedir a continuidade da operação.
 

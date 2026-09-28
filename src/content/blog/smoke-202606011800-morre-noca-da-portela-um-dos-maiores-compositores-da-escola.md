@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:00:21Z"
 draft: true
 tags: ["rio-de-janeiro", "portela", "zona-norte", "cultura-carnaval", "capital-estado", "regiao-metropolitana", "madureira", "comunidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-morre-noca-da-portela-um-dos-maiores-compositores-da-escola.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

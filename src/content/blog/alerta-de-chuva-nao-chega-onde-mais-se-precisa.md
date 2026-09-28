@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6784_image-12.png"
+hero_credit: "MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerta de chuva não chega onde mais se precisa'
 pubDate: 2025-04-08 10:37:54

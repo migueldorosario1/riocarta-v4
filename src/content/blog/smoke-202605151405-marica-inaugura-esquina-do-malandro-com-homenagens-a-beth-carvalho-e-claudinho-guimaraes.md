@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:50Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151405-marica-inaugura-esquina-do-malandro-com-homenagens-a-beth-carvalho-e-claudinho-guimaraes.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A Maricá realiza nesta sexta-feira (15) uma homenagem ao sambista Claudinho Guimarães dentro da programação oficial pelos 212 anos do município. A ação é promovida pela Companhia de Cultura e Turismo de Maricá em parceria com o Instituto de Ciência, Tecnologia e Inovação de Maricá.

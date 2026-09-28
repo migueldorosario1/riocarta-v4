@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2773_imagem-18.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Reinaldo Azevedo detona cobertura da mídia sobre a operação da PF contra Carluxo'
 pubDate: 2024-01-31 08:22:32

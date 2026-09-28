@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:07Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "igreja-nossa-senhora-da-lapa-dos-mercadores", "patrimonio-historico", "policia-federal", "iphan", "recuperacao-de-pecas-sacras", "rio-capital-centro", "niteroi-metropolitana", "regiao-metropolitana", "centro-do-rio", "lapa", "leme", "niteroi"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-pf-recupera-pecas-sacras-em-prata-de-igreja-historica-no-centro-do-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Polícia Federal (PF) devolveu nesta quarta-feira (13) duas peças sacras em prata à Igreja de Nossa Senhora da Lapa dos Mercadores, no Centro do Rio, após uma investigação que rastreou os objetos em leilões realizados no estado de São Paulo. A entrega ocorreu na Superintendência Regional da corporação, na região da Praça Mauá.

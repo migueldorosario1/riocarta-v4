@@ -5,6 +5,7 @@ pubDate: "2026-05-21T06:23:36Z"
 draft: false
 tags: ["rio-de-janeiro", "baixada-fluminense", "sao-joao-de-meriti", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "zona-norte", "anchieta", "colegio", "pavuna", "ricardo-de-albuquerque", "joa", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210623-homem-apontado-pela-policia-como-lider-do-trafico-na-baixada-fluminense-e-preso.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Matheus Gonçalves da Silva, de 25 anos, estava foragido da Justiça e foi localizado na comunidade do Chapadão, no Rio, a partir de informações passadas ao Disque Denúncia/RJ
 

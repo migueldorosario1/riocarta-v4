@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:31:09Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "transporte-mobilidade", "politica-rj", "capital", "regiao-metropolitana", "leme"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-camara-do-rio-aprova-mudanca-em-autorizacao-para-emprestimo-de-ate-r-1-8-bilhao-para-financiar-o.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Câmara Municipal do Rio de Janeiro aprovou, em 1ª discussão, nesta terça-feira, 19 de maio, o Projeto de Decreto Legislativo 143/2026, enviado pelo Poder Executivo. A proposta altera a ementa do Decreto Legislativo 1.
 

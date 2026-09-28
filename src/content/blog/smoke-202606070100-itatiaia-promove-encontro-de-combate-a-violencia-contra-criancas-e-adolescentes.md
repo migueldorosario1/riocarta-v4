@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:05:44Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "sul-fluminense", "maio-laranja", "combate-violencia-infantil", "sul-fluminense-costa-verde", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-itatiaia-promove-encontro-de-combate-a-violencia-contra-criancas-e-adolescentes-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 ITATIAIA
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:01:19Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "valenca", "sul-fluminense-costa-verde", "politica-rj", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-paes-reforca-agenda-no-sul-fluminense-e-reune-liderancas-em-valenca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-prefeito do Rio e pré-candidato a governador, Eduardo Paes (PSD), intensificou a agenda política no Sul Fluminense nesta sexta-feira (15). Pela manhã ele esteve em Valença, onde se reuniu com lideranças políticas da cidade e da região.
 

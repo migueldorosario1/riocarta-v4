@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:02:09Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "concurso-publico", "camara-municipal", "macae-norte-fluminense", "norte-fluminense", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-concurso-para-a-camara-de-saquarema-entra-na-ultima-semana-de-inscricoes.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Faltam apenas 6 dias para o fim das inscrições para o concurso público que oferece 28 vagas para a Câmara Municipal de Saquarema, com salários de até 8 mil reais e vagas para cargos de nível médio e superior.
 

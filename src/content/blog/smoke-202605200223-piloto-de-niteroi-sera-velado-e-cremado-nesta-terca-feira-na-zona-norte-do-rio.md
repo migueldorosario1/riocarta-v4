@@ -5,6 +5,7 @@ pubDate: "2026-05-20T02:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "zona-norte", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "caju", "lagoa", "zona-oeste", "bangu", "comunidade", "angra", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200223-piloto-de-niteroi-sera-velado-e-cremado-nesta-terca-feira-na-zona-norte-do-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Morador de Niterói, o piloto da Polícia Civil do Rio de Janeiro, Felipe Marques Monteiro, será velado e cremado nesta terça-feira (19), após morrer no domingo (17), mais de um ano depois de ser baleado durante uma operação policial na Vila Aliança, na Zona Oeste do Rio. O caso gerou grande comoção entre policiais e nas redes sociais, onde familiares e amigos acompanharam a longa luta do agente pela vida.
 

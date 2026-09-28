@@ -5,6 +5,7 @@ pubDate: "2026-05-16T14:24:05Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "capital", "regiao-metropolitana", "leme", "manguinhos", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161423-claudio-castro-nega-favorecimento-a-refit-e-chama-acusacao-de-absurdo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Alvo da Operação Sem Refino, da Polícia Federal, o ex-governador do Rio Cláudio Castro publicou um vídeo nas redes sociais para se defender das suspeitas de favorecimento à Refit, antiga Refinaria de Manguinhos, controlada pelo empresário Ricardo Magro.

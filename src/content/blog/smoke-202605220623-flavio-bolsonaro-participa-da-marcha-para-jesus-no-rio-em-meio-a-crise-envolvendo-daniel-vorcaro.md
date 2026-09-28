@@ -5,6 +5,7 @@ pubDate: "2026-05-22T06:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "politica", "politica-rj", "regiao-metropolitana", "mage", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220623-flavio-bolsonaro-participa-da-marcha-para-jesus-no-rio-em-meio-a-crise-envolvendo-daniel-vorcaro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Em meio à tentativa de conter os impactos políticos da crise envolvendo o banqueiro Daniel Vorcaro, o senador Flávio Bolsonaro deve desembarcar no Rio de Janeiro nesta sexta-feira para participar da Marcha para Jesus, marcada para este sábado na capital fluminense.
 

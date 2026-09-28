@@ -5,6 +5,7 @@ pubDate: "2026-06-05T12:03:54Z"
 draft: false
 tags: ["rio-de-janeiro", "tijuca", "zona-norte", "transporte-mobilidade", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "ilha-do-governador", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051200-primeira-linha-de-onibus-que-nao-aceita-dinheiro-comeca-a-rodar-no-rio-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A cidade do Rio iniciou, neste domingo (17), a operação da primeira linha de ônibus a funcionar sem a aceitação de dinheiro em espécie. A mudança começou pela linha 634 (Bananal–Saens Peña), que liga a Ilha do Governador à Tijuca, na Zona Norte, agora sob gestão da MOBI-Rio.
 

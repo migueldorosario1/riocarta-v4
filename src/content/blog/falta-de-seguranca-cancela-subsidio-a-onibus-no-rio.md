@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp583_image-7.png"
+hero_credit: "Rodrigo Soldon from Rio de Janeiro, Brazil / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Falta de segurança cancela subsídio a ônibus no Rio'
 pubDate: 2023-07-04 19:01:54

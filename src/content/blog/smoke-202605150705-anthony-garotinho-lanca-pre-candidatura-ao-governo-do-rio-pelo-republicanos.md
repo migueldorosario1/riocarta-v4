@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:43Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "eleicoes", "garotinho", "republicanospartido", "capital", "regiao-metropolitana", "campos", "norte-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150705-anthony-garotinho-lanca-pre-candidatura-ao-governo-do-rio-pelo-republicanos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O ex-governador Anthony Garotinho lançou, nesta quarta-feira (13), sua pré-candidatura ao governo do Estado do Rio de Janeiro pelo Republicanos.

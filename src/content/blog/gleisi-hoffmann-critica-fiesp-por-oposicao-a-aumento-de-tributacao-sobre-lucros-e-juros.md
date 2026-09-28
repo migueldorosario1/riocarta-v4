@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5061_imagem-20.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica Fiesp por oposição a aumento de tributação sobre lucros e juros'
 pubDate: 2024-09-03 18:38:28

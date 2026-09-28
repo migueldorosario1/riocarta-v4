@@ -5,6 +5,7 @@ pubDate: "2026-05-16T21:24:31Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "rio-capital-zona-norte", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "estacio", "rio-comprido", "sao-cristovao", "mage", "petropolis", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-pm-e-baleado-durante-confronto-no-rio-e-socorrido-por-taxista.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um policial militar do 4º BPM (São Cristóvão) foi baleado na manhã deste sábado (16) durante uma troca de tiros com dois criminosos no Rio Comprido, na Zona Norte do Rio. O confronto aconteceu na Rua Barão de Petrópolis, durante uma ação de cerco tático realizada por agentes da corporação.
 

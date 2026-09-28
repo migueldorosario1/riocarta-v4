@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:02:03Z"
 draft: true
 tags: ["rio-de-janeiro", "operacao-compliance-zero", "policia-federal", "banco-master", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "marica", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150001-pai-de-daniel-vorcaro-e-preso-na-6a-fase-da-operacao-compliance-zero.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Pai de Daniel Vorcaro é preso na 6ª fase da operação Compliance Zero

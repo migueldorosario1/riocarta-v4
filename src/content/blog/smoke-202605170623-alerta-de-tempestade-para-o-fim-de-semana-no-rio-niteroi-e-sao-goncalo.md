@@ -5,6 +5,7 @@ pubDate: "2026-05-17T06:23:16Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "regiao-metropolitana", "niteroi-metropolitana", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170623-alerta-de-tempestade-para-o-fim-de-semana-no-rio-niteroi-e-sao-goncalo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Instituto Nacional de Meteorologia (Inmet) divulgou nesta sexta-feira (15) um alerta meteorológico para risco de tempestades, ventos intensos e possibilidade de queda de granizo no Rio de Janeiro, Niterói e São Gonçalo. Apesar da instabilidade prevista para o fim de semana, as temperaturas continuarão elevadas nas três cidades
 

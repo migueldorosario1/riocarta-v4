@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:25:38Z"
 draft: true
 tags: ["rio-de-janeiro", "carnaval-2027", "paraiso-do-tuiuti", "sapucai", "cultura-carnaval", "gamboa", "saude", "ouvidor", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-conheca-o-samba-enredo-que-o-paraiso-do-tuiuti-levara-para-a-sapucai-no-carnaval-2027.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

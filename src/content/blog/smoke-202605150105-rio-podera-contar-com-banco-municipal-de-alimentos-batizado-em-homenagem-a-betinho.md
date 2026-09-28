@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:05:42Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "seguranca-alimentar", "betinho", "maira-do-mst", "politica-rj", "leme", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150105-rio-podera-contar-com-banco-municipal-de-alimentos-batizado-em-homenagem-a-betinho.jpg"
+hero_credit: "Europäische Kommission - Audiovisueller Dienst, CE - Service audiovisuel, EC - Audiovisual Service, Dati Bendo / Wikimedia Commons (CC BY 4.0)"
 categoria_macro: politica
 ---
 A Câmara do Rio aprovou em definitivo, na sessão plenária de quarta-feira (13), o projeto de lei que cria o Programa Carioca de Banco de Alimentos Herbert de Souza, iniciativa voltada ao combate à insegurança alimentar e à redução do desperdício de alimentos na cidade.

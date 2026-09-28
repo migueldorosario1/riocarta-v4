@@ -5,6 +5,7 @@ pubDate: "2026-05-15T19:29:57Z"
 draft: false
 tags: ["rio-de-janeiro", "jogo-do-bicho", "contravencao", "policia-federal", "banco-master", "seguranca-publica", "capital", "regiao-metropolitana", "leme", "mage", "problemas-estruturais", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151928-pf-liga-daniel-vorcaro-ao-bicho-e-a-turma-da-coacao-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Polícia Federal removeu a última camada de verniz que ainda restava sobre a imagem de Daniel Vorcaro. Documentos da Sexta Fase da Operação Compliance Zero revelam uma simbiose sombria entre a alta finança e o submundo do Rio de Janeiro.

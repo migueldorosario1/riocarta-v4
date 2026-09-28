@@ -5,6 +5,7 @@ pubDate: "2026-06-29T12:23:27Z"
 draft: false
 tags: ["rio-de-janeiro", "lapa", "parada-lgbtqia", "centro", "rio-capital-centro", "capital-estado", "regiao-metropolitana", "centro-do-rio", "flamengo", "comunidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291223-parada-lgbtqia-na-lapa-defende-mais-representatividade-politica-e-voto-consciente.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:01:13Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-isabel", "carnaval", "cultura", "cultura-e-carnaval-rj", "politica-rj", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-vila-isabel-anuncia-torto-arado-como-enredo-para-2027.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Unidos de Vila Isabel anunciou, nesta quarta-feira (13), o enredo que levará para a Marquês de Sapucaí no Carnaval de 2027. A escola apresentará “Torto arado – sobre a terra há de viver sempre o mais forte”, inspirado no livro Torto arado, do escritor Itamar Vieira Junior.
 

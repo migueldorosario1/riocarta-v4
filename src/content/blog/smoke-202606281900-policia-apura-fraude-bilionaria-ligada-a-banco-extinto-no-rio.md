@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:01:15Z"
 draft: false
 tags: ["rio-de-janeiro", "policia-civil", "fraude", "banco-credito-movel", "jucerja", "recreio-dos-bandeirantes", "barra-da-tijuca", "gloria", "tijuca", "copacabana", "gavea", "botafogo", "seguranca-publica", "niteroi-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281900-policia-apura-fraude-bilionaria-ligada-a-banco-extinto-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil do Rio de Janeiro deflagrou na quinta-feira (25) uma operação para
 

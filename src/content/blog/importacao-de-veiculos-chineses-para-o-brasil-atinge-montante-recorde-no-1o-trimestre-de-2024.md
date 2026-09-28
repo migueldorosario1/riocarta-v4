@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4417_imagem-7.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Importação de veículos chineses para o Brasil atinge montante recorde no 1º trimestre de 2024'
 pubDate: 2024-05-06 08:42:52

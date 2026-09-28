@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "morro-da-fortaleza", "centro", "pm", "apreensao-drogas", "trafico", "comando-vermelho", "seguranca-publica-rj", "sul-fluminense", "sul-fluminense-costa-verde", "comunidade", "angra", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-pm-apreende-drogas-e-prende-suspeitos-no-morro-da-fortaleza-em-angra.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Angra dos Reis – Policiais militares do Serviço Reservado (P/2) do 33º BPM prenderam quatro suspeitos e apreenderam grande quantidade de drogas durante uma operação realizada na noite desta segunda-feira (12), no Morro da Fortaleza, no Centro de Angra dos Reis.

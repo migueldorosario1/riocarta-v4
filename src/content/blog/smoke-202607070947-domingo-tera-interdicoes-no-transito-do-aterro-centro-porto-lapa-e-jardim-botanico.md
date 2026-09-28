@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:49:11Z"
 draft: false
 tags: ["rio-de-janeiro", "aterro-do-flamengo", "botafogo", "centro", "porto", "lapa", "jardim-botanico", "rio-capital-zona-sul-grande-tijuca", "capital", "zona-sul", "flamengo", "zona-norte", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-domingo-tera-interdicoes-no-transito-do-aterro-centro-porto-lapa-e-jardim-botanico.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A CET-Rio preparou uma série de operações especiais de trânsito para este domingo (17/05), em razão de eventos esportivos e culturais em diferentes regiões da cidade. Haverá interdições no Aterro do Flamengo, na Enseada de Botafogo, no Centro, na Região Portuária, na Lapa e no Jardim Botânico.
 

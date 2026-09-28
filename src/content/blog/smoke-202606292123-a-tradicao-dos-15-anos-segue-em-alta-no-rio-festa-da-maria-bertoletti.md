@@ -5,6 +5,7 @@ pubDate: "2026-06-29T21:26:19Z"
 draft: true
 tags: ["rio-de-janeiro", "lagoa", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "joa", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-a-tradicao-dos-15-anos-segue-em-alta-no-rio-festa-da-maria-bertoletti.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

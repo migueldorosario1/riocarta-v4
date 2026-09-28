@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:02:26Z"
 draft: false
 tags: ["rio-de-janeiro", "teatro-municipal", "cultura", "cultura-carnaval", "capital", "regiao-metropolitana", "centro-do-rio", "lapa", "cavalcanti", "joa", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-opera-do-meio-dia-apresenta-o-barbeiro-de-sevilha-de-graca-no-theatro-municipal.jpg"
+hero_credit: "Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY 2.0)"
 ---
 O Theatro Municipal do Rio de Janeiro recebe, nos dias 20 e 21 de maio e 11 e 12 de junho, uma versão pocket de O Barbeiro de Sevilha, de Gioachino Rossini, dentro do projeto Ópera do Meio-Dia. As apresentações acontecem sempre às 12h, na escadaria interna do teatro, com entrada franca.
 

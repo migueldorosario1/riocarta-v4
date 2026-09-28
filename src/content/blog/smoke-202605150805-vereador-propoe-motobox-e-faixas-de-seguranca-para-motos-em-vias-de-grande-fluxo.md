@@ -5,6 +5,7 @@ pubDate: "2026-05-15T11:05:34Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "vereador-junior-da-lucinha", "motobox", "faixas-de-seguranca", "transito", "zona-oeste", "zona-sudoeste", "avenida-brasil", "avenida-das-americas", "avenida-cesario-de-melo", "politica-rj", "capital", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150805-vereador-propoe-motobox-e-faixas-de-seguranca-para-motos-em-vias-de-grande-fluxo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Um projeto de lei em tramitação na Câmara Municipal do Rio de Janeiro quer criar faixas de segurança prioritárias e áreas de espera, conhecidas como motobox, para veículos de duas rodas em vias de grande circulação das zonas Oeste e Sudoeste da cidade.

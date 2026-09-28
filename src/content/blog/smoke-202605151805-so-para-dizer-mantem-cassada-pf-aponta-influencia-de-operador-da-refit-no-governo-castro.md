@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:05:05Z"
 draft: true
 tags: ["rio-de-janeiro", "governo-castro", "secretaria-de-fazenda", "politica-rj", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-so-para-dizer-mantem-cassada-pf-aponta-influencia-de-operador-da-refit-no-governo-castro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Federal identificou mensagens que, segundo os investigadores, revelam a atuação de um suposto operador da Refit dentro da estrutura da Secretaria de Fazenda do Rio de Janeiro durante a gestão do ex-governador Cláudio Castro. O conteúdo consta na decisão do ministro do STF Alexandre de Moraes que autorizou mandados de busca e apreensão contra integrantes do governo fluminense e aliados do grupo empresarial.

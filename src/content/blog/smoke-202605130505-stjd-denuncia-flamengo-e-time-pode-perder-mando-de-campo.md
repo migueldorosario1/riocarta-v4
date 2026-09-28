@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:05Z"
 draft: true
 tags: ["rio-de-janeiro", "maracana", "flamengo", "violencia-torcida", "stjd", "seguranca-publica-rj", "niteroi-metropolitana", "regiao-metropolitana", "centro-do-rio", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-stjd-denuncia-flamengo-e-time-pode-perder-mando-de-campo.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A procuradoria do Superior Tribunal de Justiça Desportiva (STJD) denunciou o Flamengo pela confusão e agressões de torcedores rubro-negros, nos arredores do Maracanã, contra vascaínos, no dia 3 de maio (domingo). O clube pode perder o mando de campo, caso o órgão entenda que os torcedores flamenguistas foram responsáveis.

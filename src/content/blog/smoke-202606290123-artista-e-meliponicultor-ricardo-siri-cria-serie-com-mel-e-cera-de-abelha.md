@@ -5,6 +5,7 @@ pubDate: "2026-06-29T01:23:43Z"
 draft: false
 tags: ["rio-de-janeiro", "gavea", "zona-sul", "arte", "cultura", "rio-capital-zona-sul-grande-tijuca", "capital"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290123-artista-e-meliponicultor-ricardo-siri-cria-serie-com-mel-e-cera-de-abelha.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um mapa do mundo feito com mel e cera de abelha é uma das vinte obras esculpidas por Ricardo Siri em Pro-Polis, que inaugura no sábado (27). Com curadoria de Fernanda Lopes, o conjunto exibido pelo artista, engenheiro e meliponicultor reúne peças que têm o própolis e o geoprópolis (mistura do ingrediente à terra) como base, em nuances de marrom, verde e vermelho — todos naturais.
 

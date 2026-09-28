@@ -5,6 +5,7 @@ pubDate: "2026-05-19T23:23:09Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "niteroi", "rodovias-federais", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "mare", "baixada", "itaborai", "campos", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605192323-acidentes-em-alta-deixam-mais-de-120-mortos-em-rodovias-federais-do-rj-em-quatro-meses.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O nascer do sol às margens da rodovia aponta para o fluxo de veículos que já ocupa praticamente todas as faixas da BR-101 no trecho entre São Gonçalo e Niterói. Motociclistas, carros, ônibus e caminhões disputam o asfalto diariamente.
 

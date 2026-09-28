@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:02:06Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-dos-lagos", "sismo", "costa-fluminense", "regiao-metropolitana", "cabo-frio", "campos", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-terremoto-no-litoral-de-marica-especialistas-explicam-o-que-aconteceu-e-descartam-risco.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Sismos de até magnitude 3,3 ocorreram no fundo do oceano Atlântico, a cerca de 100 km da costa; nenhum morador sentiu os abalos
 

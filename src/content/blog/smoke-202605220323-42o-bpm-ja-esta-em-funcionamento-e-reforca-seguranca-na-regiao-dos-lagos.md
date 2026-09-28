@@ -5,6 +5,7 @@ pubDate: "2026-05-22T03:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "araruama", "saquarema", "iguaba-grande", "regiao-dos-lagos", "policia-militar", "seguranca-publica", "regiao-metropolitana", "cabo-frio", "iguaba", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220323-42o-bpm-ja-esta-em-funcionamento-e-reforca-seguranca-na-regiao-dos-lagos.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O 42º Batalhão da Polícia Militar (42º BPM), instalado em Araruama, já está em pleno funcionamento e começou a reforçar as ações de segurança pública na Região dos Lagos. A unidade, criada recentemente, atua de forma integrada em Araruama, Saquarema e Iguaba Grande, com operações estratégicas e ampliação do policiamento nas três cidades.
 

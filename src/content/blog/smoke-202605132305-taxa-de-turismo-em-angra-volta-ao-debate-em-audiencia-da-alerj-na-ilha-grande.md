@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "ilha-grande", "alerj", "taxa-de-turismo", "politica-rj", "sul-fluminense", "regiao-metropolitana", "angra", "problemas-estruturais", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-taxa-de-turismo-em-angra-volta-ao-debate-em-audiencia-da-alerj-na-ilha-grande.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A cobrança da taxa de turismo implantada pela Prefeitura de Angra dos Reis voltará ao centro do debate público nesta quinta-feira (14), durante uma nova audiência promovida pela Comissão de Meio Ambiente da Assembleia Legislativa do Rio de Janeiro (Alerj). O encontro será realizado às 18h, na Quadra Poliesportiva da Vila do Abraão, na Ilha Grande.

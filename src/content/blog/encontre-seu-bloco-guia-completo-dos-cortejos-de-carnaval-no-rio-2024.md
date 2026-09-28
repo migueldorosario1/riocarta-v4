@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2516_riotur-hoje-1-Sabrina-Mesquita.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Encontre seu bloco guia completo dos cortejos de Carnaval no Rio 2024'
 pubDate: 2024-01-23 09:00:00

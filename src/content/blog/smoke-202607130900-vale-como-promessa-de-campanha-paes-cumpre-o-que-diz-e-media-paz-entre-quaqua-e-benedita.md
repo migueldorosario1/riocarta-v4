@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:14Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "politica-rj", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-vale-como-promessa-de-campanha-paes-cumpre-o-que-diz-e-media-paz-entre-quaqua-e-benedita.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Pré-candidato a governador do Rio, Eduardo Paes (PSD) pode ter cumprido, nessa terça-feira, 7, a sua 1ª promessa de campanha, ao conseguir reunir o prefeito de Maricá, Washington Quaquá (PT) com a pré-candidata do partido ao Senado, a ex-governadora Benedita da Silva (PT-RJ).
 

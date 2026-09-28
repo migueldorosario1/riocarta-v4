@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:03:15Z"
 draft: true
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "policia-federal", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-policia-federal-prende-argentino-foragido-em-buzios-apos-alerta-da-interpol.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

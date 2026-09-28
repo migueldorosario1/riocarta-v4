@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:02:39Z"
 draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "rio-capital-zona-oeste", "capital", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-teatro-elza-osbourne-reabre-as-portas-com-feira-cultural-gratuita-em-campo-grande.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Após meses de portas fechadas por conta de dificuldades estruturais e financeiras, o Teatro Arena Elza Osbourne, conhecido como Lona Cultural de Campo Grande, voltou a receber o público na Zona Oeste do Rio. A reabertura acontece com a realização da Feira Literária e Diversa da Zona Oeste (Flidizo), evento gratuito que começou nesta sexta-feira (15/05) e segue até domingo (17/05), reunindo atrações para todas as idades.
 

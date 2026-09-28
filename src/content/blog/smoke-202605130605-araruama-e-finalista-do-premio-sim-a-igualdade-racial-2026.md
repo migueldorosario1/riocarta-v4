@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:18Z"
 draft: true
 tags: ["rio-de-janeiro", "araruama", "regiao-dos-lagos", "educacao", "igualdade-racial", "premio", "comunidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130605-araruama-e-finalista-do-premio-sim-a-igualdade-racial-2026.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O município de Araruama foi indicado ao Prêmio Sim à Igualdade Racial 2026, promovido pelo Instituto Identidades do Brasil, e está entre as 10 secretarias municipais de Educação selecionadas no país por ações relacionadas à promoção da igualdade racial nos espaços educacionais.

@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:17:45Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "lins", "policia-civil", "operacao-contencao", "criptomoedas", "comando-vermelho", "rio-capital-zona-norte", "politica-rj", "leme", "comunidade", "complexo", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-policia-encontra-fazenda-de-criptomoedas-em-operacao-contra-o-cv-no-lins-video.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil encontrou uma estrutura de mineração de criptomoedas durante a operação no Complexo do Lins, Zona Norte do Rio, nesta sexta-feira (22). A ação faz parte de mais uma etapa da Operação Contenção, voltada contra integrantes do Comando Vermelho (CV).
 

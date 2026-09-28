@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:24Z"
 draft: false
 tags: ["rio-de-janeiro", "clima", "rio-capital-centro", "capital", "regiao-metropolitana", "ramos", "serrana", "sul-fluminense", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-rio-tera-virada-no-tempo-neste-fim-de-semana-com-pancadas-e-vento.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O tempo começa a mudar no Rio de Janeiro neste fim de semana. Depois de uma sequência de dias mais secos, a atuação de um sistema de baixa pressão próximo à costa aumenta a circulação de umidade e favorece a formação de nuvens carregadas em diferentes regiões do estado.
 

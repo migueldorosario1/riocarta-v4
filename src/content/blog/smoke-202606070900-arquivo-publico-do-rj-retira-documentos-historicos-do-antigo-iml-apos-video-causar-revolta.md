@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:05:40Z"
 draft: true
 tags: ["rio-de-janeiro", "lapa", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-arquivo-publico-do-rj-retira-documentos-historicos-do-antigo-iml-apos-video-causar-revolta.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio de Janeiro iniciou nesta quinta-feira (21) a retirada de documentos históricos armazenados no antigo prédio do Instituto Médico Legal, na região da Lapa, área central da capital fluminense. A ação acontece uma semana após a divulgação de um vídeo que mostrou papéis e fotografias sendo lançados pela janela do imóvel, desativado desde 2009.
 

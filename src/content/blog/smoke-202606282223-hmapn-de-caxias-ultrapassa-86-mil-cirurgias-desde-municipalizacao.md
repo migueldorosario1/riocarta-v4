@@ -5,6 +5,7 @@ pubDate: "2026-06-28T22:26:12Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "saude", "regiao-metropolitana", "estado", "baixada", "mage"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282223-hmapn-de-caxias-ultrapassa-86-mil-cirurgias-desde-municipalizacao.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Hospital Municipalizado Adão Pereira Nunes (HMAPN), em Duque de Caxias (RJ), alcançou uma série de marcos que consolidam sua posição como uma das principais unidades públicas de saúde do estado do Rio de Janeiro. Os números refletem uma expansão significativa da capacidade assistencial, que começou com a municipalização, em janeiro de 2022.
 

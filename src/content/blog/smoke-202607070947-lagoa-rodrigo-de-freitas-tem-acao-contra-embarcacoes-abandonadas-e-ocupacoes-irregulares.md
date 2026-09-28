@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:49:03Z"
 draft: false
 tags: ["rio-de-janeiro", "lagoa-rodrigo-de-freitas", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "lagoa", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-lagoa-rodrigo-de-freitas-tem-acao-contra-embarcacoes-abandonadas-e-ocupacoes-irregulares.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio realizou, na madrugada desta sexta-feira (15/05), uma operação integrada na Lagoa Rodrigo de Freitas para coibir o abandono de embarcações, a guarderia irregular e ocupações indevidas no entorno da área tombada. A ação foi coordenada pelo gerente executivo da Lagoa, Leonardo Fernandes, após pedido do vereador Flávio Valle.
 

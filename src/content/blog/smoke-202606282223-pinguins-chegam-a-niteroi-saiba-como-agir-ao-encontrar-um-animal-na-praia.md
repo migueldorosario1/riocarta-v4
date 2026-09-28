@@ -5,6 +5,7 @@ pubDate: "2026-06-28T22:28:36Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "prainha-de-piratininga", "meio-ambiente", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282223-pinguins-chegam-a-niteroi-saiba-como-agir-ao-encontrar-um-animal-na-praia-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

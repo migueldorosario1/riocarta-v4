@@ -5,6 +5,7 @@ pubDate: "2026-05-20T11:23:27Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "carnaval", "cultura-carnaval", "regiao-metropolitana", "niteroi-metropolitana", "comunidade", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201123-atual-campea-viradouro-vai-homenagear-os-contadores-de-historias-da-tradicao-africana.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Unidos do Viradouro anunciou nesta terça-feira (19) o enredo que defenderá no Carnaval de 2027. Atual campeã da folia carioca, a escola de Niterói vai levar para a Marquês de Sapucaí “Griô”, tema inspirado nos guardiões da memória e das tradições da África Ocidental, responsáveis por transmitir histórias, conhecimentos e costumes por meio da oralidade.
 

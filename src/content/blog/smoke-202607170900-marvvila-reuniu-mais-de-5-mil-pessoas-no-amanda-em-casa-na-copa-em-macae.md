@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:04:57Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "show", "cultura", "pagode", "marvvila", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-marvvila-reuniu-mais-de-5-mil-pessoas-no-amanda-em-casa-na-copa-em-macae.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A cantora Marvvila foi uma das grandes atrações do Amanda em Casa na Copa no último domingo (5) no Shopping Plaza Macaé. E para subir ao palco ela enfrentou um desafio a mais diante da eliminação do Brasil com a derrota diante da Noruega.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:33Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "chocolate", "cacau", "regiao-dos-lagos", "agricultura-familiar", "sao-goncalo-itaborai", "regiao-metropolitana", "ramos", "sao-goncalo", "itaborai", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-no-dia-mundial-do-chocolate-marica-avanca-em-projeto-para-produzir-cacau-e-implantar-fabrica-de.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 AMAR inicia plantio experimental no município e prepara estrutura para produzir até 10 toneladas de chocolate por mês, fortalecendo a agricultura familiar
 

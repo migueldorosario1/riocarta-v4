@@ -5,6 +5,7 @@ pubDate: "2026-06-29T15:23:51Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "onibus", "transporte-publico", "justica-do-trabalho", "brt", "trens", "metrorio", "transporte-mobilidade", "favelas-comunidades", "regiao-metropolitana", "deodoro", "santa-cruz", "favela"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-greve-dos-onibus-no-rio-justica-diz-que-pelo-menos-metade-da-frota-tem-que-rodar.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

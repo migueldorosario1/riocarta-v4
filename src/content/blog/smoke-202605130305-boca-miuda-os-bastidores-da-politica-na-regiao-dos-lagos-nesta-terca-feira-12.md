@@ -5,6 +5,7 @@ pubDate: "2026-05-13T06:05:16Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "iguaba-grande", "politica-local", "seguranca-publica", "bombeiros", "prefeito-serginho", "vantoil-martins", "pilares", "iguaba", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-terca-feira-12.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 SERGINHO AMPLIA INTEGRAÇÃO COM OS BOMBEIROS

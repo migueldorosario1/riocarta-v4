@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2645_imagem.jpg.png"
+hero_credit: "U.S. Army 382PAD by Sgt. 1st Class Robert Jordan / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Biden confirma que militares dos EUA foram mortos em ataque na Jordânia'
 pubDate: 2024-01-30 05:14:00

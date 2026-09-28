@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:06:09Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "itacoatiara", "regiao-oceanica", "ressaca", "praia", "seguranca", "bombeiros", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "marica", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-ondas-gigantes-e-bandeira-vermelha-nao-intimidam-banhistas-em-niteroi.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mesmo com o mar extremamente agitado e a sinalização indicando alto risco de afogamento, banhistas se arriscaram ao entrar nas águas da Praia de Itacoatiara, na Região Oceânica de Niterói, na manhã desta terça-feira (12).
 

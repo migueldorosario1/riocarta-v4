@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "teatro-municipal-de-niteroi", "cultura", "espetaculo", "piano", "danca", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "leme", "sao-goncalo", "itaborai", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-espetaculo-expressoes-ibericas-tem-apresentacao-unica-no-theatro-municipal-de-niteroi-no-dia-13.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Espetáculo Expressões Ibéricas tem apresentação única no Theatro Municipal de Niterói no dia 13 de maio

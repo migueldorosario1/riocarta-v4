@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:19Z"
 draft: true
 tags: ["rio-de-janeiro", "tangua", "resende", "volta-redonda", "paty-do-alferes", "mangaratiba", "seguranca-publica", "capital", "regiao-metropolitana", "campos", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-seguranca-presente-chega-a-tangua-resende-volta-redonda-paty-do-alferes-e-mangaratiba.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Operação Segurança Presente será ampliada para mais cinco municípios do Estado do Rio de Janeiro neste mês de julho. Sob gestão da Polícia Militar, o programa passa a funcionar em Tanguá, Resende, Volta Redonda, Paty do Alferes e Mangaratiba, com bases voltadas ao policiamento de proximidade e ao atendimento social.
 

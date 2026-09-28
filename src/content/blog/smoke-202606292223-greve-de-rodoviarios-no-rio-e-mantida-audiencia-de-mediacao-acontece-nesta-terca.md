@@ -5,6 +5,7 @@ pubDate: "2026-06-29T22:25:44Z"
 draft: false
 tags: ["rio-de-janeiro", "greve-rodoviarios", "transporte-publico", "transporte-mobilidade", "capital-estado", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292223-greve-de-rodoviarios-no-rio-e-mantida-audiencia-de-mediacao-acontece-nesta-terca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

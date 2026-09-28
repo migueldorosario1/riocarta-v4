@@ -5,6 +5,7 @@ pubDate: "2026-06-29T11:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "greve-rodoviarios", "vandalismo-onibus", "transporte-publico", "transporte-mobilidade", "politica-rj", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291123-greve-dos-rodoviarios-viacoes-afirmam-que-25-onibus-foram-vandalizados-em-piquetes.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A greve dos rodoviários do município do Rio de Janeiro começou nas primeiras horas desta segunda-feira (29) com reflexos imediatos para a população. Além da redução na oferta de ônibus, o primeiro dia da paralisação foi marcado por atos de vandalismo contra coletivos, atrasos no transporte público e uma pessoa ferida durante uma das ocorrências.
 

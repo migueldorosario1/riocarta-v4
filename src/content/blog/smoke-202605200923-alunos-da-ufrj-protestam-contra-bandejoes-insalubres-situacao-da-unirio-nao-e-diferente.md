@@ -5,6 +5,7 @@ pubDate: "2026-05-20T09:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "ufrj", "unirio", "urca", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "comunidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200923-alunos-da-ufrj-protestam-contra-bandejoes-insalubres-situacao-da-unirio-nao-e-diferente.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Estudantes da Universidade Federal do Rio de Janeiro (UFRJ) deflagraram uma paralisação geral e realizaram um protesto na noite desta terça-feira (19) contra a precariedade dos restaurantes universitários e o corte de verbas assistenciais. O ato ocupou as imediações do campus da Praia Vermelha, na Urca, gerando forte retenção no tráfego da Zona Sul, monitorada em tempo real pelo Centro de Operações Rio (COR-Rio).
 

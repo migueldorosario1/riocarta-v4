@@ -5,6 +5,7 @@ pubDate: "2026-05-15T19:38:20Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-autodromo", "zona-oeste", "olimpiadas", "remocoes-forcadas", "memoria", "acao-coletiva", "museu-das-remocoes", "rio-capital-zona-oeste", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151937-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Dez anos depois do fim das remoções forçadas que marcaram a preparação para as Olimpíadas de 2016, a Vila Autódromo segue como símbolo de resistência. Das 600 a 700 famílias que viviam na comunidade na zona oeste do Rio, ao lado do Parque Olímpico, apenas 20 famílias permanecem — cerca de 3%.

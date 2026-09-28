@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:34Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "turismo", "aplicativo", "norte-noroeste-fluminense", "sul-fluminense", "regiao-metropolitana", "pirai", "transporte-mobilidade", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-aplicativo-turistico-passeio-vale-do-cafe-e-lancado-em-barra-do-pirai-e-amplia-experiencia-digit.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA DO PIRAÍ
 

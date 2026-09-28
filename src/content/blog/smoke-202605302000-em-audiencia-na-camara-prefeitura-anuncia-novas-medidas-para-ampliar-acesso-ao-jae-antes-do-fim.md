@@ -5,6 +5,7 @@ pubDate: "2026-05-30T20:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte", "mobilidade", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605302000-em-audiencia-na-camara-prefeitura-anuncia-novas-medidas-para-ampliar-acesso-ao-jae-antes-do-fim.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A pressão de vereadores e passageiros contra o fim do pagamento em dinheiro nos ônibus municipais levou a Prefeitura do Rio a anunciar, nesta terça-feira (19), novas medidas para ampliar o acesso ao cartão Jaé antes da entrada em vigor do modelo exclusivamente digital, prevista para o próximo dia 30. Durante audiência pública na Câmara dos Vereadores, o secretário municipal de Transportes, Jorge Arraes, afirmou que as mais de 700 bancas de jornal credenciadas pelo município passarão a vender o cartão verde do sistema e anunciou a ampliação da rede de compra e recarga, chegando a mais de 1,3 mil pontos espalhados pela cidade.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:03Z"
 draft: false
 tags: ["rio-de-janeiro", "paqueta", "mesbla", "historia", "cultura", "rio-capital-zona-norte", "politica-rj", "centro-do-rio", "complexo", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-o-que-o-relogio-da-mesbla-foi-fazer-em-paqueta.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Em um momento antes do milagre econômico e da hiperinflação, uma das maiores redes de lojas de departamentos do Brasil decidiu que seus funcionários mereciam mais do que um peru de Natal. E assim na década de 1940 a Mesbla instalou uma colônia de férias num casarão imperial de 1870 na Ilha de Paquetá, a uma hora de barca do Centro do Rio, com piscinas, quadras esportivas e um terraço de mais de mil metros quadrados de frente para a Baía de Guanabara.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:23:27Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "imperatriz-leopoldinense", "carnaval", "lideranca-comunitaria", "zona-norte", "rio-capital-zona-norte", "favelas-comunidades", "joa", "favela", "comunidade", "complexo", "alemao", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282023-joao-drumond-a-lideranca-que-nasceu-do-encontro-com-a-comunidade.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 João Drumond costuma dizer que nunca sonhou em liderar. Diferentemente de quem passa a vida traçando metas para ocupar cargos de destaque, ele afirma que sua trajetória foi sendo construída aos poucos, guiada pelas responsabilidades que surgiram pelo caminho.
 

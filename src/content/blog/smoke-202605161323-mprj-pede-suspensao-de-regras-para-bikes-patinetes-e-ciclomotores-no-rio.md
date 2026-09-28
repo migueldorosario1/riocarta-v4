@@ -5,6 +5,7 @@ pubDate: "2026-05-16T13:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte-mobilidade", "politica-rj", "capital", "regiao-metropolitana", "tijuca", "zona-norte", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161323-mprj-pede-suspensao-de-regras-para-bikes-patinetes-e-ciclomotores-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O Ministério Público do Estado do Rio de Janeiro ajuizou, nesta sexta-feira (15/05), uma ação civil pública para suspender parte do decreto da Prefeitura do Rio que mudou as regras de circulação de ciclomotores, bicicletas elétricas, patinetes e outros veículos de micromobilidade na cidade. O pedido inclui tutela de urgência.

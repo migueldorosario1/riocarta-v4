@@ -5,6 +5,7 @@ pubDate: "2026-05-20T17:23:39Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "zona-norte", "rio-capital-zona-norte", "regiao-metropolitana", "lagoa", "acari", "comunidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201723-zacarias-a-vila-centenaria-que-resiste-na-restinga-da-apa-de-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Área de Proteção Ambiental (APA) de Maricá protege a restinga entre a lagoa e o mar, incluindo São Bento da Lagoa, Ponta do Fundão e Morro do Mololô. Nessa área nasceu a comunidade pesqueira de Zacarias, fundada em 1790, onde famílias vivem da pesca e preservam saberes ancestrais.
 

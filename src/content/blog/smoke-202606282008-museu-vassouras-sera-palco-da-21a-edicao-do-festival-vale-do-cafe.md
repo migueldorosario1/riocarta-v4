@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:12:15Z"
 draft: false
 tags: ["rio-de-janeiro", "vassouras", "sul-fluminense", "festival-vale-do-cafe", "cultura", "sul-fluminense-costa-verde", "regiao-metropolitana", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-museu-vassouras-sera-palco-da-21a-edicao-do-festival-vale-do-cafe.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VASSOURAS
 

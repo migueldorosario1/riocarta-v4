@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:26Z"
 draft: false
 tags: ["rio-de-janeiro", "carnaval", "samba-enredo", "escolas-de-samba", "cultura", "cultura-e-carnaval-rj", "cultura-carnaval", "regiao-metropolitana", "leme", "vila-isabel", "marica", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-samba-e-prioridade-carnavalescos-defendem-essencia-das-escolas-em-debate-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Identidade, memória, reparação. São traços que ligam “Ponciá Evaristo – Flor do Mulungu”, do Império Serrano, “Balangandãs, Berenguendens”, da União de Maricá, e “Macumbembê, Samborembá”, da Vila Isabel em 2026, e fizeram os sambas serem cantados com toda força na Sapucaí.

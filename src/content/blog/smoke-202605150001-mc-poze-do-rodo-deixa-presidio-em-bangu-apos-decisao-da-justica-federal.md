@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:02:04Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "recreio-dos-bandeirantes", "zona-oeste", "mc-poze-do-rodo", "seguranca-publica", "serrana", "regiao-metropolitana", "leme", "gericino", "recreio", "joa", "complexo", "petropolis"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150001-mc-poze-do-rodo-deixa-presidio-em-bangu-apos-decisao-da-justica-federal.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 MC Poze do Rodo deixa presídio em Bangu após decisão da Justiça Federal

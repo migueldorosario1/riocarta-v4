@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:02:54Z"
 draft: true
 tags: ["rio-de-janeiro", "seguranca-publica", "capital", "regiao-metropolitana", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-policia-civil-do-rio-recebe-74-novas-viaturas-semiblindadas-qwen.jpg"
+hero_credit: "EUDOXIO / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Rio de Janeiro, por meio da Secretaria de Estado de Polícia Civil, entregou, nesta segunda-feira (18/05), 74 novas viaturas semiblindadas. Os veículos, do modelo SUV, serão distribuídos de forma gradual para unidades da corporação.
 

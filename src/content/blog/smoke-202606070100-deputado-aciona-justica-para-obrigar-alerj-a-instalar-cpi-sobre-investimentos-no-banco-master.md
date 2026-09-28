@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:03:02Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "cpi", "banco-master", "rioprevidencia", "cedae", "politica-rj", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-deputado-aciona-justica-para-obrigar-alerj-a-instalar-cpi-sobre-investimentos-no-banco-master.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma disputa em torno da instalação de uma Comissão Parlamentar de Inquérito (CPI) colocou a Assembleia Legislativa do Rio de Janeiro (Alerj) no centro de um novo embate político e jurídico.
 

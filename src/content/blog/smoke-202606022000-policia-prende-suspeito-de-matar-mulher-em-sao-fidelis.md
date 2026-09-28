@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:03:55Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "seguranca-publica", "feminicidio", "norte-noroeste-fluminense", "leme", "noroeste-fluminense", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-policia-prende-suspeito-de-matar-mulher-em-sao-fidelis.jpg"
+hero_credit: "AMISOM Public Information / Wikimedia Commons (CC0)"
 ---
 A Polícia Civil anunciou nesta quinta-feira (28) que foi preso em Muriaé, em Minas Gerais, o homem suspeito de ter matado a tiro Ana Paula Casanova Violante em São Fidélis. Contra ele foi cumprido um mandado de prisão preventiva.
 

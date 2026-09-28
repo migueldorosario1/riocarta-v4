@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:41:37Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "barra-mansa", "sul-fluminense", "floresta-da-cicuta", "sul-fluminense-costa-verde", "capital-porto", "estacio", "problemas-estruturais", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-mobilizacao-em-volta-redonda-quer-ampliar-a-floresta-da-cicuta-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A proposta de ampliação da Floresta da Cicuta, um dos mais importantes remanescentes de Mata Atlântica do Sul Fluminense, será apresentada à população em audiência pública marcada para a próxima segunda-feira (1º), às 18h30, na Câmara Municipal de Volta Redonda. O encontro contará com a presença do deputado federal Reimont (PT-RJ), autor do Projeto de Lei nº 1.
 

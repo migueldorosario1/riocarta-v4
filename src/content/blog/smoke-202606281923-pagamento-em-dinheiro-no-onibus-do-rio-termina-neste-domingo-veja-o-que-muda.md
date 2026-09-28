@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:27:13Z"
 draft: true
 tags: ["rio-de-janeiro", "transporte", "onibus", "jae", "pix", "pagamento", "transporte-mobilidade", "capital-estado", "regiao-metropolitana", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-pagamento-em-dinheiro-no-onibus-do-rio-termina-neste-domingo-veja-o-que-muda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

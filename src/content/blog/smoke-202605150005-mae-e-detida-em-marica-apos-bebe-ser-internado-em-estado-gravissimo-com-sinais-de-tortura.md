@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "jacara", "regiao-metropolitana", "seguranca-publica", "niteroi-metropolitana", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-mae-e-detida-em-marica-apos-bebe-ser-internado-em-estado-gravissimo-com-sinais-de-tortura.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Uma mulher foi presa na quarta-feira (13), acusada de submeter o próprio filho, um bebê de apenas 8 meses, a um cenário de violência extrema. A criança deu entrada no hospital com sinais de tortura e violência sexual.

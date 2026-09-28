@@ -5,6 +5,7 @@ pubDate: "2026-05-21T12:23:25Z"
 draft: false
 tags: ["rio-de-janeiro", "praca-xv", "centro", "historia", "rio-capital-centro", "capital", "regiao-metropolitana", "lapa", "joa", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211223-quando-a-praca-xv-mandava-no-brasil-os-comerciantes-que-governavam-o-imperio-nos-bastidores.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Muito antes de Brasília existir, muito antes da Avenida Paulista se tornar símbolo do poder econômico brasileiro, havia um lugar onde praticamente tudo passava pelo crivo dos homens de negócios: a região do Largo do Paço – hoje Praça XV, da antiga Rua Direita, da Rua do Ouvidor e dos cais do porto do Rio de Janeiro.
 

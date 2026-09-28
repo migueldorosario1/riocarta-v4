@@ -5,6 +5,7 @@ pubDate: "2026-06-29T13:25:53Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "tiro-com-arco", "esporte", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291323-marcus-dalmeida-conquista-ouro-no-pan-americano-e-coloca-marica-em-destaque-no-tiro-com-arco.jpg"
+hero_credit: "Senior Airman Jette Carr / Wikimedia Commons (Public domain)"
 ---
 O arqueiro Marcus D’Almeida, morador de Maricá e principal nome do tiro com arco brasileiro, conquistou neste domingo (28) a medalha de ouro no Campeonato Pan-Americano da modalidade, disputado em Tlaxcala, no México. Com uma atuação dominante, ele venceu o canadense Eric Peters por 6 a 0 na grande final e permaneceu na liderança do ranking mundial da categoria recurvo.
 

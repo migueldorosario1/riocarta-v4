@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:01:27Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "saara", "politica-rj", "comercio", "rio-capital-centro", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "centro-do-rio", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-douglas-ruas-defende-menos-burocracia-em-visita-ao-saara.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Pré-candidato ao governo do Estado caminhou pelo comércio popular do Centro do Rio e falou em reduzir o tempo para abertura de empresas
 

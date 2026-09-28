@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2290_transferir-3.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPRJ alerta o STF sobre descumprimento das diretrizes em operações policiais nas favelas'
 pubDate: 2024-01-04 09:20:00

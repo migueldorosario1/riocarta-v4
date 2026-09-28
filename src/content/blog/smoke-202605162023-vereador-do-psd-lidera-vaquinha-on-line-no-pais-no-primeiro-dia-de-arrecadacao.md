@@ -5,6 +5,7 @@ pubDate: "2026-05-16T20:24:25Z"
 draft: true
 tags: ["rio-de-janeiro", "psd", "eleicoes", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-vereador-do-psd-lidera-vaquinha-on-line-no-pais-no-primeiro-dia-de-arrecadacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O primeiro dia de vaquinha on-line para as eleições deste ano já colocou o Rio de Janeiro no centro da disputa por arrecadação digital. Até 9h16 deste sábado, os dois pré-candidatos proporcionais que mais haviam recebido doações no país eram fluminenses.
 

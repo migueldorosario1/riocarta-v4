@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3069_imagem-11.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Travancas decide permanecer no governo Castro após ameaçar se demitir e denunciar irregularidades'
 pubDate: 2024-02-07 14:06:55

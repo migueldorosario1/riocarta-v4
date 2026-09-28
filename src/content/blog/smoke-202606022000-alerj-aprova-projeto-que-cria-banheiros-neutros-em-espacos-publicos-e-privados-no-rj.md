@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:01:52Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "projeto-lei", "banheiros-neutros", "direitos-trans", "politica-rj", "norte-noroeste-fluminense", "regiao-metropolitana", "noroeste-fluminense", "problemas-estruturais", "transporte-mobilidade", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-alerj-aprova-projeto-que-cria-banheiros-neutros-em-espacos-publicos-e-privados-no-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Ambientes públicos e privados, como hospitais, universidades, centros de convenções, terminais de transporte, espaços culturais, centros esportivos e shoppings no Estado do Rio, poderão ser obrigados a disponibilizar banheiros e vestiários neutros para uso de pessoas trans, não binárias ou que não realizaram cirurgia de afirmação de gênero.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-19T19:16:59Z"
 draft: true
 tags: ["rio-de-janeiro", "copa-do-mundo", "futebol", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "flamengo", "joa", "sao-goncalo", "itaborai", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-ancelotti-divulga-hoje-os-26-convocados-do-brasil-para-a-copa-de-2026-em-megaevento-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O evento marca um dos momentos mais aguardados do ciclo da Copa
 

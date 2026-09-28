@@ -5,6 +5,7 @@ pubDate: "2026-05-13T10:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "politica-local", "prefeitura", "camara-municipal", "macae-norte-fluminense", "norte-fluminense", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-serginho-mexe-no-governo-e-mudancas-chegam-a-camara-de-cabo-frio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Uma reestruturação administrativa promovida pela Prefeitura de Cabo Frio provocou mudanças no primeiro escalão do governo municipal e reflexos diretos no Legislativo. A principal alteração foi a nomeação de Jehann Costa para o comando da Secretaria da Casa Civil, oficializada nesta terça-feira (12) e publicada no Diário Oficial Eletrônico do município.

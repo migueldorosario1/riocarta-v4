@@ -5,6 +5,7 @@ pubDate: "2026-05-18T03:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "rio-capital-centro", "capital", "centro-do-rio", "lapa", "leme", "seguranca-publica", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605180323-como-uma-pequena-igreja-do-centro-do-rio-virou-referencia-nacional-na-recuperacao-de-arte-sacra.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A recente restituição de novas peças sacras à Igreja de Nossa Senhora da Lapa dos Mercadores consolidou algo que já vinha se desenhando há alguns anos: a pequena igreja de irmandade localizada no coração do Centro do Rio transformou-se, no período, no principal case brasileiro de recuperação de bens culturais procurados. O episódio, que envolveu a atuação da Polícia Federal, do Instituto do Patrimônio Histórico e Artístico Nacional e da própria irmandade, não é fruto do acaso, nem de uma descoberta fortuita.
 

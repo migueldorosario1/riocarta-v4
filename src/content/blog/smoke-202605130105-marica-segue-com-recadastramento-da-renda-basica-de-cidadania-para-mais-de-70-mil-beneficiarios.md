@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:32Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "renda-basica-de-cidadania", "recadastramento", "programa-social", "economia-local", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "colegio", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130105-marica-segue-com-recadastramento-da-renda-basica-de-cidadania-para-mais-de-70-mil-beneficiarios.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Maricá segue com recadastramento da Renda Básica de Cidadania para mais de 70 mil beneficiários; saiba mais

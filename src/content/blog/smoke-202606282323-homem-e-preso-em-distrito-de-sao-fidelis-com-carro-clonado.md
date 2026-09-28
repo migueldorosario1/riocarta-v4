@@ -5,6 +5,7 @@ pubDate: "2026-06-28T23:26:06Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-fidelis", "colonia", "adulteracao", "policia", "norte-noroeste-fluminense", "regiao-serrana", "carmo", "campos", "noroeste-fluminense", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282323-homem-e-preso-em-distrito-de-sao-fidelis-com-carro-clonado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um homem foi preso por adulteração de sinal identificador após policiais militares terem localizado um veículo clonado em Colônia, distrito de São Fidélis. A prisão foi feita por policiais do Patamo IV juntamente com coordenador de área após denúncias de que havia um carro – modelo Saveiro de cor branca – clonado circulando na região.
 

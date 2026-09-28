@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:02:45Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "transporte-publico", "mp-rj", "justica", "sul-fluminense-costa-verde", "politica-rj", "regiao-metropolitana", "pirai", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-justica-manda-prefeitura-de-barra-do-pirai-suspender-contrato-do-transporte-publico.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Justiça determinou que a Prefeitura de Barra do Piraí suspenda o contrato com a empresa Bamonte, responsável pelo transporte público coletivo da cidade, e realize uma nova contratação no prazo máximo de 45 dias. A decisão foi proferida pela 2ª Vara de Barra do Piraí após ação ajuizada pela Promotoria de Justiça de Tutela Coletiva do Núcleo Barra do Piraí, do Ministério Público do Estado do Rio de Janeiro (MPRJ).
 

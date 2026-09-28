@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:07Z"
 draft: false
 tags: ["rio-de-janeiro", "garotinho", "governo-rj", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "campos"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-garotinho-volta-a-ser-um-nome-na-disputa-para-o-governo-do-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-governador lançou a sua pré-candidatura nesta quarta-feira (14)
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:01:40Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "governo-rj", "beneficios-fiscais", "politica-rj", "regiao-metropolitana", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-governo-do-rj-envia-a-alerj-projeto-para-renovar-beneficios-fiscais-ate-o-fim-de-2026.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo estadual encaminhou à Assembleia Legislativa do Rio (Alerj), nesta quarta-feira (20), um projeto de lei para renovar e prorrogar benefícios fiscais até 31 de dezembro de 2026. A proposta envolve incentivos já existentes e busca estimular o desenvolvimento econômico e social fluminense sem gerar impacto adicional nas contas públicas.
 

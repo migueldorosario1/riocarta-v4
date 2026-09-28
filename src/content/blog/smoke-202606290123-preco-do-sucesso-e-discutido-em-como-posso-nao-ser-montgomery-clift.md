@@ -5,6 +5,7 @@ pubDate: "2026-06-29T01:25:09Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "cultura", "teatro", "cultura-carnaval", "capital"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290123-preco-do-sucesso-e-discutido-em-como-posso-nao-ser-montgomery-clift.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

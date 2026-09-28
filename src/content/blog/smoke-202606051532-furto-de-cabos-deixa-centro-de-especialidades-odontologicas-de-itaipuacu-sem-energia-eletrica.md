@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:37:28Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "itaipuacu", "furto-de-cabos", "saude", "centro-de-especialidades-odontologicas", "regiao-metropolitana", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-furto-de-cabos-deixa-centro-de-especialidades-odontologicas-de-itaipuacu-sem-energia-eletrica.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O furto de cabos de energia tem provocado transtornos a pacientes e profissionais do Centro de Especialidades Odontológicas (CEO) de Itaipuaçu, em Maricá. A unidade enfrenta problemas no fornecimento de energia elétrica há mais de dois dias após criminosos cortarem e levarem a fiação responsável por abastecer o local.
 

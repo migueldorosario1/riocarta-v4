@@ -5,6 +5,7 @@ pubDate: "2026-05-16T08:24:43Z"
 draft: false
 tags: ["rio-de-janeiro", "sul-fluminense", "via-dutra", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "paciencia", "resende", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160823-caminhao-com-transformador-de-480-t-volta-a-circular-pela-via-dutra-no-sul-do-rj-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Caminhão com transformador de 480 ton volta a circular pela Via Dutra, no Sul do Rio — Foto: PRF/Divulgação

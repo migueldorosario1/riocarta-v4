@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "camara-municipal", "educacao", "carnaval", "hino-nacional", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-camara-de-niteroi-aprova-hino-obrigatorio-nas-escolas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Câmara de Niterói aprova hino obrigatório nas escolas

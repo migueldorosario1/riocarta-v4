@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:23:49Z"
 draft: true
 tags: ["rio-de-janeiro", "justica", "oi", "v-tal", "politica-rj", "serrana", "regiao-metropolitana", "petropolis", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-justica-proibe-venda-da-fatia-da-oi-na-v-tal-por-r-4-5-bi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

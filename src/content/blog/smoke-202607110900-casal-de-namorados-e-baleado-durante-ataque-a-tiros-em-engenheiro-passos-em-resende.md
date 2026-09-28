@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:15Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "engenheiro-passos", "palmital", "violencia", "policia", "casal-baleado", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-casal-de-namorados-e-baleado-durante-ataque-a-tiros-em-engenheiro-passos-em-resende.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 RESENDE
 

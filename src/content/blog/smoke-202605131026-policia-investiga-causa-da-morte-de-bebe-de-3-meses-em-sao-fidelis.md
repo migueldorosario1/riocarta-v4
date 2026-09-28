@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:27:03Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "norte-noroeste-fluminense", "morte-bebe", "policia-civil", "noroeste-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-policia-investiga-causa-da-morte-de-bebe-de-3-meses-em-sao-fidelis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Polícia Civil investiga a causa da morte de um bebê de apenas três meses em São Fidélis. O caso aconteceu na manhã desta segunda-feira (11).

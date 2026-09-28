@@ -5,6 +5,7 @@ pubDate: "2026-05-13T10:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "vila-olimpica", "esporte", "lazer", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "complexo", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-prefeita-de-belford-roxo-inaugura-vila-olimpica-lote-xv-oscar-schmidt-e-amplia-lazer-na-cidade.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Em Belford Roxo, a Prefeitura inaugurou a Vila Olímpica do Lote XV Oscar Schmidt, no dia 8 de maio, com grande presença de público e estrutura esportiva voltada ao lazer e à prática de atividades físicas. O complexo inclui campo de grama sintética, quadra poliesportiva, quadra de areia, pista de caminhada, área de convivência e parquinho infantil.

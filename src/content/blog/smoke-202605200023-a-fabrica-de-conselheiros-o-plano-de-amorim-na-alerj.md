@@ -5,6 +5,7 @@ pubDate: "2026-05-20T00:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200023-a-fabrica-de-conselheiros-o-plano-de-amorim-na-alerj.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A articulação da bancada de direita na Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) operou em ritmo de rolo compressor nesta terça-feira (19 de maio de 2026) para carimbar a reforma do regimento interno da Casa.
 

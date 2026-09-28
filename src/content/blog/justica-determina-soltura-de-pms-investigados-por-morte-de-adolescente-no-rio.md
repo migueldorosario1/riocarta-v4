@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1478_thiago-flausino-morreu-durante-operacao-policial-20557_800x450.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça determina soltura de PMs investigados por morte de adolescente no Rio'
 pubDate: 2023-10-02 11:17:09

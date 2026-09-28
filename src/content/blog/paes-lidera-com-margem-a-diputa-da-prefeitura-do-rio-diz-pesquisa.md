@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2225_904543-obras_museu-do-amanha_eduardo-paes_obras_-2420.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes lidera com margem larga a disputa da prefeitura do Rio, diz pesquisa'
 pubDate: 2023-12-27 19:00:00

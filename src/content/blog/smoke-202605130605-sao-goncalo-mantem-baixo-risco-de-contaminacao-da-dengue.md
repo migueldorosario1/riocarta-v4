@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "dengue", "saude-publica", "vigilancia-ambiental", "liraa", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130605-sao-goncalo-mantem-baixo-risco-de-contaminacao-da-dengue.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Município realizou levantamento do índice de infestação do Aedes aegypti

@@ -5,6 +5,7 @@ pubDate: "2026-05-21T19:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "vila-progresso", "pendotiba", "regiao-metropolitana", "seguranca-publica", "niteroi-metropolitana", "zona-norte", "sao-goncalo", "itaborai", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211923-corpo-carbonizado-e-encontrado-em-niteroi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um corpo carbonizado foi encontrado na manhã desta quinta-feira (21) na Estrada do Muriqui Pequeno, no bairro Vila Progresso, na região de Pendotiba, em Niterói. O cadáver estava em uma área de mata às margens da via.
 

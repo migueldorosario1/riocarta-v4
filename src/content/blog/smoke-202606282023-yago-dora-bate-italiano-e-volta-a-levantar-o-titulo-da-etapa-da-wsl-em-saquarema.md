@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:24:54Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "wsl", "surf", "yago-dora", "esporte", "macae-norte-fluminense", "joa", "norte-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-yago-dora-bate-italiano-e-volta-a-levantar-o-titulo-da-etapa-da-wsl-em-saquarema.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

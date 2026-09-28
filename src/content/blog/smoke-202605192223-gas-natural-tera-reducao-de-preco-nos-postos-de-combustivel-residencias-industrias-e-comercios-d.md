@@ -5,6 +5,7 @@ pubDate: "2026-05-19T22:23:33Z"
 draft: false
 tags: ["rio-de-janeiro", "energia", "economia", "economia-local", "sul-fluminense", "regiao-metropolitana", "problemas-estruturais", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605192223-gas-natural-tera-reducao-de-preco-nos-postos-de-combustivel-residencias-industrias-e-comercios-d.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 ESTADO DO RIO
 

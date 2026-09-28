@@ -5,6 +5,7 @@ pubDate: "2026-05-21T17:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "maracana", "rocinha", "complexo-do-alemao", "seguranca-publica", "flamengo", "cv", "rio-capital-zona-norte", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "zona-norte", "comunidade", "complexo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211723-cartao-vermelho-para-lider-do-cv-preso-no-maracana-tentando-ver-partida-do-flamengo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um dos principais líderes da facção criminosa Comando Vermelho (CV) atuante no Rio Grande do Norte foi preso na noite desta quarta-feira (20) por policiais da Delegacia de Repressão às Ações Criminosas Organizadas e Inquéritos Especiais (Draco), nas imediações do estádio do Maracanã, na Zona Norte do Rio. O acusado foi detido momentos antes de ingressar no complexo esportivo para assistir a uma partida entre Flamengo e o Estudiantes de La Plata, pelas oitavas de final da Conmebol Libertadores 2026.
 

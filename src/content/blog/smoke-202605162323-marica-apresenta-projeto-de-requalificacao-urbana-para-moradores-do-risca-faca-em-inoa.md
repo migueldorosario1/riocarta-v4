@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:25:16Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "risca-faca", "inoa", "sul-fluminense-costa-verde", "regiao-metropolitana", "comunidade", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-marica-apresenta-projeto-de-requalificacao-urbana-para-moradores-do-risca-faca-em-inoa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Maricá apresentou neste sábado (16) o projeto-piloto do programa “Minha Casa Mais Bonita” aos moradores da comunidade do Risca Faca, em Inoã. A iniciativa prevê ações de requalificação urbana, melhorias habitacionais e intervenções de infraestrutura na localidade, que passará a se chamar bairro Leonel Brizola.
 

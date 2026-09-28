@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:25Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "icms-educacional", "politica-rj", "regiao-metropolitana", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-icms-educacional-entra-na-reta-final-na-alerj-apos-aval-do-mp-texto-sera-votado-na-proxima-seman.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Comissão de Constituição e Justiça (CCJ) da Assembleia Legislativa do Rio de Janeiro (Alerj) encerrou, nesta quarta-feira (13), a discussão sobre o projeto de lei do ICMS Educacional.

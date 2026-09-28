@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:02:41Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "chocolate", "agricultura", "niteroi-metropolitana", "ramos", "niteroi", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-marica-avanca-em-projeto-para-ter-fabrica-de-chocolates-e-comeca-plantio-de-cacau.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Maricá deu o primeiro passo para entrar na cadeia produtiva do chocolate. No Dia Mundial do Chocolate, celebrado nesta terça-feira (7), a Companhia Maricá Alimentos (AMAR) anunciou avanços no projeto que prevê a criação de uma fábrica de chocolates no município, com o início do plantio experimental de cacau e a compra dos equipamentos que vão estruturar a unidade de produção.
 

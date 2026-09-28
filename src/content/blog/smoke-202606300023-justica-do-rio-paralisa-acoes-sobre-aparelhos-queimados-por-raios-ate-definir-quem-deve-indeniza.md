@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:24:28Z"
 draft: true
 tags: ["rio-de-janeiro", "tjrj", "consumidor", "enel", "indenizacao", "politica-rj", "regiao-metropolitana", "queimados", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-justica-do-rio-paralisa-acoes-sobre-aparelhos-queimados-por-raios-ate-definir-quem-deve-indeniza.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

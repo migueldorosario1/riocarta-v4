@@ -5,6 +5,7 @@ pubDate: "2026-05-20T01:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "operacao-lava-jato", "regiao-metropolitana", "leme", "mage", "campos", "norte-fluminense", "seguranca-publica", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200123-video-no-celular-com-mala-de-r-500-mil-amplia-investigacao-da-pf-contra-thiago-rangel.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um vídeo encontrado no celular do deputado estadual Thiago Rangel (Avante) colocou novos elementos na investigação da Polícia Federal sobre um suposto esquema de caixa 2 e desvio de dinheiro público no Rio de Janeiro. As imagens mostram uma mala com R$ 500 mil em espécie, valor que, segundo os investigadores, faria parte de um acordo ilegal para financiar campanhas políticas em Campos dos Goytacazes, no Norte Fluminense.
 

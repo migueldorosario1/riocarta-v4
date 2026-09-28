@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp977_Screenshot_20230731-162555_Instagram-e1690833646854.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministra de CTI, Luciana Santos reúne comunidade científica no Rio'
 pubDate: 2023-07-31 16:59:16

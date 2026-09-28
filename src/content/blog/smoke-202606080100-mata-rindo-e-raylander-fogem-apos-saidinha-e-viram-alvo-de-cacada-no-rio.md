@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:00:32Z"
 draft: false
 tags: ["rio-de-janeiro", "tijuca", "vila-isabel", "andarai", "lins-de-vasconcelos", "zona-norte", "seguranca-publica", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "comunidade", "complexo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-mata-rindo-e-raylander-fogem-apos-saidinha-e-viram-alvo-de-cacada-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Dois criminosos apontados pelas autoridades como de alta periculosidade passaram a ser procurados pela polícia após não retornarem ao sistema prisional do Rio de Janeiro depois da saída temporária concedida no Dia das Mães.
 

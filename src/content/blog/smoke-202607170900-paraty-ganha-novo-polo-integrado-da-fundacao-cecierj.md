@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:04:54Z"
 draft: true
 tags: ["rio-de-janeiro", "paraty", "fundacao-cecierj", "educacao", "ensino-superior", "vestibular-cederj", "sul-fluminense", "regiao-metropolitana", "comunidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-paraty-ganha-novo-polo-integrado-da-fundacao-cecierj.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Paraty – Os candidatos do Vestibular Cederj 2026. 2 que conquistarem uma das 7.
 

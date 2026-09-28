@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:09Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "mprj", "operacao-hidra-de-lerna", "corrupcao", "licenciamento-ambiental", "lagoa", "laranjeiras", "tijuca", "barra-da-tijuca", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-operacao-do-mprj-mira-investigacao-sobre-licencas-ambientais-e-cumpre-mandado-em-marica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Resumo da notícia
 

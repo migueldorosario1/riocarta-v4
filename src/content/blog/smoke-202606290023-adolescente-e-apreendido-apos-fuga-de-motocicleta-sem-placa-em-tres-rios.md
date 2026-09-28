@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:23:20Z"
 draft: false
 tags: ["rio-de-janeiro", "tres-rios", "sul-fluminense", "seguranca-publica", "sul-fluminense-costa-verde", "regiao-serrana", "cantagalo", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290023-adolescente-e-apreendido-apos-fuga-de-motocicleta-sem-placa-em-tres-rios.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Três Rios
 

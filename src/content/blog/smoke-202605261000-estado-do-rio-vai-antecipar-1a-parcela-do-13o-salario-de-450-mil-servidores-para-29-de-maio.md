@@ -5,6 +5,7 @@ pubDate: "2026-05-26T10:00:19Z"
 draft: false
 tags: ["rio-de-janeiro", "servidores", "13-salario", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605261000-estado-do-rio-vai-antecipar-1a-parcela-do-13o-salario-de-450-mil-servidores-para-29-de-maio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio de Janeiro anunciou a antecipação do pagamento da primeira parcela do décimo terceiro salário de cerca de 450 mil servidores ativos, aposentados e pensionistas. O depósito será realizado no dia 29 de maio, cerca de um mês antes da data prevista no calendário oficial de 2026, que inicialmente indicava 30 de junho.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:05Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "roma-ii", "saude", "odontologia", "camara-municipal", "sul-fluminense", "sul-fluminense-costa-verde", "comunidade", "seguranca-publica", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-moradores-do-roma-ii-tem-problemas-para-acessar-atendimento-odontologico.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Volta Redonda – A dificuldade enfrentada por moradores do bairro Roma II para conseguir atendimento odontológico voltou a ser tema de debate na Câmara Municipal. Durante sessão legislativa de segunda-feira (11), os vereadores Renan Cury e Sidney Dinho chamaram atenção para a ausência de estrutura de atendimento no bairro e para os obstáculos enfrentados pela população para buscar assistência em outras unidades de saúde.

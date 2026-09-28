@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:23:23Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "pet-day-amigo-bicho", "cultura-carnaval", "serrana", "regiao-serrana", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-pet-day-amigo-bicho-promete-agitar-o-domingo-no-petro.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Diversão garantida para as crianças e seus cachorros é a proposta da nova edição do Pet Day Amigo Bicho, que será realizada neste domingo, dia 17, das 10h às 16h, na sede do Petropolitano Futebol Clube, na Rua Roberto Silveira, 82. Na programação haverá brincadeiras, bate-papo sobre saúde animal com veterinárias, intervenção circense, música acústica, restaurante pet friendly, feira de adoção e produtos à venda com parte da renda revertida para animais abandonados.
 

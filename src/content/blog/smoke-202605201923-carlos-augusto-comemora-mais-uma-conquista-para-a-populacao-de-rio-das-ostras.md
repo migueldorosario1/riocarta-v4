@@ -5,6 +5,7 @@ pubDate: "2026-05-20T19:23:23Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "macae-norte-fluminense", "regiao-metropolitana", "leme", "norte-fluminense", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201923-carlos-augusto-comemora-mais-uma-conquista-para-a-populacao-de-rio-das-ostras.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O prefeito de Rio das Ostras, Carlos Augusto (PL), anunciou mais uma grande conquista para o município, com o início do funcionamento do novo posto do Departamento Estadual de Trânsito do Rio (Detran-RJ).
 

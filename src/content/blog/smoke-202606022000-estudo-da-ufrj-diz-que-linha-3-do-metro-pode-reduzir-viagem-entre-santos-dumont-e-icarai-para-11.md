@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:00:11Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "icarai", "sao-goncalo", "itaborai", "transporte-mobilidade", "linha-3-metro", "regiao-metropolitana", "capital", "centro-do-rio", "vista-alegre", "anil", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-estudo-da-ufrj-diz-que-linha-3-do-metro-pode-reduzir-viagem-entre-santos-dumont-e-icarai-para-11.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um estudo que propõe a implantação de uma linha de metrô ligando o Rio de Janeiro a Niterói, São Gonçalo e Itaboraí foi apresentado nesta segunda-feira (1º) pela Coppe/UFRJ. Desenvolvido no âmbito do Plano de Transportes Urbanos Sustentáveis e de Desenvolvimento Integrado (Prisma), o trabalho traça um corredor metroviário de aproximadamente 50 quilômetros, com 29 estações e um trecho subaquático sob a Baía de Guanabara.
 

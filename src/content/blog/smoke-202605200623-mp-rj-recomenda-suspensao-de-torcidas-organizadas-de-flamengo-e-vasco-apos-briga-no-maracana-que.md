@@ -5,6 +5,7 @@ pubDate: "2026-05-20T06:23:25Z"
 draft: false
 tags: ["rio-de-janeiro", "flamengo", "vasco", "seguranca-publica", "capital", "regiao-metropolitana", "maracana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200623-mp-rj-recomenda-suspensao-de-torcidas-organizadas-de-flamengo-e-vasco-apos-briga-no-maracana-que.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Ministério Público do Estado do Rio de Janeiro (MPRJ) emitiu uma recomendação oficial nesta segunda-feira (18) pedindo o afastamento das torcidas organizadas Jovem Fla, do Flamengo, e Força Jovem, do Vasco. A punição sugerida é de 10 partidas de suspensão e ocorre em decorrência do confronto violento entre as torcidas no clássico do último dia 3 de maio, episódio em que um jovem perdeu a visão após ser atingido por uma bala de borracha nos arredores do Maracanã.
 

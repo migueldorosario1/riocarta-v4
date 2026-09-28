@@ -5,6 +5,7 @@ pubDate: "2026-05-13T10:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "praca-maua", "cultura", "show-gratuito", "rio-capital-centro", "capital", "regiao-metropolitana", "gloria", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-gloria-groove-fara-show-gratuito-na-praca-maua.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O Rio de Janeiro se prepara para receber a segunda edição da Semana S, uma iniciativa que promete movimentar a Região Portuária com uma maratona de serviços e entretenimento. No dia 16 de maio, a Praça Mauá será o palco de uma programação diversa que culmina com o show gratuito da cantora Gloria Groove, a partir das 18h.

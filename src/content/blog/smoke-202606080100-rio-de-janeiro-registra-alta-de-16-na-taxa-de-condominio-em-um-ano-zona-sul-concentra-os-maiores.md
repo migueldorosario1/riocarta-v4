@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:01:18Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "alto-da-boa-vista", "ipanema", "lagoa", "leblon", "sao-conrado", "tijuca", "cascadura", "penha", "ramos"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-rio-de-janeiro-registra-alta-de-16-na-taxa-de-condominio-em-um-ano-zona-sul-concentra-os-maiores.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O custo de morar no Rio ficou ainda mais pesado para quem vive em condomínio. Levantamento da empresa Loft mostra que a taxa média condominial na capital carioca subiu 16% nos quatro primeiros meses de 2026, na comparação com o mesmo período do ano passado.
 

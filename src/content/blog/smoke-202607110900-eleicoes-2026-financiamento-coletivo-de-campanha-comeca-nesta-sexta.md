@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:23Z"
 draft: true
 tags: ["rio-de-janeiro", "financiamento-coletivo", "eleicoes-2026", "politica-rj", "estado"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-eleicoes-2026-financiamento-coletivo-de-campanha-comeca-nesta-sexta.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O financiamento coletivo ou crowdfunding é uma modalidade de arrecadação de recursos que permite a participação direta de cidadãos no financiamento, por exemplo de candidatos ou partidos políticos em campanhas eleitorais.
 

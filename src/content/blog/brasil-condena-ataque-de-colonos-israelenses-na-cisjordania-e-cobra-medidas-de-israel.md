@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4841_imagem-5.webp"
+hero_credit: "Mediterranea Saving Humans / Wikimedia Commons (CC0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil condena ataque de colonos Israelenses na Cisjordânia e cobra medidas de Israel'
 pubDate: 2024-08-17 14:16:10

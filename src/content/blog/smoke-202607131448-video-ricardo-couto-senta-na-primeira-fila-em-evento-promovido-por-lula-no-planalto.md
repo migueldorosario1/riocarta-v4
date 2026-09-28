@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:48:31Z"
 draft: false
 tags: ["rio-de-janeiro", "ricardo-couto", "politica-rj", "brasilia", "crime-organizado", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-video-ricardo-couto-senta-na-primeira-fila-em-evento-promovido-por-lula-no-planalto.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O governador em exercício do Rio de Janeiro, Ricardo Couto, voltou a chamar atenção nos bastidores políticos de Brasília ao ocupar lugar na primeira fila durante a cerimônia de lançamento do programa Brasil Contra o Crime Organizado, realizada no Palácio do Planalto. As informações foram divulgadas pela jornalista Anita Prado, do SBT News.
 

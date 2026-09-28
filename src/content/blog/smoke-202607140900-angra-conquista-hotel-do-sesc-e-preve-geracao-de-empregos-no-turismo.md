@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:02:44Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "camorim-pequeno", "turismo", "sesc", "geracao-de-empregos", "sul-fluminense-costa-verde", "sul-fluminense", "camorim", "angra", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-angra-conquista-hotel-do-sesc-e-preve-geracao-de-empregos-no-turismo-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Angra – A cidade de Angra dos Reis vai receber uma unidade hoteleira do Sesc, em um investimento voltado ao fortalecimento do turismo e da economia local. A assinatura para a compra do imóvel foi realizada na última semana por representantes da entidade.
 

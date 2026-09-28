@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:30Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "acude-ii", "sul-fluminense", "servicos-gratuitos", "sul-fluminense-costa-verde", "comunidade", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-juventude-no-seu-bairro-leva-servicos-gratuitos-ao-bairro-acude-ii.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5431_imagem-103.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Parlamentares bolsonaristas planejam viagem aos EUA para questionar ações de Ministro do STF'
 pubDate: 2024-09-24 18:55:11

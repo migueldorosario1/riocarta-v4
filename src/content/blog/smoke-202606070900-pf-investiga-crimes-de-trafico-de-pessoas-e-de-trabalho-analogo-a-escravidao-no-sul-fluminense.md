@@ -5,6 +5,7 @@ pubDate: "2026-06-07T09:00:41Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "pinheiral", "resende", "policia-federal", "trafico-de-pessoas", "sul-fluminense-costa-verde", "capital-estado", "regiao-metropolitana", "sao-joao-de-meriti", "joa", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-pf-investiga-crimes-de-trafico-de-pessoas-e-de-trabalho-analogo-a-escravidao-no-sul-fluminense.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio PF investiga crimes de tráfico de pessoas e de trabalho análogo à escravidão no Sul Fluminense. Segundo a Polícia Federal, cidadãos colombianos eram atraídos ao Brasil com promessas de emprego, mas acabavam submetidos a condições análogas à escravidão e ameaças.
 

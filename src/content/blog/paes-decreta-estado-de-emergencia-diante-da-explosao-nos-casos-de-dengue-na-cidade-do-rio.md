@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2943_imagem-13.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes decreta estado de emergência diante da explosão nos casos de dengue na cidade do Rio'
 pubDate: 2024-02-05 08:28:14

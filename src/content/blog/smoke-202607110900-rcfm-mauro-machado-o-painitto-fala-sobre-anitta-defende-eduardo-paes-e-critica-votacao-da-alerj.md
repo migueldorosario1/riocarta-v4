@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:10Z"
 draft: true
 tags: ["rio-de-janeiro", "painitto", "eduardo-paes", "alerj", "brt", "politica-rj", "regiao-dos-lagos", "regiao-metropolitana", "colegio", "seguranca-publica", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-rcfm-mauro-machado-o-painitto-fala-sobre-anitta-defende-eduardo-paes-e-critica-votacao-da-alerj.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O programa Renata Cristiane On-line, exibido em formato multiplataforma pela Rádio RCFM, recebeu nesta terça-feira (7) Mauro Machado, conhecido nacionalmente como Painitto. Durante a entrevista, o pai da cantora Anitta falou sobre política, segurança pública, educação, relembrou tradições da família e comentou a eleição da presidência da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), além de destacar a trajetória profissional da esposa.
 

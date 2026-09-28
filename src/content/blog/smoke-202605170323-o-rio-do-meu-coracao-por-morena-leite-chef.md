@@ -5,6 +5,7 @@ pubDate: "2026-05-17T03:24:08Z"
 draft: true
 tags: ["rio-de-janeiro", "cultura-carnaval", "capital", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-o-rio-do-meu-coracao-por-morena-leite-chef.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Ela é reconhecida por misturar técnicas francesas com ingredientes típicos do Brasil e uma das donas e sócias do grupo Capim Santo
 

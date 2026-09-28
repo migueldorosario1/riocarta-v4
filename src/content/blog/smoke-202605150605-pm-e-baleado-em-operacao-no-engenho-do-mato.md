@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "engenho-do-mato", "regiao-oceanica", "seguranca-publica", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-pm-e-baleado-em-operacao-no-engenho-do-mato.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Um policial militar foi baleado durante operação no Engenho do Mato, na Região Oceânica de Niterói, segundo informação publicada nesta quarta-feira. De acordo com A Tribuna, o agente pilotava uma moto de patrulha quando foi atingido por disparo efetuado por criminosos que atuavam em apoio ao tráfico em área conhecida como Goiabão.

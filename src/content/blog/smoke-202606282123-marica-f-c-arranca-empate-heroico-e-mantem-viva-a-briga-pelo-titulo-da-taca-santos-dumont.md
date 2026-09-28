@@ -5,6 +5,7 @@ pubDate: "2026-06-28T21:27:05Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "futebol", "campeonato-carioca", "taca-santos-dumont", "marica-fc", "esporte", "regiao-metropolitana", "campos"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282123-marica-f-c-arranca-empate-heroico-e-mantem-viva-a-briga-pelo-titulo-da-taca-santos-dumont.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Maricá F. C segue firme na briga pela Taça Santos Dumont.
 

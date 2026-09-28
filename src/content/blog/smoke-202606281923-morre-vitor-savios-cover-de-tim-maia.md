@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:26:21Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "musica", "regiao-metropolitana", "sao-goncalo-itaborai", "sao-goncalo", "itaborai", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-morre-vitor-savios-cover-de-tim-maia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A informação foi divulgada pelo amigo do artista e conterrâneo, Valério Araújo
 

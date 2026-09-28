@@ -5,6 +5,7 @@ pubDate: "2026-05-16T06:23:50Z"
 draft: false
 tags: ["rio-de-janeiro", "nova-friburgo", "regiao-serrana", "politica-rj", "regiao-metropolitana", "mage", "serrana", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160623-caminhao-desgovernado-em-nova-friburgo-faz-quarta-vitima-fatal-video.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Subiu para quatro o número de mortos no grave acidente provocado por um caminhão desgovernado em Nova Friburgo, na Região Serrana do Rio. O motorista do veículo, identificado como Luciano, de 37 anos, morreu após não resistir aos ferimentos sofridos ao tentar se jogar do caminhão em movimento.

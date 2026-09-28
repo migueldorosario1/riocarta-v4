@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "justica-trabalhista", "navio-abandonado", "capital", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-navio-abandonado-em-niteroi-recebe-decisao-judicial-sobre-salarios-de-tripulacao-entenda-o-caso.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A 23ª Vara do Trabalho do Rio de Janeiro determinou, em decisão liminar, uma série de medidas urgentes envolvendo a tripulação da embarcação mexicana Lagunero, atracada no estaleiro Renave, em Niterói. A decisão trata do pagamento de salários atrasados, garantia de condições mínimas de subsistência e providências para repatriação dos trabalhadores.

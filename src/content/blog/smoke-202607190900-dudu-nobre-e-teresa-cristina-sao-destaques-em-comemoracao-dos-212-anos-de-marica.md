@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:02:14Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "cultura", "samba", "aniversario", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "niteroi", "mare", "transporte-mobilidade", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-dudu-nobre-e-teresa-cristina-sao-destaques-em-comemoracao-dos-212-anos-de-marica.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O samba vai marcar o início das comemorações pelos 212 anos de Maricá, na Região Metropolitana do Rio. A cidade preparou uma programação gratuita com nomes como Paulinho da Viola, Teresa Cristina, Moacyr Luz e Dudu Nobre entre os dias 15 e 26 de maio, em apresentações espalhadas pela Praça Orlando de Barros Pimentel, no Centro, e pela Arena da Barra.
 

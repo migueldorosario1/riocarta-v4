@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5734_imagem-32.webp"
+hero_credit: "The original uploader was Snow storm in Eastern Asia at English Wikipedia. / Wikimedia Commons (CC BY 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dólar fecha próximo da estabilidade no Brasil, apesar de ganhar força no mercado global'
 pubDate: 2024-10-17 20:20:26

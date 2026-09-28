@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:09Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "regiao-serrana", "evasao-escolar", "educacao", "estado", "norte-noroeste-fluminense", "colegio", "serrana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-encontro-contra-evasao-escolar-comeca-nos-proximos-dias.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Com o objetivo de garantir que nenhum aluno fique fora das salas de aula, identificar e acompanhar o risco de evasão e ainda, fortalecer o vínculo entre família e escola, a secretaria de Educação inicia os mutirões deste ano, convidando os pais e responsĂĄveis dos estudantes do Ensino Fundamental da rede pública municipal de Macaé, a participarem da Ação de Enfrentamento à InfrequĂȘncia Escolar. O evento que irĂĄ abranger cinco escolas neste mĂȘs de maio, inicia no próximo dia 18, no Colégio Municipal Pedro Adami, na Região Serrana.

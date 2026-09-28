@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:25:00Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "marina-da-gloria", "baia-de-guanabara", "lixo", "meio-ambiente", "rio-capital-centro", "capital", "centro-do-rio", "gloria", "mare", "ramos", "rocha", "joa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300023-marina-da-gloria-acao-recolhe-200-kg-de-lixo-em-so-um-dia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mais de 200 quilos de resíduos foram retirados da Baía de Guanabara na manhã deste sábado (27), em um mutirão de limpeza realizado na orla entre a Axia Marina da Glória e o Aeroporto Santos Dumont, no Centro do Rio. Promovida pela BR Marinas, empresa responsável pela administração da marina, em parceria com o Instituto Ecológico Aqualung, a ação reuniu cerca de 20 colaboradores e voluntários.
 

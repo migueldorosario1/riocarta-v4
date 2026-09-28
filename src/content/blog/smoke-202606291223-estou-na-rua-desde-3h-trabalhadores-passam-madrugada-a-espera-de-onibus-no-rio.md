@@ -5,6 +5,7 @@ pubDate: "2026-06-29T12:24:52Z"
 draft: true
 tags: ["rio-de-janeiro", "coelho-neto", "sulacap", "greve-de-onibus", "transporte-publico", "transporte-mobilidade", "politica-rj", "regiao-metropolitana", "belford-roxo", "ramos", "deodoro", "santa-cruz", "japeri"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291223-estou-na-rua-desde-3h-trabalhadores-passam-madrugada-a-espera-de-onibus-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

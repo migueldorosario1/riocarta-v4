@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:28Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "capital", "regiao-metropolitana", "baixada", "petropolis", "transporte-mobilidade", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-nova-iguacu-cria-superintendencia-para-viabilizar-novos-museus-na-cidade.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Às vésperas do Dia Internacional dos Museus, celebrado na próxima segunda (18), a Prefeitura de Nova Iguaçu deu mais um passo para fortalecimento da memória e da identidade cultural da cidade, com a criação, nesta sexta-feira (15), da Superintendência de Museus, vinculada à Secretaria Municipal de Cultura, como informou o site Tempo Real. A inciativa vem depois da inauguração do primeiro Museu de Arqueologia e Etnologia do Estado do Rio de Janeiro, ocorrida há menos de um mês.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1967_1065725-edit_15.02.2017_04325.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Renova Operação da Força Nacional no RJ até Janeiro de 2024'
 pubDate: 2023-11-17 12:40:19

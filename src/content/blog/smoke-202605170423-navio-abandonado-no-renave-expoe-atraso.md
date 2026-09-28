@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "niteroi-metropolitana", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-navio-abandonado-no-renave-expoe-atraso.jpg"
+hero_credit: "Steve Shook from Moscow, Idaho, USA / Wikimedia Commons (CC BY 2.0)"
 ---
 A situação do navio mexicano Lagunero, atracado no estaleiro Renave, expôs em Niterói um caso grave de abandono trabalhista com reflexos humanitários e institucionais. Em decisão liminar, a 23ª Vara do Trabalho do Rio determinou medidas urgentes para garantir pagamento de salários atrasados, abastecimento mínimo e providências de repatriação para a tripulação.
 

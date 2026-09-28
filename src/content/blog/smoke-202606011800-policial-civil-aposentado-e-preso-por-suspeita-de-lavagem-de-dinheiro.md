@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:03:09Z"
 draft: true
 tags: ["rio-de-janeiro", "jacarepagua", "centro", "camelodromo-da-uruguaiana", "policia-civil", "lavagem-de-dinheiro", "seguranca-publica", "politica-rj", "regiao-metropolitana", "jacare", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-policial-civil-aposentado-e-preso-por-suspeita-de-lavagem-de-dinheiro.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O policial civil aposentado Volner Correa dos Santos foi preso, nesta quinta-feira (21), em Jacarepaguá, Zona Sudoeste do Rio, suspeito de envolvimento em um esquema de lavagem de dinheiro ligado a uma organização criminosa que atuava no Camelódromo da Uruguaiana, no Centro da capital.
 

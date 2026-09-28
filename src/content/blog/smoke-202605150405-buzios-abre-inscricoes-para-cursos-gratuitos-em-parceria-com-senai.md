@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:18Z"
 draft: true
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "senai", "cursos-gratuitos", "qualificacao-profissional", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-buzios-abre-inscricoes-para-cursos-gratuitos-em-parceria-com-senai.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Búzios abriu inscrições para cursos gratuitos em parceria com a Firjan SENAI Região dos Lagos. Segundo a prefeitura, a oferta inclui turmas de Eletricista de Obras, em vagas voltadas para mulheres e jovens, além de Assistente de Marketing Digital.

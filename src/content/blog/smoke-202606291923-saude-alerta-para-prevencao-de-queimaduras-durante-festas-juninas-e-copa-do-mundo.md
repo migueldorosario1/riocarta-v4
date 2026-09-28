@@ -5,6 +5,7 @@ pubDate: "2026-06-29T19:27:13Z"
 draft: false
 tags: ["rio-de-janeiro", "andarai", "manguinhos", "saude", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "queimados", "santa-cruz", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291923-saude-alerta-para-prevencao-de-queimaduras-durante-festas-juninas-e-copa-do-mundo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A combinação de festas juninas e férias escolares sempre eleva o número de registros de acidentes com queimaduras. Este ano, a Copa do Mundo acrescenta um fator de risco a mais: o uso de fogos de artifício.
 

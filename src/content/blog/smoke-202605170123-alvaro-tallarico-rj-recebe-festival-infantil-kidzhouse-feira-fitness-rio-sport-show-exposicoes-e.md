@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:24:33Z"
 draft: false
 tags: ["rio-de-janeiro", "cultura", "eventos", "rio-capital-centro", "capital", "regiao-metropolitana", "jardim-botanico", "paraty", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-alvaro-tallarico-rj-recebe-festival-infantil-kidzhouse-feira-fitness-rio-sport-show-exposicoes-e.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio de Janeiro entra em uma das semanas mais movimentadas do calendário cultural de maio e junho, reunindo festivais infantis, shows intimistas, eventos de inovação, exposições de arte, premiações, atividades em museus e grandes encontros ligados à música, criatividade e bem-estar. A programação se espalha por diferentes regiões da cidade e também alcança destinos próximos, como Paraty, consolidando o estado como um dos principais polos culturais e turísticos do país.
 

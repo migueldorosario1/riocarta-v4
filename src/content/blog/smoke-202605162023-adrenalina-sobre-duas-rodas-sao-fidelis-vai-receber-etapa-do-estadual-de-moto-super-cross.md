@@ -5,6 +5,7 @@ pubDate: "2026-05-16T20:25:13Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "norte-noroeste-fluminense", "regiao-metropolitana", "mage", "joa", "noroeste-fluminense", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-adrenalina-sobre-duas-rodas-sao-fidelis-vai-receber-etapa-do-estadual-de-moto-super-cross.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 imagens: reprodução femerjoficial
 

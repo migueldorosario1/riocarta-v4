@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:02:17Z"
 draft: false
 tags: ["rio-de-janeiro", "rocinha", "zona-sul", "prefeitura-do-rio", "projetos-sociais", "territorio-sociais", "ipp", "onu-habitat", "burkina-faso", "rio-favelas-e-comunidades", "capital-porto", "favela", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-princesa-de-burkina-faso-visita-projetos-sociais-na-rocinha.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A princesa Abze Djigma, de Burkina Faso, visitou a Rocinha, na Zona Sul do Rio, nesta sexta-feira (08/05), para conhecer iniciativas sociais desenvolvidas pela Prefeitura do Rio em comunidades.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "centro", "vigilancia-sanitaria", "interdicao", "peixaria", "seguranca-alimentar", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-peixaria-e-interditada-em-galeria-comercial-no-centro-de-niteroi.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Vigilância Sanitária de Niterói, na Região Metropolitana do Rio, interditou, nesta terça-feira (12), um estabelecimento de produtos alimentícios no centro da cidade. A inspeção contou com a colaboração da Polícia Civil e da Guarda Municipal.

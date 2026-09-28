@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:07:04Z"
 draft: true
 tags: ["rio-de-janeiro", "funarj", "niteroi", "cantagalo", "museus", "cultura", "cultura-carnaval", "niteroi-metropolitana", "regiao-metropolitana", "zumbi", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-funarj-tera-mais-de-20-atividades-gratuitas-na-semana-nacional-de-museus.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Fundação Anita Mantuano de Artes do Estado do Rio de Janeiro (Funarj) preparou mais de 20 atividades gratuitas para a 24ª Semana Nacional de Museus, que ocorre entre 18 e 24 de maio. Com o tema “Museus unindo um mundo dividido”, a programação promove oficinas, palestras, rodas de conversa e visitas mediadas focadas em inclusão e diversidade cultural no Rio, Niterói e Cantagalo.
 

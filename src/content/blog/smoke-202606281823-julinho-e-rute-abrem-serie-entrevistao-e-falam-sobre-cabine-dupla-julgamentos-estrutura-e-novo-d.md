@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:24:38Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "carnaval", "cultura-carnaval", "regiao-metropolitana", "tijuca", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-julinho-e-rute-abrem-serie-entrevistao-e-falam-sobre-cabine-dupla-julgamentos-estrutura-e-novo-d.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Quase vinte anos. É o tempo que Julinho Nascimento e Rute Alves dançam juntos, e também o tempo suficiente para construir uma linguagem própria, uma lealdade rara e uma carreira que atravessou rebaixamentos, títulos, mortes e recomeços.
 

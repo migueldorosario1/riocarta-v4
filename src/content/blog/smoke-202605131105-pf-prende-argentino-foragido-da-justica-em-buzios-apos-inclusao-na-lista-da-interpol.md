@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:41Z"
 draft: true
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "policia-federal", "seguranca-publica-rj", "regiao-metropolitana", "seguranca-publica", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-pf-prende-argentino-foragido-da-justica-em-buzios-apos-inclusao-na-lista-da-interpol.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Polícia Federal prendeu, no fim da noite desta terça-feira (12), um homem argentino condenado pela Justiça e considerado foragido internacional. A ação aconteceu em Búzios.

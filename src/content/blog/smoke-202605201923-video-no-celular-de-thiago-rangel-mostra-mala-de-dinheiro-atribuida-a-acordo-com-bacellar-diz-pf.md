@@ -5,6 +5,7 @@ pubDate: "2026-05-20T19:23:09Z"
 draft: false
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "norte-fluminense", "norte-noroeste-fluminense", "capital", "anil", "campos", "seguranca-publica", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201923-video-no-celular-de-thiago-rangel-mostra-mala-de-dinheiro-atribuida-a-acordo-com-bacellar-diz-pf.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Federal encontrou no celular do deputado estadual Thiago Rangel (Avante) um vídeo que mostra uma mala com R$ 500 mil em dinheiro vivo. Segundo os investigadores, o valor seria parte de um suposto pagamento feito pelo ex-presidente da Alerj, Rodrigo Bacellar (União Brasil), para financiar campanhas de aliados políticos em Campos dos Goytacazes, no Norte Fluminense.
 

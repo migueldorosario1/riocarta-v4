@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:38Z"
 draft: true
 tags: ["rio-de-janeiro", "prefeitura-do-rio", "eduardo-cavaliere", "alerj", "transporte", "onibus", "dinheiro", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150705-eduardo-cavaliere-chama-de-fake-news-critica-sobre-fim-do-dinheiro-nos-onibus.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O prefeito do Rio, Eduardo Cavaliere, chamou de fake news a interpretação de que a Prefeitura do Rio vai proibir o pagamento em dinheiro no sistema municipal de transporte. A declaração foi dada nesta quinta-feira (14), durante coletiva de imprensa.

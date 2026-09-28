@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:02:22Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "servidores-estaduais", "recomposicao-salarial", "douglas-ruas", "politica-rj", "regiao-metropolitana"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-douglas-ruas-promete-discutir-recomposicao-salarial-em-nova-comissao-da-alerj.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A pressão dos servidores estaduais por recomposição salarial voltou ao centro dos debates da Assembleia Legislativa do Rio de Janeiro (Alerj) e já entrou oficialmente na pauta da nova comissão especial criada pela Casa.
 

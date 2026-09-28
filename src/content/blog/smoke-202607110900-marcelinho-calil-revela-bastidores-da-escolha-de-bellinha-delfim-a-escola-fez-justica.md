@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:10Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "viradouro", "carnaval", "cultura-carnaval", "regiao-metropolitana", "comunidade", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-marcelinho-calil-revela-bastidores-da-escolha-de-bellinha-delfim-a-escola-fez-justica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A escolha de Bellinha Delfim como nova rainha de bateria da Viradouro foi tema da participação do presidente da escola, Marcelinho Calil, no podcast “Setor Sul”, na última segunda-feira. O dirigente afirmou que a nomeação representa o reconhecimento de uma trajetória construída ao longo de quase dez anos na agremiação e revelou que a comunidade já cobrava há bastante tempo a promoção da sambista ao posto máximo à frente da bateria.
 

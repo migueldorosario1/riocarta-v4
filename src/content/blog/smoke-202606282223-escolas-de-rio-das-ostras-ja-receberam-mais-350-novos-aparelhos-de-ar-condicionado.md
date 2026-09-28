@@ -5,6 +5,7 @@ pubDate: "2026-06-28T22:23:39Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "educacao", "regiao-dos-lagos", "macae-norte-fluminense", "comunidade", "norte-fluminense", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282223-escolas-de-rio-das-ostras-ja-receberam-mais-350-novos-aparelhos-de-ar-condicionado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Depois de receber a visita de representantes do Ministério Público do Estado do Rio (MPRJ) na última semana, a Prefeitura de Rio das Ostras voltou a anunciar melhorias na infraestrutura das escolas da rede pública municipal.
 

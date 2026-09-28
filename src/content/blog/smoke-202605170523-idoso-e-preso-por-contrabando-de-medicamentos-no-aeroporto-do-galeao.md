@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:22Z"
 draft: false
 tags: ["rio-de-janeiro", "galeao", "zona-norte", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-idoso-e-preso-por-contrabando-de-medicamentos-no-aeroporto-do-galeao.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um idoso de 60 anos foi preso em flagrante pela Polícia Federal (PF) na noite de quinta-feira (14) no Aeroporto Internacional Tom Jobim, o Galeão, na Zona Norte do Rio, ao desembarcar de um voo vindo de Foz do Iguaçu, no Paraná. De acordo com a corporação, ele transportava medicamentos para emagrecimento, anabolizantes e perfumes importados sem documentação fiscal.
 

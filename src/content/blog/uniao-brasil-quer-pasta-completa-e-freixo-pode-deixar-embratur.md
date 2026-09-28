@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp163_image-2.png"
+hero_credit: "Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY-SA 4.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'União Brasil quer pasta completa e Freixo pode deixar Embratur'
 pubDate: 2023-06-15 09:08:22

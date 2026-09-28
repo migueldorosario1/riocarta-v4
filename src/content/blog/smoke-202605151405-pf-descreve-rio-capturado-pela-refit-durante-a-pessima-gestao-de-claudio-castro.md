@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:06:08Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "politica-rj", "operacao-pf", "capital", "regiao-metropolitana", "leme", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151405-pf-descreve-rio-capturado-pela-refit-durante-a-pessima-gestao-de-claudio-castro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A operação desta sexta-feira (15) contra o ex-governador Cláudio Castro e o empresário Ricardo Magro expôs um diagnóstico devastador: para a Polícia Federal, o estado do Rio de Janeiro foi colocado a serviço de um conglomerado privado acusado de fraude tributária, lavagem de dinheiro e corrupção sistêmica.

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1817_20231105-114035.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ressaca no Rio de Janeiro Três Afogamentos em Ipanema, Adolescente Desaparecido'
 pubDate: 2023-11-05 18:39:58

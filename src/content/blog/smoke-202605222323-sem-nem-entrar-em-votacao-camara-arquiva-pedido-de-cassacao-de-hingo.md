@@ -5,6 +5,7 @@ pubDate: "2026-05-22T23:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "politica-rj", "camara-municipal", "regiao-serrana", "serrana", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605222323-sem-nem-entrar-em-votacao-camara-arquiva-pedido-de-cassacao-de-hingo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Câmara Municipal de Petrópolis informou, nesta sexta-feira (22), que arquivou o pedido de cassação do prefeito Hingo Hammes (PP), feito pelo vereador Léo França (PT). Segundo a Casa Legislativa, à vista das considerações exaradas pelo Departamento Jurídico, “restou verificada a ausência de justa causa para o prosseguimento da denúncia”.
 

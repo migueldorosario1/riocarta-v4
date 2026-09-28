@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:40Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "sul-fluminense", "educacao", "prefeitura-de-itatiaia", "processo-seletivo", "sul-fluminense-costa-verde", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-prefeitura-de-itatiaia-abre-processo-seletivo-com-vagas-temporarias-para-equipe-multidisciplinar.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 ITATIAIA
 

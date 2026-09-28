@@ -5,6 +5,7 @@ pubDate: "2026-05-19T19:16:55Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "sul-fluminense-costa-verde", "regiao-metropolitana", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-furlani-entrega-novo-hospital-municipal-de-olhos-e-amplia-servicos-especializados-em-barra-mansa.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA MANSA
 

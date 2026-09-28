@@ -5,6 +5,7 @@ pubDate: "2026-05-21T23:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212323-22a-edicao-do-rio-das-ostras-jazz-blues-festival-transforma-a-cidade-no-maior-palco-da-musica-in.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Rio das Ostras Jazz & Blues Festival realiza, entre os dias 4 e 7 de junho de 2026, sua 22ª edição, reafirmando o município fluminense como a capital do jazz e do blues no Brasil e um dos maiores palcos no cenário internacional. Durante o feriadão de Corpus Christi, o evento contará com a participação de 10 atrações internacionais e um time nacional de peso, transformando a cidade em um grande palco a céu aberto, programação totalmente gratuita e expectativa de público entre 100 e 130 mil pessoas ao longo dos quatro dias.
 

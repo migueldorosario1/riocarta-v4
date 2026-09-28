@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:01:54Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-friburgo", "regiao-serrana", "acidente", "rj-150", "norte-noroeste-fluminense", "regiao-metropolitana", "mage", "noroeste-fluminense", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150001-grave-acidente-caminhao-atinge-carros-igreja-e-deixa-3-mortos-e-4-feridos-em-nova-friburgo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Três pessoas morreram em um grave acidente ocorrido na manhã desta quinta-feira (14) em Nova Friburgo. Um caminhão desgovernado atingiu carros e uma igreja antes de tombar.

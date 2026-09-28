@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:35Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "complexo", "niteroi", "rio-das-ostras", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-seguranca-participa-de-curso-em-duque-de-caxias.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Secretaria segue investindo na qualificação permanente dos agentes
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T14:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "vicente-de-carvalho", "zona-norte", "copa-do-mundo", "cultura", "prefeitura-do-rio", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "gamboa", "santo-cristo", "zona-sul", "leme", "rocinha"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291423-rua-de-vicente-de-carvalho-vence-concurso-de-decoracao-da-copa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Rua Taturana, em Vicente de Carvalho, na Zona Norte do Rio, foi a grande vencedora do concurso "Acreditar é uma arte: o Rio nas cores do hexa", promovido pela Prefeitura do Rio para premiar as melhores decorações em homenagem à Copa do Mundo. O resultado foi publicado no Diário Oficial nesta segunda-feira (29), e garantiu aos moradores um prêmio de R$ 50 mil.
 

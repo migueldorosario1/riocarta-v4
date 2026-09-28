@@ -5,6 +5,7 @@ pubDate: "2026-06-28T22:26:34Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "sao-goncalo-itaborai", "leme", "mare", "joa", "alemao", "sao-goncalo", "itaborai", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282223-torcedores-apostam-em-placar-vitorioso-para-o-jogo-do-brasil-e-japao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Seleção brasileira se classificou para a temida fase do mata-mata (16 avos de final), em primeiro lugar no Grupo C
 

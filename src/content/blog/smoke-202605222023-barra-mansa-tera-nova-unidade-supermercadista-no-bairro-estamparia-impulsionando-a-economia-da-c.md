@@ -5,6 +5,7 @@ pubDate: "2026-05-22T20:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "estamparia", "sul-fluminense", "supermercado", "economia-local", "sul-fluminense-costa-verde", "regiao-metropolitana", "estacio", "volta-redonda", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605222023-barra-mansa-tera-nova-unidade-supermercadista-no-bairro-estamparia-impulsionando-a-economia-da-c.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA MANSA
 

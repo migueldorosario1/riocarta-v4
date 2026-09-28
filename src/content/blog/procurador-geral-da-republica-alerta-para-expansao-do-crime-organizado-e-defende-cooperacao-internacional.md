@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5691_imagem-24.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Procurador-Geral da República alerta para expansão do crime organizado e defende cooperação internacional'
 pubDate: 2024-10-12 08:38:38

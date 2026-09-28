@@ -5,6 +5,7 @@ pubDate: "2026-06-29T21:24:21Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "terminal-alvorada", "greve-onibus", "vandalismo", "transporte", "rio-capital-barra-recreio-jacarepagua", "politica-rj", "regiao-metropolitana", "santa-cruz", "mage", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-video-em-meio-a-greve-de-onibus-terminal-alvorada-e-alvo-de-vandalismo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1131_bolsa-familia-840.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro é o Terceiro Estado com Maior Número de Beneficiários do Bolsa Familia'
 pubDate: 2023-08-18 16:05:44

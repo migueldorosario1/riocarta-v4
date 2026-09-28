@@ -5,6 +5,7 @@ pubDate: "2026-05-22T00:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "manguinhos", "refit", "cedae", "rioprevidencia", "ministerio-publico", "alerj", "politica-rj", "regiao-metropolitana", "campos", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220023-ministerio-publico-pede-documentos-a-ricardo-couto-em-apuracoes-sobre-refit-rioprevidencia-e-ced.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Ministério Público do Estado do Rio de Janeiro abriu uma nova frente de pressão sobre a gestão estadual ao solicitar informações detalhadas sobre possíveis irregularidades envolvendo a Refit, o Rioprevidência e a Cedae. O pedido foi encaminhado nesta quinta-feira (21) ao governador em exercício, desembargador Ricardo Couto, e amplia o cerco sobre contratos, aplicações financeiras e benefícios fiscais concedidos durante a administração do ex-governador Cláudio Castro.
 

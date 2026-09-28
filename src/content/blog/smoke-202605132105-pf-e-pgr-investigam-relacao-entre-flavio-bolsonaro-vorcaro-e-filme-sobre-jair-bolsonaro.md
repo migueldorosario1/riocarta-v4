@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:48Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "investigacao-pf", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132105-pf-e-pgr-investigam-relacao-entre-flavio-bolsonaro-vorcaro-e-filme-sobre-jair-bolsonaro.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Federal e a Procuradoria-Geral da República passaram a investigar as ligações entre o senador Flávio Bolsonaro, o banqueiro Daniel Vorcaro e a agência responsável pela intermediação de contatos relacionados ao financiamento do filme “Dark Horse”, produção sobre o ex-presidente Jair Bolsonaro. A informação foi divulgada pela jornalista Daniela Lima durante o programa UOL News – 2ª edição, do UOL.

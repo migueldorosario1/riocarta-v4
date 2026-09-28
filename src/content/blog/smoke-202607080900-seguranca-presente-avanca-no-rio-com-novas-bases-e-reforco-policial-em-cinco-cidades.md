@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:18Z"
 draft: true
 tags: ["rio-de-janeiro", "tangua", "resende", "volta-redonda", "paty-do-alferes", "mangaratiba", "seguranca-publica", "operacao-seguranca-presente", "politica-rj", "regiao-metropolitana", "comunidade", "campos", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-seguranca-presente-avanca-no-rio-com-novas-bases-e-reforco-policial-em-cinco-cidades.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Operação Segurança Presente vai ampliar sua atuação no estado do Rio de Janeiro com a inauguração de cinco novas bases ao longo do mês de julho. Sob gestão da Polícia Militar, o programa passa a atender os municípios de Tanguá, Resende, Volta Redonda, Paty do Alferes e Mangaratiba, reforçando o policiamento de proximidade e o atendimento a pessoas em situação de vulnerabilidade social.
 

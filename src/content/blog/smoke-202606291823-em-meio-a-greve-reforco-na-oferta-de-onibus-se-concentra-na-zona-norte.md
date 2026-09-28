@@ -5,6 +5,7 @@ pubDate: "2026-06-29T18:25:29Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-norte", "grande-tijuca", "greve-onibus", "transporte", "rio-capital-zona-norte", "politica-rj", "sao-cristovao", "zona-sul", "tijuca", "ilha-do-governador", "iraja", "jacare", "madureira"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-em-meio-a-greve-reforco-na-oferta-de-onibus-se-concentra-na-zona-norte.jpg"
+hero_credit: "Rodrigo Soldon from Rio de Janeiro, Brazil / Wikimedia Commons (CC BY 2.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

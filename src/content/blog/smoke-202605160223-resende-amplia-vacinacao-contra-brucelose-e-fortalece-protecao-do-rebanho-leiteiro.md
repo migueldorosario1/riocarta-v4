@@ -5,6 +5,7 @@ pubDate: "2026-05-16T02:24:11Z"
 draft: false
 tags: ["rio-de-janeiro", "resende", "vacinacao", "agropecuaria", "norte-noroeste-fluminense", "sul-fluminense", "regiao-metropolitana", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160223-resende-amplia-vacinacao-contra-brucelose-e-fortalece-protecao-do-rebanho-leiteiro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 RESENDE

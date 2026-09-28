@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:33Z"
 draft: false
 tags: ["rio-de-janeiro", "pt", "politica", "benedita-da-silva", "senado", "politica-rj", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130105-pt-do-rio-racha-apos-intervencao-da-direcao-nacional-na-chapa-de-benedita-ao-senado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A decisão da direção nacional do PT de assumir o controle sobre a escolha dos suplentes da pré-candidatura de Benedita da Silva ao Senado rachou o partido no Rio de Janeiro. A medida foi interpretada pela cúpula fluminense como uma intervenção direta da direção nacional e gerou reação imediata da Executiva Estadual, que divulgou uma nota dura contra o comando petista nacional.

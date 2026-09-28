@@ -5,6 +5,7 @@ pubDate: "2026-06-29T04:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "saude", "rio-capital-barra-recreio-jacarepagua", "serrana", "regiao-metropolitana", "tijuca", "petropolis", "angra", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290423-parreira-passa-por-cirurgia-e-continua-sedado-na-uti-apos-internacao-pulmonar.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ex-treinador da seleção brasileira Carlos Alberto Parreira, de 83 anos, passou por um procedimento de cauterização para conter um sangramento nasal. Segundo boletim divulgado neste domingo, 28, o procedimento, realizado no sábado, 27, foi bem-sucedido.
 

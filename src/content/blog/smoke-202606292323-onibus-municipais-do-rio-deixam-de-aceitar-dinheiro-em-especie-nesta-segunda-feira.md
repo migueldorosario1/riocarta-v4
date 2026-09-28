@@ -5,6 +5,7 @@ pubDate: "2026-06-29T23:24:03Z"
 draft: false
 tags: ["rio-de-janeiro", "onibus-municipais", "bilhetagem-eletronica", "transporte", "prefeitura-do-rio", "transporte-mobilidade", "capital", "botafogo", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292323-onibus-municipais-do-rio-deixam-de-aceitar-dinheiro-em-especie-nesta-segunda-feira.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os passageiros dos ônibus municipais do Rio passaram a enfrentar, a partir deste domingo, uma nova forma de pagamento da tarifa. Os veículos deixaram de aceitar dinheiro em espécie, e as integrações tarifárias do Bilhete Único Carioca (BUC) e do Bilhete Único Margaridas (BUM) passaram a ser exclusivas para usuários do aplicativo Jaé e do cartão preto vinculado ao CPF.
 

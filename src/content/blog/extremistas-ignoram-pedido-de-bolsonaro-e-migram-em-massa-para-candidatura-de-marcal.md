@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4915_imagem-20.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Extremistas ignoram pedido de Bolsonaro e migram em massa para candidatura de Marçal'
 pubDate: 2024-08-21 10:52:34

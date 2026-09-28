@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7238_image-15.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad, Dino ou Boulos quem será o candidato à sucessão de Lula em 2030?'
 pubDate: 2025-10-21 20:21:38

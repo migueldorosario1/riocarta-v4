@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:06:28Z"
 draft: false
 tags: ["rio-de-janeiro", "colegio", "zona-norte", "pm-morto", "seguranca-publica", "rio-capital-zona-norte", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "iraja", "penha", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-pm-e-morto-a-tiros-ao-tentar-impedir-assalto-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O 2º sargento da Polícia Militar Rildo Monteiro dos Santos, de 58 anos, morreu após ser baleado na tarde desta quinta-feira (14), na Estrada do Barro Vermelho, localizada no bairro Colégio, Zona Norte do Rio.

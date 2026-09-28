@@ -5,6 +5,7 @@ pubDate: "2026-05-21T19:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "tce-rj", "claudio-castro", "sao-goncalo-itaborai", "regiao-metropolitana", "rocha", "sao-goncalo", "itaborai", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211923-tce-rj-investiga-suposto-uso-irregular-de-jatinhos-e-helicopteros-no-governo-por-ex-governador-c.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A decisão decorre de uma denúncia feita pela deputada estadual Martha Rocha (PDT-RJ)
 

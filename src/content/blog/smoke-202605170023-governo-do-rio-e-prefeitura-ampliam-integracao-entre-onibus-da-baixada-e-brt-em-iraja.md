@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "iraja", "zona-norte", "transporte-mobilidade", "politica-rj", "regiao-metropolitana", "joa", "baixada", "nova-iguacu", "sao-joao-de-meriti", "mesquita"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-governo-do-rio-e-prefeitura-ampliam-integracao-entre-onibus-da-baixada-e-brt-em-iraja.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio de Janeiro e a Prefeitura do Rio iniciaram, neste sábado (16), a segunda fase da ampliação da integração tarifária entre ônibus intermunicipais da Baixada Fluminense e o sistema BRT carioca no Terminal Margaridas, em Irajá, na Zona Norte da capital.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:04:14Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "saude", "seguranca-publica", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-posto-de-saude-do-sambura-e-invadido-e-tem-tablets-furtados-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria Municipal de Saúde de Cabo Frio informou que a unidade de Estratégia de Saúde da Família (ESF) do Samburá, no distrito de Tamoios, foi invadida durante a madrugada desta quinta-feira (14). Durante a ação criminosa, três tablets utilizados pela equipe da unidade foram furtados.
 

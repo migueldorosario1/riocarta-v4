@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:22Z"
 draft: true
 tags: ["rio-de-janeiro", "cantagalo", "regiao-serrana", "trafico-de-drogas", "complexo-do-alemao", "policia-rodoviaria-estadual", "norte-noroeste-fluminense", "regiao-metropolitana", "complexo", "alemao", "serrana", "noroeste-fluminense", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-mulher-e-presa-transportando-3-kg-de-drogas-do-rio-para-cantagalo-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma mulher, de 37 anos, foi presa ao ser flagrada transportando cerca de três quilos de drogas do Rio de Janeiro para Cantagalo, na Região Serrana. Ela estava em um ônibus abordado por policiais do Posto 2.
 

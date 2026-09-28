@@ -5,6 +5,7 @@ pubDate: "2026-05-22T13:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "icms", "comercio-exterior", "economia", "governo-rj", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221323-rio-comex-entra-em-vigor-e-muda-icms-no-comercio-exterior.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O governo em exercício do Estado do Rio de Janeiro sancionou a lei que cria o Rio Comex, regime tributário especial voltado a estimular operações de comércio exterior e ampliar a competitividade logística fluminense. A norma foi publicada no Diário Oficial desta quinta-feira, dia 21, e estabelece regras para incentivo fiscal em importações e atividades correlatas.
 

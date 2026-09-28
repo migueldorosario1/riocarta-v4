@@ -5,6 +5,7 @@ pubDate: "2026-06-28T21:23:49Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "saude", "mutirao", "colonoscopia", "endoscopia", "fila-zero", "sao-cristovao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282123-mutirao-realiza-exames-de-colonoscopia-e-endoscopia-para-pacientes-cadastrados-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria Municipal de Saúde de Cabo Frio realizou neste sábado (27) mais uma etapa do mutirão de exames no Hospital Municipal São José Operário, no bairro São Cristóvão. A ação integra o programa “Fila Zero”, voltado ao atendimento de pacientes cadastrados no sistema de regulação que aguardam pela realização de exames na rede municipal.
 

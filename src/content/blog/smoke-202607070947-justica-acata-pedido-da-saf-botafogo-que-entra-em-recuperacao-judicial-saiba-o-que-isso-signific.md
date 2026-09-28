@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:49:08Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "justica", "recuperacao-judicial", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-justica-acata-pedido-da-saf-botafogo-que-entra-em-recuperacao-judicial-saiba-o-que-isso-signific.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A SAF do Botafogo está em recuperação judicial. A 2ª Vara Empresarial do Rio de Janeiro, em decisão do juiz Marcelo Mondego de Carvalho Lima, deferiu o pedido feito nesta quinta-feira e iniciou o processo.
 

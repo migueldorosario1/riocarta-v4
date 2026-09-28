@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:55Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "macae", "itaocara", "deputado-federal", "policia-federal", "fraude-licitacao", "castracao-animal", "secretaria-agricultura", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/quem-e-o-deputado-alvo-da-pf-em-operacao-contra-fraude-em-castracao-animal.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Quem é o deputado alvo da PF em operação contra fraude em castração animal

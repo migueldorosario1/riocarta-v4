@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:00:19Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "pontal-do-pero", "bandeira-azul", "meio-ambiente", "capital-porto", "estacio", "saude", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-pontal-do-pero-perde-selo-bandeira-azul.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Pontal do Peró, em Cabo Frio, na Região dos Lagos, perdeu o selo Bandeira Azul, certificação internacional concedida a praias, marinas e embarcações de turismo que cumprem critérios de qualidade ambiental, segurança e gestão sustentável.
 

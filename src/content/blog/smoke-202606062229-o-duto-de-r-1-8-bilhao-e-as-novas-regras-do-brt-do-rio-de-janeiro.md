@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:29:22Z"
 draft: false
 tags: ["rio-de-janeiro", "camara-municipal", "brtcarioca", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-o-duto-de-r-1-8-bilhao-e-as-novas-regras-do-brt-do-rio-de-janeiro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Câmara Municipal do Rio de Janeiro aprovou em primeira discussão, nesta terça-feira (19 de maio de 2026), o Projeto de Decreto Legislativo 143/2026, que flexibiliza e amplia as regras para a contratação de operações de crédito voltadas à infraestrutura do BRT. A proposta, de autoria da base governista, altera a legislação vigente para permitir que a prefeitura busque financiamentos de até R$ 1,8 bilhão fora do eixo tradicional composto pelo BNDES e pelo Banco do Brasil.
 

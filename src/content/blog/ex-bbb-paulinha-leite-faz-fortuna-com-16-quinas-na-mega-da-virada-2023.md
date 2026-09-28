@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2234_1_paulinhabbb1-22183737.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-BBB Paulinha Leite faz fortuna com 16 quinas na mega da virada 2023!'
 pubDate: 2024-01-02 07:00:00

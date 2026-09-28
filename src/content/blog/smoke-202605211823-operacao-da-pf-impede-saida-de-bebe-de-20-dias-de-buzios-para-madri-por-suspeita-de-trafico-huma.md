@@ -5,6 +5,7 @@ pubDate: "2026-05-21T18:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "regiao-dos-lagos", "policia-federal", "macae-norte-fluminense", "buzios", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211823-operacao-da-pf-impede-saida-de-bebe-de-20-dias-de-buzios-para-madri-por-suspeita-de-trafico-huma.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Federal deflagrou uma operação que acendeu um alerta gravíssimo na Região dos Lagos após identificar indícios de uma tentativa de retirada irregular do país de uma recém-nascida de apenas 20 dias de vida, moradora de Armação dos Búzios, com destino a Madri, na Espanha. O caso é tratado pela PF como uma investigação ligada ao possível crime de tráfico internacional de pessoas e levou à realização da Operação Anjos da Guarda, coordenada pela Delegacia da Polícia Federal em Macaé.
 

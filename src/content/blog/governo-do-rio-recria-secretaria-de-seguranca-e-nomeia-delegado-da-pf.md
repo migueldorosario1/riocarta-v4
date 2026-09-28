@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2029_policia-civil-marcus-amim-crop-20231019184218-960x540-1.jpg"
+hero_credit: "UnknownUnknown / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo do Rio recria Secretaria de Segurança e nomeia Delegado da PF'
 pubDate: 2023-11-28 06:00:00

@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:02:48Z"
 draft: true
 tags: ["rio-de-janeiro", "unimed-ferj", "saude", "oncologia", "gavea", "copacabana", "saude-e-educacao-rj", "politica-rj", "regiao-metropolitana", "leme", "duque-de-caxias", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-unimed-amplia-rede-de-tratamento-oncologico-no-rio-com-parceria-da-rede-americas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Unimed do Brasil anunciou uma parceria com a Rede Américas para ampliar o atendimento oncológico oferecido aos beneficiários da Unimed Ferj no estado do Rio de Janeiro. O acordo ocorre em meio às reclamações de clientes da cooperativa carioca sobre dificuldades de acesso a tratamentos contra o câncer desde o ano passado.
 

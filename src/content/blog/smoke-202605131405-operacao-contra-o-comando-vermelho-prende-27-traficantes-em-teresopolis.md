@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:05Z"
 draft: true
 tags: ["rio-de-janeiro", "teresopolis", "regiao-serrana", "comando-vermelho", "operacao-policial", "seguranca-publica-rj", "politica-rj", "regiao-metropolitana", "comunidade", "complexo", "serrana", "seguranca-publica", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-operacao-contra-o-comando-vermelho-prende-27-traficantes-em-teresopolis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Uma operação deflagrada nesta quarta-feira (13) contra integrantes da facção criminosa Comando Vermelho resultou na prisão de 27 denunciados em Teresópolis, na Região Serrana do Rio de Janeiro. A ação foi realizada após denúncia apresentada pelo Ministério Público do Estado do Rio de Janeiro (MPRJ), que investiga a atuação do grupo criminoso nas comunidades do Perpétuo, Pimentel e Rosário, conhecidas como Complexo PPR.

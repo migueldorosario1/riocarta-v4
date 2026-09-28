@@ -5,6 +5,7 @@ pubDate: "2026-06-29T18:25:56Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "educacao", "robotica", "olimpiada-brasileira-de-robotica", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "leme", "colegio", "joa", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291823-colegio-de-barra-mansa-se-destaca-em-olimpiada-brasileira-de-robotica.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA MANSA
 

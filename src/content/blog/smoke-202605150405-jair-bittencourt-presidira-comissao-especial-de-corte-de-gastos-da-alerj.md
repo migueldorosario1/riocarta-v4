@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-jair-bittencourt-presidira-comissao-especial-de-corte-de-gastos-da-alerj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Assembleia Legislativa do Rio de Janeiro (Alerj) instalou oficialmente, nesta quinta-feira (14), a comissão especial criada para analisar gastos da máquina pública estadual e discutir medidas de equilíbrio fiscal. O deputado Jair Bittencourt (PL) presidirá a comissão, que terá a deputada Tia Ju (Republicanos) na vice-presidência e o deputado Alan Lopes (PL) na relatoria.

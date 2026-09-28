@@ -5,6 +5,7 @@ pubDate: "2026-05-16T15:24:13Z"
 draft: false
 tags: ["rio-de-janeiro", "economia", "energia", "economia-local", "politica-rj", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161523-gas-natural-tera-reducao-de-preco-no-rio-apos-acordo-entre-governo-petrobras-e-naturgy.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Motoristas que utilizam GNV no Estado do Rio de Janeiro podem pagar menos nos próximos meses. O Governo do Estado divulgou que um acordo firmado entre o Executivo estadual, a Petrobras e a Naturgy vai reduzir o preço do gás natural nos postos de combustíveis, além de beneficiar consumidores residenciais, industriais e comerciais.

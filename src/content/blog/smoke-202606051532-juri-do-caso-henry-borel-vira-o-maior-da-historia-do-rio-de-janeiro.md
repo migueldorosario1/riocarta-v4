@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:34:36Z"
 draft: false
 tags: ["rio-de-janeiro", "caso-henry-borel", "tribunal-do-juri", "jairinho", "monique-medeiros", "justica", "seguranca-publica", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-juri-do-caso-henry-borel-vira-o-maior-da-historia-do-rio-de-janeiro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Julgamento entrou no sétimo dia consecutivo e contará com 24 depoimentos no total; no domingo (31), a babá retratou versões anteriores
 

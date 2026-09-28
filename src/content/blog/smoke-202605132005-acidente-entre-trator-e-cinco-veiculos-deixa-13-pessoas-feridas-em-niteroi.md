@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "acidente", "transito", "avenida-jansen-de-melo", "centro-niteroi", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "sao-goncalo", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132005-acidente-entre-trator-e-cinco-veiculos-deixa-13-pessoas-feridas-em-niteroi.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O acidente envolvendo um trator, um ônibus e quatro carros de passeio na Avenida Jansen de Melo, em Niterói, deixou 13 pessoas feridas na tarde desta quarta-feira (13). Entre as vítimas estão três crianças da mesma família e uma gestante, segundo informações da Ecovias Ponte, que auxiliou no atendimento da ocorrência.

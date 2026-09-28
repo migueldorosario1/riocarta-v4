@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:56Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "cultura", "shows", "aniversario", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "niteroi", "mare", "comunidade", "sao-goncalo", "itaborai", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131605-marica-212-anos-ludmilla-xama-fafa-de-belem-e-os-paralamas-do-sucesso-sao-destaques-da-segunda-s.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Maricá 212 anos: Ludmilla, Xamã, Fafá de Belém e Os Paralamas do Sucesso são destaques da segunda semana de shows

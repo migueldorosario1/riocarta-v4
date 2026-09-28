@@ -5,6 +5,7 @@ pubDate: "2026-05-16T05:24:11Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160523-justica-aceita-recuperacao-judicial-da-saf-do-botafogo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Justiça do Rio de Janeiro autorizou a recuperação judicial da SAF do Botafogo e deu início oficial ao processo de reestruturação financeira do clube. A decisão, assinada na madrugada desta sexta-feira (15) pelo juiz Marcelo Mondego de Carvalho Lima, da 2ª Vara Empresarial da Capital, suspende cobranças, execuções e bloqueios contra a empresa por 180 dias.

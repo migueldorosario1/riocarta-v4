@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6607_image-21-e1740147700361.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Castro afirma que Bacellar é o único que pode enfrentar Paes em 2026'
 pubDate: 2025-02-21 11:22:42

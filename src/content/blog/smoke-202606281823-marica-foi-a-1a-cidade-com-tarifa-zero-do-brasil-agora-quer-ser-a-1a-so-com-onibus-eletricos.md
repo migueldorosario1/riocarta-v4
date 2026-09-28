@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:27:12Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "transporte-mobilidade", "capital-porto", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-marica-foi-a-1a-cidade-com-tarifa-zero-do-brasil-agora-quer-ser-a-1a-so-com-onibus-eletricos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Maricá anunciou uma nova etapa no processo de modernização do transporte público municipal. A meta é que toda a frota dos ônibus gratuitos, conhecidos como "Vermelhinhos", seja eletrificada até 2028, reduzindo emissões de poluentes e avançando na sustentabilidade do sistema de mobilidade urbana da cidade.
 

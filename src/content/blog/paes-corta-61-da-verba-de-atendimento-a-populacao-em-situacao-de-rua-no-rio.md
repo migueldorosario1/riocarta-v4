@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1154_image-32.png"
+hero_credit: "seier+seier / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes corta 61% da verba de atendimento à população em situação de rua no Rio'
 pubDate: 2023-08-21 11:18:11

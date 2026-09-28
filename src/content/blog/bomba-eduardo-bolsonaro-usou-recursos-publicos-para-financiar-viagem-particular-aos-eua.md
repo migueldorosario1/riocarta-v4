@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4181_imagem-3.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Eduardo Bolsonaro usou recursos públicos para financiar viagem particular aos EUA'
 pubDate: 2024-04-15 08:57:22

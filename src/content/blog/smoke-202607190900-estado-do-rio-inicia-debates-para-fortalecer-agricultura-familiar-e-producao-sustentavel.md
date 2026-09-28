@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:02:17Z"
 draft: true
 tags: ["rio-de-janeiro", "agricultura-familiar", "sustentabilidade", "politica-rj", "regiao-metropolitana", "comunidade", "serrana", "problemas-estruturais", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-estado-do-rio-inicia-debates-para-fortalecer-agricultura-familiar-e-producao-sustentavel.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Como aumentar a produção de alimentos, enfrentar os efeitos das mudanças climáticas e fortalecer a agricultura familiar? Essas questões começam a ser debatidas nesta semana pelo Governo do Estado do Rio de Janeiro em uma série de encontros que pretende reunir produtores rurais, pescadores, pesquisadores e representantes da sociedade para construir novas políticas voltadas ao desenvolvimento sustentável.
 

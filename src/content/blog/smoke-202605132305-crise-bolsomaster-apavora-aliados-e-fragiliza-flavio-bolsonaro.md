@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "banco-master", "senado", "capital", "regiao-metropolitana", "mage", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-crise-bolsomaster-apavora-aliados-e-fragiliza-flavio-bolsonaro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O clima nos bastidores da pré-campanha de Flávio Bolsonaro (PL) oscila entre o choque e a paralisia. A divulgação das mensagens em que o senador solicita R$ 134 milhões ao banqueiro Daniel Vorcaro para o filme “Dark Horse” caiu como uma bomba de fragmentação no Congresso Nacional.

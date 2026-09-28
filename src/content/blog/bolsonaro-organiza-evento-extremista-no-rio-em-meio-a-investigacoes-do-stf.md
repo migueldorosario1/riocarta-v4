@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4251_imagem-29.jpg"
+hero_credit: "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro organiza evento extremista no Rio em meio a investigações do STF'
 pubDate: 2024-04-19 09:16:16

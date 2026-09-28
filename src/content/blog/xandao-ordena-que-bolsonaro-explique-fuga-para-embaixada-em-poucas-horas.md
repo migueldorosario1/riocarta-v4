@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3968_imagem-7.webp"
+hero_credit: "Palácio do Planalto / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Xandão ordena que Bolsonaro explique fuga para Embaixada em poucas horas'
 pubDate: 2024-03-26 11:00:34

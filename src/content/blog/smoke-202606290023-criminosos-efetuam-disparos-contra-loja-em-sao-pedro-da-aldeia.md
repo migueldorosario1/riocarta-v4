@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:26:02Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "seguranca-publica", "estacio", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290023-criminosos-efetuam-disparos-contra-loja-em-sao-pedro-da-aldeia.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A loja Nova Car, em São Pedro da Aldeia, foi alvo de uma ação criminosa na manhã deste sábado (27).
 

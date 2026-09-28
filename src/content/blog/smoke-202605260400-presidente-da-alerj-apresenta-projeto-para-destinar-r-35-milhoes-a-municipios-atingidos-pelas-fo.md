@@ -5,6 +5,7 @@ pubDate: "2026-05-26T04:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "financiamento", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "nova-iguacu", "mesquita", "japeri", "mage", "sao-goncalo", "itaborai", "campos", "sao-fidelis"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605260400-presidente-da-alerj-apresenta-projeto-para-destinar-r-35-milhoes-a-municipios-atingidos-pelas-fo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os recursos deverão ser utilizados em ações emergenciais de assistência social, saúde e recuperação da infraestrutura urbana e rural danificada pelos temporais
 

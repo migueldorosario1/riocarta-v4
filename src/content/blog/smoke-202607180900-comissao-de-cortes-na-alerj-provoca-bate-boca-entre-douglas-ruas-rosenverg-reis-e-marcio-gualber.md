@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:01:18Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "douglas-ruas", "rosenverg-reis", "marcio-gualberto", "comissao-de-cortes", "equilibrio-fiscal", "regiao-metropolitana", "colegio", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-comissao-de-cortes-na-alerj-provoca-bate-boca-entre-douglas-ruas-rosenverg-reis-e-marcio-gualber.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A criação da comissão especial para promover cortes de gastos e discutir medidas de equilíbrio fiscal na Assembleia Legislativa do Rio de Janeiro (Alerj) provocou um bate-boca entre integrantes da mesa diretora no início da manhã desta quarta-feira (13).
 

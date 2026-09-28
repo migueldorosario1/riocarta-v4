@@ -5,6 +5,7 @@ pubDate: "2026-06-29T21:24:11Z"
 draft: false
 tags: ["rio-de-janeiro", "guapimirim", "cachoeira-de-macacu", "regiao-metropolitana", "serrana", "petropolis", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606292123-conheca-hope-a-egua-que-ia-virar-carne-seca-mas-foi-adotada-por-andre-marques.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 No último domingo, 28, o apresentador revelou que adotou uma égua chamada Hope, que passou a viver no Recanto do Marques, propriedade localizada entre Guapimirim e Cachoeira de Macacu, no Rio de Janeiro. Segundo André, a adoção aconteceu após ele ser procurado por uma jovem que contou a história do animal.
 

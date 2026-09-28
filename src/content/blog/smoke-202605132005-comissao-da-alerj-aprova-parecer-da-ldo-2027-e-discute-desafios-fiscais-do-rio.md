@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "ldo-2027", "orcamento", "politica-rj", "sul-fluminense", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132005-comissao-da-alerj-aprova-parecer-da-ldo-2027-e-discute-desafios-fiscais-do-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 ESTADO

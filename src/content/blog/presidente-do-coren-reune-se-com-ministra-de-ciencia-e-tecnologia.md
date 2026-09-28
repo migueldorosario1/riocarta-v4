@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6208_image-2-e1734204648532.png"
+hero_credit: "Europäische Kommission - Audiovisueller Dienst, Christophe Licoppe, Yügen, CE - Service audiovisuel, EC - Audiovisual Service / Wikimedia Commons (CC BY 4.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente do Coren reúne-se com ministra de Ciência e Tecnologia'
 pubDate: 2024-12-14 16:32:40

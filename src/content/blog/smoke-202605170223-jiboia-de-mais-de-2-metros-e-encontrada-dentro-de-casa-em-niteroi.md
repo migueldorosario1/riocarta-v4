@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:24:32Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-ocenica", "regiao-metropolitana", "capital", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-jiboia-de-mais-de-2-metros-e-encontrada-dentro-de-casa-em-niteroi.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma jiboia com mais de dois metros de comprimento foi resgatada por agentes da Guarda Municipal de Niterói na sexta-feira (15/05), após ser encontrada dentro de uma residência no bairro Engenho do Mato, na Região Oceânica da cidade. Após a captura, o animal foi levado e solto em uma área de mata preservada no Córrego dos Colibris, em Itaipu, na Região Metropolitana do Rio.
 

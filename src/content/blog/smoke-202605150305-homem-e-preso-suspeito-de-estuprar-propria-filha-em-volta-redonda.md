@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:34Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "nova-primavera", "seguranca-publica", "sul-fluminense-costa-verde", "regiao-metropolitana", "comunidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-homem-e-preso-suspeito-de-estuprar-propria-filha-em-volta-redonda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Volta Redonda – Um homem suspeito de estuprar própria filha, de 9 anos, foi preso na manhã desta quinta-feira (14) no bairro Nova Primavera, em Volta Redonda, durante uma operação da Delegacia Especializada de Atendimento à Mulher (DEAM).

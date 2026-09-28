@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:55:11Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "cabo-frio", "policia-civil", "seguranca-publica", "regiao-dos-lagos", "regiao-metropolitana", "estacio"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281951-carro-roubado-em-sao-goncalo-e-recuperado-pela-policia-civil-em-condominio-de-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil recuperou um carro com registro de roubo durante uma ação da Operação Torniquete, em um condomínio localizado no bairro Praia do Forte, em Cabo Frio. De acordo com a 126ª DP, a localização do veículo foi possível após levantamento do setor de inteligência.
 

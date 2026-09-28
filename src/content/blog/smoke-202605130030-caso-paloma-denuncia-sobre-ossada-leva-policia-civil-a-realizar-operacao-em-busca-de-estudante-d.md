@@ -5,6 +5,7 @@ pubDate: "2026-05-13T03:31:03Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "desaparecimento", "policia-civil", "estudante", "regiao-metropolitana", "mage", "seguranca-publica", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130030-caso-paloma-denuncia-sobre-ossada-leva-policia-civil-a-realizar-operacao-em-busca-de-estudante-d.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Uma denúncia sobre a possível localização de uma ossada humana mobilizou a Polícia Civil na manhã desta terça-feira (12), em Rio das Ostras. A ação foi coordenada pela 128ª Delegacia de Polícia, sob comando do delegado Luis Mauricio Armond, com apoio de cães farejadores de Casimiro de Abreu, equipes de perícia, Guarda Municipal e Prefeitura de Rio das Ostras.

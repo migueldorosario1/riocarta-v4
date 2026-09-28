@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2522_whatsapp-image-2023-11-10-at-15.36.52.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeito Eduardo Paes anuncia proibição da feira de Acari no Rio'
 pubDate: 2024-01-23 08:30:00

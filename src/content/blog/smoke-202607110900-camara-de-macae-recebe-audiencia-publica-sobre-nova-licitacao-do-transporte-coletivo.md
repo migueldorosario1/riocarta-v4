@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:07Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "transporte-coletivo", "audiencia-publica", "camara-municipal", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-camara-de-macae-recebe-audiencia-publica-sobre-nova-licitacao-do-transporte-coletivo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Câmara Municipal de Macaé vai receber nesta quarta-feira (8), às 18h, uma Audiência Pública Prévia à Licitação do Sistema de Transporte Coletivo Urbano de Passageiros. O encontro será aberto à participação da população e irá contar com a apresentação de ações voltadas a construção de um transporte mais eficiente, moderno e alinhado com as necessidades dos usuários.
 

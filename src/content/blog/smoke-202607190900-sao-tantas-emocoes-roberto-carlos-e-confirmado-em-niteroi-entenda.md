@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:01:21Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "arena-niteroi", "roberto-carlos", "cultura", "prefeitura-de-niteroi", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "transporte-mobilidade", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-sao-tantas-emocoes-roberto-carlos-e-confirmado-em-niteroi-entenda.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A nova Arena Niterói, construída no Parque Poliesportivo da Concha Acústica, na região central da cidade, já tem data para abrir as portas ao público. A Prefeitura confirmou que o espaço será inaugurado no próximo dia 15 de junho e terá como primeira grande atração dois shows do cantor Roberto Carlos, marcados para os dias 26 e 27 do mesmo mês.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5468_imagem-115.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Beneficiários do Bolsa Família gastaram R$ 3 bilhões em apostas online'
 pubDate: 2024-09-25 05:26:00

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3427_2024022317024_452ac747-bd2e-431e-8f1c-7b5ab56e609c.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula sinaliza publicamente seu apoio à reeleição de Paes'
 pubDate: 2024-02-23 18:27:04

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:24:10Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "estacionamento-irregular", "subprefeitura-zona-sul", "guarda-municipal", "rio-em-ordem", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "estacio", "iraja", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290023-operacao-autua-30-veiculos-por-estacionamento-irregular-em-ipanema.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

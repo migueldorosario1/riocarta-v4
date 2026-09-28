@@ -5,6 +5,7 @@ pubDate: "2026-05-26T00:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "ilha-do-governador", "jardim-guanabara", "zona-norte", "meio-ambiente", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "mage", "vargem-pequena", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605260000-capivara-espancada-na-ilha-do-governador-volta-a-natureza-apos-dois-meses-de-recuperacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Capivara que foi brutalmente espancada por um grupo de homens na Ilha do Governador voltou à natureza nesta quarta-feira (20), após passar cerca de dois meses em tratamento veterinário especializado.
 

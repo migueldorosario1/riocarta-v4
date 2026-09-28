@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:38:37Z"
 draft: false
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "norte-noroeste-fluminense", "politica-rj", "educacao", "regiao-metropolitana", "campos", "noroeste-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-emendas-parlamentares-de-thiago-rangel-entram-na-mira-do-stf.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 As emendas parlamentares destinadas a obras em escolas estaduais do Rio de Janeiro passaram a ser alvo direto de investigação no Supremo Tribunal Federal após a prisão do deputado estadual Thiago Rangel, acusado pela Polícia Federal de integrar um suposto esquema de desvio de recursos públicos ligados à Secretaria Estadual de Educação.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:21Z"
 draft: true
 tags: ["rio-de-janeiro", "itaperuna", "natividade", "br-356", "acidente", "norte-noroeste-fluminense", "campos", "comunidade", "noroeste-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-jovem-morre-apos-grave-acidente-na-br-356-em-itaperuna.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Um jovem, de 24 anos, morreu após um grave acidente ocorrido na madrugada deste domingo (05/07) na BR-356 em Itaperuna. A colisão envolvendo uma carreta e um carro aconteceu na ponte sobre o Rio Carangola, na chegada da cidade.
 

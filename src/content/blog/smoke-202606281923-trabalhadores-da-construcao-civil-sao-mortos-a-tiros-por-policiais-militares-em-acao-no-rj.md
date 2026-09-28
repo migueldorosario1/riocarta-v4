@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "policia-militar", "alerj", "direitos-humanos", "estado", "mage", "niteroi", "itaborai", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281923-trabalhadores-da-construcao-civil-sao-mortos-a-tiros-por-policiais-militares-em-acao-no-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Dois profissionais da construção civil que estavam a caminho do serviço foram alvejados e mortos por agentes da Polícia Militar do Estado do Rio de Janeiro durante uma incursão realizada na manhã desta quarta-feira (27). O episódio aconteceu no bairro Jardim Catarina, no município de São Gonçalo, situado na região metropolitana do Rio de Janeiro.
 

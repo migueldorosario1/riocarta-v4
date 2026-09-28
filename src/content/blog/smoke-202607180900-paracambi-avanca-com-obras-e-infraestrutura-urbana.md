@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:01:20Z"
 draft: true
 tags: ["rio-de-janeiro", "paracambi", "baixada-fluminense", "infraestrutura", "obras", "drenagem", "mobilidade-urbana", "saude", "prevencao-enchentes", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-paracambi-avanca-com-obras-e-infraestrutura-urbana.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Paracambi avança com obras de infraestrutura em diferentes bairros, segundo informações da Prefeitura e da Secretaria Municipal de Obras e Serviços Públicos. As intervenções incluem drenagem, mobilidade urbana, saúde e prevenção de enchentes, com foco em reduzir impactos de chuvas e melhorar serviços essenciais.
 

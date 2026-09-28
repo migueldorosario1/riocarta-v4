@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:29Z"
 draft: true
 tags: ["rio-de-janeiro", "itaguai", "regiao-metropolitana", "sao-pedro-da-aldeia", "regiao-dos-lagos", "policia-federal", "abuso-sexual-infantil", "seguranca-publica-rj", "politica-rj", "mage", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-pf-prende-homem-por-abuso-sexual-infantil-na-internet.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Federal deflagrou, na manhã desta quarta-feira (13), a segunda fase da Operação Guardiões, para combater crimes de armazenamento e compartilhamento de material de abuso sexual infantil na internet. Durante a ação, um homem de 26 anos foi preso em flagrante em Itaguaí, na Região Metropolitana do Rio.

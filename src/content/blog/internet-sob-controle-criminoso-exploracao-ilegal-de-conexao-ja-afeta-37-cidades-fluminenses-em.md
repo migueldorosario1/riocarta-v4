@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:09:21Z"
 draft: false
 tags: ["rio-de-janeiro", "cachoeiras-de-macacu", "japeri", "paracambi", "marica", "regiao-metropolitana", "crime-organizado", "internet-ilegal", "seguranca-publica", "seguranca-publica-rj", "estado", "queimados", "leme", "favela"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/internet-sob-controle-criminoso-exploracao-ilegal-de-conexao-ja-afeta-37-cidades-fluminenses-em.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A comercialização ilegal de sinal de internet se consolida como uma das principais fontes de receita do crime organizado no estado do Rio. Levantamento conduzido pela imprensa carioca aponta que facções criminosas e milícias exploram a venda do serviço ou tentam impor cobranças a quem atua legalmente.

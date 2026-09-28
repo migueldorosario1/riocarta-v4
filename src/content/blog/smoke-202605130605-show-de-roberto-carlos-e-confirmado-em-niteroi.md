@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "arena-niteroi", "roberto-carlos", "cultura", "prefeitura-de-niteroi", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130605-show-de-roberto-carlos-e-confirmado-em-niteroi.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Show de Roberto Carlos é confirmado em Niterói

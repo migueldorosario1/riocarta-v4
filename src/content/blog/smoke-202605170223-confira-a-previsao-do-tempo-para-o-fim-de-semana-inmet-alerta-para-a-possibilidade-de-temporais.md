@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:24:26Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "regiao-metropolitana", "sao-goncalo-itaborai", "itaborai", "serrana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-confira-a-previsao-do-tempo-para-o-fim-de-semana-inmet-alerta-para-a-possibilidade-de-temporais.webp"
+hero_credit: "NOAA / Wikimedia Commons (Public domain)"
 ---
 Em Niterói e São Gonçalo, a sexta-feira (15) também será marcada por tempo instável
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1958_moradores-da-comunidade-da-rocinha-fazem-protesto-por-problemas-no-fornecimento-de-energia-20552_800x450.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Protesto por falta de luz na Rocinha fecha túnel Zuzu Angel e congestionamento atinge a Zona Sul'
 pubDate: 2023-11-17 12:30:00

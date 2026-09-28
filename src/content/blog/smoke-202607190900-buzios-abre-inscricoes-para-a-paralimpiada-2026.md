@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:02:07Z"
 draft: true
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "esporte", "paralimpiada", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-buzios-abre-inscricoes-para-a-paralimpiada-2026.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Búzios abriu, nesta segunda-feira (6), as inscrições para a Paralimpíada Búzios 2026. O prazo para participar vai até o dia 15 de julho e é destinado a pessoas com deficiência a partir de 18 anos.
 

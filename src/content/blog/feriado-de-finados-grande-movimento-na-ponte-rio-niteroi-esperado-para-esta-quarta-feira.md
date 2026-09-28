@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1765_bdrj-ponte1-1-.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Feriado de Finados Grande Movimento na Ponte Rio-Niterói Esperado para esta Quarta-feira'
 pubDate: 2023-11-01 15:00:00

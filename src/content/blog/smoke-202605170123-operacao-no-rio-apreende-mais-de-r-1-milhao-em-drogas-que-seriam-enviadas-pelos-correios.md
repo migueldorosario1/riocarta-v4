@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:25:27Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-operacao-no-rio-apreende-mais-de-r-1-milhao-em-drogas-que-seriam-enviadas-pelos-correios.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma ação de fiscalização realizada pela Receita Federal nesta quinta-feira em um centro de distribuição dos Correios, no Rio de Janeiro, resultou na apreensão de drogas, medicamentos irregulares e outros produtos ilícitos que seriam enviados para diferentes estados do país. Entre os destinos das encomendas estavam Minas Gerais, Maranhão, São Paulo, Goiás, Pernambuco e Paraíba.
 

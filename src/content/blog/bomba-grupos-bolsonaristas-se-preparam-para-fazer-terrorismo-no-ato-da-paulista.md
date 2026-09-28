@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3408_imagem-36.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Grupos bolsonaristas se preparam para fazer terrorismo no ato da Paulista'
 pubDate: 2024-02-23 09:21:44

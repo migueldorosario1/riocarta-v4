@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "seguranca-publica", "comunidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-policia-apreende-r-117-mil-em-drogas-e-causa-prejuizo-ao-trafico-em-sao-pedro-da-aldeia.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Uma grande quantidade de drogas foi apreendida pela Polícia Militar durante uma ação realizada na madrugada desta quinta-feira (14), no bairro Campo Redondo, em São Pedro da Aldeia. O material estava em uma residência localizada na Rua Albertino de Araújo, na localidade conhecida como Round Camp.

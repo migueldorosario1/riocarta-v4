@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3938_image-4.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sobrinho de integrante da cúpula do jogo do bicho assumirá vaga de Chiquinho Brazão na Câmara'
 pubDate: 2024-03-24 13:02:38

@@ -5,6 +5,7 @@ pubDate: "2026-06-29T23:25:08Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-sul", "seguranca-publica", "rio-capital-zona-sul-grande-tijuca", "capital", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-o-relato-da-empresaria-manu-cit-sobre-furto-sofrido-na-zona-sul.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

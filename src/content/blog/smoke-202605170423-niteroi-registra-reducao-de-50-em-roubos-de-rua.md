@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:27Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "seguranca-publica", "niteroi-metropolitana", "zona-norte", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-niteroi-registra-reducao-de-50-em-roubos-de-rua.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O município de Niterói, na Região Metropolitana do Rio, registrou uma queda significativa nos roubos de rua, que despencaram 50% em relação ao mesmo período no ano de 2025. Os dados foram levantados pelo Observatório de Segurança da cidade e divulgados nesta sexta-feira (15), servindo como prévia para o balanço do Instituto de Segurança Pública (ISP).
 

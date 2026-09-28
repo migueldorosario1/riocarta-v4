@@ -5,6 +5,7 @@ pubDate: "2026-06-29T18:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "greve-de-onibus", "transporte-publico", "transporte-mobilidade", "capital", "regiao-metropolitana", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291823-greve-de-onibus-no-rio-7-pontos-para-entender-a-paralisacao-dos-rodoviarios.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A greve dos rodoviários do Rio de Janeiro começou à meia-noite desta segunda-feira (29/06) e afetou a circulação de ônibus em toda a capital fluminense. Passageiros enfrentaram longas esperas nos pontos e dificuldade para chegar ao trabalho, a consultas, escolas e outros compromissos pela cidade.
 

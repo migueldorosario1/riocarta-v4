@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:56:10Z"
 draft: true
 tags: ["rio-de-janeiro", "laranjeiras", "fluminense", "futebol", "rio-capital-zona-sul-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281951-canobbio-recebe-uma-pausa-para-descanso-e-deve-se-apresentar-no-fluminense-no-proximo-dia-10.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O atacante Agustín Canobbio, de 27 anos, recebeu um período de férias após disputar a fase de grupos da Copa do Mundo, pela seleção do Uruguai. Segundo informações divulgadas pelo portal de notícias esportivas, "GE", uruguaio deverá retornar às atividades em grupo do Fluminense no dia 10 de julho.
 

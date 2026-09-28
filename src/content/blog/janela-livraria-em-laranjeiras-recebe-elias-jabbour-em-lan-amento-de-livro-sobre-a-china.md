@@ -5,6 +5,7 @@ pubDate: "2026-05-23T19:22:41Z"
 category: ["Pol\u00edtica", "Cultura", "Livro", "Elei\u00e7\u00f5es 2026"]
 tags: ["china", "elias-jabbour"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/janela-livraria-em-laranjeiras-recebe-elias-jabbour-em-lan-amento-de-livro-sobre-a-china.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 author: "Redação"
 ---
 

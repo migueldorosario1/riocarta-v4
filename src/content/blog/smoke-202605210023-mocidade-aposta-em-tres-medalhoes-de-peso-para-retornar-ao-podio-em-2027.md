@@ -5,6 +5,7 @@ pubDate: "2026-05-21T00:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "carnaval", "mocidade-independente-de-padre-miguel", "padre-miguel", "cultura-carnaval", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210023-mocidade-aposta-em-tres-medalhoes-de-peso-para-retornar-ao-podio-em-2027.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O resultado do Carnaval 2026 gerou um misto de sentimentos entre orgulho e frustração. Visando voltar à disputa, a Mocidade Independente de Padre Miguel passa por uma reorganização, que indica a chegada de novos integrantes, como a porta-bandeira Rafaela Theodoro e o intérprete Evandro Malandro.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2186_image_processing20220119-17965-15v76d1.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inscrições abertas para vendedores no Carnaval de Rua do Rio 2024'
 pubDate: 2023-12-20 08:02:00

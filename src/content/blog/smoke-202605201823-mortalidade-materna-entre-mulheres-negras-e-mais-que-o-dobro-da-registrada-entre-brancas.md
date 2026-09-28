@@ -5,6 +5,7 @@ pubDate: "2026-05-20T18:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "saude", "capital", "regiao-metropolitana", "leme"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201823-mortalidade-materna-entre-mulheres-negras-e-mais-que-o-dobro-da-registrada-entre-brancas.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A desigualdade no acesso à saúde no Brasil foi evidenciada por números apresentados em uma audiência pública na manhã desta segunda-feira (19/05), na Assembleia Legislativa do Rio de Janeiro (Alerj). Convocada pela Comissão de Defesa dos Direitos das Mulheres, a reunião destacou que a mortalidade materna entre mulheres negras é mais que o dobro da registrada entre mulheres brancas.
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:41:53Z"
 draft: false
 tags: ["rio-de-janeiro", "vale-do-cafe", "vassouras", "miguel-pereira", "mendes", "engenheiro-paulo-de-frontin", "rio-claro", "agricultura-sustentavel", "sul-fluminense-costa-verde", "sul-fluminense", "problemas-estruturais", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-produtores-do-vale-do-cafe-ressignificam-a-tradicao-cafeeira-da-regiao-por-meio-de-praticas-sust.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 SUL FLUMINENSE E MÉDIO PARAÍBA
 

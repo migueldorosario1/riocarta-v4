@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:02:34Z"
 draft: true
 tags: ["rio-de-janeiro", "paciencia", "flavio-bolsonaro", "politica", "alexandre-de-moraes", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-moraes-manda-pf-colher-depoimento-de-flavio-bolsonaro-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 ⚡O ministro Alexandre de Moraes assinou despacho ordenando que a PF ouça o senador Flávio Bolsonaro em até 10 dias em inquérito sobre postagem que acusava o presidente Lula de crimes internacionais.
 

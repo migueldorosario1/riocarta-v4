@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:27:18Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "cabo-frio", "regiao-dos-lagos", "politica", "eleicoes", "lideranca-feminina", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-manoela-e-gabriela-aproximam-saquarema-e-cabo-frio-em-ato-politico.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Um encontro político realizado na noite desta terça-feira (11), em Cabo Frio, reuniu lideranças da Região dos Lagos e contou com a participação da ex-prefeita de Saquarema, Manoela Peres, e da pré-candidata a deputada estadual Dra. Gabriela Azevedo.

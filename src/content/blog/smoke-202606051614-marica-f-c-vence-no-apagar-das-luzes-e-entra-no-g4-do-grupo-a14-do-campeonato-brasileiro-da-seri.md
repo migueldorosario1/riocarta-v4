@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:16:46Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "futebol", "serie-d", "esporte", "nova-iguacu", "regiao-dos-lagos", "regiao-metropolitana", "joa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-marica-f-c-vence-no-apagar-das-luzes-e-entra-no-g4-do-grupo-a14-do-campeonato-brasileiro-da-seri.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 FutebolNotícias de Maricá
 

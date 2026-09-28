@@ -5,6 +5,7 @@ pubDate: "2026-05-21T23:23:09Z"
 draft: false
 tags: ["rio-de-janeiro", "madureira", "prefeitura", "trabalho", "capacitacao", "plataforma-oportunidades", "rio-capital-zona-norte", "capital", "joa", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212323-prefeitura-do-rio-lanca-plataforma-para-gerar-oportunidades-de-trabalho-e-capacitacao-de-profiss.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio lançou nesta quinta-feira (21/05), na Arena Carioca Fernando Torres, em Madureira, a plataforma Oportunidades Cariocas, iniciativa que reúne, em um único ambiente digital, oportunidades de capacitação profissional, acesso ao mercado de trabalho e empreendedorismo. Nesta primeira fase, a plataforma já disponibiliza cinco mil vagas para cursos de qualificação e mais de 1.
 

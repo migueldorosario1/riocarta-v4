@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:07Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-portuaria", "pier-maua", "educacao", "inovacao", "festival-led", "rio-capital-centro", "capital", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-festival-led-ocupa-o-pier-maua-com-programacao-gratuita-voltada-a-educacao-e-inovacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O Píer Mauá, na Zona Portuária do Rio, recebe nos dias 15 e 16 de maio a 5ª edição do Festival LED – Luz na Educação, que reúne uma programação gratuita dedicada a debates sobre o futuro da educação no Brasil. Com curadoria da Fundação Roberto Marinho, o evento contará com mais de 20 atividades entre palestras, mesas e oficinas, além de encontros com especialistas nacionais e internacionais das áreas de educação, cultura, tecnologia e comunicação.

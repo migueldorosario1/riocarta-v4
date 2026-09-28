@@ -5,6 +5,7 @@ pubDate: "2026-06-07T17:01:39Z"
 draft: true
 tags: ["rio-de-janeiro", "stf", "policia-militar", "pensao", "seguranca-publica", "politica-rj", "regiao-metropolitana", "olaria"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-stf-mantem-direito-de-familia-de-pm-do-rj-morto-em-servico-receber-duas-pensoes-integrais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ministro Edson Fachin, presidente do Supremo Tribunal Federal (STF), rejeitou o recurso do Governo do Estado do Rio de Janeiro e manteve o direito de duas pensionistas de um policial militar morto em serviço receberem integralmente dois benefícios pagos pelo Estado. A decisão foi publicada nesta quinta-feira (21) e impede que o governo continue fazendo descontos na chamada pensão especial.
 

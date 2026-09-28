@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "cultura-carnaval", "capital", "regiao-metropolitana", "zona-sul", "botafogo", "ipanema", "tijuca", "zona-norte", "ilha-do-governador", "jacare", "jardim-guanabara"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-campanha-coxinha-solidaria-do-lecado-chega-a-5a-edicao-com-acao-em-31-lojas-no-rj.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A solidariedade vai ganhar sabor especial no próximo dia 18 de maio. Pelo quinto ano consecutivo, o Lecadô transformará o Dia Nacional da Coxinha em uma ação coletiva de generosidade com a campanha “Coxinha Solidária”.
 

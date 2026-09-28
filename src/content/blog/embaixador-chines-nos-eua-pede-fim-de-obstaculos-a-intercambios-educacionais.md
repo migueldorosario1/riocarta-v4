@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2878_imagem.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Embaixador chinês nos EUA pede fim de obstáculos a intercâmbios educacionais'
 pubDate: 2024-02-04 05:51:00

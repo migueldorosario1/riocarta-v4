@@ -5,6 +5,7 @@ pubDate: "2026-05-26T12:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "saude", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605261200-governo-fluminense-articula-acoes-para-acelerar-consultas-e-cirurgias-no-estado.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Em uma nova etapa das ações de saúde coordenadas pelo Governo do Estado do Rio de Janeiro, a Secretaria de Estado de Saúde vem articulando medidas para ampliar o acesso da população a consultas, exames e cirurgias especializadas na rede pública. A iniciativa ocorre dentro do programa federal Agora Tem Especialistas, com foco na redução do tempo de espera por atendimentos no Sistema Único de Saúde.
 

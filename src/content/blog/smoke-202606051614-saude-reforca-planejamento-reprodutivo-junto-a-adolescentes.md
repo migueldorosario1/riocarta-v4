@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:17:09Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "saude", "adolescentes", "planejamento-reprodutivo", "regiao-dos-lagos", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-saude-reforca-planejamento-reprodutivo-junto-a-adolescentes.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Secretaria de Saúde promove uma série de encontros sobre Planejamento Reprodutivo e Direitos Sexuais voltados para adolescentes
 

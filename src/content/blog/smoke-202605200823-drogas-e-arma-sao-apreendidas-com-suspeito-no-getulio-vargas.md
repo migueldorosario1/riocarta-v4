@@ -5,6 +5,7 @@ pubDate: "2026-05-20T08:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "sul-fluminense-costa-verde", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200823-drogas-e-arma-sao-apreendidas-com-suspeito-no-getulio-vargas.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA MANSA
 

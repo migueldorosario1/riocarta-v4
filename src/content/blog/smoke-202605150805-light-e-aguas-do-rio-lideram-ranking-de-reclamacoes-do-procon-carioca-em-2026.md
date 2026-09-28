@@ -5,6 +5,7 @@ pubDate: "2026-05-15T11:05:37Z"
 draft: true
 tags: ["rio-de-janeiro", "procon-carioca", "light", "aguas-do-rio", "reclamacoes", "consumidor", "politica-rj", "capital", "regiao-metropolitana", "zona-oeste", "problemas-estruturais", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150805-light-e-aguas-do-rio-lideram-ranking-de-reclamacoes-do-procon-carioca-em-2026.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Light e a Águas do Rio lideram o ranking das empresas mais reclamadas no Procon Carioca no primeiro trimestre de 2026. A lista foi divulgada nesta quarta-feira (13) e reúne queixas enviadas por moradores do Rio de Janeiro entre janeiro e março.

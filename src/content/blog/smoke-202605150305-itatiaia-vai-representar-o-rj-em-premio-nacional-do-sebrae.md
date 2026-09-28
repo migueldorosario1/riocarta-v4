@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "sul-fluminense", "premio-sebrae", "prefeitura-empreendedora", "sul-fluminense-costa-verde", "regiao-metropolitana", "comunidade", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-itatiaia-vai-representar-o-rj-em-premio-nacional-do-sebrae.jpeg"
+hero_credit: "UnknownUnknown / Wikimedia Commons (Public domain)"
 categoria_macro: politica
 ---
 Itatiaia – O município de Itatiaia foi classificado para a etapa nacional da XIII edição do Prêmio Sebrae Prefeitura Empreendedora (PSPE), na categoria Simplificação. A cidade será a única representante do Estado do Rio de Janeiro na disputa nacional promovida pelo Sebrae.

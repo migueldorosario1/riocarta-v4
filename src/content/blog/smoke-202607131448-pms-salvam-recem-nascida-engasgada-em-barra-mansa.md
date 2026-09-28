@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:48:11Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "policia-militar", "saude", "sul-fluminense-costa-verde", "sul-fluminense", "comunidade", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-pms-salvam-recem-nascida-engasgada-em-barra-mansa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Barra Mansa – Policiais militares salvaram uma recém-nascida após um episódio de engasgamento, em Barra Mansa. O caso aconteceu nesta segunda-feira (6), quando a equipe foi procurada pelos pais da bebê logo no início do serviço.
 

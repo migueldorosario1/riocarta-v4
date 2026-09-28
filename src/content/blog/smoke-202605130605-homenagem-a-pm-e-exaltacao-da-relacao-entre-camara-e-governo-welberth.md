@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "camara-municipal", "welberth-rezende", "pm", "seguranca-publica", "politica-local", "politica-rj", "macae-norte-fluminense", "norte-noroeste-fluminense", "norte-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130605-homenagem-a-pm-e-exaltacao-da-relacao-entre-camara-e-governo-welberth.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Discursos na sessão da Câmara de Macaé contrastaram atual relação entre Executivo e Legislativo com período de forte desgaste institucional na gestão anterior

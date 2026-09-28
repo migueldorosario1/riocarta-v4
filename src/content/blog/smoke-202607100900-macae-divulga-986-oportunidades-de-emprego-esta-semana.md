@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:37Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "emprego", "prefeitura-de-macae", "norte-noroeste-fluminense", "estado", "mare", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-macae-divulga-986-oportunidades-de-emprego-esta-semana.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Macaé, por meio da Secretaria Municipal de Trabalho e Renda, divulga nesta semana 986 vagas de emprego para profissionais de diferentes níveis de escolaridade e áreas de atuação.
 

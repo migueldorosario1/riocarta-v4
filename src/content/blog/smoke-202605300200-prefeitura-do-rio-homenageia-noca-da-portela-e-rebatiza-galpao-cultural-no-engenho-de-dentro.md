@@ -5,6 +5,7 @@ pubDate: "2026-05-30T02:00:10Z"
 draft: false
 tags: ["rio-de-janeiro", "engenho-de-dentro", "zona-norte", "rio-capital-zona-norte", "politica-rj", "madureira", "transporte-mobilidade", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605300200-prefeitura-do-rio-homenageia-noca-da-portela-e-rebatiza-galpao-cultural-no-engenho-de-dentro.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio oficializou nesta quarta-feira (20) uma homenagem ao sambista Noca da Portela e rebatizou o galpão cultural da Praça Carlos Alberto Torres, conhecida como Praça do Trem, no Engenho de Dentro, na Zona Norte da cidade, com o intuito de eternizar o legado do bamba. O espaço passa a levar o nome de Comendador Noca da Portela, em referência ao artista, que morreu no último domingo (17), aos 93 anos.
 

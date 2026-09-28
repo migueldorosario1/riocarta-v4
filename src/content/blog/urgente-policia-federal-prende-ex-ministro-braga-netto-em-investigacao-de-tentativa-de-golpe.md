@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6198_imagem-14.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'URGENTE Polícia Federal prende ex-ministro Braga Netto em investigação de tentativa de golpe'
 pubDate: 2024-12-14 11:59:20

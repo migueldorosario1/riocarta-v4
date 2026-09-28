@@ -5,6 +5,7 @@ pubDate: "2026-05-20T19:23:19Z"
 draft: false
 tags: ["rio-de-janeiro", "rocinha", "complexo-do-alemao", "mare", "penha", "seguranca-publica", "operacoes-policiais", "sao-goncalo-itaborai", "regiao-metropolitana", "zona-sul", "zona-norte", "favela", "comunidade", "complexo"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201923-nove-em-cada-dez-moradores-de-comunidade-reprovam-operacoes-violentas.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Leia também: Polícia Civil realiza operação contra quadrilha que movimentou mais de R$ 338 milhões Fortes chuvas causam transtornos no bairro da Trindade, em SG O levantamento Por que moradores de favelas aprovam ou reprovam operações policiais com confronto armado? foi divulgado nesta quarta-feira (20).
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:09Z"
 draft: false
 tags: ["rio-de-janeiro", "lins-de-vasconcellos", "zona-norte", "suplementos-falsificados", "policia-civil", "fraude", "saude-publica", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "leme", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130105-fabrica-de-suplementos-falsificados-usava-amido-de-milho-para-enganar-consumidores-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Rio

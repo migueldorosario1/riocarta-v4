@@ -5,6 +5,7 @@ pubDate: "2026-05-19T20:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "gavea", "leblon", "iraja", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605192023-filha-de-diplomatas-morre-atropelada-por-van-em-ipanema.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil do Rio de Janeiro investiga o atropelamento que matou Mariana Tanaka Abdul Hak, de 20 anos, na esquina das ruas Vinicius de Moraes e Visconde de Pirajá, em Ipanema, na Zona Sul do Rio. O acidente aconteceu no fim da tarde de sábado (16/05), e a jovem morreu no domingo (17/05).
 

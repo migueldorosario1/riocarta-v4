@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:05:05Z"
 draft: false
 tags: ["rio-de-janeiro", "claudio-castro", "governo-rj", "policia-federal", "operacao-sem-refino", "refit", "manguinhos", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-policia-federal-diz-que-governo-claudio-castro-atuou-para-beneficiar-grupo-refit.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Federal aponta que o governo do ex-governador Cláudio Castro teria direcionado a máquina estadual para atender interesses do conglomerado de Ricardo Magro, dono da Refit, antiga Refinaria de Manguinhos. A informação consta na decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal, que autorizou a Operação Sem Refino, deflagrada nesta sexta-feira (15/05).

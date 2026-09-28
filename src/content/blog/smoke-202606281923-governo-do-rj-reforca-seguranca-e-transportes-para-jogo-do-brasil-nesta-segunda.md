@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:25:28Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "grande-tijuca", "baixada-fluminense", "regiao-metropolitana", "costa-verde", "seguranca-publica", "capital", "centro-do-rio", "ipanema", "tijuca", "senador-vasconcelos", "complexo", "baixada"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-governo-do-rj-reforca-seguranca-e-transportes-para-jogo-do-brasil-nesta-segunda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio de Janeiro montou uma operação especial para esta segunda-feira, 29 de junho, dia de ponto facultativo por causa do jogo da seleção brasileira na Copa do Mundo. A medida inclui reforço na segurança, mudanças na operação dos transportes e manutenção dos serviços essenciais.
 

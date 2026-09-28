@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:03:00Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "porto-novo", "lixo", "descarte-irregular", "regiao-metropolitana", "sao-goncalo-itaborai", "acari", "colegio", "rocha-miranda", "rocha", "comunidade", "queimados", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-moradores-denunciam-descarte-irregular-de-lixo-e-entulho-em-terreno-no-porto-novo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Além do mal cheiro, os moradores dizem que o lixo atrai insetos e roedores que entram nas casas próximas
 

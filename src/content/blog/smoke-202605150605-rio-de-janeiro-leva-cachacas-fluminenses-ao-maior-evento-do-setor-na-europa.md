@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "cachaca", "exportacao", "cultura", "economia-local", "cultura-carnaval", "capital", "regiao-metropolitana", "baixada", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-rio-de-janeiro-leva-cachacas-fluminenses-ao-maior-evento-do-setor-na-europa.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O Rio de Janeiro será um dos protagonistas do Cachaça Fest 2026, maior evento dedicado à cachaça na Europa. A programação acontece de 16 a 22 de maio, em Portugal, com agenda em Lisboa e Cascais, reunindo exposição, gastronomia, cultura, debates e ações voltadas ao mercado internacional de bebidas.

@@ -5,6 +5,7 @@ pubDate: "2026-05-25T18:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "turismo", "governo-rj", "politica-rj", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605251800-ricardo-couto-endurece-regras-e-corta-mais-de-r-18-milhoes-em-gastos-do-turismo-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio de Janeiro promoveu um corte superior a R$ 18,6 milhões nos gastos com patrocínios da Secretaria de Estado de Turismo (Setur-RJ). A medida faz parte do pacote de austeridade implantado pela atual gestão e atingiu diretamente eventos que integravam o calendário turístico estadual.
 

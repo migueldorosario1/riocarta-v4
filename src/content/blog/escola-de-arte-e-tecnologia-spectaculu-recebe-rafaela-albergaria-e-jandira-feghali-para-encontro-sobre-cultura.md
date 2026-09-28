@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5028_IMG-20240903-WA0069-e1725380408641.jpg"
+hero_credit: "Pedro Ribeiro Simões from Lisboa, Portugal / Wikimedia Commons (CC BY 2.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Escola de arte e tecnologia Spectaculu recebe Rafaela Albergaria e Jandira Feghali para encontro sobre cultura'
 pubDate: 2024-09-03 13:26:05

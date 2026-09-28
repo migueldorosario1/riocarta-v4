@@ -5,6 +5,7 @@ pubDate: "2026-05-31T02:00:16Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-olimpica", "zona-oeste", "rio-capital-zona-oeste", "politica-rj", "regiao-metropolitana", "mage", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605310200-eduardo-cavaliere-oficializa-boulevard-rubem-medina-em-area-do-rock-in-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio oficializou nesta terça-feira (19), no Diário Oficial, a homenagem a Rubem Medina, um dos responsáveis, junto com o irmão Roberto, pela criação do Rock in Rio e figura histórica do entretenimento brasileiro. Por meio do Decreto Rio nº 58012, o prefeito Eduardo Cavaliere determinou que uma via localizada no bairro da Barra Olímpica passe a se chamar Boulevard Rubem Medina.
 

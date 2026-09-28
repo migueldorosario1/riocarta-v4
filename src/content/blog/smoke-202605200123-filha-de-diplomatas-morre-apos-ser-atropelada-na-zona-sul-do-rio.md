@@ -5,6 +5,7 @@ pubDate: "2026-05-20T01:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "leblon", "pavuna", "mesquita", "itaborai", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200123-filha-de-diplomatas-morre-apos-ser-atropelada-na-zona-sul-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Veículo invadiu calçado e atingiu Mariana Tanaka Abdul Hak, de 20 anos
 

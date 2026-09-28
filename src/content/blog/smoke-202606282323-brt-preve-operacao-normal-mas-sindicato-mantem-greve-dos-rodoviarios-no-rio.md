@@ -5,6 +5,7 @@ pubDate: "2026-06-28T23:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "greve", "brt", "sindicato", "mobi-rio", "transporte-mobilidade", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282323-brt-preve-operacao-normal-mas-sindicato-mantem-greve-dos-rodoviarios-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mobi-Rio indica frota regular nos corredores do BRT; sindicato mantém convocação, inclusive com mensagem direcionada ao sistema, e decisão judicial noticiada determina circulação mínima de ônibus
 

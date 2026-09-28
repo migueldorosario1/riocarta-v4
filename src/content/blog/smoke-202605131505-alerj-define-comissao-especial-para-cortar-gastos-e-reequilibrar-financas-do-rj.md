@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "equilibrio-fiscal", "gastos-publicos", "sul-fluminense", "regiao-metropolitana", "comunidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-alerj-define-comissao-especial-para-cortar-gastos-e-reequilibrar-financas-do-rj.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Estado do Rio – A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) deu mais um passo na tentativa de colocar ordem nas contas públicas fluminenses. O presidente da Casa, deputado Douglas Ruas (PL), anunciou nesta quarta-feira (13) a composição da Comissão Especial de Equilíbrio Fiscal, criada para mapear o rombo nas finanças estaduais e propor caminhos concretos de contenção de despesas.

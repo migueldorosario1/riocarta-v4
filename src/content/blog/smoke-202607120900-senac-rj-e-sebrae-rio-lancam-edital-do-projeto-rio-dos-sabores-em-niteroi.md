@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:27Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "gastronomia", "marica", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-senac-rj-e-sebrae-rio-lancam-edital-do-projeto-rio-dos-sabores-em-niteroi.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Resumo da notícia
 

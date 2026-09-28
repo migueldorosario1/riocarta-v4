@@ -5,6 +5,7 @@ pubDate: "2026-05-13T10:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal-do-rio", "barbeiros", "cultura-local", "complexo-da-mare", "madureira", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "mare", "complexo", "seguranca-publica", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-dia-nacional-do-barbeiro-tem-homenagem-a-categoria-na-camara-do-rio.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 No Dia Nacional do Barbeiro, celebrado em 11 de maio, um grupo de profissionais recebeu uma bela homenagem na Câmara Municipal do Rio de Janeiro (CMRJ), na última segunda-feira. A Batalha dos Barbeiros Brasil, criada como um evento de confraternização pelos trabalhadores da barbearia, foi motivo de celebração no Legislativo carioca.

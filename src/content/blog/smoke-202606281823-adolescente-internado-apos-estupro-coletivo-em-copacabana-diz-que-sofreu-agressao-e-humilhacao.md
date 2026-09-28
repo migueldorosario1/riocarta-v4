@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:24:59Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "ilha-do-governador", "sistema-socioeducativo", "seguranca-publica", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "mage", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-adolescente-internado-apos-estupro-coletivo-em-copacabana-diz-que-sofreu-agressao-e-humilhacao.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil do Rio de Janeiro investiga denúncias de agressões físicas e humilhações sofridas por um adolescente nas dependências do sistema socioeducativo estadual. O jovem cumpre medida disciplinar de internação no Centro de Socioeducação Aeroporto Dom Bosco, localizado na Ilha do Governador.
 

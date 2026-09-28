@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:09:56Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-cristovao", "museu-nacional", "cultura", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "mage", "joa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-museu-nacional-abre-mostra-com-obras-de-vik-muniz-com-as-cinzas-do-incendio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Comovido com o incêndio que destruiu o Museu Nacional, em setembro de 2018, Vik Muniz criou uma coleção em polímero infundido com as cinzas, na qual reproduz itens do acervo. Em Rescaldo das Memórias, estão doze fotografias dos originais e cinco versões prototipadas em 3D — como o sarcófago de Sha-amun-en-su, a caveira paleolítica de Luzia, um vaso marajoara e o esqueleto de uma baleia-jubarte (foto).
 

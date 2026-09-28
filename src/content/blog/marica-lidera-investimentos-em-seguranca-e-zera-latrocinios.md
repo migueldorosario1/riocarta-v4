@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7635_WhatsApp-Image-2026-02-05-at-12.45.37-2.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá lidera investimentos em segurança e zera latrocínios'
 pubDate: 2026-02-05 21:31:18

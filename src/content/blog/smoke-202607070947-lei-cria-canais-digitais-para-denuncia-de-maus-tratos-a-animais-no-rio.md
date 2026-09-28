@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:49:16Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "animais", "capital", "regiao-metropolitana", "seguranca-publica", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-lei-cria-canais-digitais-para-denuncia-de-maus-tratos-a-animais-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Estabelecimentos de atendimento veterinário no Estado do Rio de Janeiro poderão informar casos de maus-tratos a animais por meio de canais digitais a serem criados pelos órgãos competentes. A medida está prevista na Lei 11.
 

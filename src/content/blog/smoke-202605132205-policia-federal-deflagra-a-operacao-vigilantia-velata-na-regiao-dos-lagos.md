@@ -5,6 +5,7 @@ pubDate: "2026-05-14T01:05:53Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "sao-pedro-da-aldeia", "policia-federal", "operacao-vigilantia-velata", "violencia-sexual-infantil", "sul-fluminense", "comunidade", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-policia-federal-deflagra-a-operacao-vigilantia-velata-na-regiao-dos-lagos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Cabo Frio/RJ

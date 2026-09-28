@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:01:35Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "sigilo", "contratos", "governo-do-rio", "transparencia", "politica-rj", "norte-noroeste-fluminense", "campos", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-comissao-de-contencao-de-gastos-da-alerj-mira-sigilo-em-contratos-e-processos-do-governo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Comissão Especial para Contenção dos Gastos do Estado da Alerj colocou na mira, nesta terça-feira (7), o uso de sigilo e de bloqueios de acesso em contratos e processos administrativos do Governo do Rio. Em reunião com a Controladoria-Geral do Estado (CGE-RJ), deputados afirmaram que documentos usados para embasar decisões do Executivo aparecem “trancados” nos sistemas oficiais, o que dificulta a fiscalização das despesas públicas.
 

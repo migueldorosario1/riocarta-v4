@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7624_image-1-e1769974490351.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Disputa por vaga na Câmara expõe tensão interna no PDT em Niterói'
 pubDate: 2026-02-01 16:35:55

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T06:05:26Z"
 draft: false
 tags: ["rio-de-janeiro", "humaita", "leblon", "gavea", "complexo-do-alemao", "cidade-de-deus", "complexo-da-mare", "alimentacao", "economia-local", "pesquisa", "rio-capital-zona-sul-e-grande-tijuca", "capital", "regiao-metropolitana", "zona-sul"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-pesquisa-revela-preco-medio-do-almoco-no-rio-e-mostra-os-bairros-mais-caros-e-mais-baratos.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 O valor gasto pelo trabalhador com alimentação fora de casa na hora do almoço varia de forma significativa entre diferentes regiões da cidade do Rio de Janeiro. Um levantamento da Alelo mostra que o valor médio gasto com benefício refeição no horário do almoço, entre 11h e 15h, foi de R$ 36,89 na capital fluminense no primeiro trimestre de 2026.

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:06Z"
 draft: false
 tags: ["rio-de-janeiro", "rocha-miranda", "zona-norte", "roubo-de-cargas", "correios", "policia-federal", "seguranca-publica", "rio-capital-zona-norte", "niteroi-metropolitana", "regiao-metropolitana", "rocha", "comunidade", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-pf-cumpre-mandados-contra-grupo-investigado-por-roubos-de-cargas-dos-correios-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Polícia Federal (PF) realizou, nesta terça-feira (12), uma operação para investigar integrantes de uma organização criminosa suspeitos de envolvimento em roubos de cargas dos Correios na Zona Norte do Rio. A ação teve como alvo investigados com atuação na comunidade Faz Quem Quer, em Rocha Miranda, apontada pelas autoridades como área de influência da principal facção criminosa do estado.

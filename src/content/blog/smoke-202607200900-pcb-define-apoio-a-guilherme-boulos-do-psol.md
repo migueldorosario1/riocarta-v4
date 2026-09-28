@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:02:40Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "politica-rj", "pcb", "psol", "guilherme-boulos", "tarcisio-motta", "eleicoes", "capital-estado", "regiao-metropolitana", "centro-do-rio"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-pcb-define-apoio-a-guilherme-boulos-do-psol-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Partido Comunista Brasileiro (PCB) realizou sua convenção nacional, na noite desta sexta-feira (20), no Centro do Rio de Janeiro, para formalizar o apoio político à pré-candidatura de Guilherme Boulos e Sônia Guajajara, da chapa do PSOL, à Presidência da República.
 

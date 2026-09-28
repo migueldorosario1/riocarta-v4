@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6297_imagem-26.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Riotur lança pesquisa inovadora com QR Codes para aprimorar experiência turística no Rio'
 pubDate: 2024-12-27 10:43:14

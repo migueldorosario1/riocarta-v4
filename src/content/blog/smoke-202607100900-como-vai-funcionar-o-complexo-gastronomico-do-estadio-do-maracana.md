@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:26Z"
 draft: true
 tags: ["rio-de-janeiro", "maracana", "zona-norte", "rio-capital-zona-norte", "capital", "complexo", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-como-vai-funcionar-o-complexo-gastronomico-do-estadio-do-maracana.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Novo complexo ocupará o quinto andar do estádio, terá vista para o gramado e funcionará mesmo em dias sem jogos
 

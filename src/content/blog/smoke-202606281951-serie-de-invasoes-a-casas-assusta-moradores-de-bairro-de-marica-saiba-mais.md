@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:55:25Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "itaipuacu", "seguranca-publica", "invasao-residencial", "regiao-dos-lagos", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281951-serie-de-invasoes-a-casas-assusta-moradores-de-bairro-de-marica-saiba-mais.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Uma sequência de furtos registrada em um curto intervalo de tempo tem preocupado moradores do Jardim Atlântico, em Itaipuaçu. Entre a noite de quinta-feira (25) e a manhã de sexta-feira (26), três residências localizadas na Rua 37, Quadra 100, foram invadidas por criminosos, que causaram prejuízos significativos às vítimas e aumentaram a sensação de insegurança na vizinhança.
 

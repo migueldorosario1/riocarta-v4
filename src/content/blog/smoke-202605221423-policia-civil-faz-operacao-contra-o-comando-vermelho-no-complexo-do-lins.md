@@ -5,6 +5,7 @@ pubDate: "2026-05-22T14:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "lins", "zona-norte", "seguranca-publica", "rio-capital-zona-norte", "capital", "bancarios", "comunidade", "complexo", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221423-policia-civil-faz-operacao-contra-o-comando-vermelho-no-complexo-do-lins.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil do Rio iniciou, na manhã desta sexta-feira (22/05), uma operação contra integrantes do Comando Vermelho que atuam no Complexo do Lins, na Zona Norte da capital. Até a última atualização, um homem havia sido preso.
 

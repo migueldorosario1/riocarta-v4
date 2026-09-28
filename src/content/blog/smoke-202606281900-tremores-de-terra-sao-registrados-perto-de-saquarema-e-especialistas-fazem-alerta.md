@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:04:04Z"
 draft: false
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "tremores", "politica-rj", "regiao-metropolitana", "marica", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281900-tremores-de-terra-sao-registrados-perto-de-saquarema-e-especialistas-fazem-alerta.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Cinco tremores de terra foram registrados na costa do estado do Rio de Janeiro, a cerca de 75 quilômetros de Saquarema, ao longo da sexta-feira (26). Os abalos sísmicos tiveram magnitudes entre 1,5 e 2,5 e foram monitorados pela Rede Sismográfica Brasileira (RSBR), responsável pelo acompanhamento da atividade sísmica no país.
 

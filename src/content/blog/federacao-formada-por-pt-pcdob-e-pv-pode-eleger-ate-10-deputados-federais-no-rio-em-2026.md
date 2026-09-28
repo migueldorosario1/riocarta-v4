@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7761_image.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Federação formada por PT PCdoB e PV pode eleger até 10 deputados federais no Rio em 2026'
 pubDate: 2026-04-01 08:16:31

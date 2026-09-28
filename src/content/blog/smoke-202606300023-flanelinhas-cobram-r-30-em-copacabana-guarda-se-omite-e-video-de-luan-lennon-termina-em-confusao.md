@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:26:46Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "estacio", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300023-flanelinhas-cobram-r-30-em-copacabana-guarda-se-omite-e-video-de-luan-lennon-termina-em-confusao.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O influenciador Luan Lennon voltou a viralizar nas redes sociais nesta segunda-feira ao divulgar um novo vídeo denunciando a atuação de flanelinhas na Avenida Atlântica, em Copacabana, durante a intensa movimentação provocada pelo jogo da Seleção Brasileira.
 

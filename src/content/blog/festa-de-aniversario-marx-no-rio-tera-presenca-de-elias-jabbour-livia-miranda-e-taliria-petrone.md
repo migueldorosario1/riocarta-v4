@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6958_image-19.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Festa de aniversário Marx no Rio terá presença de Elias Jabbour, Livia Miranda e Talíria Petrone'
 pubDate: 2025-06-27 13:05:09

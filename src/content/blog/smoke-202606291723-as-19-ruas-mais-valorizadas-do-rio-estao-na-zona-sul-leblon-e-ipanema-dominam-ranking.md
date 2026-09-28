@@ -5,6 +5,7 @@ pubDate: "2026-06-29T17:26:40Z"
 draft: true
 tags: ["rio-de-janeiro", "leblon", "ipanema", "botafogo", "zona-sul", "mercado-imobiliario", "rio-capital-zona-sul-grande-tijuca", "capital", "jardim-botanico", "mare", "ramos", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-as-19-ruas-mais-valorizadas-do-rio-estao-na-zona-sul-leblon-e-ipanema-dominam-ranking.webp"
+hero_credit: "Wilfredor / Wikimedia Commons (CC0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

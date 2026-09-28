@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2256_credito_-_pedro_kirilos_copy.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Hotéis do Rio alcançam média de ocupação de 87,13% na noite de ano novo'
 pubDate: 2024-01-03 12:00:00

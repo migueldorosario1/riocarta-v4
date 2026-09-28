@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:04Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "campos-dos-goytacazes", "politica-rj", "seguranca-publica-rj", "macae-norte-fluminense", "norte-noroeste-fluminense", "anil", "campos", "norte-fluminense", "seguranca-publica", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-alerj-acata-decisao-do-stf-que-manteve-prisao-de-deputado-estadual-de-campos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Assembleia Legislativa do Estado do Rio (Alerj) anunciou que vai cumprir a decisão do Supremo Tribunal Federal (STF), que manteve o afastamento e a prisão do deputado estadual de Campos dos Goytacazes, Thiago Rangel (AVANTE).

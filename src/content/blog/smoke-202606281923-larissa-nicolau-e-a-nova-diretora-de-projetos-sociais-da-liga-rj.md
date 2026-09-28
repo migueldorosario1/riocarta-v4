@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:27:34Z"
 draft: true
 tags: ["rio-de-janeiro", "santa-cruz", "liga-rj", "carnaval", "cultura-carnaval", "comunidade", "saude", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-larissa-nicolau-e-a-nova-diretora-de-projetos-sociais-da-liga-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Fortalecendo ainda mais a sua gestão rumo ao Carnaval de 2027, a Liga RJ anunciou nesta quinta-feira a chegada de Larissa Nicolau como diretora de projetos sociais da instituição. Afirmando seu compromisso com as comunidades das escolas, Larissa atuará diretamente ao lado da recém anunciada Francine Montibelo, superintendente executiva.
 

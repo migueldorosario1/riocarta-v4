@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:05Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "desenvolvimento-regional", "politica-rj", "regiao-metropolitana", "ribeira", "comunidade", "complexo", "pirai", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-neto-destaca-integracao-entre-municipios-em-debate-sobre-o-sul-fluminense.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Volta Redonda — O prefeito de Volta Redonda, Antonio Francisco Neto, participou nesta terça-feira (12) de uma mesa-redonda promovida pela FGV Conhecimento, na Casa Rosa, no Rio de Janeiro, dentro do estudo “Desenvolvimento Estratégico Integrado e Sustentável: Área de Influência do Complexo de Ribeirão das Lajes (RJ)”. A iniciativa, contratada pela Light, busca reunir contribuições para a elaboração de um estudo técnico voltado à criação de projetos estruturantes para o desenvolvimento regional.

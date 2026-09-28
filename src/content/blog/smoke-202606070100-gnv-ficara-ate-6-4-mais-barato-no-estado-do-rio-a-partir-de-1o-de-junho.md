@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:02:57Z"
 draft: true
 tags: ["rio-de-janeiro", "energia", "gnv", "economia-local", "capital", "regiao-metropolitana", "complexo", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-gnv-ficara-ate-6-4-mais-barato-no-estado-do-rio-a-partir-de-1o-de-junho.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 As tarifas de gás natural da Naturgy no Estado do Rio de Janeiro terão redução a partir de 1º de junho. A queda nos valores é resultado de um acordo firmado entre a concessionária e a Petrobras, com aval da Secretaria de Estado de Energia e Economia do Mar (Seenemar) e da Agenersa, que atuaram como mediadoras das negociações.
 

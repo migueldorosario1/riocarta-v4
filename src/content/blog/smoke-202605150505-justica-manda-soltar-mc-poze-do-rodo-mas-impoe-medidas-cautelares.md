@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:04Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "mc-poze-do-rodo", "justica", "seguranca-publica", "rio-capital-zona-oeste", "capital", "ramos", "gericino", "complexo", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150505-justica-manda-soltar-mc-poze-do-rodo-mas-impoe-medidas-cautelares.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Justiça manda soltar MC Poze do Rodo, mas impõe medidas cautelares

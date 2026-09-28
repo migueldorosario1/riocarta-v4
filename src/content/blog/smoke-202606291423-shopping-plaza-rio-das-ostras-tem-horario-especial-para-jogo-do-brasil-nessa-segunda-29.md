@@ -5,6 +5,7 @@ pubDate: "2026-06-29T14:24:47Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "shopping-plaza-rio-das-ostras", "copa-do-mundo", "regiao-dos-lagos", "macae-norte-fluminense", "norte-fluminense", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291423-shopping-plaza-rio-das-ostras-tem-horario-especial-para-jogo-do-brasil-nessa-segunda-29.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Shopping Plaza Rio das Ostras funciona em horário diferenciado nessa segunda-feira, 29, em razão do jogo do Brasil contra o Japão pela 2ª fase da Copa do Mundo, valendo uma vaga nas oitavas de final da competição.
 

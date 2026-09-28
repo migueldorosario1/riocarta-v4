@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:38Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "saude", "vacina", "macae-norte-fluminense", "norte-fluminense"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-nova-vacina-contra-pneumonia-e-meningite-chega-a-cabo-frio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A vacinação infantil em Cabo Frio ganhou um importante reforço com a chegada da vacina Pneumo 20, que já está disponível nas unidades da Atenção Básica de Saúde para crianças de até 5 anos. O imunizante passou a integrar o Calendário Nacional de Vacinação e amplia a proteção contra doenças graves provocadas pela bactéria Streptococcus pneumoniae, como pneumonia, meningite e outras infecções que podem causar internações, sequelas permanentes e até mortes.
 

@@ -5,6 +5,7 @@ pubDate: "2026-07-19T12:01:25Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "zoo-vr", "ciencia-no-zoo", "educacao-ambiental", "sul-fluminense-costa-verde", "regiao-metropolitana", "mage", "ramos", "comunidade", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607190900-volta-redonda-realiza-nova-edicao-do-ciencia-no-zoo-neste-domingo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Volta Redonda – A Prefeitura de Volta Redonda, em parceria com o UniFOA, promove neste domingo (17), das 9h30 às 15h30, a segunda edição do projeto ‘Ciência no Zoo: a biodiversidade em foco’. O evento será realizado no Parque Zoológico Municipal de Volta Redonda (Zoo-VR), localizado na Vila Santa Cecília.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-21T08:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "samba", "carnaval", "cultura-carnaval", "politica-rj", "regiao-metropolitana", "madureira", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210823-noca-da-portela-referencia-historica-do-samba-carioca-morre-aos-93-anos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O samba brasileiro perdeu neste domingo um de seus nomes mais emblemáticos. O cantor, compositor e instrumentista Noca da Portela morreu aos 93 anos, conforme informou a escola de samba Portela.
 

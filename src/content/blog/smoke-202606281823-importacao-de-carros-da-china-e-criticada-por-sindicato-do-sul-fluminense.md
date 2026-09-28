@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:29:50Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "porto-real", "resende", "sindicato-metalurgicos", "industria-automotiva", "sul-fluminense-costa-verde", "capital-porto", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-importacao-de-carros-da-china-e-criticada-por-sindicato-do-sul-fluminense.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A decisão do Governo Federal de prorrogar por mais seis meses a isenção de impostos para a importação de veículos elétricos e híbridos desmontados e semimontados acendeu um sinal de alerta no Sul Fluminense, segundo maior polo automotivo do país. Anunciada no mesmo dia em que o navio BYD Changsha atracou no Porto de Itajaí (SC) transportando 7.
 

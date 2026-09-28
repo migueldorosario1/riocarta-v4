@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7195_image-5.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dois convocados! Paulo Henrique e Puma Rodríguez representam o Vasco em suas seleções'
 pubDate: 2025-10-07 10:13:22

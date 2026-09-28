@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1673_6ut3b5uldk_2v1k0qulhw_file.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Líder do tráfico retorna ao Rio após 4 anos em Presídio Federal'
 pubDate: 2023-10-25 06:00:00

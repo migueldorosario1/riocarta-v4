@@ -5,6 +5,7 @@ pubDate: "2026-05-20T13:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "gardenia-azul", "zona-oeste", "rio-capital-zona-oeste", "favelas-comunidades", "regiao-metropolitana", "colegio", "favela", "comunidade", "problemas-estruturais", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201323-estudante-isabelle-lemos-do-gardenia-azul-e-aprovada-em-stanford-e-outras-quatro-universidades-d.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A estudante Isabelle Lemos, de 18 anos, moradora da Gardênia Azul, na Zona Oeste do Rio, foi aprovada na Universidade de Stanford e em outras quatro instituições dos Estados Unido
 

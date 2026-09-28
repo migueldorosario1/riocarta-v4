@@ -5,6 +5,7 @@ pubDate: "2026-06-29T02:23:04Z"
 draft: false
 tags: ["rio-de-janeiro", "rocha-miranda", "zona-norte", "greve-onibus", "transporte", "transporte-mobilidade", "capital", "regiao-metropolitana", "leme", "rocha", "santa-cruz", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290223-greve-de-onibus-no-rio-rodoviarios-confirmam-parada-por-tempo-indeterminado-a-partir-desta-segun.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os motoristas de ônibus da cidade do Rio de Janeiro confirmaram o início de uma greve por tempo indeterminado a partir da meia-noite desta segunda-feira, 29 de junho de 2026. A decisão foi consolidada após a assembleia geral convocada pelo Sindicato dos Rodoviários na sede da entidade, localizada em Rocha Miranda, na Zona Norte da capital.
 

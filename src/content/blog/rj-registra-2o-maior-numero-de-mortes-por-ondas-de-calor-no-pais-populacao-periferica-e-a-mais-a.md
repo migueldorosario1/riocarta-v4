@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:56Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "ondas-de-calor", "favelas", "periferias", "crise-climatica", "baixada-fluminense", "politica-rj", "capital", "regiao-metropolitana", "mare", "oswaldo-cruz", "favela", "baixada"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/rj-registra-2o-maior-numero-de-mortes-por-ondas-de-calor-no-pais-populacao-periferica-e-a-mais-a.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Comissão Especial de Favelas e Periferias, da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), se reuniu nesta terça-feira (12/07) para debater os impactos da crise climática nos territórios periféricos do estado. Durante o encontro, o colegiado abordou diversos dados sobre a situação, entre eles o levantamento do Painel Intergovernamental sobre Mudança do Clima (IPCC), que aponta que a Região Metropolitana do Rio registrou o segundo maior número de mortes associadas às ondas de calor no país entre 2000 e 2018, atingindo principalmente pessoas pretas, pardas e periféricas.

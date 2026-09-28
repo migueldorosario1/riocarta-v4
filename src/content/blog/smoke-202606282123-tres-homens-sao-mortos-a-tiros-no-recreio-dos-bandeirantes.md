@@ -5,6 +5,7 @@ pubDate: "2026-06-28T21:26:28Z"
 draft: false
 tags: ["rio-de-janeiro", "recreio-dos-bandeirantes", "zona-oeste", "homicidio", "seguranca-publica", "policia-civil", "rio-capital-barra-recreio-jacarepagua", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "recreio", "joa", "mage", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282123-tres-homens-sao-mortos-a-tiros-no-recreio-dos-bandeirantes.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Vítimas estavam em um carro quando foram atacadas por ocupantes de outro veículo; Polícia Civil investiga autoria e motivação do crime
 

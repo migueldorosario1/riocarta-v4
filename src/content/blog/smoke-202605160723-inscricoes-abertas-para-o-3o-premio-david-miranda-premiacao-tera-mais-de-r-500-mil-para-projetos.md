@@ -5,6 +5,7 @@ pubDate: "2026-05-16T07:24:45Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "zona-sul", "regiao-metropolitana", "cultura-carnaval", "capital", "jacare", "favela", "marica", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160723-inscricoes-abertas-para-o-3o-premio-david-miranda-premiacao-tera-mais-de-r-500-mil-para-projetos.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O Instituto David Miranda (iDM) abriu inscrições para a 3ª edição do Prêmio David Miranda, que nesta edição irá destinar mais de R$ 500 mil a projetos comunitários no estado do Rio de Janeiro. A premiação irá contemplar iniciativas distribuídas em sete eixos: Educação em favelas e periferias, Infância e Juventude Acolhida, Saúde Mental, Igualdade LGBT+, Proteção Animal, Cultura, além de Programas Esportivos e de Lazer.

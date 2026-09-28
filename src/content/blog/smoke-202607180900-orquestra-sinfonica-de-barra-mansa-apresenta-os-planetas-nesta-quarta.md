@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:03:07Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "cultura", "orquestra-sinfonica", "musica-classica", "sul-fluminense-costa-verde", "leme", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-orquestra-sinfonica-de-barra-mansa-apresenta-os-planetas-nesta-quarta.jpg"
+hero_credit: "Marek Ślusarczyk (Tupungato) Photo portfolio / Wikimedia Commons (CC BY 3.0)"
 ---
 Barra Mansa – A Orquestra Sinfônica de Barra Mansa apresenta, nesta quarta-feira (8), às 19h30, no Espaço M, mais um concerto da Temporada 2026. Com entrada gratuita, o espetáculo terá como destaque a suíte Os Planetas, do compositor inglês Gustav Holst, uma das obras mais conhecidas do repertório orquestral do século XX.
 

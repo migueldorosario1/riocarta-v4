@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:44Z"
 draft: true
 tags: ["rio-de-janeiro", "transporte-publico", "onibus-municipais", "bilhete-unico-carioca", "jae", "smtr", "transporte-e-mobilidade-rj", "capital", "baixada", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150705-quando-os-onibus-municipais-do-rio-vao-deixar-de-aceitar-dinheiro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Continua após a publicidade

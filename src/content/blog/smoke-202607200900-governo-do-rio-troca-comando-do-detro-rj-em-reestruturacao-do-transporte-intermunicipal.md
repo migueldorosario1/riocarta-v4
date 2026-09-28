@@ -5,6 +5,7 @@ pubDate: "2026-07-20T12:01:23Z"
 draft: false
 tags: ["rio-de-janeiro", "governo-rj", "detro-rj", "transporte-intermunicipal", "reestruturacao", "politica-rj", "capital", "regiao-metropolitana", "anil", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607200900-governo-do-rio-troca-comando-do-detro-rj-em-reestruturacao-do-transporte-intermunicipal-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio de Janeiro iniciou uma reestruturação no Departamento de Transportes Rodoviários do Estado do Rio de Janeiro (Detro-RJ), autarquia responsável pela fiscalização e regulamentação do transporte intermunicipal de passageiros.
 

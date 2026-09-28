@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3232_WhatsApp-Image-2024-02-15-at-07.58.00-860x742-1.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jornalista é baleada durante tentativa de assalto na Zona Oeste do Rio'
 pubDate: 2024-02-15 14:28:14

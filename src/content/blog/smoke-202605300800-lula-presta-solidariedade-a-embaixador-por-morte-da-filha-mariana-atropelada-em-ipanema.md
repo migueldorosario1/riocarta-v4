@@ -5,6 +5,7 @@ pubDate: "2026-05-30T08:00:14Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "gavea", "galeao", "iraja", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605300800-lula-presta-solidariedade-a-embaixador-por-morte-da-filha-mariana-atropelada-em-ipanema.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O presidente Luiz Inácio Lula da Silva telefonou nesta segunda-feira (19) para o embaixador Ibrahim Abul Hak Neto e prestou solidariedade pela morte da filha dele, Mariana Tanaka Abdul Hak, de 20 anos, vítima de um atropelamento ocorrido em Ipanema, na Zona Sul do Rio de Janeiro.
 

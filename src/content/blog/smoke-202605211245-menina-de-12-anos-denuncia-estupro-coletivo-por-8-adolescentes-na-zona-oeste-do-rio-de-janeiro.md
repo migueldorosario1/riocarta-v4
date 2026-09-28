@@ -5,6 +5,7 @@ pubDate: "2026-05-21T15:47:27Z"
 draft: true
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "serrana", "regiao-metropolitana", "zona-sul", "copacabana", "petropolis"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211245-menina-de-12-anos-denuncia-estupro-coletivo-por-8-adolescentes-na-zona-oeste-do-rio-de-janeiro-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

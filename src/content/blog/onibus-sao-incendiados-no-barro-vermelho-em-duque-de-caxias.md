@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2690_Screenshot_20240130-0858372.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ônibus são incendiados no Barro Vermelho em Duque de Caxias'
 pubDate: 2024-01-30 09:01:30

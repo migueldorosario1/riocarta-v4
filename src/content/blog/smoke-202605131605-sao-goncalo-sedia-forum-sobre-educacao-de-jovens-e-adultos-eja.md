@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:51Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "educacao", "eja", "uerj", "regiao-metropolitana", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "baixada", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131605-sao-goncalo-sedia-forum-sobre-educacao-de-jovens-e-adultos-eja.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Escolas municipais trocam experiências e compartilham trabalhos pedagógicos

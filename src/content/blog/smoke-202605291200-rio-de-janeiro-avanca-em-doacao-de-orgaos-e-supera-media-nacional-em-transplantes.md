@@ -5,6 +5,7 @@ pubDate: "2026-05-29T12:00:16Z"
 draft: false
 tags: ["rio-de-janeiro", "doacao-de-orgaos", "transplantes", "saude", "governo-do-estado", "capital", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605291200-rio-de-janeiro-avanca-em-doacao-de-orgaos-e-supera-media-nacional-em-transplantes.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Estado do Rio de Janeiro vem ampliando sua atuação na área de transplantes e aparece entre os estados mais ativos do país em 2025. Dados do mais recente Registro Brasileiro de Transplantes (RBT), divulgado pela Associação Brasileira de Transplante de Órgãos, apontam que o Rio alcançou a segunda maior taxa de autorização familiar para doação de órgãos.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1705_image-39.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'A complexa trama entre milícia e Estado e a violência no Rio de Janeiro. Entrevista especial com José Claudio de Souza Alves'
 pubDate: 2023-10-26 22:17:01

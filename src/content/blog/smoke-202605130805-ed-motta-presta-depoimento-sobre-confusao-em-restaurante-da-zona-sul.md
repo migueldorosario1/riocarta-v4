@@ -5,6 +5,7 @@ pubDate: "2026-05-13T11:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-sul", "gavea", "ed-motta", "violencia", "xenofobia", "seguranca-publica", "rio-capital-zona-sul-e-grande-tijuca", "politica-rj", "regiao-metropolitana", "mage", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-ed-motta-presta-depoimento-sobre-confusao-em-restaurante-da-zona-sul.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O cantor Ed Motta presta depoimento nesta terça-feira na 15ª DP (Gávea), na Zona Sul do Rio de Janeiro, por causa da confusão registrada em um restaurante da região. O caso ganhou repercussão após denúncias de agressões e de supostas ofensas xenofóbicas dirigidas a funcionários do estabelecimento.

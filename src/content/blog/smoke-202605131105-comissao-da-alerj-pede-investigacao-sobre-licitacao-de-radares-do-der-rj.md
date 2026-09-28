@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:03Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "der-rj", "radares", "licitacao", "investigacao", "dionisio-lins", "regiao-metropolitana", "regiao-dos-lagos", "costa-verde", "serra-fluminense", "norte-fluminense", "politica-rj", "sul-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-comissao-da-alerj-pede-investigacao-sobre-licitacao-de-radares-do-der-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Rio de Janeiro – O presidente da Comissão de Transportes da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), deputado estadual Dionísio Lins, encaminhou nesta terça-feira (13), um ofício à Promotoria de Tutela de Defesa do Consumidor do Ministério Público do Estado do Rio de Janeiro (MPRJ) solicitando a abertura de uma investigação sobre a licitação do Departamento de Estradas de Rodagem do Rio de Janeiro (DER-RJ) para instalação de novos radares nas rodovias estaduais.

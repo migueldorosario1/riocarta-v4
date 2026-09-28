@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:36Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "cepro", "aniversario", "cultura", "educacao", "estado", "rocha", "comunidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-aniversario-de-18-anos-do-cepro-tera-programacao-gratuita-em-rio-das-ostras.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 RIO DAS OSTRAS - O Cepro está desde o início de maio celebrando seus 18 anos. As atividades retomam a partir de 19 de maio e seguem até o dia 30, reunindo ações gratuitas na sede do espaço, em Rio das Ostras.

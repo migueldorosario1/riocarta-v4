@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "cine-henfil", "cultura", "programacao-gratuita", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-marica-cine-henfil-divulga-programacao-gratuita-com-o-hobbit-e-filmes-infantis.jpeg"
+hero_credit: "Tim Evanson from Washington, D.C., USA, United States of America / Wikimedia Commons (CC BY-SA 2.0)"
 categoria_macro: seguranca
 ---
 Maricá: Cine Henfil divulga programação gratuita com “O Hobbit” e filmes infantis

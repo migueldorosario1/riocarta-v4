@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:39Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-mais-de-600-motos-barulhentas-fiscalizadas-em-sao-goncalo.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O município de São Gonçalo, na Região Metropolitana do Rio, segue avançando no combate a motociclistas que dirigem com escapamentos irregulares, descargas adulteradas e sem placa. Dados levantados pela prefeitura da cidade, nesta sexta-feira (15), revelam que novas 662 abordagens foram realizadas por agentes da Operação Tolerância Zero, apenas nesta semana.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1713_Impresso-Bandidos-trocam-tiros-com-o-Exercito-no-_00122630_0.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Migração de traficantes da Maré para Niterói é monitorada pela polícia'
 pubDate: 2023-10-29 16:02:00

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5362_imagem-86.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Braga e Renan Calheiros são indiciados pela Polícia Federal por corrupção e lavagem de dinheiro'
 pubDate: 2024-09-20 11:27:09

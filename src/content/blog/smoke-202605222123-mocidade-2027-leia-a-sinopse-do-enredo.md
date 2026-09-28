@@ -5,6 +5,7 @@ pubDate: "2026-05-22T21:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "padre-miguel", "mocidade-independente-de-padre-miguel", "carnaval", "enredo", "cultura-carnaval", "gloria", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605222123-mocidade-2027-leia-a-sinopse-do-enredo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 LATINAMENTE INDEPENDENTE
 

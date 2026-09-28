@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:10:55Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "presidente-vargas", "guarda-municipal", "balao", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "centro-do-rio", "zona-sul", "copacabana", "flamengo", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-guarda-municipal-apreende-balao-de-cerca-de-cinco-metros-na-presidente-vargas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O balão caiu apagado em cima de uma árvore
 

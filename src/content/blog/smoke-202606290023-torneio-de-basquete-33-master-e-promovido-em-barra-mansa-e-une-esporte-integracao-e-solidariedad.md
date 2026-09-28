@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:25:45Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "esporte", "basquete", "solidariedade", "sul-fluminense-costa-verde", "regiao-metropolitana", "resende", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290023-torneio-de-basquete-33-master-e-promovido-em-barra-mansa-e-une-esporte-integracao-e-solidariedad-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

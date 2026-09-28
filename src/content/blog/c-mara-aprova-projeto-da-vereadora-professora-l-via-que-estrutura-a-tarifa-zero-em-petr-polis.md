@@ -5,6 +5,7 @@ pubDate: "2026-05-20T18:41:29Z"
 category: ["Pol\u00edtica", "Interior RJ", "Petr\u00f3polis"]
 tags: ["petr\u00f3polis", "tarifa-zero", "l\u00edvia-miranda"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/c-mara-aprova-projeto-da-vereadora-professora-l-via-que-estrutura-a-tarifa-zero-em-petr-polis.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 author: "Redação"
 ---
 

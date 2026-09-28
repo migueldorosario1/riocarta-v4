@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:01:20Z"
 draft: true
 tags: ["rio-de-janeiro", "porto-real", "barra-mansa", "sul-fluminense", "mp-rj", "dano-ambiental", "prefeitura", "regiao-metropolitana", "leme", "comunidade", "volta-redonda", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-mp-move-acao-contra-mae-do-prefeito-de-porto-real-por-dano-ambiental.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Porto Real – A 2ª Promotoria de Justiça de Tutela Coletiva do Núcleo Volta Redonda do Ministério Público do Estado do Rio de Janeiro (MP-RJ) ajuizou Ação Civil Pública (ACP) contra Kátia Aparecida Valladares Serfiotis, mãe do prefeito de Porto Real, Alexandre Augustus Serfiotis, por dano ambiental em propriedade rural no município de Barra Mansa. O processo foi distribuído em 25 de agosto de 2025 à 3ª Vara Cível da Comarca de Barra Mansa e tramita sob o número 0808526-23.
 

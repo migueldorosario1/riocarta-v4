@@ -5,6 +5,7 @@ pubDate: "2026-05-21T22:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "bangu", "jardim-bangu", "educacao", "seguranca-publica", "rio-capital-zona-oeste", "capital-estado", "regiao-metropolitana", "mage", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212223-adolescente-tem-maxilar-quebrado-apos-agressao-na-saida-de-escola-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

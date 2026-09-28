@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4950_imagem-24.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Anvisa Investiga Caso Suspeito de Mpox em Aeroporto de Guarulhos'
 pubDate: 2024-08-26 19:56:36

@@ -5,6 +5,7 @@ pubDate: "2026-05-22T16:23:28Z"
 draft: false
 tags: ["rio-de-janeiro", "padre-miguel", "vila-vintem", "mocidade-independente", "carnaval-2027", "rio-capital-zona-oeste", "cultura-carnaval", "joa", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221623-latinamente-independente-nosso-norte-e-o-sul-em-remanifesto-e-o-enredo-da-mocidade-independente.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Assinado pelo carnavalesco Jack Vasconcellos, a Verde e Branca irá se inspirar na obra “América Invertida”, do uruguaio Joaquín Torres García, como ponto de partida para um tema que visa repensar os nortes do continente de forma que valorize a América Latina. Com histórico vanguardista e pioneiro, a Mocidade promete uma verdadeira Revolucão Latino-Americana Independente de Padre Miguel ao fazer todos repensarem que nosso Norte é o Sul.
 

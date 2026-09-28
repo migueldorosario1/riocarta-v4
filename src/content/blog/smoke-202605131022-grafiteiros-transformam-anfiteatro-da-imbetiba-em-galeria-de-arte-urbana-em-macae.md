@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:22:58Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "imbetiba", "grafite", "arte-urbana", "cultura", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-grafiteiros-transformam-anfiteatro-da-imbetiba-em-galeria-de-arte-urbana-em-macae.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Artistas urbanos de Macaé se reuniram no último sábado (9) na Imbetiba durante a realização da Mostra Cultura Beach Burger. Realizado no anfiteatro, o local se transformou em uma grande mostra de obras de talentos do grafite.

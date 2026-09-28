@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3839_IMG-20240318-WA0084-2-e1710805551689.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali e Rafaela Albergaria organizam agenda de ações para o Rio'
 pubDate: 2024-03-18 20:47:19

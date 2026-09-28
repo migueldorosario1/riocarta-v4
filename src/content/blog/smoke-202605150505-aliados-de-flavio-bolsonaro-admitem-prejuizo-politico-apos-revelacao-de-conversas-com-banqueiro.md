@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "banco-master", "pre-campanha-2026", "seguranca-publica", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150505-aliados-de-flavio-bolsonaro-admitem-prejuizo-politico-apos-revelacao-de-conversas-com-banqueiro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A divulgação de conversas entre o senador Flávio Bolsonaro e o banqueiro Daniel Vorcaro nesta quarta-feira (13) provocou preocupação entre aliados do parlamentar e acendeu um alerta na pré-campanha presidencial do PL para 2026.

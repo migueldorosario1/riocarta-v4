@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:11:37Z"
 draft: false
 tags: ["rio-de-janeiro", "araruama", "regiao-dos-lagos", "capital-porto", "regiao-metropolitana", "lagoa", "complexo", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-bacterias-que-vivem-em-laguna-no-rio-ajudam-a-investigar-se-marte-pode-ser-habitavel.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Marte teria condições para a existência da vida como a conhecemos? Para ajudar a responder a uma das perguntas mais intrigantes da exploração espacial, pesquisadores do Laboratório de Astrobiologia (AstroLab) do Instituto de Química da Universidade de São Paulo (USP) contam com uma aliada inesperada: a bactéria Staphylococcus nepalensis ou S.
 

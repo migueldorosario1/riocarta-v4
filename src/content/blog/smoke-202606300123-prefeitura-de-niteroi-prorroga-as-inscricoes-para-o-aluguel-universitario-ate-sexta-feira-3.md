@@ -5,6 +5,7 @@ pubDate: "2026-06-30T01:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "aluguel-universitario", "prefeitura-de-niteroi", "educacao", "regiao-metropolitana", "sao-goncalo-itaborai", "joa", "sao-goncalo", "itaborai", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300123-prefeitura-de-niteroi-prorroga-as-inscricoes-para-o-aluguel-universitario-ate-sexta-feira-3.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Objetivo é que mais estudantes possam concorrer ao auxílio mensal de R$ 700 destinado à permanência no ensino superior
 

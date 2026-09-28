@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6303_imagem-28.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula e Arthur Lira discutem legalidade das emendas parlamentares após suspensão pelo STF'
 pubDate: 2024-12-27 12:16:55

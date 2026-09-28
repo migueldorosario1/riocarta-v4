@@ -5,6 +5,7 @@ pubDate: "2026-05-26T06:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "itaborai", "seguranca-publica", "sul-fluminense-costa-verde", "sao-goncalo-itaborai", "regiao-metropolitana", "comunidade", "niteroi", "sao-goncalo", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605260600-homem-condenado-por-estuprar-a-propria-neta-em-itaborai-tem-pena-aumentada.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Pena de homem condenado por estuprar a própria neta, em Itaboraí, passou de 14 anos para 22 anos e 6 meses, além de indenização de R$ 30 mil por danos morais à vítima.
 

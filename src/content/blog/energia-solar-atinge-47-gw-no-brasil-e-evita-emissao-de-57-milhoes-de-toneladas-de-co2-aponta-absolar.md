@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5337_imagem-78.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Energia solar atinge 47 GW no Brasil e evita emissão de 57 milhões de toneladas de CO2, aponta Absolar'
 pubDate: 2024-09-19 19:12:46

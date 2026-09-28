@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:10Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-jose-do-vale-do-rio-preto", "regiao-serrana", "politica-rj", "justica-eleitoral", "regiao-metropolitana", "serrana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-sao-jose-do-vale-do-rio-preto-tera-retotalizacao-dos-votos-apos-anulacao-da-chapa-do-agir-por-fr.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Justiça Eleitoral marcou para o próximo dia 25 de maio a cerimônia pública de retotalização dos votos da eleição municipal de 2024 para vereador em São José do Vale do Rio Preto, na Região Serrana do Rio. A nova contagem poderá mudar a composição da Câmara Municipal após decisão definitiva do Tribunal Superior Eleitoral (TSE) que anulou todos os votos recebidos pelo partido AGIR no município.

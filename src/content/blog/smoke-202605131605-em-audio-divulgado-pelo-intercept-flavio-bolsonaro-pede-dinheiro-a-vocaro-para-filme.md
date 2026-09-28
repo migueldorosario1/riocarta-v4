@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "senador", "banco-master", "daniel-vorcaro", "filme-dark-horse", "intercept-brasil", "serrana", "regiao-serrana", "petropolis", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131605-em-audio-divulgado-pelo-intercept-flavio-bolsonaro-pede-dinheiro-a-vocaro-para-filme.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Em áudio divulgado pelo ‘Intercept’, Flávio Bolsonaro pede dinheiro a Vocaro para filme

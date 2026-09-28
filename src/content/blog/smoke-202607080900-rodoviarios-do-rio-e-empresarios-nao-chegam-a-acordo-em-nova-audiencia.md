@@ -5,6 +5,7 @@ pubDate: "2026-07-08T12:01:24Z"
 draft: true
 tags: ["rio-de-janeiro", "transporte", "greve", "rodoviarios", "rio-onibus", "trt-1", "transporte-mobilidade", "estado", "regiao-metropolitana", "baixada", "duque-de-caxias", "nova-iguacu", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607080900-rodoviarios-do-rio-e-empresarios-nao-chegam-a-acordo-em-nova-audiencia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Terminou sem acordo mais uma audiência de conciliação entre o sindicato dos donos de empresas do município do Rio de Janeiro, a Rio Ônibus, e os empregados do transporte rodoviário nesta segunda-feira (6), no Tribunal Regional do Trabalho da 1ª Região (TRT-1).
 

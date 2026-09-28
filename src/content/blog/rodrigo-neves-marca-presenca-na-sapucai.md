@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3180_cbaf0aa1-063d-4f8e-87ba-f4c0f2a44c0a-1-860x574-1.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rodrigo Neves marca presença na Sapucaí'
 pubDate: 2024-02-13 17:24:54

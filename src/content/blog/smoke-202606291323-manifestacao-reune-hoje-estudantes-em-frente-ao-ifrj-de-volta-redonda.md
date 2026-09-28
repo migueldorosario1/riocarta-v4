@@ -5,6 +5,7 @@ pubDate: "2026-06-29T13:23:31Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "ifrj", "estudantes", "manifestacao", "sul-fluminense-costa-verde", "regiao-metropolitana", "comunidade", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291323-manifestacao-reune-hoje-estudantes-em-frente-ao-ifrj-de-volta-redonda.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 VOLTA REDONDA
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T23:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "desenvolvimento-sustentavel", "ods", "politica-rj", "capital", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-governo-do-rio-debate-agenda-2030-com-governo-sociedade-civil-e-setor-privado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Governo do Estado do Rio de Janeiro realizou, na sexta-feira (15/05), a 1ª Conferência Estadual dos Objetivos de Desenvolvimento Sustentável, os ODS, no Museu de Arte do Rio, na Zona Portuária. O encontro reuniu representantes do poder público, da sociedade civil, da academia, do setor privado e de organizações sociais para discutir propostas ligadas à Agenda 2030 no território fluminense.
 

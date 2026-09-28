@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:25Z"
 draft: true
 tags: ["rio-de-janeiro", "eleicoes", "tse", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-tse-libera-vaquinha-virtual-para-2026-com-regras-rigidas-de-controle-fiscal.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Tribunal Superior Eleitoral autorizou o início da arrecadação de recursos para pré-candidatos que disputarão o pleito de outubro. A modalidade de financiamento coletivo permite que cidadãos apoiem financeiramente seus representantes antes mesmo do período oficial de propaganda.
 

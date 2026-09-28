@@ -5,6 +5,7 @@ pubDate: "2026-05-16T22:24:26Z"
 draft: true
 tags: ["rio-de-janeiro", "independencia", "educacao", "serrana", "regiao-serrana", "petropolis", "gloria", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-prefeitura-prorroga-obra-de-escola-interditada-ha-mais-de-10-anos-no-independencia.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Secretaria Municipal de Educação publicou o anúncio de prorrogação, por mais 150 dias, das obras da Escola Municipal de Educação Infantil Professora Maria da Glória Queiroz de Vasconcelos, no Independência. A reconstrução da unidade foi anunciada em 2023, após a escola ter sido interditada, há mais de 10 anos, devido a problemas estruturais.
 

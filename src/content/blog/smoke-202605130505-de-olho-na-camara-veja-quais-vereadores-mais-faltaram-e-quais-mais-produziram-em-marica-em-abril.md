@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "camara-municipal", "vereadores", "transparencia", "legislativo", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-de-olho-na-camara-veja-quais-vereadores-mais-faltaram-e-quais-mais-produziram-em-marica-em-abril.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 De Olho na Câmara: veja quais vereadores mais faltaram e quais mais produziram em Maricá em Abril

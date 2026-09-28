@@ -5,6 +5,7 @@ pubDate: "2026-05-16T20:25:16Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "rio-capital-zona-norte", "capital-estado", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-ilha-do-governador-ganha-nova-linha-de-onibus-24h-da-mobi-rio.jpg"
+hero_credit: "Jonas.Feitosa / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 Rio
 

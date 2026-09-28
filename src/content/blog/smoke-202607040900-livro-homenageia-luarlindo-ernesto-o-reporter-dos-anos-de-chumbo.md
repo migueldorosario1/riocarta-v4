@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:01:24Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "abi", "jornalismo", "cultura", "rio-capital-centro", "capital-porto", "regiao-metropolitana", "centro-do-rio", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-livro-homenageia-luarlindo-ernesto-o-reporter-dos-anos-de-chumbo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A jornalista Elenilce Bottari lança, no dia 14 de maio, o livro Luar: o Último Repórter dos Anos de Chumbo, na sede da Associação Brasileira de Imprensa (ABI), no Centro do Rio.
 

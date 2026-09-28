@@ -5,6 +5,7 @@ pubDate: "2026-06-05T16:22:28Z"
 draft: false
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "regiao-dos-lagos", "seguranca-publica", "cabo-frio", "buzios", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-operacao-da-pf-em-buzios-investiga-tentativa-de-levar-recem-nascida-para-a-espanha-em-trafico-de.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Federal deflagrou, nesta quarta-feira (20), a Operação Anjos da Guarda para investigar a possível prática do crime de tráfico de pessoas envolvendo uma recém-nascida que seria levada irregularmente para a Espanha. Durante a ação, agentes da Delegacia da Polícia Federal em Macaé cumpriram um mandado de busca e apreensão em Armação dos Búzios, direcionado à mãe da criança e à mulher que estava responsável pela bebê e que, segundo as investigações, pretendia viajar com ela para o exterior.
 

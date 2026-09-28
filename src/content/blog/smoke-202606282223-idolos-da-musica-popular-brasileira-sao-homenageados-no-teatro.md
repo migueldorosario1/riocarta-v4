@@ -5,6 +5,7 @@ pubDate: "2026-06-28T22:25:44Z"
 draft: true
 tags: ["rio-de-janeiro", "jardim-botanico", "tijuca", "leblon", "teatro-infantil", "rio-capital-zona-sul-grande-tijuca", "capital", "acari", "mare", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282223-idolos-da-musica-popular-brasileira-sao-homenageados-no-teatro.jpg"
+hero_credit: "IthakaDarinPappas / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

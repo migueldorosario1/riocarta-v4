@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:25Z"
 draft: false
 tags: ["rio-de-janeiro", "praca-onze", "centro", "cidade-nova", "revitalizacao", "habitacao", "cury", "rio-capital-centro", "capital-porto", "regiao-metropolitana", "mesquita", "centro-do-rio", "comunidade", "problemas-estruturais"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-praca-onze-vai-ganhar-seu-1o-predio-residencial-na-fase-de-revitalizacao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O edifício Saudosa Praça Onze Residencial, primeiro lançamento da nova fase de revitalização da Praça Onze, no Centro do Rio, chega com 495 unidades, rooftop social e espaço fitness. Desenvolvido pela Cury Construtora, o empreendimento será erguido às margens da Avenida Presidente Vargas, ao lado do Sambódromo da Marquês de Sapucaí, em terreno entre Cidade Nova e Centro.
 

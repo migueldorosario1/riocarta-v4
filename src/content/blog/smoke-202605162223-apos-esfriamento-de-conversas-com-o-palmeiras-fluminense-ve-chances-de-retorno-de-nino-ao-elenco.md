@@ -5,6 +5,7 @@ pubDate: "2026-05-16T22:24:48Z"
 draft: false
 tags: ["rio-de-janeiro", "fluminense", "nino", "palmeiras", "zenit", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "laranjeiras", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-apos-esfriamento-de-conversas-com-o-palmeiras-fluminense-ve-chances-de-retorno-de-nino-ao-elenco.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Com a compra do argentino Barboza, Palmeiras já não tem tanto interesse em Nino
 

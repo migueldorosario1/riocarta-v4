@@ -5,6 +5,7 @@ pubDate: "2026-06-30T02:23:50Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "gavea", "teatro-copacabana", "cultura", "eventos", "rio-capital-zona-sul-grande-tijuca", "capital", "ramos", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300223-andre-ramos-festa-para-falabella-pos-sessao-de-victor-ou-victoria.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Para comemorar o sucesso da temporada carioca de “Victor ou Victoria”, musical de Charles Möeller e Cláudio Botelho, com Miguel Falabella, Alessandra Verney e Junno Andrade, no Teatro Copacabana, o empresário André Ramos deu jantar na Gávea, que acabou virando uma festa, nesse domingo (28/06). “Conheço o Miguel há muitos anos e, como ele mora em São Paulo, quis celebrar esse sucesso carioca da peça”, diz André.
 

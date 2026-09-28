@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "praia-dos-anjos", "aniversario", "shows", "alexandre-pires", "prefeitura", "transporte-mobilidade", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150205-e-hoje-alexandre-pires-abre-programacao-de-shows-pelos-41-anos-de-arraial-do-cabo-na-praia-dos-a.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A partir desta quinta-feira (14), a Praia dos Anjos, em Arraial do Cabo, será palco da programação de shows em comemoração aos 41 anos de emancipação político-administrativa da cidade. Quem abre a agenda de apresentações é o cantor Alexandre Pires, levando ao público um repertório repleto de sucessos que atravessam gerações.

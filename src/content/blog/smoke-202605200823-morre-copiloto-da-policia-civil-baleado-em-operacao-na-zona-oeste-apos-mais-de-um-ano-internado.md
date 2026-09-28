@@ -5,6 +5,7 @@ pubDate: "2026-05-20T08:23:12Z"
 draft: false
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "seguranca-publica", "capital", "copacabana", "leblon", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200823-morre-copiloto-da-policia-civil-baleado-em-operacao-na-zona-oeste-apos-mais-de-um-ano-internado.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Morreu neste domingo (17) o copiloto da Polícia Civil, Felipe Monteiro Marques, que havia sido baleado na cabeça durante uma operação na Vila Aliança, em Bangu, na Zona Oeste da capital, em março de 2025. A informação foi confirmada pela família nas redes sociais do policial.
 

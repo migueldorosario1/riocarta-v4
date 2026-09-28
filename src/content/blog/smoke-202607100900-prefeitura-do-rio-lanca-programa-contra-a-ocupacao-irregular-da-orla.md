@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:15Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "ipanema", "leblon", "leme", "rio-capital-zona-sul-grande-tijuca", "capital-porto", "seguranca-publica", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-prefeitura-do-rio-lanca-programa-contra-a-ocupacao-irregular-da-orla.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O prefeito do Rio, Eduardo Cavaliere, anunciou nesta terça-feira (7) a criação do Programa Tolerância Zero contra a Exploração Irregular do Espaço Público, que será implantado a partir do dia 16 de julho na orla do Leme, Copacabana, Ipanema e Leblon. A iniciativa tem como objetivo recuperar áreas públicas, combater a ocupação irregular por atividades não autorizadas, proteger trabalhadores que atuam legalmente e impedir a reocupação dos espaços fiscalizados.
 

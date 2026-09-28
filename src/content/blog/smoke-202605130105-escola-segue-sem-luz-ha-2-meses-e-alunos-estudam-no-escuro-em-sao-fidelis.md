@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "colegio-estadual-montense", "falta-de-energia", "educacao", "governo-do-estado", "norte-noroeste-fluminense", "regiao-metropolitana", "mage", "colegio", "noroeste-fluminense", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130105-escola-segue-sem-luz-ha-2-meses-e-alunos-estudam-no-escuro-em-sao-fidelis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Alunos do Colégio Estadual Montense, em São Fidélis, estão há dois meses estudando no escuro. O problema foi mostrado pelo SF Notícias lá em março, mas até agora não foi solucionado.

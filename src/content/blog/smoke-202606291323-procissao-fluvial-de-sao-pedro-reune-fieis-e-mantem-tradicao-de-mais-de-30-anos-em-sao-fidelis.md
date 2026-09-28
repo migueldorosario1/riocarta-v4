@@ -5,6 +5,7 @@ pubDate: "2026-06-29T13:24:48Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "procissao-fluvial", "sao-pedro", "religiao", "catolicismo", "norte-noroeste-fluminense", "noroeste-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-procissao-fluvial-de-sao-pedro-reune-fieis-e-mantem-tradicao-de-mais-de-30-anos-em-sao-fidelis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -5,6 +5,7 @@ pubDate: "2026-07-09T12:02:41Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "vidigal", "santissimo", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "centro-do-rio", "zona-oeste", "campo-grande", "itaborai", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607090900-caso-jeff-machado-juri-de-acusado-pela-morte-de-ator-comeca-na-quarta-feira-8.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O ator foi morto em 23 de janeiro de 2023
 

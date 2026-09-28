@@ -5,6 +5,7 @@ pubDate: "2026-05-13T03:31:09Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-joao-de-meriti", "baixada-fluminense", "vilar-dos-teles", "estupro", "seguranca-publica", "policia", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "joa", "comunidade", "baixada", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130030-policia-prende-acusado-de-estupro-coletivo-em-uma-menina-de-13-anos-em-sao-joao-de-meriti-na-bai.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Polícia prende acusado de estupro coletivo em uma menina de 13 anos em São João de Meriti, na Baixada Fluminense

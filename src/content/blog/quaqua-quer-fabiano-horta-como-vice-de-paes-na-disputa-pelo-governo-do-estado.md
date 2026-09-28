@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6743_image-6.png"
+hero_credit: "Nermeen Hussein / Wikimedia Commons (Public domain)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quaquá quer Fabiano Horta como vice de Paes na disputa pelo Governo do Estado'
 pubDate: 2025-04-02 15:35:15

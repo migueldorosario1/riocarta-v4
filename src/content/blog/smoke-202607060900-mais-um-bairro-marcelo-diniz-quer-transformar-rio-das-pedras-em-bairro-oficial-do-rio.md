@@ -5,6 +5,7 @@ pubDate: "2026-07-06T12:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-pedras", "jacarepagua", "itanhanga", "zona-oeste", "camara-municipal", "projeto-de-lei", "marcelo-diniz", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "leme", "zona-norte", "bras-de-pina"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-mais-um-bairro-marcelo-diniz-quer-transformar-rio-das-pedras-em-bairro-oficial-do-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Câmara Municipal do Rio de Janeiro recebeu um projeto de lei complementar que propõe transformar Rio das Pedras em bairro oficial da cidade. O PLC nº 120/2026, de autoria do vereador Marcelo Diniz, prevê a criação do bairro a partir da subdivisão de áreas hoje vinculadas a Jacarepaguá e Itanhangá, na Zona Oeste.
 

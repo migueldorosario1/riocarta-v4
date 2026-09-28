@@ -5,6 +5,7 @@ pubDate: "2026-05-20T09:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200923-pf-aponta-influencia-de-rodrigo-bacellar-em-secretarias-estrategicas-do-governo-do-rj.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Federal concluiu que o ex-presidente da Assembleia Legislativa do Rio de Janeiro, Rodrigo Bacellar, acumulou influência sobre decisões consideradas atribuições diretas do governador do estado, incluindo a indicação de nomes para secretarias estratégicas do governo fluminense.
 

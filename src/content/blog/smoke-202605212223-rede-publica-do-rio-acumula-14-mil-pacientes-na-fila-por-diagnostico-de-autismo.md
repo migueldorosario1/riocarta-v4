@@ -5,6 +5,7 @@ pubDate: "2026-05-21T22:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "saude", "autismo", "fila", "sisreg", "sms", "vereador", "prefeitura", "politica-rj", "regiao-metropolitana", "leme"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605212223-rede-publica-do-rio-acumula-14-mil-pacientes-na-fila-por-diagnostico-de-autismo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A rede pública do Rio de Janeiro acumula cerca de 14 mil pacientes na fila do Sisreg à espera de avaliação para transtorno do espectro autista (TEA). Os dados, da Secretaria Municipal de Saúde (SMS), também apontam milhares de negativas para consultas especializadas e avaliações multiprofissionais voltadas à investigação do transtorno.
 

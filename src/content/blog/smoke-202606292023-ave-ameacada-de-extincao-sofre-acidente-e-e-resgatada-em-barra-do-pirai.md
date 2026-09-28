@@ -5,6 +5,7 @@ pubDate: "2026-06-29T20:25:09Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "sul-fluminense", "meio-ambiente", "fauna", "resgate-animal", "gaviao-pombo-pequeno", "sul-fluminense-costa-verde", "pirai", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-ave-ameacada-de-extincao-sofre-acidente-e-e-resgatada-em-barra-do-pirai.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -5,6 +5,7 @@ pubDate: "2026-05-22T09:24:29Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "zona-norte", "seguranca-publica", "trafico", "comando-vermelho", "drones", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "comunidade", "complexo", "alemao", "mage"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220923-comando-vermelho-banca-ida-de-criminosos-a-guerra-na-ucrania-para-treinar-com-drones-de-carregar-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Comando Vermelho estaria financiando a ida de integrantes da facção para atuar como voluntários na guerra entre Ucrânia e Rússia com o objetivo de trazer ao Brasil técnicas de combate e treinamento no uso de drones de grande porte. A informação é resultado de investigações da Subsecretaria de Inteligência da Secretaria de Segurança Pública do Rio de Janeiro.
 

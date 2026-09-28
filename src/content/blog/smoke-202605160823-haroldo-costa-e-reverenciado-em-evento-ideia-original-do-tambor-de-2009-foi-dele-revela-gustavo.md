@@ -5,6 +5,7 @@ pubDate: "2026-05-16T08:24:48Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-sul", "cultura-carnaval", "regiao-metropolitana", "tijuca", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160823-haroldo-costa-e-reverenciado-em-evento-ideia-original-do-tambor-de-2009-foi-dele-revela-gustavo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 A Biblioteca Parque Estadual do Rio de Janeiro recebeu, na última quarta-feira, a Feira Literária do Carnaval Haroldo Costa, dedicada a obras sobre o universo do carnaval e das escolas de samba, cujo grande homenageado foi o escritor, pesquisador, bailarino e ator que batizou o nome do evento. Haroldo foi lembrado em duas mesas de debate: a primeira dissecando temas retratados nos livros escritos por ele, enquanto a mesa final relembrou o legado e as características pessoais do artista, com a presença de personalidades que tinham uma relação afetiva com o homenageado, como Helena Theodoro, que o conheceu na década de 50, criando uma amizade de mais de meio século.

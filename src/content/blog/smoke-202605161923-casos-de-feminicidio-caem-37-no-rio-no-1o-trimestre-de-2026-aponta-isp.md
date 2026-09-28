@@ -5,6 +5,7 @@ pubDate: "2026-05-16T19:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161923-casos-de-feminicidio-caem-37-no-rio-no-1o-trimestre-de-2026-aponta-isp.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O primeiro trimestre de 2026 terminou com recuo expressivo nos casos de feminicídio no estado do Rio de Janeiro. Entre janeiro e março, foram registradas 20 vítimas, contra 32 no mesmo período do ano passado, uma redução de mais de 37%, segundo dados do Instituto de Segurança Pública (ISP).
 

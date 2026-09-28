@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp926_img-3538.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Exposição no Rio celebra a vida de Marielle Franco no dia que completaria 44 anos'
 pubDate: 2023-07-28 01:38:10

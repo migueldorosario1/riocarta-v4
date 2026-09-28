@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:27:08Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "cultura", "festa-junina", "arraia-do-albatroz", "musica", "evento-gratuito", "capital", "regiao-metropolitana", "jacare", "baixada", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300023-cabo-frio-arraia-do-albatroz-tera-shows-gratuitos-neste-sabado.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Após uma primeira edição de sucesso, que reuniu mais de 1,5 mil pessoas em uma programação repleta de comidas e bebidas juninas, feira de coletivos de artesanato locais, brincadeiras típicas e shows, o Projeto Albatroz anuncia a segunda edição do Arraiá do Albatroz para o dia 4 de julho (sábado). Das 13h às 20h, a população de toda Região dos Lagos poderá curtir a programação cultural gratuita, que contará com a apresentação de dois grandes nomes da música regional: a DJ Nana Clara e o grupo Forró de Aroeira, que prometem animar a festa.
 

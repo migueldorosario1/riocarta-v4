@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "tijuca", "bananal", "prefeitura-do-rio", "mobi-rio", "transporte-mobilidade", "capital", "benfica", "sao-cristovao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-prefeitura-lanca-operacao-da-linha-ilha-tijuca-com-onibus-novos-e-pagamento-so-por-cartao.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Prefeitura do Rio anunciou que a linha 634, que faz a ligação entre a Ilha do Governador e a Tijuca, passará a operar sob responsabilidade da Mobi-Rio a partir das 5h deste domingo. A mudança faz parte do processo de modernização do sistema municipal de transportes e servirá como modelo para a futura retirada do dinheiro em espécie dos ônibus da cidade, prevista para entrar em vigor no próximo dia 30.

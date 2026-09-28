@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:13:37Z"
 draft: true
 tags: ["rio-de-janeiro", "tangua", "regiao-metropolitana", "abastecimento-de-agua", "niteroi-metropolitana", "niteroi", "mangueira", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282008-tangua-tera-reforco-no-abastecimento-com-nova-adutora.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

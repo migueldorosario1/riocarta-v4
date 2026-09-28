@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:08Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "rocha-miranda", "comando-vermelho", "policia-federal", "roubo-de-carga", "seguranca-publica", "seguranca-publica-rj", "politica-rj", "regiao-metropolitana", "caju", "rocha", "comunidade", "mage"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-operacao-da-pf-mira-criminosos-do-cv-suspeitos-de-agir-como-entregadores-de-aplicativo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Polícia Federal investiga se criminosos ligados ao Comando Vermelho estariam utilizando disfarces de entregadores de aplicativo para monitorar rotas e identificar vítimas antes de praticar roubos de cargas na Zona Norte do Rio de Janeiro.

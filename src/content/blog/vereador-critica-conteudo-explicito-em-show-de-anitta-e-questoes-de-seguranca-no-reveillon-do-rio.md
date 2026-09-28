@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6344_imagem-6.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vereador critica conteúdo explícito em show de Anitta e questões de segurança no réveillon do Rio'
 pubDate: 2025-01-06 06:59:25

@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:01:12Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-olimpica", "olimpiadas-2016", "planejamento-urbano", "rio-capital-barra-recreio-jacarepagua", "favelas-comunidades", "regiao-metropolitana", "leme", "tijuca", "jacare", "sampaio", "barra-da-tijuca", "jacarepagua", "camorim"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-10-years-later-rio-2016-olympics-served-to-consolidate-speculative-plan-rejected-by-pioneering-b-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 This article is part of our series reflecting on the impacts of mega-events on Rio de Janeiro 10 years after the 2016 Olympic Games. It is part of a series of reports and interviews produced in partnership between RioOnWatch and Grupo CASA: Social Studies on Housing and the City, based at the Institute of Social and Political Studies at the State University of Rio de Janeiro (IESP–UERJ), comprising their university extension program and launching IESP effort to share results of the academic research conducted by members of Grupo CASA with a broad audience.
 

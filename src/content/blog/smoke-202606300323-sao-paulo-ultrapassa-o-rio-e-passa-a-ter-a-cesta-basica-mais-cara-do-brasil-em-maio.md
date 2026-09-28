@@ -5,6 +5,7 @@ pubDate: "2026-06-30T03:23:25Z"
 draft: false
 tags: ["rio-de-janeiro", "cesta-basica", "custo-de-vida", "sao-paulo", "rio-capital", "politica-rj", "regiao-metropolitana", "leme"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606300323-sao-paulo-ultrapassa-o-rio-e-passa-a-ter-a-cesta-basica-mais-cara-do-brasil-em-maio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O preço da cesta básica aumentou em todas as oito capitais brasileiras monitoradas pela pesquisa Cesta de Consumo Neogrid & FGV IBRE durante o mês de maio. O levantamento revela uma pressão disseminada sobre os preços dos alimentos essenciais em comparação com abril, reforçando o impacto da inflação no orçamento das famílias.
 

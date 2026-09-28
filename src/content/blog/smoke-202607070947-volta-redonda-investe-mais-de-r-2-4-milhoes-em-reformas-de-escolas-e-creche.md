@@ -5,6 +5,7 @@ pubDate: "2026-07-07T12:49:07Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "educacao", "obras-publicas", "sul-fluminense-costa-verde", "joa", "comunidade", "problemas-estruturais", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607070947-volta-redonda-investe-mais-de-r-2-4-milhoes-em-reformas-de-escolas-e-creche.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Volta Redonda – A Prefeitura de Volta Redonda está finalizando as obras de recuperação estrutural em três escolas municipais e uma creche da rede pública. Os investimentos, realizados por meio da Secretaria Municipal de Educação (SME), somam R$ 2.
 

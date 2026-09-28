@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:24:28Z"
 draft: true
 tags: ["rio-de-janeiro", "medicina", "justica", "politica-rj", "capital-estado", "regiao-metropolitana", "tijuca", "zona-oeste", "barra-da-tijuca", "mage", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-mesmo-com-registro-cassado-no-df-dr-bumbum-podera-atender-se-for-solto-qwen.jpg"
+hero_credit: "DFID - UK Department for International Development / Wikimedia Commons (CC BY 2.0)"
 ---
 O médico Denis Cesar Barros Furtado, o Dr. Bumbum, é escoltado pela polícia após prisão no Rio de Janeiro — Foto: Leo Correa/AP
 

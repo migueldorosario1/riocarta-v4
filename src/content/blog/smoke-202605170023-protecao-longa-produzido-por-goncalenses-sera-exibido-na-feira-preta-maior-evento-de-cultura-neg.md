@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:56Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "cultura-carnaval", "sao-goncalo-itaborai", "regiao-metropolitana", "centro-do-rio", "joa", "comunidade", "niteroi", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-protecao-longa-produzido-por-goncalenses-sera-exibido-na-feira-preta-maior-evento-de-cultura-neg.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A estreia nacional aconteceu durante a 18ª edição do Encontro de Cinema Negro Zózimo Bulbul
 

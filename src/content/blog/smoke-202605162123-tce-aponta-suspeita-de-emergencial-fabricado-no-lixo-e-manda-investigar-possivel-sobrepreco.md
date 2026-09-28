@@ -5,6 +5,7 @@ pubDate: "2026-05-16T21:25:59Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "gestao-municipal", "politica-rj", "serrana", "regiao-metropolitana", "sampaio", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-tce-aponta-suspeita-de-emergencial-fabricado-no-lixo-e-manda-investigar-possivel-sobrepreco.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ) aprovou, na última quarta-feira (13), um acórdão que aponta indícios de “emergência fabricada” nos contratos da coleta de lixo em Petrópolis e determinou a abertura de Tomada de Contas Especial para investigar possível sobrepreço em um contrato emergencial firmado pela gestão Bomtempo para o transporte de resíduos sólidos. A decisão também cita contratos emergenciais assinados “para além do permitido em lei” e falhas no planejamento da administração municipal.
 

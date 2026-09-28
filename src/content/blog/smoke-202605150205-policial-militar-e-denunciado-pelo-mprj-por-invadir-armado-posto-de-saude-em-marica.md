@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:04Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "itaipuacu", "regiao-metropolitana", "seguranca-publica", "politica-rj", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150205-policial-militar-e-denunciado-pelo-mprj-por-invadir-armado-posto-de-saude-em-marica.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O Ministério Público do Estado do Rio de Janeiro (MPRJ) denunciou o policial militar Everthon Silva dos Santos pelo crime de constrangimento ilegal após ele invadir armado um posto de saúde em Maricá, na Região Metropolitana do Rio. A denúncia foi recebida pela Auditoria da Justiça Militar na última quarta-feira (13).

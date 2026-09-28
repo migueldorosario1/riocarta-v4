@@ -5,6 +5,7 @@ pubDate: "2026-05-31T16:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "politica-rj", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605311600-justica-concede-medida-protetiva-a-adolescente-vitima-de-estupro-coletivo-em-campo-grande.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Justiça do Rio concedeu medida protetiva à adolescente vítima de estupro coletivo em Campo Grande, na Zona Oeste da capital. A decisão impõe restrições a um dos investigados, namorado da jovem, apontado como responsável por leva-la ao local do crime.
 

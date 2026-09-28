@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:03:00Z"
 draft: false
 tags: ["rio-de-janeiro", "cosme-velho", "cultura", "arte", "cultura-e-carnaval-rj", "capital", "leme", "pilares", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-waltercio-caldas-suspende-o-tempo-no-cosme-velho.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A arte de Waltercio Caldas não pede licença; ela exige presença. A partir do dia 14 de maio de 2026, a Casa Roberto Marinho, no Cosme Velho, torna-se o palco de uma investigação rigorosa sobre a percepção humana.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2927_images-2024-02-02T200944.272.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Clientes ficam presos em cinema do Rio após serem esquecidos pelos funcionários'
 pubDate: 2024-02-02 20:12:04

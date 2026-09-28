@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2231_Mega-sena-da-virada-loteria-caixa-jogo-sorteio-Metrópoles4.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mega da virada 2023 cinco felizardos dividirão recorde de R$ 588 milhões!'
 pubDate: 2024-01-02 05:27:00

@@ -5,6 +5,7 @@ pubDate: "2026-05-30T06:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605300600-flavio-bolsonaro-cai-no-rio-reduto-historico-da-familia-e-ve-cenario-se-complicar.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os números da nova pesquisa nacional Vetor Arrow divulgada em perimeia mão pelo Agenda do Poder, acenderam um sinal de alerta no entorno político de Flávio Bolsonaro. Senador pelo Estado do Rio de Janeiro e apontado como possível nome da direita para a disputa presidencial de 2026, Flávio aparece atrás do presidente Luiz Inácio Lula da Silva justamente no estado considerado um dos maiores redutos eleitorais da família Bolsonaro.
 

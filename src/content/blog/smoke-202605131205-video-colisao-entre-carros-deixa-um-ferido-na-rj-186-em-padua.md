@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "santo-antonio-de-padua", "noroeste-fluminense", "rj-186", "acidente", "transito", "norte-noroeste-fluminense", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-video-colisao-entre-carros-deixa-um-ferido-na-rj-186-em-padua.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 imagens: Pádua Drone Cinematic

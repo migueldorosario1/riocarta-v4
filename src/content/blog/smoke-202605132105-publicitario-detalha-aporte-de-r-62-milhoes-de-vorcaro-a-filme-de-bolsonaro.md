@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:41Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "banco-master", "daniel-vorcaro", "jair-bolsonaro", "mario-frias", "flavio-bolsonaro", "capital", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132105-publicitario-detalha-aporte-de-r-62-milhoes-de-vorcaro-a-filme-de-bolsonaro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A engrenagem financeira por trás de “Dark Horse”, a cinebiografia de Jair Bolsonaro, acaba de ganhar um rosto e uma narrativa detalhada. O publicitário Thiago Miranda, dono da agência Mithi, confirmou que intermediou o aporte de R$ 62 milhões feito por Daniel Vorcaro, controlador do Banco Master, para a produção do longa-metragem.

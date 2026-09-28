@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:06:00Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "rio-capital-barra-recreio-jacarepagua", "capital-estado", "regiao-metropolitana", "tijuca", "seguranca-publica", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-dr-bumbum-sofre-de-sindrome-do-panico-e-vai-negociar-ida-a-policia-diz-advogada-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A advogada responsável pela defesa do médico Denis Cesar Barros Furtado – conhecido como Dr. Bumbum –, Naiara Baldanza, afirmou nesta quarta-feira (18) que o profissional "sofre de síndrome do pânico".

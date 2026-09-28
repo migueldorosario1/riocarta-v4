@@ -5,6 +5,7 @@ pubDate: "2026-06-29T18:25:17Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "macae-norte-fluminense", "regiao-metropolitana", "marica", "norte-fluminense", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-litoral-de-saquarema-registrou-5-tremores-em-menos-de-24-horas-na-ultima-sexta-26.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

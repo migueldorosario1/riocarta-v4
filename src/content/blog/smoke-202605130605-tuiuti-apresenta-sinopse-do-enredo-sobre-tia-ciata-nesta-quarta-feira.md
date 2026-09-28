@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-cristovao", "carnaval", "tuiuti", "tia-ciata", "cultura", "cultura-e-carnaval-rj", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130605-tuiuti-apresenta-sinopse-do-enredo-sobre-tia-ciata-nesta-quarta-feira.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O Paraíso do Tuiuti apresenta nesta quarta-feira, dia 13 de maio, a partir das 19h, a sinopse do enredo “Ciata: a mãe preta do samba”, que será desenvolvido pelo carnavalesco Renato Lage. O texto será assinado pelos historiadores Claudio Russo, Luiz Antônio Simas e colaboração de Gracy Moreira, bisneta da homenageada.

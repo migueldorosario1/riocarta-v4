@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:25:26Z"
 draft: false
 tags: ["rio-de-janeiro", "itaborai", "regiao-metropolitana", "aniversario", "shows", "ludmilla", "dennis", "natanzinho-lima", "aline-barros", "marica", "joa", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605152123-itaborai-193-anos-ludmilla-dennis-natanzinho-lima-e-aline-barros-sao-as-atracoes-do-aniversario.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Quatro noites de shows gratuitos na Avenida 22 de Maio celebram a emancipação político-administrativa do município; programação começa nesta quinta-feira (21)

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp126_ministerio-publico-abriu-investigacao-contra-ministra-do-turismo-daniela-carneiro-8a3aaac8-bc57-4ac7-8539-88b8d4dfa2c4.large-.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT do Rio reage à troca no Ministério do Turismo'
 pubDate: 2023-06-12 06:19:27

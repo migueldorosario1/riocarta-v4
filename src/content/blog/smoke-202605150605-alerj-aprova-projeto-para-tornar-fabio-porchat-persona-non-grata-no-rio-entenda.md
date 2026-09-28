@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:40Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "capital-estado", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-alerj-aprova-projeto-para-tornar-fabio-porchat-persona-non-grata-no-rio-entenda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Rio

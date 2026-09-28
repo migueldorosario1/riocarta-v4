@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:18Z"
 draft: true
 tags: ["rio-de-janeiro", "jardim-botanico", "zona-sul", "ed-motta", "xenofobia", "injuria", "restaurante-grado", "15-dp-gavea", "seguranca-publica-rj", "rio-capital-zona-sul-e-grande-tijuca", "politica-rj", "gavea", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-audio-atribuido-a-ed-motta-cita-ofensa-xenofobica-em-2025.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Áudios atribuídos ao cantor e compositor Ed Motta, investigado por injúria por preconceito contra um funcionário do restaurante Grado, no Jardim Botânico, Zona Sul do Rio, indicam que o artista já teria chamado a vítima de “paraíba” em 2025. O caso é apurado pela 15ª DP (Gávea).

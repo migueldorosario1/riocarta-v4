@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:23:49Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "aracatiba", "festa-de-sao-pedro", "prefeitura-de-marica", "regiao-metropolitana", "cultura-carnaval", "mare", "ramos", "guaratiba", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282023-marica-festa-de-sao-pedro-comeca-com-shows-e-grande-publico-em-aracatiba.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A tradicional Festa de São Pedro começou em clima de celebração na noite deste sábado (27), reunindo moradores e visitantes na Praça Tiradentes, em Araçatiba. Promovido pela Prefeitura de Maricá, o evento marcou a abertura da programação musical em homenagem ao padroeiro dos pescadores, com apresentações gratuitas do grupo Kontagiô e da cantora Marianna Cunha.
 

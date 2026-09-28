@@ -5,6 +5,7 @@ pubDate: "2026-06-29T00:25:51Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "politica-rj", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290023-presidente-da-camara-de-macae-exalta-legado-de-sylvio-lopes-em-bate-papo.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

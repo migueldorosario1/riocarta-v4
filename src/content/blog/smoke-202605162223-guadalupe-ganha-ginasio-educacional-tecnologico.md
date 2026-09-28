@@ -5,6 +5,7 @@ pubDate: "2026-05-16T22:24:18Z"
 draft: false
 tags: ["rio-de-janeiro", "guadalupe", "zona-norte", "rio-capital-zona-norte", "capital", "joa", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-guadalupe-ganha-ginasio-educacional-tecnologico.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O prefeito do Rio, Eduardo Cavaliere, inaugurou neste sábado (16/05) o Ginásio Educacional Tecnológico (GET) CIEP João do Rio, em Guadalupe, na Zona Norte. A nova unidade tem capacidade para atender até 330 alunos, totalizando mais de 125 mil em toda a cidade, que passa a contar com 308 GETs.
 

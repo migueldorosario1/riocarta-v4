@@ -5,6 +5,7 @@ pubDate: "2026-07-13T12:01:54Z"
 draft: false
 tags: ["rio-de-janeiro", "miguel-pereira", "seguranca-publica", "regiao-serrana", "sul-fluminense", "sul-fluminense-costa-verde", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607130900-miguel-pereira-quatro-sao-presos-por-trafico-em-acao-do-10o-bpm.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Miguel Pereira – Uma ação do 10º Batalhão de Polícia Militar (10º BPM) resultou na prisão de quatro pessoas suspeitas de envolvimento com o tráfico de drogas no bairro Praça da Ponte, em Miguel Pereira. A operação foi realizada na segunda-feira (6), e contou com equipes da 2ª Companhia.
 

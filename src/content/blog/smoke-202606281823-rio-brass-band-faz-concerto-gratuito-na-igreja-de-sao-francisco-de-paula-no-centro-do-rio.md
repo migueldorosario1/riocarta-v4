@@ -5,6 +5,7 @@ pubDate: "2026-06-28T18:27:30Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "cultura", "rio-capital-centro", "capital", "regiao-metropolitana", "centro-do-rio", "campos", "saude", "educacao", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-rio-brass-band-faz-concerto-gratuito-na-igreja-de-sao-francisco-de-paula-no-centro-do-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Igreja de São Francisco de Paula, no Centro do Rio, recebe nesta quarta-feira, 1º de julho, às 18h, um concerto gratuito da Rio Brass Band. A apresentação faz parte da programação preparatória para a 21ª Conferência Internacional da WASBE Rio 2026, que será realizada na cidade entre os dias 20 e 26 de julho.
 

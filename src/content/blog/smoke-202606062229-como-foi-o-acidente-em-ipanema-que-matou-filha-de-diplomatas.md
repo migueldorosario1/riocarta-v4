@@ -5,6 +5,7 @@ pubDate: "2026-06-06T22:34:09Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "gavea", "leblon", "iraja", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-como-foi-o-acidente-em-ipanema-que-matou-filha-de-diplomatas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mariana Tanaka Abdul Hak, de 20 anos, morava na Europa e tinha acabado de chegar ao Rio quando foi atropelada por uma van, no sábado (20); a mãe também se feriu
 

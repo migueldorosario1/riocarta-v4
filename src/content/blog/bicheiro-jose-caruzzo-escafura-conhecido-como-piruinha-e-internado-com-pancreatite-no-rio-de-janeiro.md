@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2098_65478861-ri-rio-de-janeiro-rj-27-02-2017-carnaval-2017-mocidade-desfile-das-escolas-de-sam.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bicheiro José Caruzzo Escafura, conhecido como Piruinha, é internado com pancreatite no Rio de Janeiro'
 pubDate: 2023-12-10 06:00:00

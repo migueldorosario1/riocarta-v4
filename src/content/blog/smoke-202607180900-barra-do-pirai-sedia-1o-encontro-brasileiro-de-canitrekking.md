@@ -5,6 +5,7 @@ pubDate: "2026-07-18T12:01:24Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "sul-fluminense", "canitrekking", "turismo", "esporte", "sul-fluminense-costa-verde", "pirai", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607180900-barra-do-pirai-sedia-1o-encontro-brasileiro-de-canitrekking.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Barra do Piraí – Barra do Piraí será palco, nos dias 15 e 16 de agosto, do 1º Encontro Brasileiro de Canitrekking. O evento será realizado no distrito de Ipiabas e reunirá praticantes da modalidade, que combina esporte, turismo de natureza e bem-estar animal.
 

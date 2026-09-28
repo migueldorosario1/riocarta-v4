@@ -5,6 +5,7 @@ pubDate: "2026-07-14T12:06:03Z"
 draft: true
 tags: ["rio-de-janeiro", "guanabara-bay", "poluicao", "saneamento", "olimpiadas", "regiao-metropolitana", "favelas-comunidades", "favela", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607140900-30-years-since-the-first-promises-and-10-years-after-the-olympics-the-cleanup-of-guanabara-bay-r-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 This article is part of our series reflecting on the impacts of mega-events on Rio de Janeiro 10 years after the 2016 Olympic Games. It is the first in a series of reports and interviews produced by Grupo CASA: Social Studies on Housing and the City, based at the Institute of Social and Political Studies at the State University of Rio de Janeiro (IESP–UERJ), in partnership with RioOnWatch.
 

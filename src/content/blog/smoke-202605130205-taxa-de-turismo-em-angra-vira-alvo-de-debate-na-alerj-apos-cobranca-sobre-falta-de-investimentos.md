@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "ilha-grande", "alerj", "taxa-de-turismo", "politica-rj", "sul-fluminense", "regiao-metropolitana", "angra", "problemas-estruturais"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-taxa-de-turismo-em-angra-vira-alvo-de-debate-na-alerj-apos-cobranca-sobre-falta-de-investimentos.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 ANGRA DOS REIS

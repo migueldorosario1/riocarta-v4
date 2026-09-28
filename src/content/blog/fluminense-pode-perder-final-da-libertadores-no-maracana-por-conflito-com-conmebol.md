@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1630_uploads_1668265451683-52205234723_d40234d28c_k3.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fluminense pode perder final da Libertadores no Maracanã por conflito com Conmebol'
 pubDate: 2023-10-19 14:20:20

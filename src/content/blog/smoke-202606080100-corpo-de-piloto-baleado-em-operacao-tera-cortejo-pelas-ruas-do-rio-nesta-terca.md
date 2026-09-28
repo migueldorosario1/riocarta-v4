@@ -5,6 +5,7 @@ pubDate: "2026-06-08T01:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "policia-civil", "seguranca-publica", "capital-estado", "caju", "copacabana", "flamengo", "lagoa", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-corpo-de-piloto-baleado-em-operacao-tera-cortejo-pelas-ruas-do-rio-nesta-terca.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio — Corpo de piloto baleado em operação terá cortejo pelas ruas do Rio nesta terça. Agente da Polícia Civil ficou 9 meses internado após ser atingido na Vila Aliança.
 

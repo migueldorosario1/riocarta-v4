@@ -5,6 +5,7 @@ pubDate: "2026-06-29T14:26:46Z"
 draft: true
 tags: ["rio-de-janeiro", "policia-civil", "criptomoedas", "lavagem-de-dinheiro", "baixada-fluminense", "mare", "lins", "seguranca-publica", "politica-rj", "regiao-metropolitana", "complexo", "baixada"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-policia-civil-cria-nucleo-especializado-para-investigar-lavagem-de-dinheiro-com-criptomoedas-no.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "violencia-domestica", "politica-publica", "governo-rj", "serrana", "regiao-metropolitana", "leme", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-petropolis-tera-grupos-reflexivos-para-homens-autores-de-violencia-domestica.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A Prefeitura de Petrópolis firmou um acordo de cooperação técnica com o Governo do Estado do Rio de Janeiro, por meio da Secretaria de Estado da Mulher, para a implantação de grupos reflexivos voltados a homens autores de violência doméstica e familiar. A iniciativa faz parte do Programa SER H, desenvolvido pelo Estado, com foco na prevenção de novos casos de violência contra a mulher.

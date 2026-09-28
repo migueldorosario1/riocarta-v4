@@ -5,6 +5,7 @@ pubDate: "2026-05-27T16:00:13Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "mp-rj", "prefeitura", "urbanismo", "mais-valia", "leis-urbanisticas", "capital", "regiao-metropolitana", "leme", "campos", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605271600-mprj-vai-a-justica-contra-leis-da-mais-valia-e-mais-valera-no-rio-e-aponta-risco-de-explosao-urb.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Ministério Público do Rio entrou na Justiça nesta quinta-feira (21/05) para tentar derrubar duas das principais leis urbanísticas aprovadas recentemente pela Prefeitura do Rio. A ação, que cai como uma bomba para o setor imobiliário, questiona as Leis Complementares 281/2025 e 291/2025, que tratam dos mecanismos conhecidos como “Mais-Valia” e “Mais-Valerá”, utilizados para regularizar ampliações e flexibilizar parâmetros construtivos em imóveis residenciais e comerciais da cidade.
 

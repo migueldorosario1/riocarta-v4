@@ -5,6 +5,7 @@ pubDate: "2026-07-10T12:01:24Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "cursos-gratuitos", "qualificacao-profissional", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607100900-sao-pedro-da-aldeia-abre-vagas-para-cursos-gratuitos-de-qualificacao.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de São Pedro da Aldeia está com inscrições abertas para cursos gratuitos de qualificação profissional em cinco áreas. As vagas são oferecidas por meio de uma parceria entre a Secretaria Municipal de Agricultura, Abastecimento e Trabalho e a Firjan SENAI SESI.
 

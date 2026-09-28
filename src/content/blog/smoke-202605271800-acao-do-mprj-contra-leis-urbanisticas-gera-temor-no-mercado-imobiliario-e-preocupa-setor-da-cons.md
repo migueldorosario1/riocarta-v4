@@ -5,6 +5,7 @@ pubDate: "2026-05-27T18:00:14Z"
 draft: false
 tags: ["rio-de-janeiro", "mercado-imobiliario", "mprj", "leis-urbanisticas", "mais-valia", "politica-rj", "capital", "regiao-metropolitana", "leme", "campos", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605271800-acao-do-mprj-contra-leis-urbanisticas-gera-temor-no-mercado-imobiliario-e-preocupa-setor-da-cons.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Após mais de uma década de baixo dinamismo no mercado imobiliário carioca, a construção civil voltou nos últimos anos a dar sinais claros de reaquecimento no Rio de Janeiro. Novos empreendimentos, recuperação gradual do valor do metro quadrado, crescimento do setor de retrofit e uma nova onda de ocupação residencial no Centro passaram a redesenhar parte da paisagem urbana da capital fluminense.
 

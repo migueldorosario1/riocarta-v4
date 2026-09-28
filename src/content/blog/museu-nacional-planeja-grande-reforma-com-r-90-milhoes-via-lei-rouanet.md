@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2111_incendio-museu-rescaldo-agi20180903061-thiago-ribeiro-estadao-conteudo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Museu Nacional planeja grande reforma com R$ 90 Milhões via Lei Rouanet'
 pubDate: 2023-12-10 10:00:00

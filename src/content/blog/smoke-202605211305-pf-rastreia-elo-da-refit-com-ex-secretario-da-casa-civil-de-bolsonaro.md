@@ -5,6 +5,7 @@ pubDate: "2026-05-21T16:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "grupo-refit", "claudio-castro", "capital", "regiao-metropolitana", "leme", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211305-pf-rastreia-elo-da-refit-com-ex-secretario-da-casa-civil-de-bolsonaro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

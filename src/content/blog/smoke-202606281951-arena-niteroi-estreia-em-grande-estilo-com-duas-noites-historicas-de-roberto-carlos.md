@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:53:53Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "arena-niteroi", "roberto-carlos", "cultura", "shows", "regiao-metropolitana", "politica-rj", "complexo", "marica", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281951-arena-niteroi-estreia-em-grande-estilo-com-duas-noites-historicas-de-roberto-carlos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A nova Arena Niterói iniciou suas atividades em clima de celebração e emoção. O equipamento multiuso da Prefeitura de Niterói recebeu, na sexta-feira (26) e no sábado (27), duas apresentações de Roberto Carlos, reunindo milhares de fãs e marcando a estreia do espaço como um dos principais locais para grandes eventos no estado do Rio de Janeiro.
 

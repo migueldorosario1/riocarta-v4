@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:36:23Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "baia-de-guanabara", "regiao-metropolitana", "capital-porto", "leme", "comunidade", "problemas-estruturais", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-projeto-meros-cria-hub-virtual-para-fortalecer-protecao-da-baia-de-guanabara-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Projeto Meros do Brasil anunciou a criação do Kûánãpará — Hub de Soluções Guanabara, um espaço virtual voltado à organização, difusão de conhecimento e fortalecimento das iniciativas socioambientais na Baía de Guanabara. A plataforma reunirá referências bibliográficas, artigos, pesquisas, notícias e informações sobre ações em curso na região, além de disponibilizar um mapa digital interativo que permitirá localizar projetos, organizações e pesquisadores que atuam na conservação da bacia hidrográfica e do entorno da baía.
 

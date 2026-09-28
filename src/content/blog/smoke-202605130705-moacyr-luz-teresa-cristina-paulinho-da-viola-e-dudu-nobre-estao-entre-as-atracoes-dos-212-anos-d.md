@@ -5,6 +5,7 @@ pubDate: "2026-05-13T10:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-dos-lagos", "cultura", "aniversario", "samba", "regiao-metropolitana", "mare", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-moacyr-luz-teresa-cristina-paulinho-da-viola-e-dudu-nobre-estao-entre-as-atracoes-dos-212-anos-d.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 Maricá terá uma programação cultural em comemoração aos 212 anos da cidade entre os dias 15 e 26 de maio. As atividades acontecem na Praça Orlando de Barros Pimentel, no Centro, e na Arena da Barra, com shows gratuitos e ações culturais.

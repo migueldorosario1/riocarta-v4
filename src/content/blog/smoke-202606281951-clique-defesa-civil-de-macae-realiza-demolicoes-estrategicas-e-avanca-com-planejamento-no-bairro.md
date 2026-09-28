@@ -5,6 +5,7 @@ pubDate: "2026-06-28T19:54:38Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "fronteira", "defesa-civil", "erosao-costeira", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281951-clique-defesa-civil-de-macae-realiza-demolicoes-estrategicas-e-avanca-com-planejamento-no-bairro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Defesa Civil segue acompanhando de perto a situação dos moradores do bairro Fronteira. Nesta sexta-feira (26) equipes estiveram no local realizando demolições como parte de um planejamento estratégico baseado em estudos da UFRJ.
 

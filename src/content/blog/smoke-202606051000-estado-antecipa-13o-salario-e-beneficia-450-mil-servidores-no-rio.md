@@ -5,6 +5,7 @@ pubDate: "2026-06-05T10:03:24Z"
 draft: false
 tags: ["rio-de-janeiro", "governo-rj", "servidores", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051000-estado-antecipa-13o-salario-e-beneficia-450-mil-servidores-no-rio-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O fim de maio deve chegar com dinheiro extra na conta de cerca de 450 mil servidores do Estado do Rio de Janeiro. O Governo do Estado anunciou que vai antecipar o pagamento da primeira parcela do 13º salário para o dia 29 de maio, quase um mês antes do prazo previsto no calendário oficial.
 

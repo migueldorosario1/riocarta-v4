@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5447_imagem-108.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confiança do consumidor brasileiro cresce pelo quarto mês consecutivo, aponta FGV'
 pubDate: 2024-09-24 20:07:50

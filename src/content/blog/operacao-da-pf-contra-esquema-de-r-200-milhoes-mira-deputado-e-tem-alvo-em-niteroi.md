@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:46Z"
 draft: true
 tags: ["niteroi", "operacao-pf", "deputado-federal", "fraude-licitacao", "castracao-animais", "governo-rj", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "rio-de-janeiro", "seguranca-publica", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/operacao-da-pf-contra-esquema-de-r-200-milhoes-mira-deputado-e-tem-alvo-em-niteroi.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 O deputado federal Marcelo Queiroz (PSDB) é um dos principais alvos da Operação Castratio, deflagrada na manhã desta terça-feira (12) pela Polícia Federal, que investiga um suposto esquema de fraudes em contratos de castração de animais firmados com o Governo do Estado do Rio de Janeiro.

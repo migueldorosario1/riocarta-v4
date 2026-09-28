@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1585_gcm-alerj-e1697042774538.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputados estaduais intimidam guardas municipais durante operação no Rio, vídeo viraliza'
 pubDate: 2023-10-13 10:56:19

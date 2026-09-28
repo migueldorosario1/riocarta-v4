@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:16Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "autismo", "congresso", "saude", "inclusao", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-o-que-explica-a-corrida-por-vagas-em-um-congresso-gratuito-sobre-autismo-em-niteroi.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Com quase 6 mil inscritos em poucas semanas e expectativa de receber até 40 mil participantes, o TEA Global Congress 2026 transformará Niterói em um dos principais centros de debate sobre autismo da América Latina nos dias 27 e 28 de agosto. Gratuito, o evento reunirá especialistas brasileiros e internacionais, pesquisadores, universidades, gestores públicos, famílias e organizações da sociedade civil para discutir inclusão, educação, acessibilidade, mercado de trabalho, tecnologia e políticas públicas.
 

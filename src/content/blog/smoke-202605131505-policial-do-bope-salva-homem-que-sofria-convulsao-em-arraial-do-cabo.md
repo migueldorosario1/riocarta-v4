@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "bope", "policia-militar", "salvamento", "saude", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-policial-do-bope-salva-homem-que-sofria-convulsao-em-arraial-do-cabo.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Um policial do Batalhão de Operações Policiais Especiais (BOPE) salvou a vida de um homem que passou mal em via pública durante uma operação conjunta do PROEIS e da Polícia Civil, em Arraial do Cabo.

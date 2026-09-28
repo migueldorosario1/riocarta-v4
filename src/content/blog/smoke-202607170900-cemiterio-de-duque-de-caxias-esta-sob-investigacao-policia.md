@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:04:51Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "cemiterio", "policia-civil", "investigacao", "niteroi-metropolitana", "regiao-metropolitana", "vasco-da-gama", "baixada", "niteroi", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-cemiterio-de-duque-de-caxias-esta-sob-investigacao-policia-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Polícia Civil do Rio de Janeiro investiga denúncias de má conservação no Cemitério Nossa Senhora do Belém, localizado no Corte 8, em Duque de Caxias, na Baixada Fluminense. A apuração começou após relatos de túmulos abertos e a localização de ossadas armazenadas em sacos plásticos, fato que levou à atuação da 59ª Delegacia de Polícia no local.
 

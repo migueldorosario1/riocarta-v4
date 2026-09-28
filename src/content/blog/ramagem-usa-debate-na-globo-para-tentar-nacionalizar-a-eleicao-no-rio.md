@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5564_108698784-pa-rio-de-janeiro-rj-03-10-2024-eleicoes-2024-debate-dos-candidatos-a-prefeitura-d-compressed.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ramagem usa debate na Globo para tentar nacionalizar a eleição no Rio'
 pubDate: 2024-10-04 12:34:17

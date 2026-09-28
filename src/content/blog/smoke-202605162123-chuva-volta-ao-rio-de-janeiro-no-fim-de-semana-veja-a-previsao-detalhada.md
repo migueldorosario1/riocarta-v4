@@ -5,6 +5,7 @@ pubDate: "2026-05-16T21:24:33Z"
 draft: false
 tags: ["rio-de-janeiro", "clima", "previsao-do-tempo", "rio-capital-centro", "capital-estado", "regiao-metropolitana", "serrana", "sul-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-chuva-volta-ao-rio-de-janeiro-no-fim-de-semana-veja-a-previsao-detalhada.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

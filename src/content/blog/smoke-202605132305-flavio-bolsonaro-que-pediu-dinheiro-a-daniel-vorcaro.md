@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "daniel-vorcaro", "banco-master", "dark-horse", "politica-rj", "senado", "capital", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-flavio-bolsonaro-que-pediu-dinheiro-a-daniel-vorcaro.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O xadrez político de Brasília ganhou novos contornos nesta quarta-feira (13). O senador Flávio Bolsonaro (PL) quebrou o silêncio e admitiu ter procurado o banqueiro Daniel Vorcaro, controlador do Banco Master, para viabilizar o financiamento do filme “Dark Horse”, obra biográfica sobre o ex-presidente Jair Bolsonaro.

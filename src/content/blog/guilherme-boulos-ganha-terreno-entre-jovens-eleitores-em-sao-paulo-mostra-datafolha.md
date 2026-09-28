@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5847_imagem-67.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Guilherme Boulos ganha terreno entre jovens eleitores em São Paulo, mostra Datafolha'
 pubDate: 2024-10-24 20:05:17

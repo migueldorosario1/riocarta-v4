@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:51:50Z"
 draft: false
 tags: ["rio-de-janeiro", "arraial-do-cabo", "monte-alto", "regiao-dos-lagos", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-orgaos-realizam-vistoria-para-apurar-possiveis-construcoes-irregulares-em-monte-alto-arraial-do-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Representantes do Ministério Público, da Secretaria do Patrimônio da União (SPU), do Instituto Estadual do Ambiente (Inea) e do município realizaram, nesta terça-feira (7), uma vistoria no bairro Monte Alto, em Arraial do Cabo. A ação teve como objetivo apurar possíveis construções irregulares na região.
 

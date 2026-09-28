@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:34Z"
 draft: true
 tags: ["rio-de-janeiro", "baixada-fluminense", "mesquita", "sao-joao-de-meriti", "nova-iguacu", "terminal-brt-metropolitano", "bilhete-unico-margaridas", "transporte-mobilidade", "capital", "regiao-metropolitana", "zona-norte", "joa", "baixada"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-como-funciona-o-bilhete-unico-margaridas-nova-integracao-tarifaria-para-quem-sai-da-baixada-flum.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Inaugurado em 14 de março, o Terminal BRT Metropolitano iniciou a integração entre a Baixada Fluminense e o sistema BRT do Rio com a operação linhas intermunicipais vindas de Mesquita, além de seis linhas municipais da Zona Norte, facilitando o deslocamento até o Centro da cidade por meio do Terminal Gentileza. No início deste mês, moradores de São João de Meriti e Nova Iguaçu também passaram a contar com uma alternativa mais rápida e confortável de acesso ao Rio, com a chegada de mais três linhas intermunicipais de São João de Meriti e quatro de Nova Iguaçu.

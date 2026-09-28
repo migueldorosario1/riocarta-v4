@@ -5,6 +5,7 @@ pubDate: "2026-06-29T15:23:30Z"
 draft: false
 tags: ["rio-de-janeiro", "vicente-de-carvalho", "rocinha", "santa-cruz", "del-castilho", "santo-cristo", "vila-isabel", "concurso-decoracao-copa", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "gamboa", "leme", "bento-ribeiro"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606291523-rua-taturana-vence-concurso-de-decoracao-da-copa-do-mundo-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio divulgou, nesta segunda-feira (29/06), o resultado do Concurso Carioca de Decoração de Rua para a Copa do Mundo de Futebol 2026. Com o tema “Acreditar é uma Arte – O Rio nas Cores do Hexa”, a iniciativa reuniu 50 ruas, vilas e travessas de diferentes regiões da cidade.
 

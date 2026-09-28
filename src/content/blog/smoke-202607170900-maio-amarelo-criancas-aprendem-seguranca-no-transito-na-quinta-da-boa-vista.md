@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:02:15Z"
 draft: true
 tags: ["rio-de-janeiro", "quinta-da-boa-vista", "zona-norte", "maio-amarelo", "seguranca-no-transito", "cet-rio", "prefeitura-do-rio", "detran-rj", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "mare", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-maio-amarelo-criancas-aprendem-seguranca-no-transito-na-quinta-da-boa-vista.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

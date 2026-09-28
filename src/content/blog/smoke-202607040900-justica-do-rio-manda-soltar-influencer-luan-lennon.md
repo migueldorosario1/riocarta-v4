@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:01:16Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "justica", "influenciador", "rio-capital-centro", "niteroi-metropolitana", "regiao-metropolitana", "centro-do-rio", "estacio", "niteroi", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-justica-do-rio-manda-soltar-influencer-luan-lennon.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Tribunal de Justiça do Rio de Janeiro determinou, nesta quinta-feira (14), a soltura do influenciador digital Luan Lennon Camacho Braga Oliveira, de 23 anos, além de outros dois homens presos por encenarem um furto no Centro do Rio para produzir conteúdo nas redes sociais. O trio estava detido desde o último dia 7.
 

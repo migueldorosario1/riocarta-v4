@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:07:28Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "vereadora-vera-lins", "banco-de-sangue-animal", "politica-rj", "capital-estado", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-projeto-de-lei-quer-proibir-venda-de-sangue-animal-no-rio-de-janeiro.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Rio

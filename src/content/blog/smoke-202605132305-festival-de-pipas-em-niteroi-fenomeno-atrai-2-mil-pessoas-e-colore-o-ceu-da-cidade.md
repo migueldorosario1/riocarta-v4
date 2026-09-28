@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "charitas", "festival-de-pipas", "cultura", "comunidade", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "ramos", "realengo", "baixada", "duque-de-caxias", "nova-iguacu"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-festival-de-pipas-em-niteroi-fenomeno-atrai-2-mil-pessoas-e-colore-o-ceu-da-cidade.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O que começou como uma rotina entre amigos de uma comunidade em Niterói, na Região Metropolitana do Rio, acabou se transformando em um verdadeiro fenômeno. O Festival de Pipas de Charitas, na Região das Praias da Baía, acontece ao longo de todo o ano e vem lotando a orla do bairro sempre às terças e quintas-feiras, das 19h à 0h, reunindo crianças, adultos e famílias inteiras em noites marcadas por pipas no céu, lazer e clima de comunidade.

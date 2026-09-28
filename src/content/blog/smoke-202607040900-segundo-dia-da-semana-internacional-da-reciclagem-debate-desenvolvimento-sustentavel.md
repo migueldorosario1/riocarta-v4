@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-segundo-dia-da-semana-internacional-da-reciclagem-debate-desenvolvimento-sustentavel.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Evento continua neste sábado (16), na praça do Zé Garoto, com várias atividades
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "campanha-doacao", "pessoas-em-situacao-de-rua", "solidariedade", "serrana", "mare", "comunidade", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-campanha-visa-arrecadacao-de-doacoes-para-composicao-de-kits-para-pessoas-em-situacao-de-rua.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: lazer
 ---
 O documentário Cidade Esquecida, produzido pela jornalista Marise Simões e dirigido pelo cineasta Rodolfo Medeiros, ambos petropolitanos, ganha um novo desdobramento nas ruas de Petrópolis. A equipe do projeto lança “Do Olhar à Ação”, iniciativa independente que busca transformar reflexão em cuidado concreto com pessoas em situação de rua.

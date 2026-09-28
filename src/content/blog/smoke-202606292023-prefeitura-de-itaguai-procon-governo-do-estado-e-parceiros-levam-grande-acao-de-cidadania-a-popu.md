@@ -5,6 +5,7 @@ pubDate: "2026-06-29T20:26:31Z"
 draft: true
 tags: ["rio-de-janeiro", "itaguai", "procon", "acao-cidadania", "governo-do-estado-rj", "regiao-metropolitana", "capital", "saude", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-prefeitura-de-itaguai-procon-governo-do-estado-e-parceiros-levam-grande-acao-de-cidadania-a-popu.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

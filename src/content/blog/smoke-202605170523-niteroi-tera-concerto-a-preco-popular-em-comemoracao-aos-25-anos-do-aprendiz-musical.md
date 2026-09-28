@@ -5,6 +5,7 @@ pubDate: "2026-05-17T05:23:12Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "cultura", "regiao-metropolitana", "niteroi-metropolitana", "leme", "rocha", "transporte-mobilidade", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-niteroi-tera-concerto-a-preco-popular-em-comemoracao-aos-25-anos-do-aprendiz-musical.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A celebração dos 25 anos do Programa Aprendiz Musical ganhará novos acordes nesta sexta-feira (15), quando a iniciativa da Prefeitura de Niterói sobe ao palco do Theatro Municipal para lançar o álbum “Choro Sinfônico”. O concerto, marcado para às 19h30, reunirá a Orquestra Aprendiz Musical e a Orquestra de Sopros Aprendiz Musical em uma apresentação inspirada em nomes históricos do gênero, como Pixinguinha, Altamiro Carrilho, Benedito Lacerda, Anacleto de Medeiros e Ernesto Nazareth.
 

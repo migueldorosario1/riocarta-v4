@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:48:21Z"
 draft: false
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "faetec", "cursos-gratuitos", "pilares", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-arraial-do-cabo-abre-inscricoes-para-cursos-gratuitos-de-qualificacao-profissional-em-parceria-c.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Arraial do Cabo, por meio do Programa QualificaTur, apoia a oferta de novos cursos gratuitos de qualificação profissional promovidos pela FAETEC e voltados à população cabista. As inscrições estarão abertas a partir desta sexta-feira (10) e seguem até o dia 19 de julho, ou até o preenchimento das vagas disponibilizadas pela FAETEC.
 

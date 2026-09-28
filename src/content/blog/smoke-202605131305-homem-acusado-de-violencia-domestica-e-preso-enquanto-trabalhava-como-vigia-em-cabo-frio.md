@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "violencia-domestica", "seguranca-publica", "araruama", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-homem-acusado-de-violencia-domestica-e-preso-enquanto-trabalhava-como-vigia-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 A Polícia Civil prendeu, na noite desta terça-feira (12), um homem identificado como Luciano Vieira de Bacellos, acusado de crimes de ameaça e lesão corporal no contexto de violência doméstica contra a mulher, em Cabo Frio.

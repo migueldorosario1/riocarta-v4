@@ -5,6 +5,7 @@ pubDate: "2026-06-29T06:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-conrado", "rocinha", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "ramos", "comunidade", "mage", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606290623-corpo-encontrado-em-sao-conrado-e-do-professor-de-surfe-desaparecido-ha-quatro-dias-reconhece-fa.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O corpo encontrado na manhã deste domingo (28), no Costão da Avenida Niemeyer, na Zona Sul do Rio de Janeiro, foi identificado como sendo do professor de surfe José Ricardo Ramos, conhecido como Bocão. A confirmação foi feita pelo filho, Ricardo Ramos, após o reconhecimento no Instituto Médico Legal (IML), no Centro da capital.
 

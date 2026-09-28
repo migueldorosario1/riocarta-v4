@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:50:57Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "meio-ambiente", "bicho-preguica", "parque-centenario", "sul-fluminense-costa-verde", "sul-fluminense", "volta-redonda", "comunidade", "angra", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-bicho-preguica-recebe-alta-e-retorna-ao-parque-centenario-em-barra-mansa.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Barra Mansa – Um dos moradores mais conhecidos do Parque Centenário, no Centro de Barra Mansa, está de volta ao seu habitat. O bicho-preguiça que caiu de uma árvore na última semana recebeu alta veterinária e retornou nesta terça-feira (7) ao local conhecido como Jardim das Preguiças, após passar por tratamento no Zoológico Municipal de Volta Redonda.
 

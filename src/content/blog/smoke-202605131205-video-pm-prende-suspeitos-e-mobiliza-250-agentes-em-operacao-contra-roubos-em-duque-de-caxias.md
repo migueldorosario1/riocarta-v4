@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "policia-militar", "operacao-policial", "roubos", "capital-estado", "regiao-metropolitana", "baixada", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-video-pm-prende-suspeitos-e-mobiliza-250-agentes-em-operacao-contra-roubos-em-duque-de-caxias.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Rio

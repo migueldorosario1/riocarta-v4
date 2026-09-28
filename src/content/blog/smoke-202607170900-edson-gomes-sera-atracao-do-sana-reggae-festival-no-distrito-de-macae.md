@@ -5,6 +5,7 @@ pubDate: "2026-07-17T12:02:12Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "sana", "reggae", "festival", "cultura", "norte-noroeste-fluminense", "regiao-dos-lagos", "gloria", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607170900-edson-gomes-sera-atracao-do-sana-reggae-festival-no-distrito-de-macae.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Sana Reggae Festival já tem data marcada para voltar a movimentar o Sana, distrito de Macaé. A edição que celebra os 15 anos do festival acontece no próximo dia 23 de maio, na chamada Cidade do Reggae, montada no centro do vilarejo.
 

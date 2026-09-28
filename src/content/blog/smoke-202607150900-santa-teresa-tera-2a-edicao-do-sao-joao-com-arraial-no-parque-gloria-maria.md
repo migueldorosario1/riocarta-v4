@@ -5,6 +5,7 @@ pubDate: "2026-07-15T12:02:40Z"
 draft: true
 tags: ["rio-de-janeiro", "santa-teresa", "parque-gloria-maria", "sao-joao", "arraial", "cultura-local", "rio-capital-zona-sul-e-grande-tijuca", "capital", "gloria", "joa", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607150900-santa-teresa-tera-2a-edicao-do-sao-joao-com-arraial-no-parque-gloria-maria.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Prepare-se para subir as ladeiras de Santa Teresa, que o bairro já começa a entrar em clima de São João. Nos dias 6 e 7 de junho, o tradicional reduto boêmio e cultural da cidade recebe mais uma edição do São João de Santa, arraial promovido pelo Polo Gastronômico, Turístico e Cultural de Santa Teresa, o AmeSanta.
 

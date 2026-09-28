@@ -5,6 +5,7 @@ pubDate: "2026-05-22T13:24:24Z"
 draft: false
 tags: ["rio-de-janeiro", "manguinhos", "zona-norte", "fiocruz", "lula", "saude-publica", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "sao-joao-de-meriti", "oswaldo-cruz", "joa", "complexo", "baixada"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221323-neste-sabado-lula-cumpre-agenda-na-fiocruz-e-faz-inauguracoes-e-entregas-de-equipamentos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Na manhã deste sábado (23), o presidente Luiz Inácio Lula da Silva (PT) cumpre agenda na Fundação Oswaldo Cruz (Fiocruz), em Manguinhos, na Zona Norte carioca. Na ocasião, Lula inaugura o Centro de Desenvolvimento Tecnológico em Saúde (CDTS), lança o Centro de Desenvolvimento e Produção de Terapias (CAR-T), além de entregar veículos do programa Agora Tem Especialistas-Caminhos da Saúde e do SAMU.
 

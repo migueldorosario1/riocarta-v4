@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3744_imagem-12.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! Mauro Cid revela detalhes de reuniões sobre o plano golpista de Bolsonaro'
 pubDate: 2024-03-13 08:58:05

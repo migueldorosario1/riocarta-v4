@@ -5,6 +5,7 @@ pubDate: "2026-06-29T23:23:07Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-conrado", "rocinha", "rio-capital-zona-sul-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "tijuca", "ramos", "comunidade", "itaborai", "educacao"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-desaparecido-desde-quarta-corpo-de-professor-bocao-e-encontrado-no-rio.webp"
+hero_credit: "Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:01:23Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-do-pirai", "sul-fluminense", "defesa-civil", "pmrr", "prevencao-desastres", "sul-fluminense-costa-verde", "regiao-metropolitana", "leme", "serrana", "campos", "pirai", "problemas-estruturais", "seguranca-publica"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-barra-do-pirai-comeca-o-pmrr-para-prevencao-de-desastres-naturais.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 BARRA DO PIRAÍ
 

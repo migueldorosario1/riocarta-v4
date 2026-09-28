@@ -1,5 +1,8 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1940_marcioaraujo.png"
+hero_credit: "Supreme Headquarters Allied Expeditionary Force Evaluation and Dissemination Section G-2 (Counter Intelligence Sub-divison); Declassified US governmental document issued in 1945. 
+
+No known copyright restrictions. / Wikimedia Commons (CC BY-SA 4.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sargento ligado à segurança de Rogério de Andrade é reintegrado à PM após reviravolta judicial'
 pubDate: 2023-11-14 12:40:00

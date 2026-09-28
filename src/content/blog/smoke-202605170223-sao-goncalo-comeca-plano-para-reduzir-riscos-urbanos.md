@@ -5,6 +5,7 @@ pubDate: "2026-05-17T02:23:22Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-sao-goncalo-comeca-plano-para-reduzir-riscos-urbanos.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 São Gonçalo iniciou os trabalhos para elaborar o Plano Municipal de Redução de Riscos
 

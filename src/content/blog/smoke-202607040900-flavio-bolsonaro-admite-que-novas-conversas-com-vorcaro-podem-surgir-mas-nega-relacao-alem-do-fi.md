@@ -5,6 +5,7 @@ pubDate: "2026-07-04T12:00:15Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-flavio-bolsonaro-admite-que-novas-conversas-com-vorcaro-podem-surgir-mas-nega-relacao-alem-do-fi.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O senador e pré-candidato à Presidência Flávio Bolsonaro afirmou nesta sexta-feira (15) que novos diálogos ou registros de encontros com o empresário Daniel Vorcaro podem se tornar públicos nos próximos dias. Em entrevista à CNN Brasil, o parlamentar declarou que todas as interações com o ex-banqueiro tiveram como único objetivo tratar da produção do filme “Dark Horse”, inspirado na trajetória do ex-presidente Jair Bolsonaro.
 

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3207_53526402666_3bb0723b38_c-768x511-1.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Viradouro é a campeã do Carnaval 2024 do Rio'
 pubDate: 2024-02-14 22:03:39

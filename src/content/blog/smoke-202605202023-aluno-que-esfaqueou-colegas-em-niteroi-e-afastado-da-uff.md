@@ -5,6 +5,7 @@ pubDate: "2026-05-20T20:23:27Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "seguranca-publica", "educacao", "regiao-metropolitana", "niteroi-metropolitana", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202023-aluno-que-esfaqueou-colegas-em-niteroi-e-afastado-da-uff.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Universidade Federal Fluminense afastou por prazo indeterminado o aluno do curso de Cinema acusado de atacar colegas com um canivete após uma discussão sobre a apresentação de um trabalho em grupo. O caso ocorreu na tarde de terça-feira (19), na Rua Professor Lara Vilela, em São Domingos, onde fica localizado o Casarão Rosa, antigo Instituto de Artes e Comunicação Social (IACS).
 

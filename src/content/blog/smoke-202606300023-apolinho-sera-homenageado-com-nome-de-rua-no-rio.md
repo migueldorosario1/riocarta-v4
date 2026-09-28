@@ -5,6 +5,7 @@ pubDate: "2026-06-30T00:26:20Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "apolinho", "politica-rj", "capital", "regiao-metropolitana", "flamengo", "problemas-estruturais", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-apolinho-sera-homenageado-com-nome-de-rua-no-rio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

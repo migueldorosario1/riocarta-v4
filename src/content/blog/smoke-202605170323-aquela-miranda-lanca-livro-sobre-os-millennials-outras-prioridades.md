@@ -5,6 +5,7 @@ pubDate: "2026-05-17T03:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-aquela-miranda-lanca-livro-sobre-os-millennials-outras-prioridades.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Os nascidos entre 1981 e 1996, que cresceram pegando o finzinho do mundo analógico e o início do caos digital
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T09:25:03Z"
 draft: false
 tags: ["rio-de-janeiro", "saude", "capital-estado", "regiao-metropolitana", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160923-ministerio-confirma-677-casos-de-sarampo-em-seis-estados-do-brasil-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: seguranca
 ---
 Vacina contra sarampo está disponível no SUS — Foto: Cristine Rochol/PMPA

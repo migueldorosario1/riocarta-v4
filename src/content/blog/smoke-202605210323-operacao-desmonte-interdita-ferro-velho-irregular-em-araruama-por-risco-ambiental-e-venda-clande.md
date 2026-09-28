@@ -5,6 +5,7 @@ pubDate: "2026-05-21T03:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "araruama", "bananeiras", "regiao-dos-lagos", "operacao-desmonte", "detran-rj", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210323-operacao-desmonte-interdita-ferro-velho-irregular-em-araruama-por-risco-ambiental-e-venda-clande.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Agentes da Operação Desmonte interditaram, nesta quarta-feira (20), um ferro-velho localizado na Rua Araras, nº 14, no bairro Bananeiras, em Araruama, na Região dos Lagos. A força-tarefa atua na fiscalização da comercialização de peças e sucatas automotivas em todo o estado do Rio de Janeiro.
 

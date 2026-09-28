@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5663_imagem-15.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-diretora de Inteligência do Ministério da Justiça é intimada para depoimento sobre bloqueios nas eleições de 2022'
 pubDate: 2024-10-09 13:10:02

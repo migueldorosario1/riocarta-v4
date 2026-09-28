@@ -5,6 +5,7 @@ pubDate: "2026-06-28T21:26:43Z"
 draft: true
 tags: ["rio-de-janeiro", "cultura-carnaval", "estado", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-cafe-move-a-rotina-dos-cariocas-e-ganha-novas-versoes-no-dia-nacional-da-bebida.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

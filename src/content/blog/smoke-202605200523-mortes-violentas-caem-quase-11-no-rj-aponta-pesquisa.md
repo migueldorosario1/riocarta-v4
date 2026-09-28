@@ -5,6 +5,7 @@ pubDate: "2026-05-20T05:23:19Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "capital", "regiao-metropolitana", "campinho", "coelho-neto", "madureira", "baixada", "belford-roxo", "noroeste-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200523-mortes-violentas-caem-quase-11-no-rj-aponta-pesquisa.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Estado do Rio de Janeiro registrou, nos quatro primeiros meses de 2026, o menor número de mortes violentas desde o início da série histórica do Instituto de Segurança Pública, o ISP, em 1991. Os dados, divulgados nesta terça-feira (19/05), mostram 1.
 

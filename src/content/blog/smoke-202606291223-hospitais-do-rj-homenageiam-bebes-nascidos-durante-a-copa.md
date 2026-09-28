@@ -5,6 +5,7 @@ pubDate: "2026-06-29T12:27:13Z"
 draft: true
 tags: ["rio-de-janeiro", "baixada-fluminense", "mesquita", "nova-iguacu", "araruama", "saude", "regiao-metropolitana", "politica-rj", "baixada", "belford-roxo", "regiao-dos-lagos", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291223-hospitais-do-rj-homenageiam-bebes-nascidos-durante-a-copa.jpg"
+hero_credit: "Harris &amp; Ewing, photographer / Wikimedia Commons (Public domain)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -5,6 +5,7 @@ pubDate: "2026-06-02T20:02:06Z"
 draft: false
 tags: ["rio-de-janeiro", "manguinhos", "zona-norte", "refit", "inea", "meio-ambiente", "rio-capital-zona-norte", "politica-rj", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-inea-faz-vistoria-na-refit-apos-cassacao-de-inscricao-estadual.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O Instituto Estadual do Ambiente (Inea) realizou nesta segunda-feira (1º) uma vistoria técnica na Refinaria de Manguinhos (Refit), na Zona Norte do Rio. A ação ocorre dias após a criação de um grupo de trabalho encarregado de reavaliar todos os processos de licenciamento ambiental da empresa.
 

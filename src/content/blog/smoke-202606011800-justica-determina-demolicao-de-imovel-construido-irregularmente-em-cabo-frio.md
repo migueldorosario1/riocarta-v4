@@ -5,6 +5,7 @@ pubDate: "2026-06-01T18:02:00Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "meio-ambiente", "leme", "problemas-estruturais", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-justica-determina-demolicao-de-imovel-construido-irregularmente-em-cabo-frio.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Justiça Federal determinou a demolição de um imóvel construído sobre vegetação de restinga e faixa de areia da Praia do Foguete, em Cabo Frio. A decisão foi tomada em ação civil pública movida pelo Ministério Público Federal (MPF), que apontou danos ambientais em área de preservação permanente (APP), além de ocupação de terreno de marinha e área de uso comum.
 

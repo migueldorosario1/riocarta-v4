@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5874_imagem-75.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mais de 30 milhões de eleitores votam no segundo turno das eleições municipais de 2024'
 pubDate: 2024-10-27 09:44:10

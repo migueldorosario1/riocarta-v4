@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:45Z"
 draft: true
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "rio-capital-zona-oeste", "politica-rj", "seguranca-publica"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151405-menina-de-12-anos-denuncia-ter-sido-estuprada-por-oito-meninos-em-campo-grande.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Uma menina de 12 anos denunciou ter sido vítima de estupro coletivo envolvendo oito adolescentes na última quarta-feira (13), em Campo Grande, na Zona Oeste do Rio. O caso está sendo investigado pela Delegacia de Atendimento à Mulher (Deam) de Campo Grande.

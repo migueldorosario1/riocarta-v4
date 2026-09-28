@@ -5,6 +5,7 @@ pubDate: "2026-05-31T10:00:17Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "seguranca-publica", "politica-rj", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605311000-maio-laranja-mobiliza-alerj-em-acoes-de-combate-a-violencia-sexual-infantil-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O aumento dos casos de violência sexual contra crianças e adolescentes no Rio de Janeiro colocou o tema no centro das ações promovidas pela Assembleia Legislativa do Rio de Janeiro (Alerj) durante o “Maio Laranja”, campanha nacional voltada à prevenção e ao enfrentamento desse tipo de crime. Ao longo do mês, a Comissão de Assuntos da Criança, do Adolescente e do Idoso da Alerj vem intensificando iniciativas de conscientização, acolhimento e mobilização social.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T20:24:30Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "cidade-sorriso", "regiao-metropolitana", "cultura-carnaval", "bangu", "comunidade", "sao-goncalo", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-prefeitura-de-niteroi-reformara-quadra-do-academicos-do-cubango.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura de Niterói e o Acadêmicos do Cubango firmaram, nesta sexta-feira, um acordo para a realização de obras de revitalização na quadra da agremiação, localizada na Rua Noronha Torrezão, na Cidade Sorriso. O encontro contou com a presença da presidente Patricia Cunha, do vice-presidente Iran Robinson, do deputado federal Dimas Gadelha (PT-RJ), da secretária executiva da Prefeitura de Niterói, Marcilene Souto – representando o prefeito Rodrigo Neves -, e do vereador de São Gonçalo, Juliano Freitas (PT-RJ).
 

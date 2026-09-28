@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:06:08Z"
 draft: true
 tags: ["rio-de-janeiro", "gavea", "zona-sul", "planetario", "ferias", "cultura", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151405-planetario-do-rio-inscreve-para-um-dia-de-atividades-nas-ferias-qwen.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Crianças assistirão a sessões de cúpula e visitarão o Museu do Universo — Foto: Reprodução / TV Globo

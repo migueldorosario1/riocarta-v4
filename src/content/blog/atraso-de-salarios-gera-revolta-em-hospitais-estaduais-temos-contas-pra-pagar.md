@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:47Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "itaborai", "saude", "atraso-salarial", "hospitais-estaduais", "saude-e-educacao-rj", "niteroi-metropolitana", "regiao-metropolitana", "centro-do-rio", "joa", "mage", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/atraso-de-salarios-gera-revolta-em-hospitais-estaduais-temos-contas-pra-pagar.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 Profissionais de saúde que atuam em hospitais da rede estadual do Rio de Janeiro relatam uma sequência de atrasos salariais, falta de pagamento de benefícios e ausência de respostas por parte das organizações sociais (OSs) responsáveis pela gestão das unidades. As denúncias envolvem hospitais na capital, Niterói, São Gonçalo e Itaboraí, na Região Metropolitana.

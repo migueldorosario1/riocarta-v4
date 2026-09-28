@@ -5,6 +5,7 @@ pubDate: "2026-05-20T12:23:50Z"
 draft: false
 tags: ["rio-de-janeiro", "padra-miguel", "zona-oeste", "rio-capital-zona-oeste", "cultura-carnaval", "regiao-metropolitana", "padre-miguel", "comunidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201223-flimocidade-transforma-quadra-da-mocidade-em-territorio-de-leitura-cultura-e-formacao-cidada.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Na próxima sexta-feira, dia 22 de maio, a Secretaria Municipal de Educação do Rio de Janeiro, em parceria com o GRES Mocidade Independente de Padre Miguel, realiza a primeira edição da FliMocidade iniciativa que integra o Circuito de Festas Literárias da Rede Municipal de Ensino. A quadra da Mocidade, espaço historicamente ligado ao carnaval, será ocupada como território de educação, memória, arte e convivência comunitária.
 

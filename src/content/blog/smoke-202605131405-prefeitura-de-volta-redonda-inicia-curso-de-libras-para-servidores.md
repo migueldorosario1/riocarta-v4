@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "libras", "inclusao", "servidores-publicos", "sul-fluminense-costa-verde", "ramos", "comunidade", "educacao", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-prefeitura-de-volta-redonda-inicia-curso-de-libras-para-servidores.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Volta Redonda – A Prefeitura de Volta Redonda iniciou nesta terça-feira (12) um curso de Libras (Língua Brasileira de Sinais) voltado para servidores municipais. A iniciativa é promovida pela Secretaria Municipal da Pessoa com Deficiência (SMPD) e reúne 90 inscritos de diferentes setores da administração pública.

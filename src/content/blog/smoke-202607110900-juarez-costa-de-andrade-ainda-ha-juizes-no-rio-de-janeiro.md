@@ -5,6 +5,7 @@ pubDate: "2026-07-11T12:00:22Z"
 draft: true
 tags: ["rio-de-janeiro", "tribunal-de-justica-do-rio-de-janeiro", "judiciario", "organizacoes-criminosas", "sumulas-vinculantes", "adpf-das-favelas", "juiz-juarez-costa-de-andrade", "politica-rj", "capital-estado", "regiao-metropolitana", "favela"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607110900-juarez-costa-de-andrade-ainda-ha-juizes-no-rio-de-janeiro.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio Juarez Costa de Andrade: “Ainda há juízes no Rio de Janeiro” Artigo publicado pelo juiz Juarez Costa de Andrade aborda atuação do Judiciário fluminenseO juiz de direito Juarez Costa de Andrade publicou no portal Webforum, na última sexta-feira (9), o artigo “Ainda há juízes no Rio de Janeiro”, em que defende protagonismo do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ) na resposta às organizações criminosas e propõe a criação de súmulas vinculantes locais para regular a matéria. No texto, o magistrado argumenta que o Judiciário fluminense tem oportunidade inédita de editar súmulas vinculantes para seus jurisdicionados, “em tabelinha com o Supremo”, criando estabilidade e previsibilidade jurídica em um tema sensível.
 

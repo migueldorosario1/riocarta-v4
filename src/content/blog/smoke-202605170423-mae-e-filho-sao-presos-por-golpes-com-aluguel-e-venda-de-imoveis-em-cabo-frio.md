@@ -5,6 +5,7 @@ pubDate: "2026-05-17T04:23:24Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170423-mae-e-filho-sao-presos-por-golpes-com-aluguel-e-venda-de-imoveis-em-cabo-frio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Mãe e filho foram presos nesta sexta-feira (15) pela Polícia Civil, em Cabo Frio, na Região dos Lagos, acusados de integrar um esquema de golpes envolvendo aluguéis e vendas fraudulentas de imóveis. A ação foi realizada por agentes da 126ª DP (Cabo Frio), que localizaram os dois no bairro Reserva do Peró após meses de investigação.
 

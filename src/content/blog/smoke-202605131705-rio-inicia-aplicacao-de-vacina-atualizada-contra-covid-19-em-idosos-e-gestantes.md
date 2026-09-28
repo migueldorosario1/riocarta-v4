@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "vacina-covid-19", "saude-publica", "idosos", "gestantes", "saude-e-educacao-rj", "politica-rj", "regiao-metropolitana", "botafogo", "mare", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-rio-inicia-aplicacao-de-vacina-atualizada-contra-covid-19-em-idosos-e-gestantes.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 A cidade do Rio de Janeiro iniciou nesta quarta-feira (13) uma nova etapa da vacinação contra a Covid-19 com a aplicação de uma versão atualizada do imunizante. A nova dose oferece proteção contra a variante LP.

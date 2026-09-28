@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "sul-fluminense", "prefeitura", "atendimento-digital", "whatsapp", "sul-fluminense-costa-verde", "pirai", "pilares", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150205-barra-do-pirai-lanca-programa-digital-de-atendimento-a-populacao.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 BARRA DO PIRAÍ

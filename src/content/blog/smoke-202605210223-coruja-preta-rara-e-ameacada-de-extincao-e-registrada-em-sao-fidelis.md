@@ -5,6 +5,7 @@ pubDate: "2026-05-21T02:24:25Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-fidelis", "parque-estadual-do-desengano", "coruja-preta", "fauna-ameacada", "norte-noroeste-fluminense", "regiao-metropolitana", "mage", "mare", "noroeste-fluminense", "problemas-estruturais"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210223-coruja-preta-rara-e-ameacada-de-extincao-e-registrada-em-sao-fidelis.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Imagens: Samir Mansur
 

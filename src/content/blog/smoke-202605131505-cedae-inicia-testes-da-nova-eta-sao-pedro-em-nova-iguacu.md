@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "cedae", "tratamento-de-agua", "infraestrutura", "capital", "regiao-metropolitana", "duque-de-caxias", "acari", "baixada", "belford-roxo", "queimados", "japeri"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-cedae-inicia-testes-da-nova-eta-sao-pedro-em-nova-iguacu.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: geral
 ---
 A Cedae iniciou a fase de testes operacionais da nova Estação de Tratamento de Água São Pedro, em Nova Iguaçu, na Baixada Fluminense. A unidade faz parte das obras de modernização do Sistema Acari, responsável pelo abastecimento de parte da região.

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6397_image-1.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inauguração do ramal Paula Mattos do Bonde Santa Teresa acontece nesta sexta'
 pubDate: 2025-01-10 09:53:50

@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3228_images-49.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aliados de Nunes tentam barrar participação do prefeito no ato convocado por Bolsonaro na Paulista'
 pubDate: 2024-02-15 08:37:00

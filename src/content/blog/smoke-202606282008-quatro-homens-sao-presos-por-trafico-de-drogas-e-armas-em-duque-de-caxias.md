@@ -5,6 +5,7 @@ pubDate: "2026-06-28T20:10:14Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "seguranca-publica", "regiao-metropolitana", "capital-estado", "baixada", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606282008-quatro-homens-sao-presos-por-trafico-de-drogas-e-armas-em-duque-de-caxias.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

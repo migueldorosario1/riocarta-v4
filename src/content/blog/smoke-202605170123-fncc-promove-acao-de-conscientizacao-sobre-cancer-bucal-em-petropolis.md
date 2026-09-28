@@ -5,6 +5,7 @@ pubDate: "2026-05-17T01:25:22Z"
 draft: false
 tags: ["rio-de-janeiro", "petrpolis", "saude", "serrana", "regiao-serrana", "petropolis", "leme"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-fncc-promove-acao-de-conscientizacao-sobre-cancer-bucal-em-petropolis.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Frente Nacional de Combate ao Câncer (FNCC) realiza, no próximo dia 28 de maio, uma programação especial em alusão ao Maio Vermelho, campanha nacional de conscientização e combate ao câncer bucal. O evento acontecerá na sede da instituição, localizada na Rua Monsenhor Bacelar, nº 569, no Centro.
 

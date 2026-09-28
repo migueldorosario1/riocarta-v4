@@ -5,6 +5,7 @@ pubDate: "2026-06-29T22:23:06Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "politica", "enchente", "prolagos", "dr-serginho", "jardim-excelsior", "sao-cristovao", "paciencia", "problemas-estruturais", "transporte-mobilidade", "educacao", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-segunda-feira-29.webp"
+hero_credit: "Pedro Ribeiro Simões from Lisboa, Portugal / Wikimedia Commons (CC BY 2.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

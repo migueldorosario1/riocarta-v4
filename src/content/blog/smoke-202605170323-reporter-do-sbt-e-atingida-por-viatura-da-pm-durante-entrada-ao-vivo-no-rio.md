@@ -5,6 +5,7 @@ pubDate: "2026-05-17T03:24:07Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "policia-militar", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "centro-do-rio", "baixada", "belford-roxo", "sao-goncalo", "itaborai", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-reporter-do-sbt-e-atingida-por-viatura-da-pm-durante-entrada-ao-vivo-no-rio.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Em conversa com a apresentadora Isabele Benito, ela afirmou que estava bem e garantiu que não sofreu ferimentos
 

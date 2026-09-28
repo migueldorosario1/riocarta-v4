@@ -5,6 +5,7 @@ pubDate: "2026-05-17T00:23:35Z"
 draft: true
 tags: ["rio-de-janeiro", "transporte", "mobilidade", "transporte-mobilidade", "politica-rj", "regiao-metropolitana"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-que-instituicao-poderia-ser-contra-isso-diz-cavaliere-ao-rebater-investigacao-do-mprj-sobre-onib.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 O prefeito do Rio, Eduardo Cavaliere, reagiu à abertura de um inquérito civil do Ministério Público do Estado do Rio de Janeiro (MPRJ) para investigar a decisão da prefeitura de acabar com o pagamento em dinheiro nos ônibus municipais. Em publicação nas redes sociais na noite de sexta-feira (15), o prefeito questionou a iniciativa da promotoria e defendeu o novo sistema de bilhetagem digital Jaé.
 

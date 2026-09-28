@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5264_imagem-58.webp"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dólar recua pelo quarto dia consecutivo no Brasil e se aproxima de R$ 5,50'
 pubDate: 2024-09-16 19:43:38

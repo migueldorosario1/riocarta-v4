@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:08Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "lava-jato", "justica", "politica-rj", "sul-fluminense", "regiao-metropolitana", "comunidade", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130105-justica-do-rio-arquiva-acao-da-lava-jato-contra-albertassi-e-paulo-melo.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 Estado do Rio – O Órgão Especial do Tribunal de Justiça do Rio de Janeiro (TJRJ) decidiu arquivar a ação penal da Operação Lava Jato que havia resultado na condenação dos ex-deputados estaduais Edson Albertassi e Paulo Melo. O encerramento do processo representa uma reviravolta no caso: em 2019, o Tribunal Regional Federal da 2ª Região (TRF-2) havia condenado Albertassi a 13 anos e 4 meses de prisão pelos crimes de corrupção passiva, organização criminosa e lavagem de dinheiro.

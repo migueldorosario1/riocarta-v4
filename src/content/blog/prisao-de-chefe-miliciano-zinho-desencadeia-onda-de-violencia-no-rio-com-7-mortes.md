@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2513_WhatsApp-Image-2024-01-23-at-02.44.41.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prisão de chefe miliciano Zinho desencadeia onda de violência no Rio com 7 mortes'
 pubDate: 2024-01-23 08:00:00

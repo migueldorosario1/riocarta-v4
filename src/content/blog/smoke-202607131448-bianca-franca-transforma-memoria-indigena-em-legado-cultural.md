@@ -5,6 +5,7 @@ pubDate: "2026-07-13T17:51:52Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "cultura", "indigena", "carnaval", "rio-capital-zona-norte", "niteroi-metropolitana", "regiao-metropolitana", "joa", "comunidade", "mesquita", "niteroi", "campos", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607131448-bianca-franca-transforma-memoria-indigena-em-legado-cultural.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Historiadora, pesquisadora e documentarista une pesquisa acadêmica, cinema, livros e tecnologia para valorizar patrimônio indígena e a trajetória de Berta Ribeiro
 

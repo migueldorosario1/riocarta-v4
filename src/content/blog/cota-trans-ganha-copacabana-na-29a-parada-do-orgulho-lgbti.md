@@ -1,5 +1,6 @@
 ---
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6031_IMG-20241124-WA0035-1.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cota Trans ganha Copacabana na 29ª Parada Do Orgulho LGBTI+'
 pubDate: 2024-11-24 14:38:24

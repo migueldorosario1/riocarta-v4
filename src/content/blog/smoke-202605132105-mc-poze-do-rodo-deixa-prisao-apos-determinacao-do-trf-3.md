@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "mc-poze-do-rodo", "seguranca-publica-rj", "operacao-narco-fluxo", "politica-rj", "gericino", "complexo", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132105-mc-poze-do-rodo-deixa-prisao-apos-determinacao-do-trf-3.png"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O cantor MC Poze do Rodo teve a soltura determinada pelo Tribunal Regional Federal da 3ª Região (TRF-3) nesta quarta-feira (13), em uma decisão que apontou excesso de prazo nas investigações da Operação Narco Fluxo.

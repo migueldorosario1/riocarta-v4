@@ -5,6 +5,7 @@ pubDate: "2026-07-12T12:00:08Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "praia-campista", "skandi-amazonas", "encalhe", "meio-ambiente", "norte-noroeste-fluminense", "macae-norte-fluminense", "estacio", "norte-fluminense", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607120900-skandi-amazonas-pode-estar-perto-de-deixar-a-praia-campista-apos-quase-dois-meses.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Encalhada desde 15 de maio, embarcação segue sob monitoramento técnico e sem registro de danos ambientais
 

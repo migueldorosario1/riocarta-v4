@@ -5,6 +5,7 @@ pubDate: "2026-05-16T04:23:04Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160423-contrato-aponta-eduardo-bolsonaro-como-produtor-executivo-de-dark-horse-diz-intercept.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 categoria_macro: politica
 ---
 O ex-deputado federal Eduardo Bolsonaro aparece como uma das figuras centrais na produção do filme “Dark Horse”, cinebiografia sobre o ex-presidente Jair Bolsonaro, segundo documentos e mensagens revelados nesta sexta-feira pelo Intercept Brasil. Contratos assinados digitalmente e conversas obtidas pela reportagem indicam que Eduardo tinha atribuições executivas e participação em decisões financeiras do projeto audiovisual.

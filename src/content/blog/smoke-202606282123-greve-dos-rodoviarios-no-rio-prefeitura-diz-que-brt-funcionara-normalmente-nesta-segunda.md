@@ -5,6 +5,7 @@ pubDate: "2026-06-28T21:25:37Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "brt", "transporte", "transporte-mobilidade", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-greve-dos-rodoviarios-no-rio-prefeitura-diz-que-brt-funcionara-normalmente-nesta-segunda.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

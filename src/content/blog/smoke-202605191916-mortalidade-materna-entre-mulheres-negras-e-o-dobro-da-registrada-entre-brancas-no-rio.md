@@ -5,6 +5,7 @@ pubDate: "2026-05-19T19:18:05Z"
 draft: true
 tags: ["rio-de-janeiro", "saude", "politica-rj", "regiao-metropolitana", "leme"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-mortalidade-materna-entre-mulheres-negras-e-o-dobro-da-registrada-entre-brancas-no-rio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A desigualdade no acesso à saúde no Brasil ganhou números concretos em uma audiência pública realizada na manhã desta segunda-feira (19) na Assembleia Legislativa do Rio de Janeiro (Alerj).
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-05T15:38:15Z"
 draft: true
 tags: ["rio-de-janeiro", "lapa", "centro", "seguranca-publica", "rio-capital-centro", "capital-estado", "regiao-metropolitana", "centro-do-rio", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-megaoperacao-na-lapa-desarticula-ponto-estrategico-do-trafico-de-drogas.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 Rio
 

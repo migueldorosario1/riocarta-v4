@@ -5,6 +5,7 @@ pubDate: "2026-05-21T18:24:12Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-sul", "gavea", "sao-conrado", "motofaixas", "prefeitura", "mobilidade-urbana", "rio-capital-zona-sul-grande-tijuca", "capital", "lagoa", "maracana", "praca-da-bandeira", "rocinha", "zona-norte"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211823-prefeitura-promete-80-km-de-motofaixas-no-rio-ate-o-fim-do-ano.jpeg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Prefeitura do Rio iniciou a implantação de novas motofaixas no Túnel Acústico Rafael Mascarenhas, ligação entre a Gávea e São Conrado, como parte do plano de expansão da malha destinada a motociclistas na cidade. A meta do município é chegar a cerca de 80 quilômetros de motofaixas até o fim deste ano.
 

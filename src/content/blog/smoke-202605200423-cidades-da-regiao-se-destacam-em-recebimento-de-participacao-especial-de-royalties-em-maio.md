@@ -5,6 +5,7 @@ pubDate: "2026-05-20T04:24:20Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "macae-norte-fluminense", "joa", "cabo-frio", "buzios", "rio-das-ostras", "campos", "norte-fluminense", "transporte-mobilidade"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200423-cidades-da-regiao-se-destacam-em-recebimento-de-participacao-especial-de-royalties-em-maio.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 A Superintendência de Petróleo, Gás, Ciência e Tecnologia de São João da Barra divulgou números sobre o recebimento dos municípios fluminenses em participações governamentais relativas à Participação Especial (PE) dos royalties.
 

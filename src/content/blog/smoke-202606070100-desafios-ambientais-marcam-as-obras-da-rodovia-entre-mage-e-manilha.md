@@ -5,6 +5,7 @@ pubDate: "2026-06-07T01:00:52Z"
 draft: true
 tags: ["rio-de-janeiro", "mage", "itaborai", "regiao-metropolitana", "br-493", "obras", "meio-ambiente", "transporte-mobilidade", "niteroi-metropolitana", "anil", "complexo", "niteroi", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-desafios-ambientais-marcam-as-obras-da-rodovia-entre-mage-e-manilha.jpg"
+hero_credit: "Chensiyuan / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 As obras de duplicação do trecho de 20 quilômetros da rodovia BR 493, entre Magé e Manilha, na Região Metropolitana do Rio de Janeiro, seguem em ritmo de execução dentro de um planejamento técnico que integra engenharia, meio ambiente e exigências de licenciamento. O projeto ocorre em uma área considerada sensível, próxima à Área de Proteção Ambiental de Guapi-Mirim, e busca ao mesmo tempo modernizar o fluxo viário e reduzir históricos registros de acidentes na região.
 
