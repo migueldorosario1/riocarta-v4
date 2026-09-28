@@ -141,6 +141,7 @@ const categorySlug =
 	'rio-de-janeiro';
 const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categorySlug);
 const isOpinion = tags.some((tag) => tag === 'opiniao-diaria' || tag.startsWith('colunista-'));
+import BannerMoka from '../components/BannerMoka.astro';
 ---
 
 <html lang="pt-BR">
@@ -312,6 +313,8 @@ const isOpinion = tags.some((tag) => tag === 'opiniao-diaria' || tag.startsWith(
 						<hr />
 					</div>
 					<slot />
+
+<BannerMoka />
 					<div class="category-footer">
 						<span class="category-footer-label">Categoria:</span>
 						<a class="category category-footer-link" href={`/tags/${categorySlug}/`}>{categoryLabel}</a>
