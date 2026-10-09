@@ -1,7 +1,7 @@
 ---
 title: "Como votou Petrópolis: Ruas vence, mas o voto legislativo da cidade serrana é do PSOL"
 description: "O candidato do PL fez 54,03% dos válidos na cidade imperial, contra 39,04% de Paes; para a Câmara e a Alerj, porém, os votos nominais mais altos foram de candidatas do PSOL."
-pubDate: "2026-10-08"
+pubDate: "2026-10-09"
 heroImage: "/hero/resultado-eleicoes-rio-2026.jpg"
 hero_credit: "Joe Hall from Takoma Park, MD, USA, Wikimedia Commons, CC BY 2.0"
 hero_legenda: "Urna eletrônica utilizada nas eleições brasileiras"
