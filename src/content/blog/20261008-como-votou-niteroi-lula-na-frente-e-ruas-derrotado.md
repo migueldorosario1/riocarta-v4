@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-A série «Como votou o Rio» chega à cidade que nadou contra a corrente: Niterói. Na presidencial, foi uma das apenas 9 cidades, das 92 do estado, em que Lula terminou na frente — 48,35% contra 43,71% de Flávio Bolsonaro, na totalização oficial do 1º turno.
+Lula venceu em 9 das 92 cidades do Rio de Janeiro. Niterói foi uma delas — e a maior. Na disputa presidencial, o presidente fez 48,35% contra 43,71% de Flávio Bolsonaro na totalização oficial do 1º turno, num estado que deu à direita 53,01%.
 
 No governo do estado, a contracorrente se repetiu — e foi a única grande cidade fora da capital onde Douglas Ruas foi derrotado. Eduardo Paes (PSD) fez 148.902 votos válidos, 50,61%, contra 127.926 de Ruas (PL), 43,48%, num universo de 294.202 válidos.
 
@@ -27,4 +27,4 @@ Na Assembleia Legislativa, Fernanda Neves (PDT) liderou com 39.715 votos, à fre
 
 Niterói teve abstenção de 19,65% — a menor entre os grandes colégios eleitorais medidos até aqui pela série, contra 20,49% na Baixada, 23,47% em São Gonçalo, 23,33% no estado e 26,16% na capital. Compareceram 330.359 dos 411.131 eleitores aptos.
 
-Os números do governo do estado e dos deputados vêm da votação nominal por município e zona do TSE, arquivo oficial de 08/10/2026, já retotalizado após a anulação dos votos de Garotinho; o placar presidencial municipal vem da totalização oficial do 1º turno.
+Fontes: TSE — votação nominal por município e zona (08/10/2026, retotalizado) e totalização oficial do 1º turno para o placar presidencial da cidade.

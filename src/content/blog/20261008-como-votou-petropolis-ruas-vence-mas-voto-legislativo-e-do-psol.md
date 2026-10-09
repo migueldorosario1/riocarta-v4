@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-A série «Como votou o Rio» entra no interior pela cidade imperial. Petrópolis, na serra, seguiu a maioria do estado no governo — Douglas Ruas (PL) fez 81.201 votos válidos, 54,03%, contra 58.673 de Eduardo Paes (PSD), 39,04%, num universo de 150.278 válidos.
+A cidade imperial da serra seguiu a maioria fluminense no governo: Douglas Ruas (PL) fez 81.201 votos válidos em Petrópolis, 54,03%, contra 58.673 de Eduardo Paes (PSD), 39,04%, num universo de 150.278 válidos.
 
 O voto legislativo, porém, desenhou outra cidade: os votos nominais mais altos para a Câmara e para a Alerj saíram do PSOL, não do PL.
 
@@ -27,4 +27,4 @@ Ruas foi eleito governador no 1º turno depois que o TSE anulou, nesta quinta-fe
 
 Em Petrópolis, a abstenção ficou em 24,19%: compareceram 181.425 dos 239.323 eleitores aptos — acima da média do estado (23,33%), mas abaixo da capital (26,16%).
 
-Os números do governo do estado e dos deputados vêm da votação nominal por município e zona do TSE, arquivo oficial de 08/10/2026, já retotalizado após a anulação dos votos de Garotinho; o comparecimento, do detalhe da apuração por zona.
+Dados: TSE — votação nominal por município e zona e detalhe por zona (arquivo de 08/10/2026, retotalizado).
