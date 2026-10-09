@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-A série «Como votou o Rio» abre pela cidade que decidiu o jogo: São Gonçalo, segunda maior cidade do estado, com 652.951 eleitores aptos. Foi ali que Douglas Ruas (PL), filho da cidade, construiu a votação mais desequilibrada da eleição para o governo do Rio entre os grandes colégios eleitorais.
+São Gonçalo é a cidade onde o governador eleito do Rio nasceu, onde o pai dele governa como prefeito e onde, na prática, a eleição de 2026 foi decidida. Ali, no segundo maior colégio do estado — 652.951 eleitores aptos —, Douglas Ruas (PL) construiu a votação mais desequilibrada do pleito entre os grandes colégios eleitorais.
 
 Nos números oficiais já retotalizados após a anulação dos votos de Garotinho pelo TSE, Ruas fez 264.410 votos válidos em São Gonçalo — 61,45% —, contra 149.679 de Eduardo Paes (PSD), 34,79%. Antes da decisão desta quinta-feira (8), que anulou os 274.411 votos de Garotinho por 5 votos a 2, a imprensa computava 59,99% para Ruas na cidade; com os votos do candidato indeferido fora da conta, a fração do vencedor subiu.
 
@@ -29,4 +29,4 @@ Na Assembleia Legislativa, Nelsinho Ruas (PL) liderou com 57.733 votos, seguido 
 
 São Gonçalo teve abstenção de 23,47%: compareceram 499.722 dos 652.951 eleitores aptos. A cidade desanimou menos que a capital, cuja abstenção foi de 26,16%, e ficou praticamente na média do estado, de 23,33%.
 
-Os números desta reportagem vêm da votação nominal por município e zona do TSE, arquivo oficial de 08/10/2026, já retotalizado após a anulação dos votos de Garotinho, e do detalhe da apuração por zona. Percentuais antigos citados (59,99%) referem-se à apuração original de 4 e 5 de outubro.
+Tudo do arquivo oficial do TSE (08/10/2026, já retotalizado): votação nominal por município e zona para os candidatos, detalhe por zona para o comparecimento. Percentuais antigos citados (59,99%) referem-se à apuração original de 4 e 5 de outubro.

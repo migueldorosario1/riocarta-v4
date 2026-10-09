@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-A série «Como votou o Rio» segue pela região que decidiu a aritmética do governo: a Baixada Fluminense. Nos 13 municípios da região, Douglas Ruas (PL) fez 1.036.782 votos válidos — 56,26% —, contra 727.673 de Eduardo Paes (PSD), 39,48%, num universo de 1.842.987 votos válidos para governador.
+309.109 votos. Essa foi a folga que a Baixada Fluminense entregou a Douglas Ruas sobre Eduardo Paes na disputa pelo governo do Rio — o maior colchão regional do estado, suficiente para pagar, sozinha, três quartos do déficit do vencedor na capital. Nos 13 municípios da região, Ruas (PL) somou 1.036.782 votos válidos, 56,26%, contra 727.673 de Paes (PSD), 39,48%, num universo de 1.842.987 válidos.
 
 Não houve exceção: Ruas venceu nos 13 municípios. A folga regional de 309.109 votos é o maior colchão eleitoral do estado — quase o triplo dos 114.731 votos de vantagem em São Gonçalo.
 
@@ -31,4 +31,4 @@ Na Assembleia Legislativa, Márcio Canella (União) liderou com 178.493 votos na
 
 A Baixada teve a menor taxa de abstenção entre os grandes blocos do estado: 20,49%, contra 23,33% do Rio inteiro e 26,16% da capital. Compareceram 2.237.848 dos 2.814.386 eleitores aptos da região.
 
-Os números desta reportagem vêm da votação nominal por município e zona do TSE, arquivo oficial de 08/10/2026, já retotalizado após a anulação dos votos de Garotinho, e do detalhe da apuração por zona.
+Fonte dos números: TSE — votação nominal por município e zona (08/10/2026, já retotalizado) e detalhe da apuração por zona.
