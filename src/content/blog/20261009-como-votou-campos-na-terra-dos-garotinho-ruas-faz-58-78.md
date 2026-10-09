@@ -17,15 +17,11 @@ A série «Como votou o Rio» chega ao Norte Fluminense pela maior cidade da reg
 
 O número ganha contorno especial pelo endereço: Campos é a terra da família Garotinho — e foi o voto do patriarca, Anthony Garotinho, que o TSE anulou nesta quinta-feira (8), por 5 votos a 2, transformando a liderança de Ruas no estado em eleição no 1º turno, com 50,88% dos válidos após o recálculo.
 
-## O voto nominal do filho
-
 Se os votos do pai saíram da disputa pelo governo, o nome da família seguiu fortíssimo na disputa da Câmara. Wladimir Garotinho (PL) recebeu em Campos o maior voto nominal para deputado federal — 55.456 votos, quase quatro vezes o segundo colocado na cidade, Delegada Madeleine (União), com 14.947, e Caio Vianna (PSDB), com 13.040.
 
 Na Assembleia Legislativa, o voto nominal mais alto da cidade foi de Bruno Dauaire (União), com 29.948, seguido de Maicon Cruz (PV, 22.490) e Thiago Virgílio (Republicanos, 19.199). O arquivo oficial ainda não marca os eleitos por cadeira; os números são os votos nominais válidos na cidade.
 
 O eleitor campista, portanto, separou as coisas: deu ao governo a onda do PL que varreu o estado, e à Câmara o nome local da casa política mais conhecida da cidade.
-
-## Comparecimento
 
 Campos teve abstenção de 21,61% — abaixo da média estadual de 23,33%. Compareceram 290.165 dos 370.142 eleitores aptos.
 

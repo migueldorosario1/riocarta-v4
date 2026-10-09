@@ -17,17 +17,11 @@ A série «Como votou o Rio» cruza a serra e chega ao Sul Fluminense. Em Volta 
 
 O placar acompanhou o estado, mas com vantagem menor que a da Baixada e a de São Gonçalo — os redutos mais avassaladores do governador eleito.
 
-## O contexto
-
 Ruas foi eleito no 1º turno depois que o TSE anulou, na quinta-feira (8), os 274.411 votos de Garotinho por 5 votos a 2. Com o recálculo, o candidato do PL fechou o Rio em 50,88% dos válidos, e o 2º turno de 25 de outubro pelo governo do estado foi cancelado.
-
-## Deputados: nome próprio em campo
 
 Para a Câmara Federal, o voto nominal mais alto da cidade foi de Delegado Antonio Furtado (PL), com 17.587 votos, seguido de Coronel Henrique (Avante), com 14.770, e Lindbergh (PT), com 8.933.
 
 Na Assembleia Legislativa, a força local tem nome: Munir Neto (Solidariedade) recebeu 36.485 votos nominais em Volta Redonda — mais de 10 mil à frente de Jari (PSB), segundo com 26.024. Raone Ferreira (PT) veio em terceiro, com 14.721. O arquivo oficial ainda não marca os eleitos por cadeira; os números são os votos nominais válidos na cidade.
-
-## Comparecimento
 
 Volta Redonda teve abstenção de 22,34%: compareceram 172.176 dos 221.697 eleitores aptos — abaixo da média estadual de 23,33% e distante dos 26,16% da capital.
 

@@ -17,15 +17,11 @@ A série «Como votou o Rio» entra no interior pela cidade imperial. Petrópoli
 
 O voto legislativo, porém, desenhou outra cidade: os votos nominais mais altos para a Câmara e para a Alerj saíram do PSOL, não do PL.
 
-## O equilíbrio legislativo
-
 Para deputado federal, Júlia Casamasso (PSOL) teve o maior voto nominal da cidade, com 11.307 votos, seguida de perto por Rubens Bomtempo (PT), com 11.200, e Bernardo Rossi (União), com 9.931.
 
 Na Assembleia Legislativa, o PSOL dominou com folga: Yuri Moura recebeu 29.506 votos nominais em Petrópolis — quase o dobro de Octavio Sampaio (PL), segundo colocado com 19.112. Dudu (DC) veio em terceiro, com 9.834.
 
 A cidade concentra uma tradição de votação progressista nas casas legislativas que não se traduz, desde 2018, no voto majoritário estadual.
-
-## O contexto
 
 Ruas foi eleito governador no 1º turno depois que o TSE anulou, nesta quinta-feira (8), os 274.411 votos de Garotinho — com o recálculo, o candidato do PL fechou o estado em 50,88% dos válidos, e o 2º turno de 25 de outubro pelo governo do Rio foi cancelado.
 

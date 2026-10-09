@@ -19,15 +19,11 @@ A decisão cancela o 2º turno no estado, que aconteceria em 25 de outubro, junt
 
 Garotinho disputou toda a campanha com a candidatura sob análise e os votos sob júdice. O tribunal não acolheu o pedido de desistência do recurso feito pela defesa, que tentava preservar a validade dos votos — e, com ela, o 2º turno.
 
-## A matemática que decidiu a eleição
-
 No placar oficial do 1º turno, de 4 de outubro, Ruas recebeu 4.271.199 votos (49,27% dos válidos), contra 3.706.984 de Eduardo Paes (42,76%), prefeito da capital em final de mandato. Garotinho tinha 274.411 votos (3,17%) e William Brum (PSOL), 235.347 (2,71%).
 
 Retirados da conta os votos anulados de Garotinho, o universo de votos válidos encolhe e a fração de Ruas salta para 50,88% — acima da maioria absoluta. A diferença entre Ruas e Paes, de pouco mais de 564 mil votos, não se altera.
 
 Votaram pela anulação os ministros Floriano de Azevedo Marques Neto, relator do caso, Estela Aranha, André Mendonça, Dias Toffoli e o presidente do TSE, Kássio Nunes Marques. Ricardo Cueva e Sebastião Reis ficaram vencidos, ao defender que os votos seguissem válidos e a eleição fosse para o 2º turno.
-
-## Onde Ruas construiu a vitória
 
 Ruas venceu em 79 das 92 cidades fluminenses, com dominância no interior e na região metropolitana. Paes levou 13 municípios, entre eles a capital — e foi justamente aí que a eleição desenhou seu mapa.
 
@@ -39,15 +35,11 @@ Na Baixada Fluminense, o placar repetiu o desenho. Em Nova Iguaçu, Ruas teve 23
 
 Na capital, Ruas venceu em apenas 9 das 49 zonas eleitorais — o resto do eleitorado carioca ficou com Paes.
 
-## Quem é Douglas Ruas
-
 Douglas Ruas dos Santos tem 37 anos, nasceu em São Gonçalo e é policial civil concursado e advogado, com pós-graduação em gestão pública. Está no PL desde 2021, depois de passagens pelo PTdoB e pelo Avante.
 
 Deputado estadual no primeiro mandato, preside a Assembleia Legislativa do Rio (Alerj). Proclamada a eleição, se torna o governador mais jovem do Rio desde 1959.
 
 Sua candidatura carregou desde o início a bandeira da associação com Flávio Bolsonaro, candidato do PL à Presidência — a mesma percepção que, na avaliação do instituto Quaest, explicou a corrida de votos dele nas 48 horas finais da campanha.
-
-## O Rio na disputa presidencial
 
 Na eleição para presidente, o Rio foi o estado da onda conservadora. Flávio Bolsonaro fez 4.966.844 votos no estado (53,01% dos válidos), contra 3.693.021 de Lula (39,41%).
 
@@ -56,8 +48,6 @@ Flávio venceu em 83 dos 92 municípios fluminenses. Lula foi o mais votado em a
 Na capital, o placar presidencial foi mais apertado: Flávio 1.662.354 votos (47,88%) contra 1.524.517 de Lula (43,91%).
 
 No país, Flávio fechou o 1º turno com 56,1 milhões de votos (47,03%) contra 53,9 milhões de Lula (45,16%) — uma vantagem de 2,2 milhões que os dois agora disputam no 2º turno de 25 de outubro.
-
-## Lula no Rio: 2026 contra 2022
 
 A comparação com o 1º turno de 2022 mede o tamanho da onda. Naquela eleição, Jair Bolsonaro fez 51,09% no estado (cerca de 4,75 milhões de votos) e Lula, 40,68% (cerca de 3,78 milhões).
 

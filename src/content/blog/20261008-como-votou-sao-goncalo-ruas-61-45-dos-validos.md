@@ -17,21 +17,15 @@ A série «Como votou o Rio» abre pela cidade que decidiu o jogo: São Gonçalo
 
 Nos números oficiais já retotalizados após a anulação dos votos de Garotinho pelo TSE, Ruas fez 264.410 votos válidos em São Gonçalo — 61,45% —, contra 149.679 de Eduardo Paes (PSD), 34,79%. Antes da decisão desta quinta-feira (8), que anulou os 274.411 votos de Garotinho por 5 votos a 2, a imprensa computava 59,99% para Ruas na cidade; com os votos do candidato indeferido fora da conta, a fração do vencedor subiu.
 
-## A aritmética de uma eleição decidida fora da capital
-
 Ruas foi eleito governador no 1º turno sem vencer na cidade do Rio, onde Paes, prefeito em final de mandato, fez 52,52% contra 40,05%. No estado, a anulação levou Ruas a 50,88% dos válidos e cancelou o 2º turno que estava marcado para 25 de outubro.
 
 São Gonçalo entregou a maior vantagem nominal do estado: 114.731 votos de folga sobre Paes. Foi o colchão que, somado à Baixada Fluminense e ao interior, compensou o déficit de 410.961 votos na capital.
 
 A cidade é a base da família: o pai do governador eleito, Capitão Nelson, é o prefeito de São Gonçalo pelo mesmo PL. Na campanha, a associação de Ruas à candidatura de Flávio Bolsonaro na Presidência — que o instituto Quaest apontou como motor da corrida de votos nas 48 horas finais — encontrou na cidade seu terreno mais fértil.
 
-## Deputados: PL na frente, PT em segundo
-
 Para a Câmara Federal, o voto nominal mais alto da cidade foi de Altineu Côrtes (PL), com 75.044 votos. Na sequência vieram Dimas Gadelha (PT), com 23.324, Poubel (PL), com 12.134, e Carol Nunes (União), com 11.790.
 
 Na Assembleia Legislativa, Nelsinho Ruas (PL) liderou com 57.733 votos, seguido de Bruno Porto (PL, 22.801), Prof. Josemar (PSOL, 21.449) e Ricardo Pericar (PL, 18.615). O arquivo oficial ainda não marca os eleitos por cadeira; os números acima são os votos nominais válidos na cidade.
-
-## Comparecimento
 
 São Gonçalo teve abstenção de 23,47%: compareceram 499.722 dos 652.951 eleitores aptos. A cidade desanimou menos que a capital, cuja abstenção foi de 26,16%, e ficou praticamente na média do estado, de 23,33%.
 

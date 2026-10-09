@@ -15,19 +15,13 @@ draft: false
 
 O Rio de Janeiro elegeu 46 deputados federais no 1º turno de 4 de outubro — 37 pelo quociente partidário e 9 pela média. A nova bancada desenha o mesmo mapa da eleição majoritária: o PL, partido de Flávio Bolsonaro e de Douglas Ruas, elegeu 15 cadeiras, quase o triplo das 6 do PT — e terá sozinho quase um terço da delegação fluminense.
 
-## A composição da bancada
-
 PL 15, PT 6, PP 5, PSD 4, PSDB 4, PSOL 4, PCdoB 2, e uma cadeira cada para PDT, Solidariedade, Republicanos, Novo, MDB e União.
-
-## Os mais votados
 
 O mais votado do estado foi Dr. Luizinho (PP), com 213.904 votos nominais. Na sequência vieram Rick Azevedo (PSOL), com 191.371, Lindbergh (PT), com 181.768, Luciano Vieira (PSDB), com 177.887, Altineu Côrtes (PL), com 175.161 — o mesmo que liderou o voto nominal em São Gonçalo —, e Freixo (PT), com 172.969.
 
 Na outra ponta, os eleitos com menos votos mostram o peso do coeficiente partidário: Talita Galhardo (PSDB) entrou com 46.780 votos nominais e Bebeto (PP), com 52.761 — ambos beneficiados pelas cadeiras conquistadas pelos partidos.
 
 Ao todo, os 46 eleitos somaram 4.909.683 votos nominais no estado.
-
-## O contexto
 
 A bancada reflete a onda que fez Flávio Bolsonaro vencer no Rio com 53,01% dos válidos contra 39,41% de Lula, e que levou Douglas Ruas ao governo do estado no 1º turno, após a anulação dos votos de Garotinho pelo TSE nesta quinta-feira (8).
 

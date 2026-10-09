@@ -17,19 +17,13 @@ A série «Como votou o Rio» chega à cidade que nadou contra a corrente: Niter
 
 No governo do estado, a contracorrente se repetiu — e foi a única grande cidade fora da capital onde Douglas Ruas foi derrotado. Eduardo Paes (PSD) fez 148.902 votos válidos, 50,61%, contra 127.926 de Ruas (PL), 43,48%, num universo de 294.202 válidos.
 
-## O contexto estadual
-
 Niterói integra o grupo das 13 cidades vencidas por Paes — a capital é a maior delas. Ainda assim, Ruas foi eleito no 1º turno do estado: com a anulação dos 274.411 votos de Garotinho pelo TSE, nesta quinta-feira (8), o candidato do PL fechou o Rio com 50,88% dos válidos, e o 2º turno marcado para 25 de outubro foi cancelado.
 
 A aritmética que elegeu Ruas passou longe de Niterói: a cidade entregou a Paes uma vantagem de 20.976 votos, absorvida pelo colchão da Baixada Fluminense (309.109) e de São Gonçalo (114.731).
 
-## Deputados: PL no federal, PDT à frente no estadual
-
 Para a Câmara Federal, o voto nominal mais alto da cidade foi de Douglas Gomes (PL), com 46.710 votos, seguido de Talíria Petrone (PSOL), com 19.813, e Vitor Junior (PDT), com 14.784.
 
 Na Assembleia Legislativa, Fernanda Neves (PDT) liderou com 39.715 votos, à frente de Daniel Marques (PL, 25.288) e Verônica Lima (PT, 21.724). O arquivo oficial ainda não marca os eleitos por cadeira; os números são os votos nominais válidos na cidade.
-
-## O comparecimento mais alto da série
 
 Niterói teve abstenção de 19,65% — a menor entre os grandes colégios eleitorais medidos até aqui pela série, contra 20,49% na Baixada, 23,47% em São Gonçalo, 23,33% no estado e 26,16% na capital. Compareceram 330.359 dos 411.131 eleitores aptos.
 
