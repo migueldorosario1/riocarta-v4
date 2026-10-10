@@ -1,6 +1,6 @@
 ---
 title: "São Gonçalo, terra de Ruas, dá 61,45% dos válidos ao governador eleito"
-description: "No reduto do governador eleito, Ruas fez 264.410 votos contra 149.679 de Paes após a anulação dos votos de Garotinho; Altineu Côrtes (PL) foi o mais votado para deputado federal na cidade."
+description: "No reduto do governador eleito, Ruas fez 264.410 votos contra 149.679 de Paes após a anulação dos votos de Garotinho. Altineu Côrtes (PL) foi o mais votado para deputado federal na cidade."
 pubDate: "2026-10-08"
 heroImage: "/hero/resultado-eleicoes-rio-2026.jpg"
 hero_credit: "Joe Hall from Takoma Park, MD, USA, Wikimedia Commons, CC BY 2.0"
@@ -13,9 +13,11 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-São Gonçalo é a cidade onde o governador eleito do Rio nasceu, onde o pai dele governa como prefeito e onde, na prática, a eleição de 2026 foi decidida. Ali, no segundo maior colégio do estado, 652.951 eleitores aptos,  Douglas Ruas (PL) construiu a votação mais desequilibrada do pleito entre os grandes colégios eleitorais.
+São Gonçalo é a cidade onde o governador eleito do Rio nasceu e onde, na prática, a eleição de 2026 foi decidida. Ali, no segundo maior colégio do estado, com 652.951 eleitores aptos, Douglas Ruas (PL) construiu a votação mais desequilibrada do pleito entre os grandes colégios eleitorais.
 
-Nos números oficiais já retotalizados após a anulação dos votos de Garotinho pelo TSE, Ruas fez 264.410 votos válidos em São Gonçalo, 61,45%,  contra 149.679 de Eduardo Paes (PSD), 34,79%. Antes da decisão desta quinta-feira (8), que anulou os 274.411 votos de Garotinho por 5 votos a 2, a imprensa computava 59,99% para Ruas na cidade; com os votos do candidato indeferido fora da conta, a fração do vencedor subiu.
+Nos números oficiais já retotalizados após a anulação dos votos de Garotinho pelo TSE, Ruas fez 264.410 votos válidos em São Gonçalo, 61,45%, contra 149.679 de Eduardo Paes (PSD), 34,79%.
+
+A decisão desta quinta-feira (8) anulou os 274.411 votos de Garotinho por 5 votos a 2. Antes dela a imprensa computava 59,99% para Ruas na cidade, fração que subiu com os votos do candidato indeferido fora da conta.
 
 Ruas foi eleito governador no 1º turno sem vencer na cidade do Rio, onde Paes, prefeito em final de mandato, fez 52,52% contra 40,05%. No estado, a anulação levou Ruas a 50,88% dos válidos e cancelou o 2º turno que estava marcado para 25 de outubro.
 
@@ -27,9 +29,11 @@ A cidade é a base da família. O pai do governador eleito, Capitão Nelson, é 
 
 Na campanha, a associação de Ruas à candidatura de Flávio Bolsonaro na Presidência, que o instituto Quaest apontou como motor da corrida de votos nas 48 horas finais, encontrou na cidade seu terreno mais fértil.
 
-Para a Câmara Federal, o voto nominal mais alto da cidade foi de Altineu Côrtes (PL), com 75.044 votos. Na sequência vieram Dimas Gadelha (PT), com 23.324, Poubel (PL), com 12.134, e Carol Nunes (União), com 11.790.
+Para a Câmara Federal, o maior voto nominal da cidade foi de Altineu Côrtes (PL), com 75.044. Na sequência vieram Dimas Gadelha (PT), com 23.324, Poubel (PL), com 12.134, e Carol Nunes (União), com 11.790.
 
-Na Assembleia Legislativa, Nelsinho Ruas (PL) liderou com 57.733 votos, seguido de Bruno Porto (PL, 22.801), Prof. Josemar (PSOL, 21.449) e Ricardo Pericar (PL, 18.615). O arquivo oficial ainda não marca os eleitos por cadeira; os números acima são os votos nominais válidos na cidade.
+Na Assembleia Legislativa, Nelsinho Ruas (PL) liderou com 57.733 votos, seguido de Bruno Porto (PL, 22.801), Prof. Josemar (PSOL, 21.449) e Ricardo Pericar (PL, 18.615).
+
+O arquivo oficial ainda não marca os eleitos por cadeira. Os números acima são os votos nominais válidos na cidade.
 
 São Gonçalo teve abstenção de 23,47%. Compareceram 499.722 dos 652.951 eleitores aptos.
 
