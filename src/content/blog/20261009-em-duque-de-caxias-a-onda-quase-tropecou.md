@@ -1,6 +1,6 @@
 ---
 title: "Em Duque de Caxias, a onda quase tropeçou e a cidade que mais votou foi a que mais dividiu"
-description: "A disputa mais apertada do estado entre os grandes colégios. Ruas fez 51,26% contra 44,18% de Paes, sete pontos de diferença. E a abstenção mais baixa entre as grandes cidades do Rio, 17,98%."
+description: "A disputa mais apertada do estado entre os grandes colégios, com Ruas em 51,26% contra 44,18% de Paes. A abstenção de 17,98% foi a mais baixa entre as grandes cidades do Rio."
 pubDate: "2026-10-09"
 heroImage: "/hero/resultado-eleicoes-rio-2026.jpg"
 hero_credit: "Joe Hall from Takoma Park, MD, USA, Wikimedia Commons, CC BY 2.0"
@@ -23,7 +23,7 @@ Nova Iguaçu, 59,02%. São João de Meriti, 56,36%.
 
 Caxias foi o único freio da Baixada Fluminense, e ainda assim um freio relativo. O PL venceu, como venceu nos 13 municípios da região.
 
-Há um segundo contraste, mais curioso. A cidade que mais compareceu foi justamente a que mais dividiu o voto.
+Há um segundo contraste, no comparecimento. A cidade que mais compareceu foi justamente a que mais dividiu o voto.
 
 A abstenção caxiense foi de 17,98%, a menor entre os grandes colégios do estado, contra 26,16% na capital e 20,49% na Baixada como um todo. Dos 634.424 eleitores aptos, 520.376 foram às urnas.
 
@@ -31,9 +31,9 @@ O terceiro contraste está no Legislativo. Num estado que elegeu a maior bancada
 
 Gutemberg Reis recebeu 96.477 votos para deputado federal, à frente de Marcos Tavares (PDT, 43.876) e Auréo Ribeiro (Solidariedade, 33.962). Na Assembleia, repetiu-se a força local.
 
-Rosenverg Reis (MDB) liderou com 90.348, seguido de Serginho (PDT, 39.165) e Marcelo Dino (PL, 35.283). O arquivo oficial ainda não marca os eleitos por cadeira; os números são os votos nominais válidos na cidade.
+Rosenverg Reis (MDB) liderou com 90.348, seguido de Serginho (PDT, 39.165) e Marcelo Dino (PL, 35.283). O arquivo oficial ainda não marca os eleitos por cadeira, e os números são os votos nominais válidos na cidade.
 
-Ruas, aliás, terminou eleito no 1º turno com a ajuda da própria Baixada, 309.109 votos de folga na região pagaram o déficit da capital depois que o TSE anulou os votos de Garotinho. Caxias contribuiu com a menor fatia dessa aritmética, proporcionalmente.
+Ruas, aliás, terminou eleito no 1º turno com a ajuda da própria Baixada, cujos 309.109 votos de folga pagaram o déficit da capital depois que o TSE anulou os votos de Garotinho. Caxias contribuiu com a menor fatia dessa aritmética, proporcionalmente.
 
 Foi a cidade que discordou com mais voz.
 
