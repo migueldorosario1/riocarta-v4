@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-A série «Como votou o Rio» cruza a serra e chega ao Sul Fluminense. Em Volta Redonda, a cidade que nasceu em torno da Companhia Siderúrgica Nacional e carrega o apelido de Cidade do Aço, Douglas Ruas (PL) venceu com folga.
+A cidade que nasceu em torno da Companhia Siderúrgica Nacional deu a vitória a Douglas Ruas (PL). Foi em Volta Redonda, a Cidade do Aço, com folga.
 
 Foram 75.422 votos válidos, 52,16%, contra 59.578 de Eduardo Paes (PSD), 41,20%, num universo de 144.602 válidos.
 
@@ -29,4 +29,4 @@ Raone Ferreira (PT) veio em terceiro, com 14.721. O arquivo oficial ainda não m
 
 Volta Redonda teve abstenção de 22,34%. Compareceram 172.176 dos 221.697 eleitores aptos, abaixo da média estadual de 23,33% e distante dos 26,16% da capital.
 
-Os números do governo do estado e dos deputados vêm da votação nominal por município e zona do TSE, arquivo oficial de 08/10/2026, já retotalizado após a anulação dos votos de Garotinho; o comparecimento, do detalhe da apuração por zona.
+Arquivo oficial do TSE de 08/10/2026, votação nominal por município e zona, já retotalizado, e detalhe por zona para o comparecimento.

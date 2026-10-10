@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-A série «Como votou o Rio» chega ao litoral, e encontra o reduto mais avassalador da eleição. Nos 9 municípios da Região dos Lagos, Douglas Ruas (PL) fez 273.980 votos válidos, 66,83%, contra 120.606 de Eduardo Paes (PSD), 29,42%, num universo de 409.981 válidos para governador.
+O litoral fluminense entregou a Douglas Ruas a votação mais avassaladora do estado. Nos 9 municípios da Região dos Lagos, Douglas Ruas (PL) fez 273.980 votos válidos, 66,83%, contra 120.606 de Eduardo Paes (PSD), 29,42%, num universo de 409.981 válidos para governador.
 
 Nem a Baixada (56,26%), nem São Gonçalo (61,45%) chegaram perto. A onda que elegeu Ruas no 1º turno, após a anulação dos 274.411 votos de Garotinho pelo TSE, nesta quinta-feira (8), não teve freio no litoral.
 
