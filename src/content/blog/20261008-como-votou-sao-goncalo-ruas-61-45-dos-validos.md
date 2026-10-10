@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-São Gonçalo é a cidade onde o governador eleito do Rio nasceu e onde, na prática, a eleição de 2026 foi decidida. Ali, no segundo maior colégio do estado, com 652.951 eleitores aptos, Douglas Ruas (PL) construiu a votação mais desequilibrada do pleito entre os grandes colégios eleitorais.
+São Gonçalo é a cidade onde o governador eleito do Rio nasceu e onde, na prática, a eleição de 2026 foi decidida. Ali, no segundo maior colégio do estado, com 652.951 eleitores aptos, Douglas Ruas (PL) construiu a votação mais desequilibrada do pleito entre os dez maiores colégios eleitorais.
 
 Nos números oficiais já retotalizados após a anulação dos votos de Garotinho pelo TSE, Ruas fez 264.410 votos válidos em São Gonçalo, 61,45%, contra 149.679 de Eduardo Paes (PSD), 34,79%.
 
@@ -33,7 +33,7 @@ Para a Câmara Federal, o maior voto nominal da cidade foi de Altineu Côrtes (P
 
 Na Assembleia Legislativa, Nelsinho Ruas (PL) liderou com 57.733 votos, seguido de Bruno Porto (PL, 22.801), Prof. Josemar (PSOL, 21.449) e Ricardo Pericar (PL, 18.615).
 
-O arquivo oficial ainda não marca os eleitos por cadeira. Os números acima são os votos nominais válidos na cidade.
+Dos citados, levaram cadeira Altineu Côrtes e Poubel na Câmara e Nelsinho Ruas na Alerj. Dimas Gadelha, Carol Nunes, Bruno Porto, Prof. Josemar e Ricardo Pericar terminaram como suplentes.
 
 São Gonçalo teve abstenção de 23,47%. Compareceram 499.722 dos 652.951 eleitores aptos.
 

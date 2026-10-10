@@ -3,7 +3,7 @@ title: "TSE anula votos de Garotinho e Douglas Ruas é eleito governador do Rio 
 description: "Por 5 votos a 2, o TSE anulou os 274.411 votos de Garotinho. Com o recálculo, Douglas Ruas chega a 50,88% dos válidos e será proclamado governador no 1º turno, cancelando o 2º turno no Rio."
 pubDate: "2026-10-08"
 heroImage: "/hero/tse-anula-garotinho-ruas-e-eleito-governador-1-turno.jpg"
-hero_credit: "Foto: Alerj"
+hero_credit: "Alerj, divulgação"
 hero_legenda: "Douglas Ruas (PL), governador eleito do Rio de Janeiro no 1º turno"
 source_name: "TSE, decisão de 08/10/2026 e totalização oficial, Terra, Broadcast, G1, O Globo e O Dia"
 source_url: "https://www.ocafezinho.com/?p=276898"
@@ -15,7 +15,7 @@ draft: false
 
 O Tribunal Superior Eleitoral decidiu nesta quinta-feira (8), por 5 votos a 2, anular os 274.411 votos recebidos por Garotinho na disputa pelo governo do Rio de Janeiro. Com a anulação, Douglas Ruas (PL) chega a 50,88% dos votos válidos no recálculo e será proclamado governador eleito já no 1º turno.
 
-A decisão cancela o 2º turno no estado, que aconteceria em 25 de outubro, junto com o duelo presidencial entre Flávio Bolsonaro e Lula. Cabe agora ao Tribunal Regional Eleitoral do Rio (TRE-RJ) fazer a retotalização e oficializar a eleição.
+A decisão cancela apenas o 2º turno do estado, marcado para 25 de outubro, e mantém o duelo presidencial entre Flávio Bolsonaro e Lula na mesma data. Cabe agora ao Tribunal Regional Eleitoral do Rio (TRE-RJ) fazer a retotalização e oficializar a eleição.
 
 Garotinho disputou toda a campanha com a candidatura sob análise e os votos sub judice. O tribunal não acolheu o pedido de desistência do recurso feito pela defesa, que tentava preservar a validade dos votos, e, com ela, o 2º turno.
 
@@ -33,11 +33,11 @@ Os votos decisivos vieram das cidades vizinhas e do interior.
 
 O reduto de Ruas tem endereço. São Gonçalo, cidade onde nasceu e da qual o pai, Capitão Nelson, é prefeito.
 
-Lá ele fez 264.410 votos, 59,99% contra 33,96% de Paes.
+Lá ele fez 264.410 votos, 61,45% contra 34,79% de Paes.
 
-Na Baixada Fluminense, o placar repetiu o desenho. Em Nova Iguaçu, Ruas teve 230.011 votos (56,70%).
+Na Baixada Fluminense, o placar repetiu o desenho. Em Nova Iguaçu, Ruas teve 230.011 votos (59,02%).
 
-Em Duque de Caxias, a disputa foi mais equilibrada, com 49,33% contra 42,52% de Paes. Em São João de Meriti, Ruas passou de 54%.
+Em Duque de Caxias, a disputa foi mais equilibrada, com 51,26% contra 44,18% de Paes. Em São João de Meriti, Ruas passou de 56%.
 
 Na capital, Ruas venceu em apenas 9 das 49 zonas eleitorais. O resto do eleitorado carioca ficou com Paes.
 
@@ -66,7 +66,3 @@ O Rio elegeu ainda as duas vagas de senador pelo PL. Carlos Portinho teve 4.264.
 Benedita da Silva (PT) ficou de fora, em terceiro, com 3.220.765 votos (20,22%).
 
 Os números da votação vêm da totalização oficial do 1º turno pelo TSE. Os dados por município vêm da apuração do G1, O Globo e O Dia.
-
-Esta reportagem atualiza a cobertura do 1º turno do Rio Carta.
-
-Com a decisão desta quinta, o 2º turno pelo governo do Rio não acontece mais.
