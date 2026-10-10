@@ -33,7 +33,7 @@ Gutemberg Reis recebeu 96.477 votos para deputado federal, à frente de Marcos T
 
 Rosenverg Reis (MDB) liderou com 90.348, seguido de Serginho (PDT, 39.165) e Marcelo Dino (PL, 35.283). O arquivo oficial ainda não marca os eleitos por cadeira, e os números são os votos nominais válidos na cidade.
 
-Ruas, aliás, terminou eleito no 1º turno com a ajuda da própria Baixada, cujos 309.109 votos de folga pagaram o déficit da capital depois que o TSE anulou os votos de Garotinho. Caxias contribuiu com a menor fatia dessa aritmética, proporcionalmente.
+Ruas, aliás, terminou eleito no 1º turno com a ajuda da própria Baixada, cujos 309.109 votos de folga amorteceram o déficit da capital depois que o TSE anulou os votos de Garotinho. Caxias contribuiu com a menor fatia dessa aritmética, proporcionalmente.
 
 Foi a cidade que discordou com mais voz.
 
