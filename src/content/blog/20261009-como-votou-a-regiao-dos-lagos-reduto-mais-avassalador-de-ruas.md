@@ -19,11 +19,15 @@ Nem a Baixada (56,26%), nem São Gonçalo (61,45%) chegaram perto. A onda que el
 
 O pico veio em São Pedro da Aldeia, com 71,8% dos válidos. Araruama (68,4%), Casimiro de Abreu (68,9%) e Saquarema (68,3%) vieram logo atrás, com Cabo Frio, a maior cidade da região, em 66,0%, 77.723 votos, o maior volume nominal local.
 
-Búzios, o município mais turístico, deu 62,5% a Ruas. Arraial do Cabo foi o mais equilibrado, ainda assim com folga, 57,0% a 39,3%. Iguaba Grande (65,0%) e Silva Jardim (64,5%) completaram a varredura, Ruas venceu nos nove.
+Búzios, o município mais turístico, deu 62,5% a Ruas. Arraial do Cabo foi o mais equilibrado, ainda assim com folga, 57,0% a 39,3%.
+
+Iguaba Grande (65,0%) e Silva Jardim (64,5%) completaram a varredura, Ruas venceu nos nove.
 
 Para a Câmara Federal, os três votos nominais mais altos da região foram todos do PL. Manoela Peres teve 77.447 votos, Soraya Santos, 16.378, e Altineu Côrtes, 14.476.
 
-Na Assembleia Legislativa, repetiu-se o desenho. Dra. Gabriela (PL) liderou com 72.137 votos, seguida de Dr. Pedro Ricardo (PL, 31.522) e Vantoil Martins (PSB, 26.042). O arquivo oficial ainda não marca os eleitos por cadeira; os números são os votos nominais válidos na região.
+Na Assembleia Legislativa, repetiu-se o desenho. Dra. Gabriela (PL) liderou com 72.137 votos, seguida de Dr. Pedro Ricardo (PL, 31.522) e Vantoil Martins (PSB, 26.042).
+
+O arquivo oficial ainda não marca os eleitos por cadeira; os números são os votos nominais válidos na região.
 
 A Região dos Lagos teve abstenção de 22,46% entre seus 577.831 eleitores aptos, abaixo da média estadual de 23,33%.
 

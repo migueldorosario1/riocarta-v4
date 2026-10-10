@@ -13,7 +13,9 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-O Rio de Janeiro elegeu 46 deputados federais no 1º turno de 4 de outubro, 37 pelo quociente partidário e 9 pela média. A nova bancada desenha o mesmo mapa da eleição majoritária. O PL, partido de Flávio Bolsonaro e de Douglas Ruas, elegeu 15 cadeiras, quase o triplo das 6 do PT, e terá sozinho quase um terço da delegação fluminense.
+O Rio de Janeiro elegeu 46 deputados federais no 1º turno de 4 de outubro, 37 pelo quociente partidário e 9 pela média. A nova bancada desenha o mesmo mapa da eleição majoritária.
+
+O PL, partido de Flávio Bolsonaro e de Douglas Ruas, elegeu 15 cadeiras, quase o triplo das 6 do PT, e terá sozinho quase um terço da delegação fluminense.
 
 PL 15, PT 6, PP 5, PSD 4, PSDB 4, PSOL 4, PCdoB 2, e uma cadeira cada para PDT, Solidariedade, Republicanos, Novo, MDB e União.
 

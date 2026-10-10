@@ -21,7 +21,9 @@ Ruas foi eleito no 1º turno após a anulação dos 274.411 votos de Garotinho p
 
 Para a Câmara Federal, o voto nominal mais alto da cidade foi de Dr. Luizinho (PP), com 77.048 votos, o mesmo que foi o deputado federal mais votado de todo o estado. Na sequência vieram Juninho do Pneu (PSDB), com 26.080, e Igor Porto (PL), com 16.415.
 
-Na Assembleia Legislativa, o PP dominou. Felipinho Ravis recebeu 60.448 votos nominais em Nova Iguaçu e Carlinhos BNH, 42.017, o terceiro foi Delegado Carlos Augusto (PL), com 16.396. O arquivo oficial ainda não marca os eleitos por cadeira; os números são os votos nominais válidos na cidade.
+Na Assembleia Legislativa, o PP dominou. Felipinho Ravis recebeu 60.448 votos nominais em Nova Iguaçu e Carlinhos BNH, 42.017, o terceiro foi Delegado Carlos Augusto (PL), com 16.396.
+
+O arquivo oficial ainda não marca os eleitos por cadeira; os números são os votos nominais válidos na cidade.
 
 O desenho local contrasta com o estadual. No Rio, o PL elegeu a maior bancada; em Nova Iguaçu, os votos nominais mais altivos para o Legislativo saíram do PP.
 

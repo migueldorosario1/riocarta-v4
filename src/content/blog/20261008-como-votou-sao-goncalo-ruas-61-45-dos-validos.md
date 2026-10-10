@@ -19,14 +19,22 @@ Nos números oficiais já retotalizados após a anulação dos votos de Garotinh
 
 Ruas foi eleito governador no 1º turno sem vencer na cidade do Rio, onde Paes, prefeito em final de mandato, fez 52,52% contra 40,05%. No estado, a anulação levou Ruas a 50,88% dos válidos e cancelou o 2º turno que estava marcado para 25 de outubro.
 
-São Gonçalo entregou a maior vantagem nominal do estado. Foram 114.731 votos de folga sobre Paes. Foi o colchão que, somado à Baixada Fluminense e ao interior, compensou o déficit de 410.961 votos na capital.
+São Gonçalo entregou a maior vantagem nominal do estado. Foram 114.731 votos de folga sobre Paes.
 
-A cidade é a base da família. O pai do governador eleito, Capitão Nelson, é o prefeito de São Gonçalo pelo mesmo PL. Na campanha, a associação de Ruas à candidatura de Flávio Bolsonaro na Presidência, que o instituto Quaest apontou como motor da corrida de votos nas 48 horas finais, encontrou na cidade seu terreno mais fértil.
+Foi o colchão que, somado à Baixada Fluminense e ao interior, compensou o déficit de 410.961 votos na capital.
+
+A cidade é a base da família. O pai do governador eleito, Capitão Nelson, é o prefeito de São Gonçalo pelo mesmo PL.
+
+Na campanha, a associação de Ruas à candidatura de Flávio Bolsonaro na Presidência, que o instituto Quaest apontou como motor da corrida de votos nas 48 horas finais, encontrou na cidade seu terreno mais fértil.
 
 Para a Câmara Federal, o voto nominal mais alto da cidade foi de Altineu Côrtes (PL), com 75.044 votos. Na sequência vieram Dimas Gadelha (PT), com 23.324, Poubel (PL), com 12.134, e Carol Nunes (União), com 11.790.
 
 Na Assembleia Legislativa, Nelsinho Ruas (PL) liderou com 57.733 votos, seguido de Bruno Porto (PL, 22.801), Prof. Josemar (PSOL, 21.449) e Ricardo Pericar (PL, 18.615). O arquivo oficial ainda não marca os eleitos por cadeira; os números acima são os votos nominais válidos na cidade.
 
-São Gonçalo teve abstenção de 23,47%. Compareceram 499.722 dos 652.951 eleitores aptos. A cidade desanimou menos que a capital, cuja abstenção foi de 26,16%, e ficou praticamente na média do estado, de 23,33%.
+São Gonçalo teve abstenção de 23,47%. Compareceram 499.722 dos 652.951 eleitores aptos.
 
-Tudo do arquivo oficial do TSE (08/10/2026, já retotalizado). Votação nominal por município e zona para os candidatos, detalhe por zona para o comparecimento. Percentuais antigos citados (59,99%) referem-se à apuração original de 4 e 5 de outubro.
+A cidade desanimou menos que a capital, cuja abstenção foi de 26,16%, e ficou praticamente na média do estado, de 23,33%.
+
+Tudo do arquivo oficial do TSE (08/10/2026, já retotalizado). Votação nominal por município e zona para os candidatos, detalhe por zona para o comparecimento.
+
+Percentuais antigos citados (59,99%) referem-se à apuração original de 4 e 5 de outubro.

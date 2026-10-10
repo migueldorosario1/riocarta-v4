@@ -27,9 +27,13 @@ Votaram pela anulação os ministros Floriano de Azevedo Marques Neto, relator d
 
 Ruas venceu em 79 das 92 cidades fluminenses, com dominância no interior e na região metropolitana. Paes levou 13 municípios, entre eles a capital, e foi justamente aí que a eleição desenhou seu mapa.
 
-Na cidade do Rio, Paes fez 1.730.683 votos (52,52%), contra 1.319.722 de Ruas (40,05%). Ruas foi eleito governador sem vencer na capital. Os votos decisivos vieram das cidades vizinhas e do interior.
+Na cidade do Rio, Paes fez 1.730.683 votos (52,52%), contra 1.319.722 de Ruas (40,05%). Ruas foi eleito governador sem vencer na capital.
 
-O reduto de Ruas tem endereço. São Gonçalo, cidade onde nasceu e da qual o pai, Capitão Nelson, é prefeito. Lá ele fez 264.410 votos, 59,99% contra 33,96% de Paes.
+Os votos decisivos vieram das cidades vizinhas e do interior.
+
+O reduto de Ruas tem endereço. São Gonçalo, cidade onde nasceu e da qual o pai, Capitão Nelson, é prefeito.
+
+Lá ele fez 264.410 votos, 59,99% contra 33,96% de Paes.
 
 Na Baixada Fluminense, o placar repetiu o desenho. Em Nova Iguaçu, Ruas teve 230.011 votos (56,70%); em Duque de Caxias, a disputa foi mais equilibrada, com 49,33% contra 42,52% de Paes; em São João de Meriti, Ruas passou de 54%.
 
@@ -51,8 +55,14 @@ No país, Flávio fechou o 1º turno com 56,1 milhões de votos (47,03%) contra 
 
 A comparação com o 1º turno de 2022 mede o tamanho da onda. Naquela eleição, Jair Bolsonaro fez 51,09% no estado (cerca de 4,75 milhões de votos) e Lula, 40,68% (cerca de 3,78 milhões).
 
-Em 2026, Lula caiu tanto em votos absolutos quanto em percentual no Rio. Foram 3,69 milhões de votos e 39,41%. A candidatura da direita, por sua vez, subiu de 51,09% para 53,01%.
+Em 2026, Lula caiu tanto em votos absolutos quanto em percentual no Rio. Foram 3,69 milhões de votos e 39,41%.
 
-O Rio elegeu ainda as duas vagas de senador pelo PL. Carlos Portinho teve 4.264.932 votos (26,77%), e Carlos Mattos Júnior, 3.912.405 (24,56%). Benedita da Silva (PT) ficou de fora, em terceiro, com 3.220.765 votos (20,22%).
+A candidatura da direita, por sua vez, subiu de 51,09% para 53,01%.
 
-Os números da votação vêm da totalização oficial do 1º turno pelo TSE; os dados por município, da apuração do G1, O Globo e O Dia. Esta reportagem atualiza a cobertura do 1º turno do Rio Carta. Com a decisão desta quinta, o 2º turno pelo governo do Rio não acontece mais.
+O Rio elegeu ainda as duas vagas de senador pelo PL. Carlos Portinho teve 4.264.932 votos (26,77%), e Carlos Mattos Júnior, 3.912.405 (24,56%).
+
+Benedita da Silva (PT) ficou de fora, em terceiro, com 3.220.765 votos (20,22%).
+
+Os números da votação vêm da totalização oficial do 1º turno pelo TSE; os dados por município, da apuração do G1, O Globo e O Dia. Esta reportagem atualiza a cobertura do 1º turno do Rio Carta.
+
+Com a decisão desta quinta, o 2º turno pelo governo do Rio não acontece mais.

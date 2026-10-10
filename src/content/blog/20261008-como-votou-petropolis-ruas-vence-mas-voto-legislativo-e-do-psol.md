@@ -19,7 +19,9 @@ O voto legislativo, porém, desenhou outra cidade. Os votos nominais mais altos 
 
 Para deputado federal, Júlia Casamasso (PSOL) teve o maior voto nominal da cidade, com 11.307 votos, seguida de perto por Rubens Bomtempo (PT), com 11.200, e Bernardo Rossi (União), com 9.931.
 
-Na Assembleia Legislativa, o PSOL dominou com folga. Yuri Moura recebeu 29.506 votos nominais em Petrópolis, quase o dobro de Octavio Sampaio (PL), segundo colocado com 19.112. Dudu (DC) veio em terceiro, com 9.834.
+Na Assembleia Legislativa, o PSOL dominou com folga. Yuri Moura recebeu 29.506 votos nominais em Petrópolis, quase o dobro de Octavio Sampaio (PL), segundo colocado com 19.112.
+
+Dudu (DC) veio em terceiro, com 9.834.
 
 A cidade concentra uma tradição de votação progressista nas casas legislativas que não se traduz, desde 2018, no voto majoritário estadual.
 

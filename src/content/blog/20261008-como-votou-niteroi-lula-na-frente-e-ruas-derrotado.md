@@ -13,11 +13,15 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-Lula venceu em 9 das 92 cidades do Rio de Janeiro. Niterói foi uma delas, e a maior. Na disputa presidencial, o presidente fez 48,35% contra 43,71% de Flávio Bolsonaro na totalização oficial do 1º turno, num estado que deu à direita 53,01%.
+Lula venceu em 9 das 92 cidades do Rio de Janeiro. Niterói foi uma delas, e a maior.
+
+Na disputa presidencial, o presidente fez 48,35% contra 43,71% de Flávio Bolsonaro na totalização oficial do 1º turno, num estado que deu à direita 53,01%.
 
 No governo do estado, a contracorrente se repetiu, e foi a única grande cidade fora da capital onde Douglas Ruas foi derrotado. Eduardo Paes (PSD) fez 148.902 votos válidos, 50,61%, contra 127.926 de Ruas (PL), 43,48%, num universo de 294.202 válidos.
 
-Niterói integra o grupo das 13 cidades vencidas por Paes, a capital é a maior delas. Ainda assim, Ruas foi eleito no 1º turno do estado. Com a anulação dos 274.411 votos de Garotinho pelo TSE, nesta quinta-feira (8), o candidato do PL fechou o Rio com 50,88% dos válidos, e o 2º turno marcado para 25 de outubro foi cancelado.
+Niterói integra o grupo das 13 cidades vencidas por Paes, a capital é a maior delas. Ainda assim, Ruas foi eleito no 1º turno do estado.
+
+Com a anulação dos 274.411 votos de Garotinho pelo TSE, nesta quinta-feira (8), o candidato do PL fechou o Rio com 50,88% dos válidos, e o 2º turno marcado para 25 de outubro foi cancelado.
 
 A aritmética que elegeu Ruas passou longe de Niterói. A cidade entregou a Paes uma vantagem de 20.976 votos, absorvida pelo colchão da Baixada Fluminense (309.109) e de São Gonçalo (114.731).
 
