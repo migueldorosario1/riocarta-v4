@@ -1,6 +1,6 @@
 ---
 title: "Em Duque de Caxias, a onda quase tropeçou e a cidade que mais votou foi a que mais dividiu"
-description: "A disputa mais apertada do estado entre os grandes colégios. Ruas fez 51,26% contra 44,18% de Paes, sete pontos de diferença. E a menor abstenção do Rio, 17,98%."
+description: "A disputa mais apertada do estado entre os grandes colégios. Ruas fez 51,26% contra 44,18% de Paes, sete pontos de diferença. E a abstenção mais baixa entre as grandes cidades do Rio, 17,98%."
 pubDate: "2026-10-09"
 heroImage: "/hero/resultado-eleicoes-rio-2026.jpg"
 hero_credit: "Joe Hall from Takoma Park, MD, USA, Wikimedia Commons, CC BY 2.0"
