@@ -21,9 +21,9 @@ Carlos Portinho fez 4.264.932 votos e foi o primeiro colocado em 85 dos 92 munic
 
 Benedita terminou em terceiro, a 691.640 votos de Jordy. A distância para Portinho chegou a 1.044.167 votos.
 
-Juntos, os dois eleitos do PL somaram 8.177.337 votos, 51,35% dos 15.923.657 votos nominais dados a candidatos ao Senado no estado.
+Juntos, os dois eleitos do PL somaram 8.177.337 votos, 51,35% dos 15.923.657 votos nominais válidos dados a candidatos ao Senado no estado.
 
-Os adversários dividiram o resto. Benedita, Pedro Paulo (PSD), com 1.904.352 votos, e Mônica Benício (PSOL), com 1.538.444, chegaram a 6.663.561 votos, ou 41,85% do total nominal.
+Os adversários dividiram o resto. Benedita, Pedro Paulo (PSD), com 1.904.352 votos, e Mônica Benício (PSOL), com 1.538.444, chegaram a 6.663.561 votos, ou 41,85% do total nominal válido.
 
 A candidata do PT venceu em seis municípios. Niterói, Valença, Miracema, Laje do Muriaé, Conceição de Macabu e Rio das Flores deram a ela o primeiro lugar.
 
