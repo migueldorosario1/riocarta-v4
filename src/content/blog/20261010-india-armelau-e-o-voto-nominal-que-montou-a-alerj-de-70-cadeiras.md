@@ -1,6 +1,6 @@
 ---
 title: "Índia Armelau leva 248 mil votos à Alerj, e o PL monta bancada de 21 entre os 70 eleitos"
-description: "A deputada mais votada do estado concentrou 58,6% dos votos na capital, e Canella superou o governador eleito em Belford Roxo. Dos 70 eleitos, 36 têm base no Rio."
+description: "A deputada mais votada do estado concentrou 58,6% dos votos na capital, e Canella superou o governador eleito em Belford Roxo. Dos 70 eleitos, 36 tiveram na capital sua cidade mais votada."
 pubDate: "2026-10-10"
 heroImage: "/hero/alerj-hemiciclo-palacio-tiradentes.jpg"
 hero_credit: "Wilfredor, Wikimedia Commons, CC0"
@@ -21,13 +21,13 @@ Canella ergueu seus 197.178 votos no chão de Belford Roxo, onde somou 133.956, 
 
 Renata Souza (PSOL), terceira com 176.871 votos, e Dani Balbi (PCdoB), quarta com 169.474, também devem o mandato sobretudo à capital. Renata concentra 67,8% dos votos no Rio, e Balbi, 62,6%.
 
-Entre os cinco primeiros, quem menos depende de uma cidade só é Guilherme Delaroli (PL), com 166.374 votos, dos quais apenas 31,4% vieram de Itaboraí. Rosenverg Reis (MDB) faz o caminho inverso, com 64,6% dos seus 139.866 votos em Duque de Caxias.
+Entre os cinco primeiros, quem menos depende de uma cidade só é Guilherme Delaroli (PL), com 166.374 votos, dos quais 31,4% vieram de Itaboraí. Rosenverg Reis (MDB) faz o caminho inverso, com 64,6% dos seus 139.866 votos em Duque de Caxias.
 
 A soma dos votos pessoais produziu uma Assembleia de 70 cadeiras com o PL à frente, dono de 21. PT e PSD empatam na segunda posição, com 9 cada.
 
 Dos 70 eleitos, 59 garantiram a vaga pelo quociente partidário e 11 pela média.
 
-A capital elegeu 36 dos 70 deputados estaduais, mais do que todos os demais municípios do estado somados.
+Em 36 dos 70 eleitos, a cidade mais votada foi a capital. Os outros 34 se espalham pelos demais 91 municípios.
 
 Bases médias também levaram cadeira. Dra. Gabriela (PL) fez 53,1% dos seus 96.267 votos em Cabo Frio, e Felipinho Ravis (PP) concentrou 64,6% dos 93.606 em Nova Iguaçu.
 

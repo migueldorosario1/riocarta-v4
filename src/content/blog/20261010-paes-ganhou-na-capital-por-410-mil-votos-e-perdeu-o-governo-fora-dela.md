@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-Eduardo Paes (PSD) fez 1.730.683 votos na cidade do Rio de Janeiro, 53,50% dos válidos, contra 1.319.722 de Douglas Ruas (PL). É a maior margem contra Ruas entre os 13 municípios em que ele ficou atrás.
+Eduardo Paes (PSD) fez 1.730.683 votos na cidade do Rio de Janeiro, 53,50% dos válidos, contra 1.319.722 de Douglas Ruas (PL). É a maior diferença de votos contra Ruas entre os 13 municípios em que Paes ficou à frente.
 
 Descontada a capital, Ruas marcou 57,21% dos válidos contra 38,30% de Paes, uma vantagem de 975.176 votos. No cômputo estadual, com os 274.411 votos de Garotinho anulados pelo TSE, Ruas fechou em 50,88% e foi eleito no 1º turno.
 
@@ -25,6 +25,6 @@ A capital também ficou em casa mais que quase todo o estado, com 26,16% de abst
 
 Para a Câmara Federal, os mais votados na cidade foram Rick Azevedo (PSOL), com 106.678 votos, e Freixo (PT), com 101.700. Para a Assembleia Legislativa, a campeã de votos na capital foi Índia Armelau (PL), o partido de Ruas, com 145.509.
 
-Dos 12.842.517 eleitores aptos do Rio de Janeiro, 4.942.710 votam na capital. O governador eleito no 1º turno saiu dos 7.899.807 restantes.
+Dos 12.842.517 eleitores aptos do Rio de Janeiro, 4.942.710 votam na capital. Os 7.899.807 restantes, espalhados pelos outros 91 municípios, decidiram a eleição no 1º turno.
 
 Números do TSE, votação nominal por município e zona e detalhe por zona, arquivo de 08/10/2026.
