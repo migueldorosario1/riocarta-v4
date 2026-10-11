@@ -17,15 +17,15 @@ A cidade imperial da serra seguiu a maioria fluminense no governo. Douglas Ruas 
 
 O voto legislativo, porém, desenhou outra cidade. Os votos nominais mais altos para a Câmara e para a Alerj saíram do PSOL, não do PL.
 
-Para deputado federal, Júlia Casamasso (PSOL) teve o maior voto nominal da cidade, com 11.307 votos, seguida de perto por Rubens Bomtempo (PT), com 11.200, e Bernardo Rossi (União), com 9.931.
+Para deputado federal, Júlia Casamasso (PSOL) teve o maior voto nominal da cidade, com 11.307 votos, seguida de perto por Rubens Bomtempo (PT), com 11.200, e Bernardo Rossi (União), com 9.931. Os três ficaram suplentes.
 
 Na Assembleia Legislativa, o PSOL dominou com folga. Yuri Moura recebeu 29.506 votos nominais em Petrópolis, 10.394 à frente de Octavio Sampaio (PL), o segundo colocado com 19.112.
 
-Dudu (DC) veio em terceiro, com 9.834.
+Dudu (DC) veio em terceiro, com 9.834. Yuri Moura foi eleito deputado estadual por média, e os dois seguintes ficaram suplentes.
 
 O PSOL que lidera o voto legislativo local ficou em terceiro lugar na disputa pelo governo do estado. William Siri somou 235.347 votos, 2,80% dos válidos fluminenses.
 
-Ruas foi eleito governador no 1º turno depois que o TSE anulou, nesta quinta-feira (8), os 274.411 votos de Garotinho. Com o recálculo, o candidato do PL fechou o estado em 50,88% dos válidos, e o 2º turno de 25 de outubro pelo governo do Rio foi cancelado.
+Ruas foi eleito governador no 1º turno depois que o TSE anulou, na quinta-feira (8), os 274.411 votos de Garotinho. Com o recálculo, o candidato do PL fechou o estado em 50,88% dos válidos, e o 2º turno de 25 de outubro pelo governo do Rio foi cancelado.
 
 Em Petrópolis, a abstenção ficou em 24,19%. Compareceram 181.425 dos 239.323 eleitores aptos, acima da média do estado (23,33%), mas abaixo da capital (26,16%).
 

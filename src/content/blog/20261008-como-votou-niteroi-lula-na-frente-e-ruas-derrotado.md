@@ -1,6 +1,6 @@
 ---
 title: "Niterói, a grande cidade que fugiu da onda, dá vitória a Lula e derrota a Ruas"
-description: "Niterói foi uma das 9 cidades de 92 onde Lula venceu (48,35% a 43,71%) e a única grande cidade fora da capital onde Douglas Ruas perdeu. Paes fez 50,61% dos válidos."
+description: "Niterói foi uma das 9 cidades de 92 onde Lula venceu (48,35% a 43,71%) e a única com mais de 200 mil aptos fora da capital onde Douglas Ruas perdeu. Paes fez 50,61% dos válidos."
 pubDate: "2026-10-08"
 heroImage: "/hero/resultado-eleicoes-rio-2026.jpg"
 hero_credit: "Joe Hall from Takoma Park, MD, USA, Wikimedia Commons, CC BY 2.0"
@@ -17,7 +17,7 @@ Lula venceu em 9 das 92 cidades do Rio de Janeiro. Niterói foi uma delas, e a m
 
 Na disputa presidencial, o presidente fez 48,35% contra 43,71% de Flávio Bolsonaro na totalização oficial do 1º turno, num estado que deu à direita 53,01%.
 
-No governo do estado, a contracorrente se repetiu. Niterói foi a única grande cidade fora da capital onde Douglas Ruas foi derrotado.
+No governo do estado, a contracorrente se repetiu. Entre as cidades com mais de 200 mil eleitores aptos, Niterói foi a única fora da capital onde Douglas Ruas foi derrotado.
 
 Eduardo Paes (PSD) fez 148.902 votos válidos, 50,61%, contra 127.926 de Ruas (PL), 43,48%, num universo de 294.202 válidos.
 
@@ -29,9 +29,9 @@ A aritmética que elegeu Ruas passou longe de Niterói. A cidade entregou a Paes
 
 Para a Câmara Federal, o maior voto nominal da cidade foi de Douglas Gomes (PL), com 46.710, seguido de Talíria Petrone (PSOL), com 19.813, e Vitor Junior (PDT), com 14.784.
 
-Na Assembleia Legislativa, Fernanda Neves (PDT) liderou com 39.715 votos, à frente de Daniel Marques (PL, 25.288) e Verônica Lima (PT, 21.724).
+Na Assembleia Legislativa, Fernanda Neves (PDT) liderou com 39.715 votos, à frente de Daniel Marques (PL, 25.288) e Verônica Lima (PT, 21.724). Fernanda Neves e Verônica Lima foram eleitas por quociente partidário, e Daniel Marques, por média.
 
-O arquivo oficial ainda não marca os eleitos por cadeira. Os números são os votos nominais válidos na cidade.
+Douglas Gomes foi eleito deputado federal por média, e Talíria Petrone, por quociente partidário. Vitor Junior ficou suplente, e os números acima são os votos nominais válidos na cidade.
 
 Niterói teve abstenção de 19,65%, a terceira menor entre os dez municípios com mais de 200 mil aptos, atrás apenas de Duque de Caxias (17,98%) e São João de Meriti (18,63%). Compareceram 330.359 dos 411.131 eleitores aptos, contra 23,33% de média no estado.
 
