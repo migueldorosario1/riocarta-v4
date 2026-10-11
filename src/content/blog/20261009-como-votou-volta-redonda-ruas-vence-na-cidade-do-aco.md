@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-A cidade que nasceu em torno da Companhia Siderúrgica Nacional escolheu Douglas Ruas (PL) para governador. Em Volta Redonda, a Cidade do Aço, a vitória veio com folga.
+A cidade que nasceu em torno da Companhia Siderúrgica Nacional escolheu Douglas Ruas (PL) para governador. Em Volta Redonda, a vitória veio com folga.
 
 Foram 75.422 votos válidos, 52,16%, contra 59.578 de Eduardo Paes (PSD), 41,20%, num universo de 144.602 válidos.
 
@@ -21,11 +21,11 @@ O placar acompanhou o estado, mas com vantagem menor que a da Baixada (56,26%) e
 
 Ruas foi eleito no 1º turno depois que o TSE anulou, na quinta-feira (8), os 274.411 votos de Garotinho por 5 votos a 2. Com o recálculo, o candidato do PL fechou o Rio em 50,88% dos válidos, e o 2º turno de 25 de outubro pelo governo do estado foi cancelado.
 
-Para a Câmara Federal, o voto nominal mais alto da cidade foi de Delegado Antonio Furtado (PL), com 17.587 votos, seguido de Coronel Henrique (Avante), com 14.770, e Lindbergh (PT), com 8.933.
+Para a Câmara Federal, o voto nominal mais alto da cidade foi de Delegado Antonio Furtado (PL), com 17.587 votos, seguido de Coronel Henrique (Avante), com 14.770, e Lindbergh (PT), com 8.933. Lindbergh foi eleito por quociente partidário, Furtado ficou suplente e Coronel Henrique, não eleito.
 
 Na Assembleia Legislativa, a força local tem nome. Munir Neto (Solidariedade) recebeu 36.485 votos nominais em Volta Redonda, mais de 10 mil à frente de Jari (PSB), segundo com 26.024.
 
-Raone Ferreira (PT) veio em terceiro, com 14.721. O arquivo oficial ainda não marca os eleitos por cadeira, e os números são os votos nominais válidos na cidade.
+Raone Ferreira (PT) veio em terceiro, com 14.721. Munir Neto e Jari foram eleitos por quociente partidário, e Raone, por média.
 
 Volta Redonda teve abstenção de 22,34%. Compareceram 172.176 dos 221.697 eleitores aptos, abaixo da média estadual de 23,33% e distante dos 26,16% da capital.
 
