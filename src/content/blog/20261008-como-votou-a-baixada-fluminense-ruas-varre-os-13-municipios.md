@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-309.109 votos. Essa foi a folga que a Baixada Fluminense entregou a Douglas Ruas sobre Eduardo Paes na disputa pelo governo do Rio, o maior colchão regional do estado, suficiente para pagar, sozinha, três quartos do déficit do vencedor na capital.
+309.109 votos. Essa foi a folga que a Baixada Fluminense entregou a Douglas Ruas sobre Eduardo Paes na disputa pelo governo do Rio, suficiente para pagar, sozinha, três quartos do déficit do vencedor na capital.
 
 Nos 13 municípios da região, Ruas (PL) somou 1.036.782 votos válidos, 56,26%, contra 727.673 de Paes (PSD), 39,48%, num universo de 1.842.987 válidos.
 
@@ -35,9 +35,9 @@ Somadas, as duas bases superam o déficit capitalino. O interior completou o res
 
 Para a Câmara Federal, o voto nominal mais alto da Baixada foi de Rueda (União), com 124.468 votos, seguido de Dr. Luizinho (PP), com 122.472, e Gutemberg Reis (MDB), com 111.319.
 
-Na Assembleia Legislativa, Márcio Canella (União) liderou com 178.493 votos na região, seguido de Rosenverg Reis (MDB, 105.114) e Felipinho Ravis (PP, 79.350). O arquivo oficial ainda não marca os eleitos por cadeira, e os números são os votos nominais válidos na região.
+Na Assembleia Legislativa, Márcio Canella (União) liderou com 178.493 votos na região, seguido de Rosenverg Reis (MDB, 105.114) e Felipinho Ravis (PP, 79.350). Os seis citados, três em cada casa, foram eleitos por quociente partidário.
 
-A Baixada teve a menor taxa de abstenção entre os grandes blocos do estado. A taxa ficou em 20,49%, contra 23,33% do Rio inteiro e 26,16% da capital.
+A abstenção da Baixada ficou em 20,49%, abaixo dos 23,33% do estado e dos 26,16% da capital.
 
 Compareceram 2.237.848 dos 2.814.386 eleitores aptos da região.
 
