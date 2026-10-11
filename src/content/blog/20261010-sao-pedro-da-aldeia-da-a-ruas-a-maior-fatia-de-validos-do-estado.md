@@ -17,13 +17,13 @@ A maior fatia de votos válidos de Douglas Ruas (PL) no estado saiu das urnas de
 
 A conta fecha em 35.774 votos para o governador eleito. São 71,84% dos 49.796 válidos da cidade, quase três vezes os 12.227 de Eduardo Paes (PSD), 24,55%.
 
-O segundo lugar do ranking é Araruama, com 68,43%, seguida de Saquarema (68,28%) e Itaperuna (67,36%). A distância de São Pedro da Aldeia para Araruama é de 3,41 pontos percentuais.
+O segundo lugar do ranking é São José do Vale do Rio Preto, com 71,40%, seguido de Italva (70,86%) e São José de Ubá (69,58%). A distância de São Pedro da Aldeia para o vice do ranking é de 0,44 ponto percentual.
 
 A cidade levou 58.500 eleitores às urnas entre 74.910 aptos. A abstenção de 21,91% ficou abaixo da média estadual de 23,33%.
 
 No Senado, a conta foi quase um empate. Portinho (PL) fez 34.755 votos nominais contra 33.195 de Jordy (PL), e Benedita da Silva (PT) somou 12.176, menos da metade do líder.
 
-Na Câmara Federal, o voto nominal mais alto da cidade foi de Manoela Peres (PL), com 5.826 votos, 11,09% do total nominal local. Na Alerj, Dra. Gabriela (PL) levou 10.210, 20,21%, mais que o dobro de Vantoil Martins (PSB), o segundo com 4.344.
+Na Câmara Federal, o voto nominal mais alto da cidade foi de Manoela Peres (PL), com 5.826 votos, 11,02% dos válidos locais para o cargo. Na Alerj, Dra. Gabriela (PL) levou 10.210, 19,72%, mais que o dobro de Vantoil Martins (PSB), o segundo com 4.344.
 
 São Pedro da Aldeia foi fundada em 16 de maio de 1617, há 409 anos, às margens da Lagoa de Araruama. Fica a 135 km da capital e tem 104.029 moradores pelo Censo de 2022.
 
