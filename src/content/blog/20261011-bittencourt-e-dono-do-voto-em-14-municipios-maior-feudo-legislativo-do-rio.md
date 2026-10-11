@@ -23,7 +23,7 @@ No extremo oposto do mapa está a capital. Na cidade do Rio de Janeiro, a primei
 
 Depois de Bittencourt, quatro candidatos empatam com cinco municípios cada, André Correa, Bruno Boaretto, Gustavo Tutuca e Dra. Gabriela. Ao todo, 54 nomes diferentes lideram o voto para deputado estadual em algum ponto do estado.
 
-Tamanho de território não significa densidade de voto. André Correa fez 58,7% dos nominais de Valença, o reduto mais concentrado do mapa, logo à frente dos 58,5% de Márcio Canella em Belford Roxo.
+Tamanho de território não significa densidade de voto. André Correa fez 58,7% dos nominais de Valença, o reduto mais concentrado do mapa, logo à frente dos 58,6% de Márcio Canella em Belford Roxo.
 
 Em 31 dos 92 municípios, o mais votado para deputado estadual não ganhou cadeira. São candidatos que terminaram suplentes ou não eleitos na apuração de 4 de outubro.
 

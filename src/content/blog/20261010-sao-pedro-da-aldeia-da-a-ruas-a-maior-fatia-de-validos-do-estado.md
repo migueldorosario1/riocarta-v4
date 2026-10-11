@@ -23,7 +23,7 @@ A cidade levou 58.500 eleitores às urnas entre 74.910 aptos. A abstenção de 2
 
 No Senado, a conta foi quase um empate. Portinho (PL) fez 34.755 votos nominais contra 33.195 de Jordy (PL), e Benedita da Silva (PT) somou 12.176, menos da metade do líder.
 
-Na Câmara Federal, o voto nominal mais alto da cidade foi de Manoela Peres (PL), com 5.826 votos, 11,02% dos válidos locais para o cargo. Na Alerj, Dra. Gabriela (PL) levou 10.210, 19,72%, mais que o dobro de Vantoil Martins (PSB), o segundo com 4.344.
+Na Câmara Federal, o voto nominal mais alto da cidade foi de Manoela Peres (PL), com 5.826 votos, 11,09% dos nominais válidos locais para o cargo. Na Alerj, Dra. Gabriela (PL) levou 10.210, 20,21%, mais que o dobro de Vantoil Martins (PSB), o segundo com 4.344.
 
 São Pedro da Aldeia foi fundada em 16 de maio de 1617, há 409 anos, às margens da Lagoa de Araruama. Fica a 135 km da capital e tem 104.029 moradores pelo Censo de 2022.
 
