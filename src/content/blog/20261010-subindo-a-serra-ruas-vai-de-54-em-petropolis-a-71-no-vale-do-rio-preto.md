@@ -5,7 +5,7 @@ pubDate: "2026-10-10"
 heroImage: "/hero/serra-dos-orgaos-dedo-de-deus.jpg"
 hero_credit: "Thadeusz Jucá, Wikimedia Commons, CC BY-SA 4.0"
 hero_legenda: "Dedo de Deus, na Serra dos Órgãos, acima de Teresópolis"
-source_name: "TSE, votação nominal por município e zona (arquivo de 08/10/2026, retotalizado após a anulação dos votos de Garotinho) e detalhe da apuração por zona"
+source_name: "TSE, votação nominal por município e zona e detalhe da apuração por zona, arquivo de 08/10/2026"
 source_url: "https://dadosabertos.tse.jus.br/dataset/resultados-2026"
 tags: ["eleições 2026", "como votou o rio", "região serrana", "petrópolis", "nova friburgo"]
 lang: "pt-br"
@@ -29,8 +29,9 @@ A Alerj em Teresópolis se decidiu por 686 votos. Cláudia Vasconcellos (PSD) so
 
 A última parada é Nova Friburgo, 155.248 aptos e a colônia suíça da serra. Ruas venceu com 56,66% dos válidos, enquanto o federal da cidade foi de Luiz Lima (NOVO), com 13.564 votos.
 
-Somadas, as cinco paradas deram a Ruas 205.740 votos, 57,80% dos válidos retotalizados sem os anulados de Garotinho. É quase sete pontos acima dos 50,88% que o elegeram governador no 1º turno.
+Somadas, as cinco paradas deram a Ruas 205.740 votos, 57,80% dos válidos. É quase sete pontos acima dos 50,88% que o elegeram governador no 1º turno.
 
 No governo, as cinco marcharam juntas. No voto nominal, cada uma escolheu seu próprio dono.
 
-Números do TSE por município e zona, arquivo de 08/10/2026, retotalizados após a anulação dos votos de Garotinho.
+Números do TSE por município e zona, arquivo de 08/10/2026.
+
