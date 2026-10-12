@@ -27,13 +27,13 @@ Os adversários dividiram o resto. Benedita, Pedro Paulo (PSD), com 1.904.352 vo
 
 A candidata do PT venceu em seis municípios. Niterói, Valença, Miracema, Laje do Muriaé, Conceição de Macabu e Rio das Flores deram a ela o primeiro lugar.
 
-Em Niterói foram 144.825 votos, à frente de Jordy e de Portinho. Os dois ficaram separados ali por 409 votos.
+Em Niterói foram 144.825 votos, à frente de Jordy e de Portinho. Os dois ficaram separados ali por 409 votos, com Jordy à frente.
 
 Na capital, Benedita foi a segunda colocada com 1.367.259 votos, 96.102 a mais que Jordy. A diferença que o elegeu, de 787.742 votos, foi construída fora dela.
 
 O Senado completa o quadro do PL no comando do Rio. Douglas Ruas (PL) foi eleito governador no 1º turno, com 50,88% dos válidos, depois que o TSE anulou os votos de Garotinho.
 
-Carapebus foi o único município onde Jordy superou Portinho. Nos outros 91, o primeiro lugar foi de Portinho em 85 e de Benedita em seis.
+Carapebus foi o único município onde Jordy terminou em primeiro lugar. Nos outros 91, o primeiro lugar foi de Portinho em 85 e de Benedita em seis.
 
 Os 691.640 votos que separaram Benedita da segunda vaga superam toda a votação de Marcelo Crivella no estado. O candidato do Republicanos ficou com 539.598.
 
