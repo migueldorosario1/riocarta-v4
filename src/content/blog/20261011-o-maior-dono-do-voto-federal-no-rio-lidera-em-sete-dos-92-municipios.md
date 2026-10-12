@@ -31,7 +31,7 @@ Na capital, ninguém é dono. Rick Azevedo (PSOL) foi o líder com 106.678 votos
 
 O PSDB lidera em 13 municípios com oito deputados, e o PP em dez com quatro. Solidariedade, PSD e União completam o topo, com sete, seis e cinco cidades.
 
-Na Assembleia Legislativa, o maior feudo individual é o dobro do federal. Jair Bittencourt (PP) é o mais votado em 14 municípios do Noroeste e do Norte, contra os sete de Áureo.
+Na Assembleia Legislativa, o maior feudo individual é o dobro do federal. Jair Bittencourt (PL) é o mais votado em 14 municípios do Noroeste e do Norte, contra os sete de Áureo.
 
 O topo estadual também é mais concentrado. Bittencourt fez 46,65% dos válidos de Itaperuna, enquanto o pico de Áureo em Mendes foi de 28,6%.
 
