@@ -2,7 +2,7 @@
 title: "O PT foi o partido que mais rendeu voto na Alerj, 9 cadeiras com 9% dos válidos"
 description: "A conta partidária de 2026 dá ao PL a maior bancada das duas casas, 21 das 70 cadeiras da Alerj e 15 das 46 da Câmara. Os 38% dos votos válidos para deputado estadual que não elegeram ninguém completam o quadro."
 pubDate: "2026-10-11"
-heroImage: "/hero/palacio-tiradentes-alerj.jpg"
+heroImage: "/hero/palacio-tiradentes-fachada-alerj.jpg"
 hero_credit: "Halleypo, Wikimedia Commons, CC BY-SA 3.0"
 hero_legenda: "O Palácio Tiradentes, no centro do Rio, sede da Assembleia Legislativa do estado"
 source_name: "TSE, votação nominal por município e zona, arquivo de 08/10/2026, coluna de votos nominais válidos"
