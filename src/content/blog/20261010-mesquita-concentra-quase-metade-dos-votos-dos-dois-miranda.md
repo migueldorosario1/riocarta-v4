@@ -21,11 +21,11 @@ Duas zonas eleitorais, a 83 e a 150, serviram 136.269 eleitores aptos no domingo
 
 Para governador, Ruas fez 53.341 votos na cidade, 58,26% dos válidos, contra 34.666 de Eduardo Paes (PSD), 37,86%. A diferença entre os dois foi de 18.675 votos.
 
-O dono do voto federal em Mesquita governou a cidade por oito anos. Jorge Miranda (PL), prefeito de 2017 a 2024 e reeleito em 2020 com 78,63% dos votos válidos, fez na cidade 32.844 votos para a Câmara, 35,51% dos nominais.
+O dono do voto federal em Mesquita governou a cidade por oito anos. Jorge Miranda (PL), prefeito de 2017 a 2024 e reeleito em 2020 com 78,63% dos votos válidos, fez na cidade 32.844 votos para a Câmara, 35,51% dos nominais válidos.
 
 É quase quatro vezes o segundo colocado, Dr. Luizinho (PP), com 8.598 votos. A concentração é a oitava maior entre os 92 municípios do estado para a Câmara Federal.
 
-Na Assembleia Legislativa, o dono do voto é irmão dele. Renato Miranda (PL) fez 27.537 votos em Mesquita, 30,86% dos nominais, quase o triplo de Diogo Talento (PRD), com 9.899.
+Na Assembleia Legislativa, o dono do voto é irmão dele. Renato Miranda (PL) fez 27.537 votos em Mesquita, 30,86% dos nominais válidos, quase o triplo de Diogo Talento (PRD), com 9.899.
 
 Mesquita sustenta os dois irmãos. Dos 67.298 votos de Jorge no estado, 48,8% saíram da cidade, e dos 56.329 de Renato, 48,9%.
 
