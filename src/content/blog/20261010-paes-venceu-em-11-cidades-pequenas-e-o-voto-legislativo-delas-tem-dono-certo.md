@@ -21,7 +21,7 @@ No estado, o movimento foi inverso e 51 vezes maior. Ruas fechou a apuração co
 
 Depois de Carmo vieram Conceição de Macabu, com 178 votos de margem, e Porciúncula, com 305. Três Rios e Rio Claro empataram em 457.
 
-Na outra ponta do bolso, Valença deu a Paes 5.662 votos de frente, a maior margem do grupo. Comendador Levy Gasparian veio em seguida, com 1.126.
+Na outra ponta do bolso, Valença deu a Paes 5.662 votos de frente, a maior margem do grupo. Comendador Levy Gasparian marcou 1.126.
 
 O voto legislativo contou outra história nessas cidades. Em Miracema, Porciúncula e Laje do Muriaé, o nome mais votado para a Alerj foi Jair Bittencourt, do PL de Ruas, que garantiu a cadeira por quociente partidário.
 
@@ -29,7 +29,7 @@ Em Carmo, o topo da Alerj foi Bruno Boaretto, também do PL, que ficou suplente.
 
 Valença e Rio das Flores têm o mesmo dono na Assembleia. André Correa (PSD) liderou nas duas e entrou por quociente partidário, com 31,4% dos votos dele no estado vindos de Valença.
 
-Três Rios e Conceição de Macabu concentraram os votos de dois nomes que ficaram fora das cadeiras. Professora Lívia Medeiros (Podemos) fez 75,3% dos votos dela em Três Rios, e Pedro Henrique (PDT), 71,2% em Conceição de Macabu.
+Em duas delas, o grosso do voto foi para candidatos que ficaram fora das cadeiras. Professora Lívia Medeiros (Podemos) fez 75,3% dos votos dela em Três Rios, e Pedro Henrique (PDT), 71,2% em Conceição de Macabu.
 
 O bolso não mudou o mapa do estado. Ruas foi eleito governador com 50,88% dos válidos, e as 11 cidades pequenas ficaram como exceção nele.
 
