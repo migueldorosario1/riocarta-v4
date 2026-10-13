@@ -15,7 +15,9 @@ draft: false
 
 Um milhão e quarenta e quatro mil votos. Essa foi a distância entre Benedita da Silva e a cadeira de senadora do Rio de Janeiro.
 
-Carlos Jordy (PL) fechou o 1º turno com 3.912.405 votos nominais, a segunda das duas cadeiras em disputa. Benedita (PT) chegou a 3.220.765, em terceiro, e ficou de fora. Na frente dos dois, o mesmo partido, com Carlos Portinho e 4.264.932 votos.
+Carlos Jordy (PL) fechou o 1º turno com 3.912.405 votos nominais, a segunda das duas cadeiras em disputa. Benedita (PT) chegou a 3.220.765, em terceiro, e ficou de fora.
+
+Na frente dos dois, o mesmo partido, com Carlos Portinho e 4.264.932 votos.
 
 A onda que elegeu Douglas Ruas no 1º turno, depois que o TSE anulou os votos de Garotinho, varreu também as duas vagas do Senado. Pedro Paulo (PSD) somou 1.904.352 e Mônica Benício (PSOL), 1.538.444, atrás na fila.
 

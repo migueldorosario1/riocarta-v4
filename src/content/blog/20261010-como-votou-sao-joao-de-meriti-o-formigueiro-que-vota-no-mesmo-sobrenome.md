@@ -23,7 +23,7 @@ Para governador, Douglas Ruas (PL) levou 127.655 votos, 56,39% dos válidos da c
 
 No Senado, os dois eleitos do PL também passaram na frente, Carlos Portinho com 121.771 votos e Carlos Jordy com 112.468. Benedita da Silva (PT) somou 79.567, 18,72% dos válidos locais, e Pedro Paulo (PSD) ficou em 45.180.
 
-A votação legislativa tem dois nomes e um só sobrenome de registro, Luciano Vieira Mendes e Leonardo Braga Vieira Mendes. Luciano Vieira (PSDB) fez 50.353 votos para a Câmara Federal, e Léo Vieira Filho (PSDB) fez 51.262 para a Assembleia Legislativa, 23,08% dos válidos da cidade e 70,3% de tudo o que recebeu no estado.
+A votação legislativa tem dois nomes e um só sobrenome de registro, Luciano Vieira Mendes e Leonardo Braga Vieira Mendes. Luciano Vieira (PSDB) fez 50.353 votos para a Câmara Federal, e Léo Vieira Filho (PSDB) fez 51.262 para a Assembleia Legislativa, 23,08% dos válidos de Meriti e 70,3% de tudo o que recebeu no estado.
 
 O arquivo do TSE não informa parentesco entre os dois campeões de voto meritienses. Informa o partido, o mesmo PSDB que administra a prefeitura com Léo Vieira desde 2025.
 
