@@ -1,6 +1,6 @@
 ---
 title: "A conta que tirou Benedita do Senado e deu ao PL as duas cadeiras do Rio"
-description: "Faltaram 1.044.167 votos nominais a Benedita da Silva para alcançar Carlos Jordy, o segundo eleito. O PT venceu em apenas 6 das 92 cidades do estado."
+description: "Faltaram 691.640 votos nominais a Benedita da Silva para alcançar Carlos Jordy, o segundo eleito. O PT venceu em apenas 6 das 92 cidades do estado."
 pubDate: "2026-10-10"
 heroImage: "/hero/senado-congresso-nacional.jpg"
 hero_credit: "Senado Federal, Wikimedia Commons, CC BY 2.0"
@@ -13,7 +13,7 @@ author: "Redação Rio Carta"
 draft: false
 ---
 
-Um milhão e quarenta e quatro mil votos. Essa foi a distância entre Benedita da Silva e a cadeira de senadora do Rio de Janeiro.
+Seiscentos e noventa e um mil e seiscentos e quarenta votos. Essa foi a distância entre Benedita da Silva e a cadeira de senadora do Rio de Janeiro.
 
 Carlos Jordy (PL) fechou o 1º turno com 3.912.405 votos nominais, a segunda das duas cadeiras em disputa. Benedita (PT) chegou a 3.220.765, em terceiro, e ficou de fora.
 
