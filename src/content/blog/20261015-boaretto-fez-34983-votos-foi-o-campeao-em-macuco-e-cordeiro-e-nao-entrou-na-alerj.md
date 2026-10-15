@@ -23,7 +23,7 @@ O voto dele se concentrou num canto do mapa, entre a serra e o vale do Paraíba.
 
 Macuco deu a ele o melhor placar proporcional, 2.045 votos, 38,18% dos válidos da cidade. O segundo colocado, Engenheiro Uruan, ficou com 722 votos.
 
-Em Cordeiro veio a maior votação absoluta, 2.657 votos, 23,09% dos válidos. É o melhor resultado dele em qualquer cidade do estado.
+Em Cordeiro veio a maior votação absoluta entre as cidades que ele lidera, 2.657 votos, 23,09% dos válidos. A maior cifra dele numa cidade veio de fora do grupo, 3.355 votos em Nova Friburgo, onde ele terminou em quinto.
 
 Cantagalo deu 21,21% dos válidos. Welbert Pedro, o segundo na cidade, fez 1.238 votos.
 
