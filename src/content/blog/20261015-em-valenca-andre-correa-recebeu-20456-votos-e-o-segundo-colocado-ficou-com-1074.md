@@ -31,7 +31,7 @@ draft: false
 
 <p>A capital deu 7.038 votos, e Barra do Piraí, 4.097. O resto se espalha pela região.</p>
 
-<p>O companheiro de região Bruno Boaretto, líder em cidades vizinhas da serra, somou 53,7% dos votos dele e não entrou. Correa chega à Alerj com o maior domínio municipal da eleição.</p>
+<p>O companheiro de região Bruno Boaretto, líder em cidades vizinhas da serra, somou 53,7% da votação estadual de Correa e não entrou. Correa chega à Alerj com o maior domínio municipal da eleição.</p>
 
 <p>Em Valença, a disputa estadual teve dono declarado. O placar, dezenove vezes maior que o do segundo, não deixou dúvida.</p>
 
