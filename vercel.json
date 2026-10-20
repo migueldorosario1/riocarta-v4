@@ -2,35 +2,35 @@
   "rewrites": [
     {
       "source": "/admin",
-      "destination": "http://159.89.185.209:5000/admin"
+      "destination": "http://43-156-151-165.sslip.io/admin"
     },
     {
       "source": "/login",
-      "destination": "http://159.89.185.209:5000/login"
+      "destination": "http://43-156-151-165.sslip.io/login"
     },
     {
       "source": "/logout",
-      "destination": "http://159.89.185.209:5000/logout"
+      "destination": "http://43-156-151-165.sslip.io/logout"
     },
     {
       "source": "/drafts",
-      "destination": "http://159.89.185.209:5000/drafts"
+      "destination": "http://43-156-151-165.sslip.io/drafts"
     },
     {
       "source": "/edit/:slug*",
-      "destination": "http://159.89.185.209:5000/edit/:slug*"
+      "destination": "http://43-156-151-165.sslip.io/edit/:slug*"
     },
     {
       "source": "/upload_image",
-      "destination": "http://159.89.185.209:5000/upload_image"
+      "destination": "http://43-156-151-165.sslip.io/upload_image"
     },
     {
       "source": "/posts",
-      "destination": "http://159.89.185.209:5000/posts"
+      "destination": "http://43-156-151-165.sslip.io/posts"
     },
     {
       "source": "/delete/:slug*",
-      "destination": "http://159.89.185.209:5000/delete/:slug*"
+      "destination": "http://43-156-151-165.sslip.io/delete/:slug*"
     }
   ]
 }
