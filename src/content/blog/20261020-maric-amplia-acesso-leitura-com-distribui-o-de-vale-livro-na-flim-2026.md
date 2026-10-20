@@ -1,7 +1,7 @@
 ---
 title: "Maricá amplia acesso à leitura com distribuição de vale-livro na FLIM 2026"
 description: "Benefício será destinado a estudantes e profissionais da educação para a compra de livros durante a festa"
-pubDate: "2026-10-20T18:44:28Z"
+pubDate: "2026-10-20T18:44:32Z"
 tags: ["maric\u00e1", "cultura", "livros", "festa-liter\u00e1ria"]
 heroImage: "/hero/foto_elsson_campos.jpeg"
 hero_credit: "Colaborador Rio Carta"
