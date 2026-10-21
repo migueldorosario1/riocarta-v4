@@ -7,7 +7,7 @@ heroImage: "/hero/foto_elsson_campos.jpeg"
 hero_credit: "Colaborador Rio Carta"
 hero_license: "own"
 author: "Redação Rio Carta"
-categoria_macro: "Maricá"
+categoria_macro: servicos
 lang: "pt"
 ---
 
